@@ -1,0 +1,6 @@
+{
+  "name": "Genuine Egypte",
+  "description": "Official website of Genuine Egypte: private tours, luxury Nile cruises, Cairo and Luxor excursions, and private transfers across Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
