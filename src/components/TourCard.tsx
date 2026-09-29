@@ -8,32 +8,32 @@ interface TourCardProps {
   tour: TourItem;
 }
 
+const DEFAULT_FALLBACK_IMAGE = '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
+
 export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
   const [inquiryOpen, setInquiryOpen] = useState(false);
-  const [imgError, setImgError] = useState(false);
+  const [imgSrc, setImgSrc] = useState<string>(tour.mainImage || DEFAULT_FALLBACK_IMAGE);
 
   // Link to original booking URL slug
   const tourUrl = `/booking/${tour.slug}/`;
 
   return (
     <>
-      <article className="group flex flex-col bg-white border border-stone-200/90 rounded-lg overflow-hidden transition-all duration-200 hover:shadow-md hover:border-stone-300">
+      <article className="group flex flex-col bg-white dark:bg-stone-900 border border-stone-200/90 dark:border-stone-800 rounded-lg overflow-hidden transition-all duration-200 hover:shadow-md hover:border-stone-300 dark:hover:border-stone-700">
         {/* Card Image */}
-        <Link to={tourUrl} className="relative block aspect-[16/10] overflow-hidden bg-stone-100">
-          {!imgError && tour.mainImage ? (
-            <img
-              src={tour.mainImage}
-              alt={tour.title}
-              loading="lazy"
-              referrerPolicy="no-referrer"
-              onError={() => setImgError(true)}
-              className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
-            />
-          ) : (
-            <div className="w-full h-full flex items-center justify-center bg-stone-200 text-stone-400">
-              <span className="font-serif text-sm tracking-wider uppercase">Genuine Egypte</span>
-            </div>
-          )}
+        <Link to={tourUrl} className="relative block aspect-[16/10] overflow-hidden bg-stone-100 dark:bg-stone-800">
+          <img
+            src={imgSrc}
+            alt={tour.title}
+            loading="lazy"
+            referrerPolicy="no-referrer"
+            onError={() => {
+              if (imgSrc !== DEFAULT_FALLBACK_IMAGE) {
+                setImgSrc(DEFAULT_FALLBACK_IMAGE);
+              }
+            }}
+            className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
+          />
 
           {/* Subdued Category kicker */}
           <div className="absolute top-3 left-3 bg-[#181512]/80 backdrop-blur-xs text-amber-300/90 px-2.5 py-1 text-[11px] font-medium tracking-wide uppercase rounded-xs">
@@ -45,34 +45,34 @@ export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
         <div className="p-5 flex-1 flex flex-col justify-between space-y-4">
           <div className="space-y-2">
             {/* Unboxed Metadata with Typographic Separator (Zero-Pill Rule) */}
-            <div className="flex items-center gap-2 text-xs text-stone-500 font-medium">
-              <span className="flex items-center gap-1 text-stone-600">
-                <MapPin className="w-3.5 h-3.5 text-amber-700/80" />
+            <div className="flex items-center gap-2 text-xs text-stone-500 dark:text-stone-400 font-medium">
+              <span className="flex items-center gap-1 text-stone-600 dark:text-stone-300">
+                <MapPin className="w-3.5 h-3.5 text-amber-700/80 dark:text-amber-500/90" />
                 <span className="truncate max-w-[120px]">{tour.destination}</span>
               </span>
-              <span aria-hidden="true" className="text-stone-300">·</span>
-              <span className="flex items-center gap-1 text-stone-600">
-                <Clock className="w-3.5 h-3.5 text-amber-700/80" />
+              <span aria-hidden="true" className="text-stone-300 dark:text-stone-700">·</span>
+              <span className="flex items-center gap-1 text-stone-600 dark:text-stone-300">
+                <Clock className="w-3.5 h-3.5 text-amber-700/80 dark:text-amber-500/90" />
                 <span className="truncate max-w-[120px]">{tour.duration}</span>
               </span>
             </div>
 
             {/* Title */}
-            <h3 className="font-serif text-base font-bold text-stone-900 leading-snug line-clamp-2 group-hover:text-amber-800 transition-colors">
+            <h3 className="font-serif text-base font-bold text-stone-900 dark:text-stone-100 leading-snug line-clamp-2 group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
               <Link to={tourUrl}>{tour.title}</Link>
             </h3>
 
             {/* Short excerpt */}
-            <p className="text-xs text-stone-600 line-clamp-2 leading-relaxed">
+            <p className="text-xs text-stone-600 dark:text-stone-300 line-clamp-2 leading-relaxed">
               {tour.shortDescription}
             </p>
           </div>
 
           {/* Bottom Bar & Actions */}
-          <div className="pt-3 border-t border-stone-100 flex items-center justify-between gap-2">
+          <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between gap-2">
             <div>
-              <span className="block text-[11px] text-stone-400 uppercase tracking-wider">Pricing</span>
-              <span className="text-xs font-semibold text-stone-800">Custom Seasonal Rate</span>
+              <span className="block text-[11px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
+              <span className="text-xs font-semibold text-stone-800 dark:text-stone-200">Custom Seasonal Rate</span>
             </div>
 
             <div className="flex items-center gap-1.5 shrink-0">
@@ -82,7 +82,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
                   e.stopPropagation();
                   setInquiryOpen(true);
                 }}
-                className="p-1.5 text-stone-600 hover:text-emerald-700 hover:bg-emerald-50 rounded-md transition-colors"
+                className="p-1.5 text-stone-600 dark:text-stone-400 hover:text-emerald-700 dark:hover:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/60 rounded-md transition-colors"
                 title="Quick WhatsApp Inquiry"
                 aria-label="Quick WhatsApp Inquiry"
               >
@@ -91,7 +91,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
 
               <Link
                 to={tourUrl}
-                className="inline-flex items-center gap-1 text-xs font-semibold text-stone-900 hover:text-amber-800 transition-colors py-1 px-2.5 rounded-md hover:bg-stone-50"
+                className="inline-flex items-center gap-1 text-xs font-semibold text-stone-900 dark:text-stone-200 hover:text-amber-800 dark:hover:text-amber-400 transition-colors py-1 px-2.5 rounded-md hover:bg-stone-50 dark:hover:bg-stone-800"
               >
                 <span>Details</span>
                 <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5" />

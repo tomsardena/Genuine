@@ -5,10 +5,14 @@ export interface NavLink {
 }
 
 export const MAIN_NAV_LINKS: NavLink[] = [
-  { label: 'Tours & Excursions', href: '/tours' },
+  { label: 'All Tours', href: '/tours' },
   { label: 'Nile Cruises', href: '/nile-cruises' },
+  { label: 'Dahabiya', href: '/dahabiya-cruises' },
+  { label: 'Packages', href: '/egypt-packages' },
   { label: 'Cairo & Giza', href: '/cairo-giza-tours' },
   { label: 'Luxor & Valley', href: '/luxor-upper-egypt' },
+  { label: 'Aswan', href: '/aswan-tours' },
+  { label: 'Shore Excursions', href: '/shore-excursions' },
   { label: 'Transfers', href: '/private-transfers' },
   { label: 'Destinations', href: '/destinations' },
   { label: 'About', href: '/about' },
@@ -21,21 +25,26 @@ export const FOOTER_SECTIONS = [
     links: [
       { label: 'Royal Ruby Nile Cruise (4 Nights)', href: '/booking/royal-ruby-nile-cruise-4-nights-5-days/' },
       { label: 'Nile Premium Cruise Program', href: '/booking/nile-premium-nile-cruise-5-days-04-nights-program-every-monday/' },
+      { label: 'Princess Farida Luxury Dahabiya', href: '/cruise/princess-farida-luxury-dahabiya-nile-cruise/' },
+      { label: '7-Day Cairo & Nile Cruise by Flight', href: '/package/7-day-cairo-and-nile-cruise-by-flight/' },
       { label: 'Giza Pyramids & Sphinx Half Day', href: '/booking/giza-pyramids-and-the-sphinx-half-day-tour/' },
       { label: 'Sunrise Hot Air Balloon in Luxor', href: '/booking/sunrise-hot-air-balloon-ride-in-luxor/' },
-      { label: 'Abu Simbel UNESCO Excursion', href: '/booking/day-trip-to-abu-simbel-unesco-world-heritage-site-from-aswan/' },
-      { label: 'Dendera & Abydos Temples Tour', href: '/booking/from-luxor-to-dendera-abydos-full-day-tour-in-egypt/' }
+      { label: 'Abu Simbel UNESCO Excursion', href: '/booking/day-trip-to-abu-simbel-unesco-world-heritage-site-from-aswan/' }
     ]
   },
   {
     title: 'Tour Categories',
     links: [
-      { label: 'All Tours & Excursions', href: '/tours' },
-      { label: 'Nile River Cruises', href: '/nile-cruises' },
+      { label: 'All 297 Tours & Excursions', href: '/tours' },
+      { label: 'Luxury Nile River Cruises', href: '/nile-cruises' },
+      { label: 'Traditional Dahabiya Sailboats', href: '/dahabiya-cruises' },
+      { label: 'Lake Nasser Cruises', href: '/lake-nasser-cruises' },
+      { label: 'Egypt Vacation Packages', href: '/egypt-packages' },
       { label: 'Cairo & Giza Excursions', href: '/cairo-giza-tours' },
       { label: 'Luxor & Upper Egypt Tours', href: '/luxor-upper-egypt' },
-      { label: 'Private Airport & City Transfers', href: '/private-transfers' },
-      { label: 'Hot Air Balloon Adventures', href: '/hot-air-balloon' }
+      { label: 'Aswan & Nubian Excursions', href: '/aswan-tours' },
+      { label: 'Cruise Port Shore Excursions', href: '/shore-excursions' },
+      { label: 'Private Airport & Intercity Transfers', href: '/private-transfers' }
     ]
   },
   {

@@ -12,7 +12,7 @@ export const AboutPage: React.FC = () => {
         title="About Genuine Egypte – Our Story, Philosophy & Team"
         description="Learn about Genuine Egypte, an independent Luxor-based tour operator founded by certified Egyptologists dedicated to unhurried, authentic travel experiences across Egypt."
         canonicalPath="/about"
-        ogImage="/images/tours/genuine-egypte-19.webp"
+        ogImage="/images/tours/KOM-OMBO-1-1-1.webp"
       />
 
       <div className="bg-[#FAF8F5] min-h-screen py-8">

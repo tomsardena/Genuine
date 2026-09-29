@@ -3,6 +3,7 @@ import { Link, useRouter } from '../utils/router';
 import { SITE_SETTINGS } from '../data/siteSettings';
 import { Phone, MessageCircle, Menu, X, Mail, MapPin } from 'lucide-react';
 import { InquiryModal } from './InquiryModal';
+import { ThemeToggle } from '../utils/theme';
 
 export const Navbar: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -63,7 +64,7 @@ export const Navbar: React.FC = () => {
       </div>
 
       {/* Main Navigation Bar */}
-      <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-stone-200/80 transition-shadow">
+      <header className="sticky top-0 z-40 bg-white/95 dark:bg-[#161412]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 h-18 flex items-center justify-between gap-4">
           {/* Zone 1: Single element wordmark & logo */}
           <Link to="/" className="flex items-center gap-3 shrink-0 group">
@@ -77,17 +78,17 @@ export const Navbar: React.FC = () => {
               }}
             />
             <div className="flex flex-col">
-              <span className="font-serif text-lg font-bold tracking-tight text-stone-900 leading-none group-hover:text-amber-800 transition-colors">
+              <span className="font-serif text-lg font-bold tracking-tight text-stone-900 dark:text-stone-100 leading-none group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
                 Genuine Egypte
               </span>
-              <span className="text-[10px] tracking-widest text-amber-800/80 uppercase font-medium mt-0.5">
+              <span className="text-[10px] tracking-widest text-amber-800/80 dark:text-amber-400/90 uppercase font-medium mt-0.5">
                 Travel Agency & Art House
               </span>
             </div>
           </Link>
 
           {/* Zone 2: Navigation Links */}
-          <nav className="hidden lg:flex items-center gap-5 text-[13px] font-medium text-stone-600">
+          <nav className="hidden lg:flex items-center gap-5 text-[13px] font-medium text-stone-600 dark:text-stone-300">
             {navLinks.map((link) => {
               const isActive = currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href));
               return (
@@ -96,8 +97,8 @@ export const Navbar: React.FC = () => {
                   to={link.href}
                   className={`py-1 transition-colors whitespace-nowrap ${
                     isActive
-                      ? 'text-amber-800 font-semibold border-b-2 border-amber-700 -mb-[2px]'
-                      : 'hover:text-stone-900'
+                      ? 'text-amber-800 dark:text-amber-400 font-semibold border-b-2 border-amber-700 dark:border-amber-500 -mb-[2px]'
+                      : 'hover:text-stone-900 dark:hover:text-white'
                   }`}
                 >
                   {link.label}
@@ -106,21 +107,24 @@ export const Navbar: React.FC = () => {
             })}
           </nav>
 
-          {/* Zone 3: Primary Actions */}
-          <div className="flex items-center gap-2 sm:gap-3">
+          {/* Zone 3: Primary Actions & Theme Toggle */}
+          <div className="flex items-center gap-1.5 sm:gap-2.5">
+            {/* Theme Toggle Button */}
+            <ThemeToggle />
+
             <a
               href="https://wa.me/201033801083"
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden sm:inline-flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-emerald-800 bg-emerald-50 hover:bg-emerald-100 rounded-lg transition-colors border border-emerald-200/60 whitespace-nowrap"
+              className="hidden sm:inline-flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-emerald-800 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/60 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 rounded-lg transition-colors border border-emerald-200/60 dark:border-emerald-800/60 whitespace-nowrap"
             >
-              <MessageCircle className="w-3.5 h-3.5 fill-current text-emerald-600" />
+              <MessageCircle className="w-3.5 h-3.5 fill-current text-emerald-600 dark:text-emerald-400" />
               <span>WhatsApp</span>
             </a>
 
             <button
               onClick={() => setInquiryModalOpen(true)}
-              className="px-4 py-2 text-xs font-medium text-white bg-stone-900 hover:bg-amber-900 rounded-lg transition-colors whitespace-nowrap shadow-xs"
+              className="px-4 py-2 text-xs font-medium text-white bg-stone-900 dark:bg-amber-600 hover:bg-amber-900 dark:hover:bg-amber-500 rounded-lg transition-colors whitespace-nowrap shadow-xs"
             >
               Inquire Now
             </button>
@@ -128,7 +132,7 @@ export const Navbar: React.FC = () => {
             {/* Mobile Hamburger Button */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="lg:hidden p-2 text-stone-600 hover:text-stone-900 rounded-md focus:outline-none"
+              className="lg:hidden p-2 text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white rounded-md focus:outline-none"
               aria-label="Toggle navigation menu"
               aria-expanded={mobileMenuOpen}
             >
@@ -139,7 +143,7 @@ export const Navbar: React.FC = () => {
 
         {/* Mobile Dropdown Menu */}
         {mobileMenuOpen && (
-          <div className="lg:hidden bg-white border-b border-stone-200 px-5 py-4 shadow-lg animate-in slide-in-from-top-2 duration-150">
+          <div className="lg:hidden bg-white dark:bg-[#161412] border-b border-stone-200 dark:border-stone-800 px-5 py-4 shadow-lg animate-in slide-in-from-top-2 duration-150">
             <nav className="flex flex-col space-y-2.5">
               {navLinks.map((link) => {
                 const isActive = currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href));
@@ -148,8 +152,8 @@ export const Navbar: React.FC = () => {
                     key={link.href}
                     to={link.href}
                     onClick={() => setMobileMenuOpen(false)}
-                    className={`py-2 text-sm font-medium border-b border-stone-100 ${
-                      isActive ? 'text-amber-800 font-bold' : 'text-stone-700 hover:text-stone-900'
+                    className={`py-2 text-sm font-medium border-b border-stone-100 dark:border-stone-800 ${
+                      isActive ? 'text-amber-800 dark:text-amber-400 font-bold' : 'text-stone-700 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
                     }`}
                   >
                     {link.label}
@@ -171,7 +175,7 @@ export const Navbar: React.FC = () => {
                     setMobileMenuOpen(false);
                     setInquiryModalOpen(true);
                   }}
-                  className="py-2.5 bg-stone-900 text-white rounded-lg text-xs font-medium text-center"
+                  className="py-2.5 bg-stone-900 dark:bg-amber-600 text-white rounded-lg text-xs font-medium text-center"
                 >
                   Request Custom Travel Proposal
                 </button>

@@ -58,9 +58,9 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 overflow-y-auto bg-stone-900/60 backdrop-blur-xs flex items-center justify-center p-4">
+    <div className="fixed inset-0 z-50 overflow-y-auto bg-stone-900/60 dark:bg-black/80 backdrop-blur-xs flex items-center justify-center p-4">
       <div 
-        className="bg-white rounded-xl shadow-2xl max-w-lg w-full overflow-hidden border border-stone-200 transition-all transform animate-in fade-in zoom-in-95 duration-200"
+        className="bg-white dark:bg-stone-900 text-stone-800 dark:text-stone-100 rounded-xl shadow-2xl max-w-lg w-full overflow-hidden border border-stone-200 dark:border-stone-800 transition-all transform animate-in fade-in zoom-in-95 duration-200"
         role="dialog"
         aria-modal="true"
         aria-labelledby="inquiry-modal-title"
@@ -87,21 +87,21 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
         {/* Content */}
         <div className="p-6 space-y-4 max-h-[75vh] overflow-y-auto">
           {tour && (
-            <div className="p-3 bg-stone-50 border border-stone-200 rounded-lg text-xs space-y-1">
-              <div className="flex items-center gap-2 text-stone-600">
-                <MapPin className="w-3.5 h-3.5 text-amber-700" />
-                <span>Destination: <strong className="text-stone-800">{tour.destination}</strong></span>
-                <span className="text-stone-300">·</span>
-                <Clock className="w-3.5 h-3.5 text-amber-700" />
-                <span>Duration: <strong className="text-stone-800">{tour.duration}</strong></span>
+            <div className="p-3 bg-stone-50 dark:bg-stone-800/60 border border-stone-200 dark:border-stone-700 rounded-lg text-xs space-y-1">
+              <div className="flex items-center gap-2 text-stone-600 dark:text-stone-300">
+                <MapPin className="w-3.5 h-3.5 text-amber-700 dark:text-amber-500" />
+                <span>Destination: <strong className="text-stone-800 dark:text-stone-100">{tour.destination}</strong></span>
+                <span className="text-stone-300 dark:text-stone-600">·</span>
+                <Clock className="w-3.5 h-3.5 text-amber-700 dark:text-amber-500" />
+                <span>Duration: <strong className="text-stone-800 dark:text-stone-100">{tour.duration}</strong></span>
               </div>
-              <p className="text-stone-500 line-clamp-1 italic">{tour.shortDescription}</p>
+              <p className="text-stone-500 dark:text-stone-400 line-clamp-1 italic">{tour.shortDescription}</p>
             </div>
           )}
 
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div>
-              <label htmlFor="traveler-name" className="block text-xs font-semibold text-stone-700 mb-1">
+              <label htmlFor="traveler-name" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
                 Your Full Name
               </label>
               <input
@@ -110,18 +110,18 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                 placeholder="e.g. Sarah Jenkins"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
-                className="w-full px-3 py-2 text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white"
+                className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500"
               />
             </div>
             <div>
-              <label htmlFor="traveler-count" className="block text-xs font-semibold text-stone-700 mb-1">
+              <label htmlFor="traveler-count" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
                 Number of Travelers
               </label>
               <select
                 id="traveler-count"
                 value={travelers}
                 onChange={(e) => setTravelers(e.target.value)}
-                className="w-full px-3 py-2 text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white"
+                className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100"
               >
                 <option value="1 Traveler (Solo)">1 Traveler (Solo)</option>
                 <option value="2 Travelers (Couple)">2 Travelers (Couple)</option>
@@ -133,7 +133,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
           </div>
 
           <div>
-            <label htmlFor="travel-date" className="block text-xs font-semibold text-stone-700 mb-1">
+            <label htmlFor="travel-date" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
               Preferred Tour / Embarkation Date
             </label>
             <input
@@ -141,12 +141,12 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
               type="date"
               value={date}
               onChange={(e) => setDate(e.target.value)}
-              className="w-full px-3 py-2 text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white"
+              className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100"
             />
           </div>
 
           <div>
-            <label htmlFor="travel-notes" className="block text-xs font-semibold text-stone-700 mb-1">
+            <label htmlFor="travel-notes" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
               Questions, Special Requests or Hotel Pickup Details
             </label>
             <textarea
@@ -155,7 +155,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
               placeholder="Tell us your accommodation (hotel/ship in Luxor or Cairo), airport flight details, preferred guide language, or dietary requirements..."
               value={notes}
               onChange={(e) => setNotes(e.target.value)}
-              className="w-full px-3 py-2 text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white resize-none"
+              className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 resize-none"
             />
           </div>
 
@@ -172,7 +172,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
             <div className="grid grid-cols-2 gap-2">
               <button
                 onClick={handleEmail}
-                className="flex items-center justify-center gap-2 bg-stone-900 hover:bg-stone-800 text-white py-2 px-3 rounded-lg font-medium text-xs transition-colors"
+                className="flex items-center justify-center gap-2 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white py-2 px-3 rounded-lg font-medium text-xs transition-colors"
               >
                 <Mail className="w-3.5 h-3.5" />
                 <span>Open in Email</span>
@@ -180,16 +180,16 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
 
               <button
                 onClick={handleCopy}
-                className="flex items-center justify-center gap-2 bg-stone-100 hover:bg-stone-200 text-stone-700 py-2 px-3 rounded-lg font-medium text-xs transition-colors border border-stone-200"
+                className="flex items-center justify-center gap-2 bg-stone-100 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 text-stone-700 dark:text-stone-200 py-2 px-3 rounded-lg font-medium text-xs transition-colors border border-stone-200 dark:border-stone-700"
               >
                 {copied ? (
                   <>
-                    <Check className="w-3.5 h-3.5 text-emerald-600" />
-                    <span className="text-emerald-700 font-semibold">Copied to Clipboard!</span>
+                    <Check className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
+                    <span className="text-emerald-700 dark:text-emerald-400 font-semibold">Copied to Clipboard!</span>
                   </>
                 ) : (
                   <>
-                    <Copy className="w-3.5 h-3.5 text-stone-500" />
+                    <Copy className="w-3.5 h-3.5 text-stone-500 dark:text-stone-400" />
                     <span>Copy Inquiry Text</span>
                   </>
                 )}
@@ -198,10 +198,10 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
           </div>
 
           {/* Trust Notice */}
-          <div className="p-3 bg-amber-50/70 border border-amber-200/80 rounded-lg text-xs text-amber-900/90 flex gap-2.5">
-            <ShieldCheck className="w-4 h-4 text-amber-700 shrink-0 mt-0.5" />
+          <div className="p-3 bg-amber-50/70 dark:bg-amber-950/40 border border-amber-200/80 dark:border-amber-800/60 rounded-lg text-xs text-amber-900/90 dark:text-amber-300 flex gap-2.5">
+            <ShieldCheck className="w-4 h-4 text-amber-700 dark:text-amber-500 shrink-0 mt-0.5" />
             <div className="space-y-0.5 leading-relaxed">
-              <strong className="block text-amber-950 font-semibold">100% Static & Direct Communication</strong>
+              <strong className="block text-amber-950 dark:text-amber-200 font-semibold">100% Static & Direct Communication</strong>
               <p>
                 No online charges or automated reservations are processed here. You will communicate directly with Genuine Egypte’s licensed Egyptologist coordination office in Luxor ({SITE_SETTINGS.primaryPhone}) to finalize customized pricing and arrangements.
               </p>

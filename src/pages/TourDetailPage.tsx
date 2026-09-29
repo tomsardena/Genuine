@@ -54,10 +54,16 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
   // Category breadcrumbs mapping
   let categoryHref = '/tours';
   if (tour.category === 'Nile Cruises') categoryHref = '/nile-cruises';
-  else if (tour.category === 'Cairo & Giza Tours') categoryHref = '/cairo-giza-tours';
-  else if (tour.category === 'Luxor & Upper Egypt') categoryHref = '/luxor-upper-egypt';
+  else if (tour.category === 'Dahabiya Nile Cruises') categoryHref = '/dahabiya-cruises';
+  else if (tour.category === 'Lake Nasser Cruises') categoryHref = '/lake-nasser-cruises';
+  else if (tour.category === 'Egypt Vacation Packages') categoryHref = '/egypt-packages';
+  else if (tour.category === 'Cairo & Giza Tours' || tour.category === 'Cairo Tours') categoryHref = '/cairo-giza-tours';
+  else if (tour.category === 'Luxor & Upper Egypt' || tour.category === 'Luxor Tours') categoryHref = '/luxor-upper-egypt';
+  else if (tour.category === 'Aswan Tours') categoryHref = '/aswan-tours';
+  else if (tour.category === 'Shore Excursions') categoryHref = '/shore-excursions';
   else if (tour.category === 'Private Transfers') categoryHref = '/private-transfers';
   else if (tour.category === 'Hot Air Balloon') categoryHref = '/hot-air-balloon';
+  else if (tour.category === 'Abu Simbel Excursions') categoryHref = '/abu-simbel';
 
   return (
     <>
@@ -68,35 +74,36 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         ogImage={tour.mainImage}
       />
 
-      <div className="bg-[#FAF8F5] min-h-screen py-6 sm:py-10">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-6 sm:py-10 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-8">
           {/* Breadcrumbs */}
           <Breadcrumbs
             items={[
+              { label: 'Tours & Cruises', href: '/tours' },
               { label: tour.category, href: categoryHref },
               { label: tour.title }
             ]}
           />
 
           {/* Tour Title Header */}
-          <div className="space-y-3 border-b border-stone-200 pb-6">
-            <div className="flex flex-wrap items-center gap-2 text-xs font-medium text-amber-900">
-              <span className="bg-amber-100/80 px-2.5 py-0.5 rounded-xs uppercase tracking-wider text-[11px] font-semibold">
+          <div className="space-y-3 border-b border-stone-200 dark:border-stone-800 pb-6">
+            <div className="flex flex-wrap items-center gap-2 text-xs font-medium text-amber-900 dark:text-amber-300">
+              <span className="bg-amber-100/80 dark:bg-amber-950/70 px-2.5 py-0.5 rounded-xs uppercase tracking-wider text-[11px] font-semibold">
                 {tour.category}
               </span>
-              <span className="text-stone-300">·</span>
-              <span className="flex items-center gap-1 text-stone-600">
-                <MapPin className="w-3.5 h-3.5 text-amber-700" />
+              <span className="text-stone-300 dark:text-stone-700">·</span>
+              <span className="flex items-center gap-1 text-stone-600 dark:text-stone-300">
+                <MapPin className="w-3.5 h-3.5 text-amber-700 dark:text-amber-500" />
                 <span>{tour.destination}</span>
               </span>
-              <span className="text-stone-300">·</span>
-              <span className="flex items-center gap-1 text-stone-600">
-                <Clock className="w-3.5 h-3.5 text-amber-700" />
+              <span className="text-stone-300 dark:text-stone-700">·</span>
+              <span className="flex items-center gap-1 text-stone-600 dark:text-stone-300">
+                <Clock className="w-3.5 h-3.5 text-amber-700 dark:text-amber-500" />
                 <span>{tour.duration}</span>
               </span>
             </div>
 
-            <h1 className="font-serif text-2xl sm:text-4xl lg:text-5xl font-bold text-stone-900 tracking-tight leading-tight">
+            <h1 className="font-serif text-2xl sm:text-4xl lg:text-5xl font-bold text-stone-900 dark:text-stone-100 tracking-tight leading-tight">
               {tour.title}
             </h1>
           </div>
@@ -107,11 +114,17 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
             <div className="lg:col-span-8 space-y-10">
               {/* Photo Showcase */}
               <div className="space-y-3">
-                <div className="aspect-[16/10] rounded-lg overflow-hidden bg-stone-200 border border-stone-200 shadow-xs relative">
+                <div className="aspect-[16/10] rounded-lg overflow-hidden bg-stone-200 dark:bg-stone-800 border border-stone-200 dark:border-stone-800 shadow-xs relative">
                   <img
                     src={activeImage}
                     alt={tour.title}
                     referrerPolicy="no-referrer"
+                    onError={(e) => {
+                      const target = e.target as HTMLImageElement;
+                      if (!target.src.includes('160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg')) {
+                        target.src = '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
+                      }
+                    }}
                     className="w-full h-full object-cover transition-opacity duration-300"
                   />
                   <div className="absolute bottom-3 left-3 bg-[#181512]/80 backdrop-blur-xs text-stone-200 px-3 py-1 text-xs rounded-xs font-medium">
@@ -145,31 +158,31 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               </div>
 
               {/* Key Features Strip */}
-              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 p-4 bg-white border border-stone-200 rounded-lg text-xs">
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 p-4 bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg text-xs">
                 <div>
-                  <span className="text-stone-400 block uppercase tracking-wider text-[10px]">Duration</span>
-                  <strong className="text-stone-800 text-sm font-serif">{tour.duration}</strong>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Duration</span>
+                  <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">{tour.duration}</strong>
                 </div>
                 <div>
-                  <span className="text-stone-400 block uppercase tracking-wider text-[10px]">Tour Type</span>
-                  <strong className="text-stone-800 text-sm font-serif">Private / Tailored</strong>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Tour Type</span>
+                  <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">Private / Tailored</strong>
                 </div>
                 <div>
-                  <span className="text-stone-400 block uppercase tracking-wider text-[10px]">Guiding</span>
-                  <strong className="text-stone-800 text-sm font-serif">Licensed Egyptologist</strong>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Guiding</span>
+                  <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">Licensed Egyptologist</strong>
                 </div>
                 <div>
-                  <span className="text-stone-400 block uppercase tracking-wider text-[10px]">Transport</span>
-                  <strong className="text-stone-800 text-sm font-serif">Private A/C Fleet</strong>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Transport</span>
+                  <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">Private A/C Fleet</strong>
                 </div>
               </div>
 
               {/* Overview / Introduction */}
               <div className="space-y-4">
-                <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 border-b border-stone-200 pb-2">
+                <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
                   Experience Overview
                 </h2>
-                <div className="prose prose-stone max-w-none text-xs sm:text-sm text-stone-700 leading-relaxed space-y-3">
+                <div className="prose prose-stone dark:prose-invert max-w-none text-xs sm:text-sm text-stone-700 dark:text-stone-300 leading-relaxed space-y-3">
                   <p>{tour.overview}</p>
                 </div>
               </div>
@@ -177,13 +190,13 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               {/* Highlights */}
               {tour.highlights && tour.highlights.length > 0 && (
                 <div className="space-y-4">
-                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 border-b border-stone-200 pb-2">
+                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
                     Key Highlights
                   </h2>
                   <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3 list-none p-0">
                     {tour.highlights.map((hl, idx) => (
-                      <li key={idx} className="flex items-start gap-2.5 text-xs sm:text-sm text-stone-700">
-                        <Sparkles className="w-4 h-4 text-amber-700 shrink-0 mt-0.5" />
+                      <li key={idx} className="flex items-start gap-2.5 text-xs sm:text-sm text-stone-700 dark:text-stone-300">
+                        <Sparkles className="w-4 h-4 text-amber-700 dark:text-amber-500 shrink-0 mt-0.5" />
                         <span>{hl}</span>
                       </li>
                     ))}
@@ -194,7 +207,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               {/* Itinerary / Program */}
               {tour.itinerary && tour.itinerary.length > 0 && (
                 <div className="space-y-4">
-                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 border-b border-stone-200 pb-2">
+                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
                     Tour Plan & Itinerary
                   </h2>
 
@@ -204,28 +217,28 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                       return (
                         <div
                           key={idx}
-                          className="bg-white border border-stone-200 rounded-lg overflow-hidden transition-colors"
+                          className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg overflow-hidden transition-colors"
                         >
                           <button
                             onClick={() => setExpandedDay(isOpen ? null : idx)}
-                            className="w-full text-left px-5 py-3.5 flex items-center justify-between gap-4 font-serif text-sm font-bold text-stone-900 hover:text-amber-800 transition-colors"
+                            className="w-full text-left px-5 py-3.5 flex items-center justify-between gap-4 font-serif text-sm font-bold text-stone-900 dark:text-stone-100 hover:text-amber-800 dark:hover:text-amber-400 transition-colors"
                             aria-expanded={isOpen}
                           >
                             <span className="flex items-center gap-2">
-                              <span className="text-xs font-sans text-amber-700 font-semibold uppercase">
+                              <span className="text-xs font-sans text-amber-700 dark:text-amber-500 font-semibold uppercase">
                                 Part {idx + 1}:
                               </span>
                               <span>{step.title || `Day ${idx + 1} Program`}</span>
                             </span>
                             <ChevronDown
                               className={`w-4 h-4 text-stone-400 shrink-0 transition-transform duration-200 ${
-                                isOpen ? 'rotate-180 text-amber-700' : ''
+                                isOpen ? 'rotate-180 text-amber-700 dark:text-amber-500' : ''
                               }`}
                             />
                           </button>
 
                           {isOpen && (
-                            <div className="px-5 pb-5 text-xs sm:text-sm text-stone-600 leading-relaxed border-t border-stone-100 pt-3 whitespace-pre-line">
+                            <div className="px-5 pb-5 text-xs sm:text-sm text-stone-600 dark:text-stone-300 leading-relaxed border-t border-stone-100 dark:border-stone-800 pt-3 whitespace-pre-line">
                               {step.description}
                             </div>
                           )}
@@ -238,21 +251,21 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
               {/* Inclusions and Exclusions Side-by-Side */}
               <div className="space-y-4">
-                <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 border-b border-stone-200 pb-2">
+                <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
                   What&rsquo;s Included & Excluded
                 </h2>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   {/* Included */}
-                  <div className="bg-emerald-50/50 border border-emerald-200/80 rounded-lg p-5 space-y-3">
-                    <h3 className="text-xs font-semibold text-emerald-900 uppercase tracking-wider flex items-center gap-1.5 font-serif">
-                      <CheckCircle2 className="w-4 h-4 text-emerald-700" />
+                  <div className="bg-emerald-50/50 dark:bg-emerald-950/30 border border-emerald-200/80 dark:border-emerald-800/50 rounded-lg p-5 space-y-3">
+                    <h3 className="text-xs font-semibold text-emerald-900 dark:text-emerald-300 uppercase tracking-wider flex items-center gap-1.5 font-serif">
+                      <CheckCircle2 className="w-4 h-4 text-emerald-700 dark:text-emerald-400" />
                       <span>Included in this tour</span>
                     </h3>
-                    <ul className="space-y-2 text-xs text-stone-700">
+                    <ul className="space-y-2 text-xs text-stone-700 dark:text-stone-300">
                       {tour.inclusions.map((item, idx) => (
                         <li key={idx} className="flex items-start gap-2">
-                          <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5" />
+                          <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" />
                           <span>{item}</span>
                         </li>
                       ))}
@@ -260,15 +273,15 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                   </div>
 
                   {/* Excluded */}
-                  <div className="bg-rose-50/40 border border-rose-200/70 rounded-lg p-5 space-y-3">
-                    <h3 className="text-xs font-semibold text-rose-950 uppercase tracking-wider flex items-center gap-1.5 font-serif">
-                      <XCircle className="w-4 h-4 text-rose-700" />
+                  <div className="bg-rose-50/40 dark:bg-rose-950/30 border border-rose-200/70 dark:border-rose-800/50 rounded-lg p-5 space-y-3">
+                    <h3 className="text-xs font-semibold text-rose-950 dark:text-rose-300 uppercase tracking-wider flex items-center gap-1.5 font-serif">
+                      <XCircle className="w-4 h-4 text-rose-700 dark:text-rose-400" />
                       <span>Excluded / Optional</span>
                     </h3>
-                    <ul className="space-y-2 text-xs text-stone-700">
+                    <ul className="space-y-2 text-xs text-stone-700 dark:text-stone-300">
                       {tour.exclusions.map((item, idx) => (
                         <li key={idx} className="flex items-start gap-2">
-                          <XCircle className="w-3.5 h-3.5 text-rose-500 shrink-0 mt-0.5" />
+                          <XCircle className="w-3.5 h-3.5 text-rose-500 dark:text-rose-400 shrink-0 mt-0.5" />
                           <span>{item}</span>
                         </li>
                       ))}
@@ -279,12 +292,12 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
               {/* Meeting & Pickup Information */}
               {tour.meetingPoint && (
-                <div className="bg-white border border-stone-200 rounded-lg p-5 space-y-2 text-xs">
-                  <div className="flex items-center gap-2 text-stone-800 font-semibold uppercase tracking-wider font-serif">
-                    <Navigation className="w-4 h-4 text-amber-700" />
+                <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-5 space-y-2 text-xs">
+                  <div className="flex items-center gap-2 text-stone-800 dark:text-stone-100 font-semibold uppercase tracking-wider font-serif">
+                    <Navigation className="w-4 h-4 text-amber-700 dark:text-amber-500" />
                     <span>Meeting & Pickup Details</span>
                   </div>
-                  <p className="text-stone-600 leading-relaxed">
+                  <p className="text-stone-600 dark:text-stone-300 leading-relaxed">
                     {tour.meetingPoint}
                   </p>
                 </div>
@@ -293,16 +306,16 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
             {/* Right 4 Cols: Sticky Inquiry Card */}
             <aside aria-label="Book or inquire" className="lg:col-span-4 lg:sticky lg:top-24 space-y-6">
-              <div className="bg-white border border-stone-200 rounded-xl p-6 shadow-md space-y-5">
-                <div className="space-y-1 pb-4 border-b border-stone-100">
-                  <span className="text-[11px] font-semibold text-amber-800 uppercase tracking-wider block font-serif">
+              <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl p-6 shadow-md space-y-5">
+                <div className="space-y-1 pb-4 border-b border-stone-100 dark:border-stone-800">
+                  <span className="text-[11px] font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider block font-serif">
                     Inquiry & Availability
                   </span>
                   <div className="flex items-baseline justify-between">
-                    <span className="font-serif text-2xl font-bold text-stone-900">Custom Rate</span>
-                    <span className="text-xs text-stone-500">Per Traveler</span>
+                    <span className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100">Custom Rate</span>
+                    <span className="text-xs text-stone-500 dark:text-stone-400">Per Traveler</span>
                   </div>
-                  <p className="text-xs text-stone-500 italic pt-1">
+                  <p className="text-xs text-stone-500 dark:text-stone-400 italic pt-1">
                     Direct booking quote tailored to your travel date and group size.
                   </p>
                 </div>
@@ -321,7 +334,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
                   <button
                     onClick={() => setInquiryModalOpen(true)}
-                    className="w-full flex items-center justify-center gap-2 bg-stone-900 hover:bg-stone-800 text-white py-3 px-4 rounded-lg font-medium text-xs sm:text-sm transition-colors"
+                    className="w-full flex items-center justify-center gap-2 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white py-3 px-4 rounded-lg font-medium text-xs sm:text-sm transition-colors"
                   >
                     <Mail className="w-4 h-4" />
                     <span>Request Custom Proposal</span>
@@ -329,13 +342,13 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                 </div>
 
                 {/* Transparency Guarantee */}
-                <div className="pt-2 border-t border-stone-100 text-xs text-stone-600 space-y-2">
+                <div className="pt-2 border-t border-stone-100 dark:border-stone-800 text-xs text-stone-600 dark:text-stone-300 space-y-2">
                   <div className="flex items-start gap-2">
-                    <ShieldCheck className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
+                    <ShieldCheck className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" />
                     <span>No online credit card fees or instant deductions.</span>
                   </div>
                   <div className="flex items-start gap-2">
-                    <Clock className="w-4 h-4 text-amber-700 shrink-0 mt-0.5" />
+                    <Clock className="w-4 h-4 text-amber-700 dark:text-amber-500 shrink-0 mt-0.5" />
                     <span>Rapid reply within 12 hours from our Luxor office.</span>
                   </div>
                   <div className="flex items-start gap-2">
@@ -349,12 +362,12 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
           {/* Related Tours Section */}
           {relatedTours.length > 0 && (
-            <div className="pt-12 border-t border-stone-200 space-y-6">
+            <div className="pt-12 border-t border-stone-200 dark:border-stone-800 space-y-6">
               <div className="space-y-1">
-                <span className="text-xs font-semibold text-amber-800 uppercase tracking-widest block font-serif">
+                <span className="text-xs font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-widest block font-serif">
                   Explore More
                 </span>
-                <h2 className="font-serif text-2xl font-bold text-stone-900">
+                <h2 className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100">
                   Related Egyptian Experiences
                 </h2>
               </div>

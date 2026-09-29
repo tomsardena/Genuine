@@ -33,7 +33,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
         ogImage={heroImage || (tours[0]?.mainImage)}
       />
 
-      <div className="bg-[#FAF8F5] min-h-screen py-8">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-8">
           <Breadcrumbs
             items={[
@@ -43,7 +43,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
           />
 
           {/* Header Banner */}
-          <div className="relative rounded-xl overflow-hidden bg-stone-900 text-white p-8 sm:p-12 shadow-sm border border-stone-200">
+          <div className="relative rounded-xl overflow-hidden bg-stone-900 text-white p-8 sm:p-12 shadow-sm border border-stone-200 dark:border-stone-800">
             {heroImage && (
               <>
                 <img
@@ -70,9 +70,9 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
 
           {/* Tours Count and Catalog Grid */}
           <div className="space-y-6">
-            <div className="flex items-center justify-between text-xs text-stone-500 border-b border-stone-200 pb-3">
+            <div className="flex items-center justify-between text-xs text-stone-500 dark:text-stone-400 border-b border-stone-200 dark:border-stone-800 pb-3">
               <span>Showing <strong>{tours.length}</strong> authentic programs</span>
-              <Link to="/tours" className="text-amber-800 hover:underline font-medium">
+              <Link to="/tours" className="text-amber-800 dark:text-amber-400 hover:underline font-medium">
                 View all categories &rarr;
               </Link>
             </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import { RouterProvider, useRouter } from './utils/router';
+import { ThemeProvider } from './utils/theme';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { FloatingWhatsApp } from './components/FloatingWhatsApp';
@@ -34,28 +35,76 @@ function AppContent() {
     return <ToursCatalogPage />;
   }
 
-  // 3. Original Booking URLs: /booking/:slug
+  // 3. Tour detail URLs: /booking/:slug, /tour/:slug, /package/:slug, /cruise/:slug
   if (cleanPath.startsWith('/booking/')) {
     const slug = cleanPath.replace('/booking/', '');
     return <TourDetailPage slug={slug} />;
   }
 
-  // 4. Tour detail alternative: /tour/:slug or /tours/:slug
   if (cleanPath.startsWith('/tour/')) {
     const slug = cleanPath.replace('/tour/', '');
     return <TourDetailPage slug={slug} />;
   }
 
-  // 5. Dedicated Category Pages
+  if (cleanPath.startsWith('/package/')) {
+    const slug = cleanPath.replace('/package/', '');
+    return <TourDetailPage slug={slug} />;
+  }
+
+  if (cleanPath.startsWith('/cruise/')) {
+    const slug = cleanPath.replace('/cruise/', '');
+    return <TourDetailPage slug={slug} />;
+  }
+
+  // 4. Dedicated Category Pages
   if (cleanPath === '/nile-cruises' || cleanPath === '/categories/nile-cruises') {
     return (
       <CategoryPage
         category="Nile Cruises"
         title="Luxury Nile River Cruises"
         subtitle="Upper Egypt River Expeditions"
-        description="Explore pharaonic temples between Luxor and Aswan aboard five-star cruise vessels including the Royal Ruby and Nile Premium. Full-board dining, private Egyptologist shore guides, and panoramic river vistas."
-        heroImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10.jpg"
+        description="Explore pharaonic temples between Luxor and Aswan aboard five-star cruise vessels including the Royal Ruby, Nile Premium, Oberoi, and Sonesta ships. Full-board dining, private Egyptologist shore guides, and panoramic river vistas."
+        heroImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
         canonicalPath="/nile-cruises"
+      />
+    );
+  }
+
+  if (cleanPath === '/dahabiya-cruises' || cleanPath === '/categories/dahabiya-cruises') {
+    return (
+      <CategoryPage
+        category="Dahabiya Nile Cruises"
+        title="Private Dahabiya Nile Cruises"
+        subtitle="Exclusive Traditional Sailboats"
+        description="Experience the magic of the River Nile on a traditional twin-sailed Dahabiya (Princess Farida, Three Pyramids, Sonesta Amirat, etc.). Small private groups, access to secluded riverbanks, and authentic gourmet dining."
+        heroImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
+        canonicalPath="/dahabiya-cruises"
+      />
+    );
+  }
+
+  if (cleanPath === '/lake-nasser-cruises' || cleanPath === '/categories/lake-nasser-cruises') {
+    return (
+      <CategoryPage
+        category="Lake Nasser Cruises"
+        title="Lake Nasser Cruises & Abu Simbel"
+        subtitle="The Nubian Desert Waterway"
+        description="Sail the tranquil waters of Lake Nasser from Aswan to Abu Simbel aboard Steigenberger Omar El Khayam or Movenpick Prince Abbas. Discover Kalabsha, Wadi El Seboua, Amada, and the colossal Sun Temples."
+        heroImage="/images/tours/ABU-SIMBEL-10.webp"
+        canonicalPath="/lake-nasser-cruises"
+      />
+    );
+  }
+
+  if (cleanPath === '/egypt-packages' || cleanPath === '/travel-packages' || cleanPath === '/categories/travel-pakages') {
+    return (
+      <CategoryPage
+        category="Egypt Vacation Packages"
+        title="Egypt Vacation Packages & Multi-Day Tours"
+        subtitle="Curated Multi-City Journeys"
+        description="Comprehensive 4-day to 15-day multi-city Egyptian itineraries combining Cairo & Giza pyramids, five-star Nile cruises, and Red Sea relaxation with private licensed Egyptologist guides."
+        heroImage="/images/tours/Luxor-Private-Tour-4.webp"
+        canonicalPath="/egypt-packages"
       />
     );
   }
@@ -63,25 +112,51 @@ function AppContent() {
   if (cleanPath === '/cairo-giza-tours' || cleanPath === '/categories/cairo-giza-tours' || cleanPath === '/categories/day-tours') {
     return (
       <CategoryPage
-        category="Cairo & Giza Tours"
+        category="Cairo Tours"
         title="Cairo & Giza Excursions"
         subtitle="The Pyramids & The Historic Capital"
-        description="Experience the Pyramids of Giza, the Great Sphinx, ancient Saqqara and Dahshur, Saint Samaan Cave Church, and private layover tours in Cairo with certified Egyptologists."
-        heroImage="/images/tours/genuine-egypte-3.webp"
+        description="Experience the Pyramids of Giza, the Great Sphinx, ancient Saqqara and Dahshur, the Grand Egyptian Museum, Saint Samaan Cave Church, and private layover tours in Cairo with certified Egyptologists."
+        heroImage="/images/tours/Luxor-Private-Tour-4.webp"
         canonicalPath="/cairo-giza-tours"
       />
     );
   }
 
-  if (cleanPath === '/luxor-upper-egypt' || cleanPath === '/categories/luxor-upper-egypt') {
+  if (cleanPath === '/luxor-upper-egypt' || cleanPath === '/categories/luxor-upper-egypt' || cleanPath === '/luxor-tours') {
     return (
       <CategoryPage
         category="Luxor & Upper Egypt"
         title="Luxor & Upper Egypt Tours"
         subtitle="The Ancient Thebes Necropolis"
-        description="Guided private excursions to the Valley of the Kings, Karnak Temple, Luxor Temple, Temple of Hatshepsut, Dendera & Abydos, Edfu, and Kom Ombo."
-        heroImage="/images/tours/genuine-egypte-19.webp"
+        description="Guided private excursions to the Valley of the Kings, Karnak Temple, Luxor Temple, Temple of Hatshepsut, Dendera & Abydos, Luxor Museum, Edfu, and Kom Ombo."
+        heroImage="/images/tours/KOM-OMBO-1-1-1.webp"
         canonicalPath="/luxor-upper-egypt"
+      />
+    );
+  }
+
+  if (cleanPath === '/aswan-tours' || cleanPath === '/categories/aswan-day-tours') {
+    return (
+      <CategoryPage
+        category="Aswan Tours"
+        title="Aswan & Nubia Excursions"
+        subtitle="Egypt’s Southern Frontier"
+        description="Explore Philae Temple of Isis, the Aswan High Dam, the Unfinished Obelisk, and authentic Nubian villages along the Nile with licensed Egyptologists."
+        heroImage="/images/tours/ABU-SIMBEL-1-1.webp"
+        canonicalPath="/aswan-tours"
+      />
+    );
+  }
+
+  if (cleanPath === '/shore-excursions' || cleanPath === '/categories/shore-excursions') {
+    return (
+      <CategoryPage
+        category="Shore Excursions"
+        title="Egypt Shore Excursions"
+        subtitle="Private Shore Trips with Guaranteed Ship Return"
+        description="Customized private day excursions from Safaga Port (to Luxor), Alexandria Port (to Cairo & Giza), Port Said, and Ein El Sokhna with guaranteed on-time return to your cruise vessel."
+        heroImage="/images/tours/11-21.webp"
+        canonicalPath="/shore-excursions"
       />
     );
   }
@@ -93,7 +168,7 @@ function AppContent() {
         title="Private Intercity & Airport Transfers"
         subtitle="Comfortable Overland Travel in Egypt"
         description="Door-to-door private transfers between Luxor, Aswan, Hurghada, and international airports in modern air-conditioned vehicles with professional licensed tourist drivers."
-        heroImage="/images/tours/genuine-egypte-27.webp"
+        heroImage="/images/tours/New-Project-2026-01-27T143452.563-600x540.webp"
         canonicalPath="/private-transfers"
       />
     );
@@ -106,7 +181,7 @@ function AppContent() {
         title="Sunrise Hot Air Balloon Flights"
         subtitle="Drift Above Ancient Thebes"
         description="Experience the magic of sunrise over Luxor's West Bank, drifting above the Valley of the Kings and Hatshepsut Temple in a certified commercial hot air balloon."
-        heroImage="/images/tours/genuine-egypte-21.webp"
+        heroImage="/images/tours/New-Project-2025-06-24T153559.658-1.webp"
         canonicalPath="/hot-air-balloon"
       />
     );
@@ -125,7 +200,7 @@ function AppContent() {
     );
   }
 
-  // 6. Destinations
+  // 5. Destinations
   if (cleanPath === '/destinations' || cleanPath === '/destination' || cleanPath === '/destination-02') {
     return <DestinationsPage />;
   }
@@ -140,22 +215,22 @@ function AppContent() {
     return <DestinationDetailPage slug={destSlug} />;
   }
 
-  // 7. About
+  // 6. About
   if (cleanPath === '/about' || cleanPath === '/about-me') {
     return <AboutPage />;
   }
 
-  // 8. Contact
+  // 7. Contact
   if (cleanPath === '/contact') {
     return <ContactPage />;
   }
 
-  // 9. FAQs
+  // 8. FAQs
   if (cleanPath === '/faqs' || cleanPath === '/faq') {
     return <FaqsPage />;
   }
 
-  // 10. Legal & Policies
+  // 9. Legal & Policies
   if (cleanPath === '/terms-conditions' || cleanPath === '/terms' || cleanPath === '/terms-and-conditions' || cleanPath === '/terms-conditions-2') {
     return <TermsPage />;
   }
@@ -164,7 +239,7 @@ function AppContent() {
     return <PrivacyPage />;
   }
 
-  // Direct tour slug fallback (e.g. if someone links to /royal-ruby-nile-cruise-3-nights-4-days directly)
+  // Direct tour slug fallback (e.g. if someone links to /royal-ruby-nile-cruise-3-nights-4-days or /nebu-nile-cruise directly)
   const directSlug = cleanPath.replace(/^\//, '');
   if (getTourBySlug(directSlug)) {
     return <TourDetailPage slug={directSlug} />;
@@ -176,15 +251,17 @@ function AppContent() {
 
 export default function App() {
   return (
-    <RouterProvider>
-      <div className="min-h-screen flex flex-col bg-[#FAF8F5] text-stone-800 font-sans selection:bg-amber-200 selection:text-amber-900">
-        <Navbar />
-        <main className="flex-1">
-          <AppContent />
-        </main>
-        <Footer />
-        <FloatingWhatsApp />
-      </div>
-    </RouterProvider>
+    <ThemeProvider>
+      <RouterProvider>
+        <div className="min-h-screen flex flex-col bg-[#FAF8F5] dark:bg-[#121110] text-stone-800 dark:text-stone-100 font-sans selection:bg-amber-200 selection:text-amber-900 dark:selection:bg-amber-900/60 dark:selection:text-amber-200 transition-colors duration-200">
+          <Navbar />
+          <main className="flex-1">
+            <AppContent />
+          </main>
+          <Footer />
+          <FloatingWhatsApp />
+        </div>
+      </RouterProvider>
+    </ThemeProvider>
   );
 }

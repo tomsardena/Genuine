@@ -17,7 +17,7 @@ export const DESTINATIONS_DATA: Destination[] = [
     slug: 'luxor',
     tagline: 'The World’s Greatest Open-Air Museum',
     description: 'Home to one-third of the world’s ancient antiquities. From the monumental columns of Karnak and the serene Luxor Temple to the subterranean royal tombs of the Valley of the Kings, Hatshepsut Temple, and sunrise hot air balloon flights.',
-    image: '/images/tours/genuine-egypte-19.webp',
+    image: '/images/tours/Luxor-Private-Tour-4.webp',
     highlights: [
       'Valley of the Kings & King Tutankhamun’s Tomb',
       'Karnak Temple Complex & Hypostyle Hall',
@@ -42,7 +42,7 @@ export const DESTINATIONS_DATA: Destination[] = [
     slug: 'nile-river',
     tagline: 'The Lifeline of Egypt from Luxor to Aswan',
     description: 'Sailing the majestic River Nile is the classic way to experience Upper Egypt. Relax on luxury ships like the Royal Ruby and Nile Premium while docking right at the monumental temples of Kom Ombo, Edfu, and Esna.',
-    image: '/images/tours/160538339712Royal-Ruby-Nile-Cruise10.jpg',
+    image: '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
     highlights: [
       'Luxurious 3-night, 4-night, and 7-night cruise itineraries',
       'Temple of Horus at Edfu, the best-preserved temple in Egypt',
@@ -66,7 +66,7 @@ export const DESTINATIONS_DATA: Destination[] = [
     slug: 'cairo-giza',
     tagline: 'The City of a Thousand Minarets & The Great Pyramids',
     description: 'Egypt’s vibrant capital pairs 4,500-year-old wonders with medieval Islamic heritage, Coptic enclaves, and world-class museums. Marvel at the Great Pyramid of Giza, the enigmatic Sphinx, ancient Saqqara, and the extraordinary Cave Church.',
-    image: '/images/tours/genuine-egypte-3.webp',
+    image: '/images/tours/New-Project-2025-06-24T153559.658-1.webp',
     highlights: [
       'The Great Pyramids of Khufu, Khafre, and Menkaure at Giza',
       'The Great Sphinx and Valley Temple',
@@ -115,7 +115,7 @@ export const DESTINATIONS_DATA: Destination[] = [
     slug: 'alexandria',
     tagline: 'The Pearl of the Mediterranean',
     description: 'Founded by Alexander the Great in 331 BC, Alexandria is steeped in Greco-Roman history and cool Mediterranean sea breezes. Visit the dramatic Citadel of Qaitbay, the Catacombs of Kom El Shoqafa, and the modern Bibliotheca Alexandrina.',
-    image: '/images/tours/genuine-egypte-13.webp',
+    image: '/images/tours/11-21.webp',
     highlights: [
       'Citadel of Qaitbay standing on the site of the ancient Lighthouse (Pharos)',
       'Subterranean Catacombs of Kom El Shoqafa combining Egyptian & Roman art',
@@ -137,7 +137,7 @@ export const DESTINATIONS_DATA: Destination[] = [
     slug: 'hurghada',
     tagline: 'The Red Sea Riviera & Gateway to Upper Egypt',
     description: 'A paradise of turquoise waters and vibrant coral reefs on the Red Sea coast, connected by convenient private overland transfers to Luxor, Aswan, and the Nile.',
-    image: '/images/tours/genuine-egypte-27.webp',
+    image: '/images/tours/New-Project-2026-01-27T143452.563-600x540.webp',
     highlights: [
       'Direct private highway transfers between Hurghada resorts and Luxor/Aswan',
       'Pristine Red Sea coral reefs and marine life',

@@ -45,7 +45,7 @@ export const HomePage: React.FC = () => {
         title="Genuine Egypte | Travel Agency – Private Tours, Nile Cruises & Transfers"
         description="Official website of Genuine Egypte: private tours, luxury Nile cruises, Cairo and Luxor excursions, and private transfers across Egypt led by licensed Egyptologists."
         canonicalPath="/"
-        ogImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10.jpg"
+        ogImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
       />
 
       {/* Hero Section */}
@@ -53,7 +53,7 @@ export const HomePage: React.FC = () => {
         {/* Background Image with Measured Contrast Scrim */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/images/tours/160538339712Royal-Ruby-Nile-Cruise10.jpg"
+            src="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
             alt="Royal Ruby Nile Cruise by Genuine Egypte"
             className="w-full h-full object-cover object-center filter brightness-65"
           />
