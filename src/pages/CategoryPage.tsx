@@ -4,6 +4,7 @@ import { TourCard } from '../components/TourCard';
 import { Breadcrumbs } from '../components/Breadcrumbs';
 import { SEOHead } from '../components/SEOHead';
 import { Link } from '../utils/router';
+import { OptimizedImage } from '../components/OptimizedImage';
 
 interface CategoryPageProps {
   category: TourCategory;
@@ -46,9 +47,11 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
           <div className="relative rounded-xl overflow-hidden bg-stone-900 text-white p-8 sm:p-12 shadow-sm border border-stone-200 dark:border-stone-800">
             {heroImage && (
               <>
-                <img
+                <OptimizedImage
                   src={heroImage}
-                  alt={title}
+                  alt={`${title} – ${subtitle}`}
+                  priority={true}
+                  sizes="100vw"
                   className="absolute inset-0 w-full h-full object-cover filter brightness-50"
                 />
                 <div className="absolute inset-0 bg-gradient-to-r from-stone-950 via-stone-900/80 to-stone-900/40" />

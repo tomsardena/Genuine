@@ -44,19 +44,19 @@ export const ContactPage: React.FC = () => {
         canonicalPath="/contact"
       />
 
-      <div className="bg-[#FAF8F5] min-h-screen py-8">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-12">
           <Breadcrumbs items={[{ label: 'Contact Us' }]} />
 
           {/* Header */}
-          <div className="space-y-3 border-b border-stone-200 pb-6">
-            <span className="text-xs font-semibold text-amber-800 uppercase tracking-widest font-serif block">
+          <div className="space-y-3 border-b border-stone-200 dark:border-stone-800 pb-6">
+            <span className="text-xs font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-widest font-serif block">
               Direct Traveler Assistance
             </span>
-            <h1 className="font-serif text-3xl sm:text-5xl font-bold text-stone-900 tracking-tight">
+            <h1 className="font-serif text-3xl sm:text-5xl font-bold text-stone-900 dark:text-stone-100 tracking-tight">
               Contact Genuine Egypte
             </h1>
-            <p className="text-xs sm:text-sm text-stone-600 max-w-2xl leading-relaxed">
+            <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 max-w-2xl leading-relaxed">
               Have questions about booking a private Nile cruise, custom temple excursion, or intercity transfer? Speak directly with our licensed team in Luxor.
             </p>
           </div>
@@ -64,8 +64,8 @@ export const ContactPage: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-12 gap-10">
             {/* Contact Information & Channels (5 cols) */}
             <div className="lg:col-span-5 space-y-6">
-              <div className="bg-white border border-stone-200 rounded-xl p-6 sm:p-8 space-y-6 shadow-xs">
-                <h2 className="font-serif text-xl font-bold text-stone-900 border-b border-stone-100 pb-3">
+              <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl p-6 sm:p-8 space-y-6 shadow-xs">
+                <h2 className="font-serif text-xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-100 dark:border-stone-800 pb-3">
                   Authoritative Contact Details
                 </h2>
 

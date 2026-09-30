@@ -4,6 +4,7 @@ import { ThemeProvider } from './utils/theme';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { FloatingWhatsApp } from './components/FloatingWhatsApp';
+import { MahmodChatbot } from './components/MahmodChatbot';
 
 import { HomePage } from './pages/HomePage';
 import { ToursCatalogPage } from './pages/ToursCatalogPage';
@@ -260,6 +261,7 @@ export default function App() {
           </main>
           <Footer />
           <FloatingWhatsApp />
+          <MahmodChatbot />
         </div>
       </RouterProvider>
     </ThemeProvider>

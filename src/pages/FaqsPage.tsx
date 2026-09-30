@@ -36,24 +36,24 @@ export const FaqsPage: React.FC = () => {
         canonicalPath="/faqs"
       />
 
-      <div className="bg-[#FAF8F5] min-h-screen py-8">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-4xl mx-auto px-4 sm:px-8 space-y-10">
           <Breadcrumbs items={[{ label: 'Travel FAQs' }]} />
 
-          <div className="space-y-3 border-b border-stone-200 pb-6 text-center sm:text-left">
-            <span className="text-xs font-semibold text-amber-800 uppercase tracking-widest font-serif block">
+          <div className="space-y-3 border-b border-stone-200 dark:border-stone-800 pb-6 text-center sm:text-left">
+            <span className="text-xs font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-widest font-serif block">
               Travel Advice & Guidance
             </span>
-            <h1 className="font-serif text-3xl sm:text-5xl font-bold text-stone-900 tracking-tight">
+            <h1 className="font-serif text-3xl sm:text-5xl font-bold text-stone-900 dark:text-stone-100 tracking-tight">
               Frequently Asked Questions
             </h1>
-            <p className="text-xs sm:text-sm text-stone-600 max-w-2xl leading-relaxed">
+            <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 max-w-2xl leading-relaxed">
               Find answers regarding Nile cruises, private temple tours, booking without upfront online charges, and traveling comfortably in Egypt.
             </p>
           </div>
 
           {/* Search & Categories */}
-          <div className="bg-white border border-stone-200 rounded-lg p-5 space-y-4 shadow-xs">
+          <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-5 space-y-4 shadow-xs">
             <div className="relative">
               <Search className="w-4 h-4 text-stone-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
               <input
@@ -61,7 +61,7 @@ export const FaqsPage: React.FC = () => {
                 placeholder="Search FAQs (e.g. visa, cruise dining, tips, vehicles)..."
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
-                className="w-full pl-10 pr-4 py-2.5 text-xs sm:text-sm border border-stone-200 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 bg-stone-50"
+                className="w-full pl-10 pr-4 py-2.5 text-xs sm:text-sm border border-stone-200 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 bg-stone-50 dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500"
               />
             </div>
 

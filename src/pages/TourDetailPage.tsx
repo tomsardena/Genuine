@@ -4,6 +4,7 @@ import { Breadcrumbs } from '../components/Breadcrumbs';
 import { SEOHead } from '../components/SEOHead';
 import { TourCard } from '../components/TourCard';
 import { InquiryModal } from '../components/InquiryModal';
+import { OptimizedImage } from '../components/OptimizedImage';
 import {
   MapPin,
   Clock,
@@ -115,16 +116,11 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               {/* Photo Showcase */}
               <div className="space-y-3">
                 <div className="aspect-[16/10] rounded-lg overflow-hidden bg-stone-200 dark:bg-stone-800 border border-stone-200 dark:border-stone-800 shadow-xs relative">
-                  <img
+                  <OptimizedImage
                     src={activeImage}
-                    alt={tour.title}
-                    referrerPolicy="no-referrer"
-                    onError={(e) => {
-                      const target = e.target as HTMLImageElement;
-                      if (!target.src.includes('160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg')) {
-                        target.src = '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
-                      }
-                    }}
+                    alt={`${tour.title} – authentic Egypt journey in ${tour.destination}`}
+                    priority={true}
+                    sizes="(max-width: 1024px) 100vw, 800px"
                     className="w-full h-full object-cover transition-opacity duration-300"
                   />
                   <div className="absolute bottom-3 left-3 bg-[#181512]/80 backdrop-blur-xs text-stone-200 px-3 py-1 text-xs rounded-xs font-medium">
@@ -145,10 +141,10 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                             : 'border-transparent opacity-75 hover:opacity-100'
                         }`}
                       >
-                        <img
+                        <OptimizedImage
                           src={img}
-                          alt={`${tour.title} thumbnail ${idx + 1}`}
-                          referrerPolicy="no-referrer"
+                          alt={`${tour.title} gallery thumbnail ${idx + 1}`}
+                          sizes="100px"
                           className="w-full h-full object-cover"
                         />
                       </button>

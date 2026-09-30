@@ -3,16 +3,14 @@ import { Link } from '../utils/router';
 import { TourItem } from '../data/tours';
 import { MapPin, Clock, ArrowRight, MessageCircle } from 'lucide-react';
 import { InquiryModal } from './InquiryModal';
+import { OptimizedImage } from './OptimizedImage';
 
 interface TourCardProps {
   tour: TourItem;
 }
 
-const DEFAULT_FALLBACK_IMAGE = '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
-
 export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
   const [inquiryOpen, setInquiryOpen] = useState(false);
-  const [imgSrc, setImgSrc] = useState<string>(tour.mainImage || DEFAULT_FALLBACK_IMAGE);
 
   // Link to original booking URL slug
   const tourUrl = `/booking/${tour.slug}/`;
@@ -22,16 +20,10 @@ export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
       <article className="group flex flex-col bg-white dark:bg-stone-900 border border-stone-200/90 dark:border-stone-800 rounded-lg overflow-hidden transition-all duration-200 hover:shadow-md hover:border-stone-300 dark:hover:border-stone-700">
         {/* Card Image */}
         <Link to={tourUrl} className="relative block aspect-[16/10] overflow-hidden bg-stone-100 dark:bg-stone-800">
-          <img
-            src={imgSrc}
-            alt={tour.title}
-            loading="lazy"
-            referrerPolicy="no-referrer"
-            onError={() => {
-              if (imgSrc !== DEFAULT_FALLBACK_IMAGE) {
-                setImgSrc(DEFAULT_FALLBACK_IMAGE);
-              }
-            }}
+          <OptimizedImage
+            src={tour.mainImage}
+            alt={`${tour.title} – private excursion in ${tour.destination}, Egypt`}
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
           />
 

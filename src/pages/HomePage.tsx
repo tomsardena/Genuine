@@ -7,6 +7,7 @@ import { SITE_SETTINGS } from '../data/siteSettings';
 import { TourCard } from '../components/TourCard';
 import { InquiryModal } from '../components/InquiryModal';
 import { SEOHead } from '../components/SEOHead';
+import { OptimizedImage } from '../components/OptimizedImage';
 import {
   Compass,
   Ship,
@@ -52,9 +53,11 @@ export const HomePage: React.FC = () => {
       <section className="relative min-h-[580px] lg:min-h-[640px] flex items-center justify-center bg-stone-900 text-white overflow-hidden">
         {/* Background Image with Measured Contrast Scrim */}
         <div className="absolute inset-0 z-0">
-          <img
+          <OptimizedImage
             src="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
-            alt="Royal Ruby Nile Cruise by Genuine Egypte"
+            alt="Royal Ruby Luxury Nile Cruise in Luxor and Aswan by Genuine Egypte"
+            priority={true}
+            sizes="100vw"
             className="w-full h-full object-cover object-center filter brightness-65"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[#141210] via-stone-950/60 to-black/40" />

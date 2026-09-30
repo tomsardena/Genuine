@@ -6,7 +6,7 @@ export const FloatingWhatsApp: React.FC = () => {
   return (
     <aside
       aria-label="Quick contact"
-      className="fixed bottom-5 right-5 z-40 animate-fade-in-up motion-reduce:animate-none"
+      className="fixed bottom-5 left-5 z-40 animate-fade-in-up motion-reduce:animate-none"
     >
       <a
         href={SITE_SETTINGS.whatsappLink}

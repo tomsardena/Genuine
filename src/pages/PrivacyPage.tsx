@@ -12,23 +12,23 @@ export const PrivacyPage: React.FC = () => {
         canonicalPath="/privacy-policy"
       />
 
-      <div className="bg-[#FAF8F5] min-h-screen py-8">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-4xl mx-auto px-4 sm:px-8 space-y-8">
           <Breadcrumbs items={[{ label: 'Privacy Policy' }]} />
 
-          <div className="border-b border-stone-200 pb-6 space-y-2">
-            <span className="text-xs font-semibold text-amber-800 uppercase tracking-widest font-serif block">
+          <div className="border-b border-stone-200 dark:border-stone-800 pb-6 space-y-2">
+            <span className="text-xs font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-widest font-serif block">
               Data Protection & Privacy
             </span>
-            <h1 className="font-serif text-3xl sm:text-4xl font-bold text-stone-900 tracking-tight">
+            <h1 className="font-serif text-3xl sm:text-4xl font-bold text-stone-900 dark:text-stone-100 tracking-tight">
               Privacy Policy
             </h1>
-            <p className="text-xs text-stone-500">
+            <p className="text-xs text-stone-500 dark:text-stone-400">
               Genuine Egypte · Static Architecture Privacy Commitment
             </p>
           </div>
 
-          <div className="bg-white border border-stone-200 rounded-xl p-6 sm:p-10 space-y-8 text-xs sm:text-sm text-stone-700 leading-relaxed">
+          <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl p-6 sm:p-10 space-y-8 text-xs sm:text-sm text-stone-700 dark:text-stone-300 leading-relaxed">
             <section className="space-y-3">
               <h2 className="font-serif text-base sm:text-lg font-bold text-stone-900">
                 1. Pure Static Site Architecture

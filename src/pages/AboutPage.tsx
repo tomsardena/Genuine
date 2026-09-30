@@ -15,35 +15,35 @@ export const AboutPage: React.FC = () => {
         ogImage="/images/tours/KOM-OMBO-1-1-1.webp"
       />
 
-      <div className="bg-[#FAF8F5] min-h-screen py-8">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-5xl mx-auto px-4 sm:px-8 space-y-12">
           <Breadcrumbs items={[{ label: 'About Us' }]} />
 
           {/* Hero Intro */}
-          <div className="space-y-4 border-b border-stone-200 pb-8">
-            <span className="text-xs font-semibold text-amber-800 uppercase tracking-widest font-serif block">
+          <div className="space-y-4 border-b border-stone-200 dark:border-stone-800 pb-8">
+            <span className="text-xs font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-widest font-serif block">
               Our Identity & Purpose
             </span>
-            <h1 className="font-serif text-3xl sm:text-5xl font-bold text-stone-900 tracking-tight leading-tight">
+            <h1 className="font-serif text-3xl sm:text-5xl font-bold text-stone-900 dark:text-stone-100 tracking-tight leading-tight">
               About Genuine Egypte
             </h1>
-            <p className="text-sm sm:text-base text-stone-700 leading-relaxed max-w-3xl">
+            <p className="text-sm sm:text-base text-stone-700 dark:text-stone-300 leading-relaxed max-w-3xl">
               An independent Egyptian travel agency and art house headquartered on Khaled Ibn Al Waleed Street in Luxor, founded by veteran licensed Egyptologists and quality managers.
             </p>
           </div>
 
           {/* Core Philosophy Section */}
-          <div className="bg-white border border-stone-200 rounded-xl p-6 sm:p-10 shadow-xs space-y-6">
+          <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl p-6 sm:p-10 shadow-xs space-y-6">
             <div className="border-l-4 border-amber-600 pl-6 space-y-3">
-              <span className="text-xs font-semibold uppercase tracking-wider text-amber-700 font-serif">
+              <span className="text-xs font-semibold uppercase tracking-wider text-amber-700 dark:text-amber-400 font-serif">
                 The Founder&rsquo;s Mission
               </span>
-              <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900">
+              <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100">
                 &ldquo;We Know the Difference Between a Tourist and a Traveler&rdquo;
               </h2>
             </div>
 
-            <div className="prose prose-stone text-xs sm:text-sm text-stone-700 leading-relaxed space-y-4">
+            <div className="prose prose-stone dark:prose-invert text-xs sm:text-sm text-stone-700 dark:text-stone-300 leading-relaxed space-y-4">
               <p>
                 Genuine Egypte was born out of firsthand experience in the Egyptian tourism industry. Having served for over 15 years as professional Egyptologists, tour leaders, and quality assurance managers for major commercial operators, our founders met thousands of travelers from every corner of the world.
               </p>
