@@ -8,6 +8,7 @@ import { TourCard } from '../components/TourCard';
 import { InquiryModal } from '../components/InquiryModal';
 import { SEOHead } from '../components/SEOHead';
 import { OptimizedImage } from '../components/OptimizedImage';
+import { CategoriesQuickAccess } from '../components/CategoriesQuickAccess';
 import {
   Compass,
   Ship,
@@ -119,27 +120,30 @@ export const HomePage: React.FC = () => {
         </div>
       </section>
 
+      {/* Categories Quick Access Grid */}
+      <CategoriesQuickAccess />
+
       {/* Featured Nile Cruises Section */}
-      <section className="py-16 sm:py-20 bg-stone-50 border-b border-stone-200">
+      <section className="py-16 sm:py-20 bg-stone-50 dark:bg-[#121110] border-b border-stone-200 dark:border-stone-800 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-10">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
             <div className="space-y-2">
-              <span className="text-xs font-semibold text-amber-800 uppercase tracking-widest block font-serif">
+              <span className="text-xs font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-widest block font-serif">
                 Signature River Expeditions
               </span>
-              <h2 className="font-serif text-2xl sm:text-3xl font-bold text-stone-900 tracking-tight">
+              <h2 className="font-serif text-2xl sm:text-3xl font-bold text-stone-900 dark:text-stone-100 tracking-tight">
                 Luxury Nile River Cruises
               </h2>
-              <p className="text-xs sm:text-sm text-stone-600 max-w-xl">
+              <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 max-w-xl">
                 Sail between Luxor and Aswan aboard the prestigious Royal Ruby and Nile Premium ships, stopping at Kom Ombo, Edfu, and Philae.
               </p>
             </div>
 
             <Link
               to="/nile-cruises"
-              className="inline-flex items-center gap-1.5 text-xs font-semibold text-amber-900 hover:text-amber-700 transition-colors shrink-0"
+              className="inline-flex items-center gap-1.5 text-xs font-semibold text-amber-900 dark:text-amber-400 hover:text-amber-700 dark:hover:text-amber-300 transition-colors shrink-0"
             >
-              <span>View All 12 Cruise Itineraries</span>
+              <span>View All Nile Cruises</span>
               <ArrowRight className="w-3.5 h-3.5" />
             </Link>
           </div>
