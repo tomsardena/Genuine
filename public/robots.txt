@@ -1,4 +1,12 @@
+# Genuine Egypte Robots.txt
+# https://genuineegypte.com
+
 User-agent: *
 Allow: /
+Allow: /images/
+Allow: /assets/
+Disallow: /api/
 
+# Sitemap location
 Sitemap: https://genuineegypte.com/sitemap.xml
+Host: https://genuineegypte.com
