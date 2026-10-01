@@ -1,18 +1,20 @@
 import React from 'react';
-import { TOURS_DATA, TourCategory } from '../data/tours';
+import { TOURS_DATA, TourCategory, TourItem } from '../data/tours';
 import { TourCard } from '../components/TourCard';
 import { Breadcrumbs } from '../components/Breadcrumbs';
 import { SEOHead } from '../components/SEOHead';
 import { Link } from '../utils/router';
 import { OptimizedImage } from '../components/OptimizedImage';
+import { ArrowRight, MapPin } from 'lucide-react';
 
 interface CategoryPageProps {
-  category: TourCategory;
+  category: TourCategory | string;
   title: string;
   subtitle: string;
   description: string;
   heroImage?: string;
   canonicalPath: string;
+  customFilter?: (tour: TourItem) => boolean;
 }
 
 export const CategoryPage: React.FC<CategoryPageProps> = ({
@@ -21,9 +23,12 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
   subtitle,
   description,
   heroImage,
-  canonicalPath
+  canonicalPath,
+  customFilter
 }) => {
-  const tours = TOURS_DATA.filter(t => t.category.toLowerCase() === category.toLowerCase());
+  const tours = customFilter
+    ? TOURS_DATA.filter(customFilter)
+    : TOURS_DATA.filter(t => t.category.toLowerCase() === category.toLowerCase());
 
   return (
     <>
@@ -70,6 +75,74 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
               </p>
             </div>
           </div>
+
+          {/* If on Day Tours, show destination quick access cards */}
+          {canonicalPath === '/day-tours' && (
+            <div className="space-y-4 pt-2">
+              <div className="flex items-center gap-2">
+                <MapPin className="w-4 h-4 text-amber-600 dark:text-amber-400" />
+                <h2 className="font-serif text-lg font-bold text-stone-900 dark:text-stone-100">
+                  Select Day Tour Destination
+                </h2>
+              </div>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                {[
+                  {
+                    name: 'Cairo',
+                    tagline: 'Pyramids, Sphinx, Saqqara & NMEC Museum',
+                    href: '/cairo-giza-tours',
+                    image: '/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg',
+                    count: '25+ Tours'
+                  },
+                  {
+                    name: 'Luxor',
+                    tagline: 'Valley of Kings, Karnak, Luxor Temple & Balloon',
+                    href: '/luxor-upper-egypt',
+                    image: '/images/tours/15971782201Luxor-Temple.jpg',
+                    count: '30+ Tours'
+                  },
+                  {
+                    name: 'Aswan',
+                    tagline: 'Philae Temple, Abu Simbel & Nubian Villages',
+                    href: '/aswan-tours',
+                    image: '/images/tours/ABU-SIMBEL-1-1.webp',
+                    count: '18+ Tours'
+                  },
+                  {
+                    name: 'Hurghada',
+                    tagline: 'Red Sea boat trips, coral snorkeling & desert safaris',
+                    href: '/hurghada-tours',
+                    image: '/images/tours/11-21.webp',
+                    count: '14+ Tours'
+                  }
+                ].map((d) => (
+                  <Link
+                    key={d.name}
+                    to={d.href}
+                    className="group relative rounded-xl overflow-hidden bg-stone-900 border border-stone-200 dark:border-stone-800 hover:border-amber-500 transition-all duration-300 shadow-sm hover:shadow-lg hover:-translate-y-1 p-4 min-h-[170px] flex flex-col justify-end text-white"
+                  >
+                    <div className="absolute inset-0 z-0 overflow-hidden">
+                      <OptimizedImage
+                        src={d.image}
+                        alt={d.name}
+                        sizes="25vw"
+                        className="w-full h-full object-cover filter brightness-70 group-hover:scale-108 transition-transform duration-500"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/60 to-transparent" />
+                    </div>
+                    <div className="relative z-10 space-y-1">
+                      <div className="flex items-center justify-between text-[11px] text-amber-300 font-semibold">
+                        <span>{d.count}</span>
+                        <ArrowRight className="w-3.5 h-3.5 transform group-hover:translate-x-1 transition-transform" />
+                      </div>
+                      <h3 className="font-serif text-xl font-bold">{d.name} Day Tours</h3>
+                      <p className="text-[11px] text-stone-300 font-light line-clamp-1">{d.tagline}</p>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Tours Count and Catalog Grid */}
           <div className="space-y-6">

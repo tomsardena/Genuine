@@ -110,7 +110,25 @@ function AppContent() {
     );
   }
 
-  if (cleanPath === '/cairo-giza-tours' || cleanPath === '/categories/cairo-giza-tours' || cleanPath === '/categories/day-tours') {
+  if (cleanPath === '/day-tours' || cleanPath === '/categories/day-tours') {
+    return (
+      <CategoryPage
+        category="Day Tours"
+        title="Egypt Private Day Tours"
+        subtitle="Cairo, Luxor, Aswan, Abu Simbel & Beyond"
+        description="Private guided day trips and temple excursions across Cairo, Luxor, Aswan, Abu Simbel, and Alexandria with certified licensed Egyptologists and modern private air-conditioned vehicles."
+        heroImage="/images/tours/Luxor-Private-Tour-4.webp"
+        canonicalPath="/day-tours"
+        customFilter={(t) =>
+          t.category.includes('Tours') ||
+          t.category.includes('Excursion') ||
+          t.category === 'Hot Air Balloon'
+        }
+      />
+    );
+  }
+
+  if (cleanPath === '/cairo-giza-tours' || cleanPath === '/categories/cairo-giza-tours') {
     return (
       <CategoryPage
         category="Cairo Tours"
@@ -145,6 +163,24 @@ function AppContent() {
         description="Explore Philae Temple of Isis, the Aswan High Dam, the Unfinished Obelisk, and authentic Nubian villages along the Nile with licensed Egyptologists."
         heroImage="/images/tours/ABU-SIMBEL-1-1.webp"
         canonicalPath="/aswan-tours"
+      />
+    );
+  }
+
+  if (cleanPath === '/hurghada-tours' || cleanPath === '/categories/hurghada-tours' || cleanPath === '/categories/hurghada-day-tours') {
+    return (
+      <CategoryPage
+        category="Hurghada Tours"
+        title="Hurghada & Red Sea Excursions"
+        subtitle="Desert Safaris, Coral Reefs & Marine Adventures"
+        description="Experience the beauty of the Red Sea with private Hurghada boat trips, snorkeling at Giftun Island, desert quad bike safaris, and day trips to Luxor from Hurghada."
+        heroImage="/images/tours/11-21.webp"
+        canonicalPath="/hurghada-tours"
+        customFilter={(t) =>
+          t.destination.toLowerCase().includes('hurghada') ||
+          t.destination.toLowerCase().includes('red sea') ||
+          t.category.toLowerCase().includes('hurghada')
+        }
       />
     );
   }

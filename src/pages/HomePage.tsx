@@ -121,7 +121,7 @@ export const HomePage: React.FC = () => {
       </section>
 
       {/* Categories Quick Access Grid */}
-      <CategoriesQuickAccess />
+      <CategoriesQuickAccess onOpenCustomInquiry={() => setInquiryModalOpen(true)} />
 
       {/* Featured Nile Cruises Section */}
       <section className="py-16 sm:py-20 bg-stone-50 dark:bg-[#121110] border-b border-stone-200 dark:border-stone-800 transition-colors">
