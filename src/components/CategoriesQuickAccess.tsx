@@ -12,8 +12,7 @@ import {
   CheckCircle2,
   ChevronRight,
   X,
-  MapPin,
-  ChevronDown
+  MapPin
 } from 'lucide-react';
 
 interface QuickAccessCategory {
@@ -208,75 +207,6 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
               <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" />
             </Link>
           </div>
-        </div>
-
-        {/* Quick-Jump Ribbon for the 5 Categories */}
-        <div className="grid grid-cols-2 sm:grid-cols-5 gap-2.5">
-          {QUICK_CATEGORIES.map((cat) => {
-            const Icon = cat.icon;
-
-            // Day tours trigger
-            if (cat.isDayToursAction) {
-              return (
-                <button
-                  key={`pill-${cat.id}`}
-                  onClick={() => setShowDestinationSelector(true)}
-                  className={`flex items-center sm:flex-col sm:justify-center text-left sm:text-center gap-2 px-3 py-2.5 rounded-xl border transition-all shadow-2xs group cursor-pointer ${
-                    showDestinationSelector
-                      ? 'bg-amber-500 text-stone-950 border-amber-500 font-semibold'
-                      : 'bg-white dark:bg-stone-800/80 border-stone-200 dark:border-stone-700 hover:border-amber-500 text-stone-800 dark:text-stone-200'
-                  }`}
-                >
-                  <div className={`p-1.5 rounded-lg transition-colors shrink-0 ${
-                    showDestinationSelector
-                      ? 'bg-stone-950 text-amber-400'
-                      : 'bg-amber-500/15 text-amber-700 dark:text-amber-400 group-hover:bg-amber-500 group-hover:text-stone-950'
-                  }`}>
-                    <Icon className="w-4 h-4" />
-                  </div>
-                  <div className="flex items-center gap-1">
-                    <span className="text-xs font-semibold tracking-tight capitalize">
-                      {cat.title}
-                    </span>
-                    <ChevronDown className="w-3 h-3 opacity-70" />
-                  </div>
-                </button>
-              );
-            }
-
-            // Tailor made tours trigger
-            if (cat.isCustomAction && onOpenCustomInquiry) {
-              return (
-                <button
-                  key={`pill-${cat.id}`}
-                  onClick={onOpenCustomInquiry}
-                  className="flex items-center sm:flex-col sm:justify-center text-left sm:text-center gap-2 px-3 py-2.5 rounded-xl bg-white dark:bg-stone-800/80 border border-stone-200 dark:border-stone-700 hover:border-amber-500 text-stone-800 dark:text-stone-200 transition-all shadow-2xs group cursor-pointer"
-                >
-                  <div className="p-1.5 rounded-lg bg-amber-500/15 text-amber-700 dark:text-amber-400 group-hover:bg-amber-500 group-hover:text-stone-950 transition-colors shrink-0">
-                    <Icon className="w-4 h-4" />
-                  </div>
-                  <span className="text-xs font-semibold tracking-tight capitalize">
-                    {cat.title}
-                  </span>
-                </button>
-              );
-            }
-
-            return (
-              <Link
-                key={`pill-${cat.id}`}
-                to={cat.href || '/tours'}
-                className="flex items-center sm:flex-col sm:justify-center text-left sm:text-center gap-2 px-3 py-2.5 rounded-xl bg-white dark:bg-stone-800/80 border border-stone-200 dark:border-stone-700 hover:border-amber-500 text-stone-800 dark:text-stone-200 transition-all shadow-2xs group"
-              >
-                <div className="p-1.5 rounded-lg bg-amber-500/15 text-amber-700 dark:text-amber-400 group-hover:bg-amber-500 group-hover:text-stone-950 transition-colors shrink-0">
-                  <Icon className="w-4 h-4" />
-                </div>
-                <span className="text-xs font-semibold tracking-tight capitalize">
-                  {cat.title}
-                </span>
-              </Link>
-            );
-          })}
         </div>
 
         {/* Interactive Destination Cards Drawer / Selector for Day Tours */}

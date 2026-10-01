@@ -65,9 +65,9 @@ export const HomePage: React.FC = () => {
         </div>
 
         <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-8 py-20 text-center space-y-6">
-          <div className="inline-flex items-center gap-2 px-3 py-1 bg-amber-950/60 border border-amber-500/30 rounded-xs text-amber-300 text-xs font-medium tracking-widest uppercase backdrop-blur-xs">
-            <Sparkles className="w-3.5 h-3.5" />
-            <span>Luxor Headquarters · Tailor-Made Egyptian Journeys</span>
+          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 bg-amber-950/70 border border-amber-500/40 rounded-full text-amber-300 text-xs sm:text-sm font-semibold tracking-wide backdrop-blur-md shadow-sm">
+            <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+            <span>Explore more, Plan less.</span>
           </div>
 
           <h1 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight text-balance">
