@@ -200,7 +200,7 @@ export const MahmodChatbot: React.FC = () => {
       const modelMsg: ChatMessage = {
         id: `model-${Date.now()}`,
         role: 'model',
-        text: `Marhaban! I am here to assist you. Our Luxor team is directly available on WhatsApp (**+20 1033801083**) or email (**info@genuineegypte.com**) to provide immediate customized advice on private tours, 5-star Nile cruises, and overland transfers.\n\nWould you like me to recommend our most popular 4-day Nile Cruise or a private Luxor East & West Bank day tour?`,
+        text: `Marhaban! I am here to assist you. Our Luxor team is directly available on WhatsApp (**+20 1070335551**) or email (**info@genuineegypte.com**) to provide immediate customized advice on private tours, 5-star Nile cruises, and overland transfers.\n\nWould you like me to recommend our most popular 4-day Nile Cruise or a private Luxor East & West Bank day tour?`,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       };
       setMessages(prev => [...prev, modelMsg]);
@@ -213,7 +213,7 @@ export const MahmodChatbot: React.FC = () => {
   const generateWhatsAppHandoffUrl = () => {
     const lastUserMsgs = messages.filter(m => m.role === 'user').slice(-3).map(m => `• ${m.text}`).join('\n');
     const note = `Hello Genuine Egypte, I was discussing travel options with Mahmod on your website.\n\nMy inquiry interests:\n${lastUserMsgs || 'General inquiry regarding tours and Nile cruises.'}\n\nPlease share your availability and bespoke quote.`;
-    return `https://wa.me/201033801083?text=${encodeURIComponent(note)}`;
+    return `https://wa.me/201070335551?text=${encodeURIComponent(note)}`;
   };
 
   // Markdown renderer for bold, bullet points, and tour links
@@ -464,7 +464,7 @@ export const MahmodChatbot: React.FC = () => {
                                       </Link>
 
                                       <a
-                                        href={`https://wa.me/201033801083?text=${encodeURIComponent(`Hello Mahmod, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please share availability and seasonal rates.`)}`}
+                                        href={`https://wa.me/201070335551?text=${encodeURIComponent(`Hello Mahmod, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please share availability and seasonal rates.`)}`}
                                         target="_blank"
                                         rel="noopener noreferrer"
                                         className="text-[10px] font-medium text-emerald-700 dark:text-emerald-400 hover:underline inline-flex items-center gap-0.5"

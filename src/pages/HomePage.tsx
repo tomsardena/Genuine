@@ -9,6 +9,9 @@ import { InquiryModal } from '../components/InquiryModal';
 import { SEOHead } from '../components/SEOHead';
 import { OptimizedImage } from '../components/OptimizedImage';
 import { CategoriesQuickAccess } from '../components/CategoriesQuickAccess';
+import { GallerySection } from '../components/GallerySection';
+import { ReviewsSection } from '../components/ReviewsSection';
+import { REVIEW_STATS } from '../data/reviewsData';
 import {
   Compass,
   Ship,
@@ -20,7 +23,9 @@ import {
   Sparkles,
   MapPin,
   Clock,
-  ShieldCheck
+  ShieldCheck,
+  Star,
+  ExternalLink
 } from 'lucide-react';
 
 export const HomePage: React.FC = () => {
@@ -88,13 +93,49 @@ export const HomePage: React.FC = () => {
             </Link>
 
             <a
-              href="https://wa.me/201033801083"
+              href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-3 text-sm font-medium text-white bg-emerald-700/90 hover:bg-emerald-600 rounded-lg transition-colors backdrop-blur-xs flex items-center gap-2 border border-emerald-500/30"
             >
               <MessageCircle className="w-4 h-4 fill-current" />
               <span>WhatsApp Concierge</span>
+            </a>
+          </div>
+
+          {/* Dual Verified Review Trust Badges */}
+          <div className="pt-2 flex flex-wrap items-center justify-center gap-2.5 text-xs">
+            <a
+              href={REVIEW_STATS.tripAdvisor.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-950/70 border border-emerald-500/40 text-emerald-300 hover:text-white hover:bg-emerald-900/80 transition-all backdrop-blur-md shadow-xs group"
+            >
+              <span className="w-2 h-2 rounded-full bg-[#00AA6C] animate-pulse" />
+              <span className="font-semibold">Tripadvisor</span>
+              <span className="text-amber-400 font-bold">5.0 ★★★★★</span>
+              <span className="text-stone-300 text-[11px] hidden sm:inline">Luxor</span>
+              <ExternalLink className="w-3 h-3 opacity-70 group-hover:translate-x-0.5 transition-transform" />
+            </a>
+
+            <a
+              href={REVIEW_STATS.google.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-950/70 border border-blue-500/40 text-blue-300 hover:text-white hover:bg-blue-900/80 transition-all backdrop-blur-md shadow-xs group"
+            >
+              <span className="w-2 h-2 rounded-full bg-blue-500" />
+              <span className="font-semibold">Google Reviews</span>
+              <span className="text-amber-400 font-bold">5.0 ★★★★★</span>
+              <span className="text-stone-300 text-[11px] hidden sm:inline">Exceptional</span>
+              <ExternalLink className="w-3 h-3 opacity-70 group-hover:translate-x-0.5 transition-transform" />
+            </a>
+
+            <a
+              href="#reviews"
+              className="inline-flex items-center gap-1 px-3 py-1.5 rounded-full bg-stone-900/60 border border-stone-700/60 text-stone-300 hover:text-amber-400 hover:border-amber-500/50 transition-all backdrop-blur-md text-[11px]"
+            >
+              <span>Read Guest Stories ↓</span>
             </a>
           </div>
 
@@ -239,6 +280,12 @@ export const HomePage: React.FC = () => {
           </div>
         </div>
       </section>
+
+      {/* Authentic Field Photography & Traveler Gallery */}
+      <GallerySection maxItems={12} showAllLink={true} />
+
+      {/* Verified Traveler Reviews & Testimonials from Tripadvisor & Google */}
+      <ReviewsSection />
 
       {/* Private Transfers Section */}
       <section className="py-16 sm:py-20 bg-white">
@@ -390,13 +437,13 @@ export const HomePage: React.FC = () => {
               Send Direct Inquiry
             </button>
             <a
-              href="https://wa.me/201033801083"
+              href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-3 text-xs font-medium text-white bg-emerald-600 hover:bg-emerald-500 rounded-lg transition-colors flex items-center gap-2"
             >
               <MessageCircle className="w-4 h-4 fill-current" />
-              <span>WhatsApp +20 1033801083</span>
+              <span>WhatsApp +20 1070335551</span>
             </a>
           </div>
         </div>

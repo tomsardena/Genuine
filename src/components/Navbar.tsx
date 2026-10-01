@@ -43,15 +43,15 @@ export const Navbar: React.FC = () => {
 
           <div className="flex items-center gap-3 text-[11px]">
             <a
-              href="tel:+201033801083"
+              href="tel:+201070335551"
               className="flex items-center gap-1 text-stone-300 hover:text-amber-400 font-medium transition-colors"
             >
               <Phone className="w-3 h-3 text-amber-500" />
-              <span>+20 1033801083</span>
+              <span>+20 1070335551</span>
             </a>
             <span className="text-stone-700">|</span>
             <a
-              href="https://wa.me/201033801083"
+              href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
               className="text-emerald-400 hover:text-emerald-300 font-medium flex items-center gap-1 transition-colors"
@@ -113,7 +113,7 @@ export const Navbar: React.FC = () => {
             <ThemeToggle />
 
             <a
-              href="https://wa.me/201033801083"
+              href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden sm:inline-flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-emerald-800 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/60 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 rounded-lg transition-colors border border-emerald-200/60 dark:border-emerald-800/60 whitespace-nowrap"
@@ -162,13 +162,13 @@ export const Navbar: React.FC = () => {
               })}
               <div className="pt-3 flex flex-col gap-2">
                 <a
-                  href="https://wa.me/201033801083"
+                  href="https://wa.me/201070335551"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 py-2.5 bg-[#25D366] text-white rounded-lg text-xs font-medium"
                 >
                   <MessageCircle className="w-4 h-4 fill-current" />
-                  <span>Chat on WhatsApp (+20 1033801083)</span>
+                  <span>Chat on WhatsApp (+20 1070335551)</span>
                 </a>
                 <button
                   onClick={() => {

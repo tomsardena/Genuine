@@ -15,6 +15,7 @@ export const MAIN_NAV_LINKS: NavLink[] = [
   { label: 'Shore Excursions', href: '/shore-excursions' },
   { label: 'Transfers', href: '/private-transfers' },
   { label: 'Destinations', href: '/destinations' },
+  { label: 'Gallery', href: '/gallery' },
   { label: 'About', href: '/about' },
   { label: 'Contact', href: '/contact' }
 ];
@@ -62,6 +63,7 @@ export const FOOTER_SECTIONS = [
     title: 'Company & Travel Info',
     links: [
       { label: 'About Genuine Egypte', href: '/about' },
+      { label: 'Photo Gallery (33 Moments)', href: '/gallery' },
       { label: 'Contact Us & Luxor Office', href: '/contact' },
       { label: 'Travel FAQs & Practical Tips', href: '/faqs' },
       { label: 'Terms & Conditions', href: '/terms-conditions' },

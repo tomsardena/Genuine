@@ -40,7 +40,7 @@ export const ContactPage: React.FC = () => {
     <>
       <SEOHead
         title="Contact Genuine Egypte – Luxor Office, Telephone & WhatsApp"
-        description="Get in touch with Genuine Egypte in Luxor, Egypt. Contact our team at 44 Khaled Ibn Al Waleed Street, call +20 1033801083, or inquire via WhatsApp."
+        description="Get in touch with Genuine Egypte in Luxor, Egypt. Contact our team at 44 Khaled Ibn Al Waleed Street, call +20 1070335551, or inquire via WhatsApp."
         canonicalPath="/contact"
       />
 
@@ -91,8 +91,8 @@ export const ContactPage: React.FC = () => {
                     </div>
                     <div>
                       <strong className="block text-stone-900 font-serif text-sm">Direct Telephones</strong>
-                      <a href="tel:+201033801083" className="text-stone-700 hover:text-amber-800 block mt-0.5 font-medium">
-                        +20 1033801083 (Primary & WhatsApp)
+                      <a href="tel:+201070335551" className="text-stone-700 hover:text-amber-800 block mt-0.5 font-medium">
+                        +20 1070335551 (Primary & WhatsApp)
                       </a>
                       <a href="tel:+201022721263" className="text-stone-700 hover:text-amber-800 block mt-0.5 font-medium">
                         +20 1022721263 (Secondary Line)
@@ -144,7 +144,7 @@ export const ContactPage: React.FC = () => {
                     className="inline-flex items-center justify-center gap-2 w-full py-2.5 bg-[#25D366] hover:bg-[#20bd5a] text-white rounded-md font-semibold text-xs transition-colors shadow-xs"
                   >
                     <MessageCircle className="w-4 h-4 fill-current" />
-                    <span>Open WhatsApp Chat (+20 1033801083)</span>
+                    <span>Open WhatsApp Chat (+20 1070335551)</span>
                   </a>
                 </div>
               </div>

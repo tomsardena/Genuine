@@ -17,6 +17,7 @@ export interface SiteContact {
   experienceYears: number;
   facebookUrl: string;
   tripAdvisorUrl: string;
+  googleReviewsUrl: string;
   coordinates: {
     lat: number;
     lng: number;
@@ -31,17 +32,18 @@ export const SITE_SETTINGS: SiteContact = {
   address: '44 Khaled Ibn Al Waleed Street',
   city: 'Luxor',
   country: 'Egypt',
-  phones: ['+20 1033801083', '+20 1022721263'],
-  primaryPhone: '+20 1033801083',
-  whatsappNumber: '+201033801083',
-  whatsappLink: 'https://wa.me/201033801083',
+  phones: ['+20 1070335551', '+20 1022721263'],
+  primaryPhone: '+20 1070335551',
+  whatsappNumber: '+201070335551',
+  whatsappLink: 'https://wa.me/201070335551',
   emails: ['info@genuineegypte.com', 'sales@genuineegypte.com'],
   primaryEmail: 'info@genuineegypte.com',
   salesEmail: 'sales@genuineegypte.com',
   workingHours: '24/7 Traveler Assistance & Concierge Service',
   experienceYears: 15,
   facebookUrl: 'https://www.facebook.com/genuineegypttours',
-  tripAdvisorUrl: 'https://www.tripadvisor.com',
+  tripAdvisorUrl: 'https://www.tripadvisor.com.eg/Attraction_Review-g294205-d28646854-Reviews-Genuine_egypt-Luxor_Nile_River_Valley.html',
+  googleReviewsUrl: 'https://share.google/xkZwhyQ5WPcXLcwLi',
   coordinates: {
     lat: 25.6872,
     lng: 32.6396
@@ -79,7 +81,7 @@ export function buildWhatsAppInquiryUrl(params: {
   parts.push('\nPlease let me know your availability and seasonal pricing. Thank you!');
   
   const text = encodeURIComponent(parts.join('\n'));
-  return `https://wa.me/201033801083?text=${text}`;
+  return `https://wa.me/201070335551?text=${text}`;
 }
 
 /**

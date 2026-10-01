@@ -319,7 +319,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                 {/* Direct Action Buttons */}
                 <div className="space-y-2.5">
                   <a
-                    href={`https://wa.me/201033801083?text=${encodeURIComponent(`Hello Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please let me know seasonal availability and pricing.`)}`}
+                    href={`https://wa.me/201070335551?text=${encodeURIComponent(`Hello Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please let me know seasonal availability and pricing.`)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white py-3 px-4 rounded-lg font-medium text-xs sm:text-sm transition-colors shadow-xs"

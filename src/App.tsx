@@ -14,6 +14,7 @@ import { DestinationDetailPage } from './pages/DestinationDetailPage';
 import { AboutPage } from './pages/AboutPage';
 import { ContactPage } from './pages/ContactPage';
 import { FaqsPage } from './pages/FaqsPage';
+import { GalleryPage } from './pages/GalleryPage';
 import { TermsPage } from './pages/TermsPage';
 import { PrivacyPage } from './pages/PrivacyPage';
 import { NotFoundPage } from './pages/NotFoundPage';
@@ -266,7 +267,12 @@ function AppContent() {
     return <FaqsPage />;
   }
 
-  // 9. Legal & Policies
+  // 9. Photo Gallery
+  if (cleanPath === '/gallery' || cleanPath === '/photos' || cleanPath === '/photo-gallery') {
+    return <GalleryPage />;
+  }
+
+  // 10. Legal & Policies
   if (cleanPath === '/terms-conditions' || cleanPath === '/terms' || cleanPath === '/terms-and-conditions' || cleanPath === '/terms-conditions-2') {
     return <TermsPage />;
   }
