@@ -36,7 +36,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
         </Link>
 
         {/* Card Body */}
-        <div className="p-5 flex-1 flex flex-col justify-between space-y-4">
+        <div className="p-4 sm:p-5 flex-1 flex flex-col justify-between space-y-3 sm:space-y-4">
           <div className="space-y-2">
             {/* Unboxed Metadata with Typographic Separator (Zero-Pill Rule) */}
             <div className="flex items-center gap-2 text-xs text-stone-500 dark:text-stone-400 font-medium">
@@ -52,7 +52,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
             </div>
 
             {/* Title */}
-            <h3 className="font-serif text-base font-bold text-stone-900 dark:text-stone-100 leading-snug line-clamp-2 group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
+            <h3 className="font-serif text-sm sm:text-base font-bold text-stone-900 dark:text-stone-100 leading-snug line-clamp-2 group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
               <Link to={tourUrl}>{tour.title}</Link>
             </h3>
 
@@ -65,7 +65,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
           {/* Bottom Bar & Actions */}
           <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between gap-2">
             <div>
-              <span className="block text-[11px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
+              <span className="block text-[10px] sm:text-[11px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
               <span className="text-xs font-semibold text-stone-800 dark:text-stone-200">Custom Seasonal Rate</span>
             </div>
 
@@ -76,7 +76,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
                   e.stopPropagation();
                   setInquiryOpen(true);
                 }}
-                className="p-1.5 text-stone-600 dark:text-stone-400 hover:text-emerald-700 dark:hover:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/60 rounded-md transition-colors"
+                className="p-2 sm:p-1.5 min-w-[36px] min-h-[36px] flex items-center justify-center text-stone-600 dark:text-stone-400 hover:text-emerald-700 dark:hover:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/60 rounded-lg transition-colors"
                 title="Quick WhatsApp Inquiry"
                 aria-label="Quick WhatsApp Inquiry"
               >
@@ -85,7 +85,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
 
               <Link
                 to={tourUrl}
-                className="inline-flex items-center gap-1 text-xs font-semibold text-stone-900 dark:text-stone-200 hover:text-amber-800 dark:hover:text-amber-400 transition-colors py-1 px-2.5 rounded-md hover:bg-stone-50 dark:hover:bg-stone-800"
+                className="inline-flex items-center gap-1 text-xs font-semibold text-stone-900 dark:text-stone-200 hover:text-amber-800 dark:hover:text-amber-400 transition-colors py-1.5 px-3 sm:py-1 sm:px-2.5 min-h-[36px] rounded-lg hover:bg-stone-50 dark:hover:bg-stone-800"
               >
                 <span>Details</span>
                 <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5" />

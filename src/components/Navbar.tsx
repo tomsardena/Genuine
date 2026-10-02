@@ -66,23 +66,23 @@ export const Navbar: React.FC = () => {
 
       {/* Main Navigation Bar */}
       <header className="sticky top-0 z-40 bg-white/95 dark:bg-[#161412]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800 transition-colors">
-        <div className="max-w-7xl mx-auto px-4 sm:px-8 min-h-[4.75rem] h-20 flex items-center justify-between gap-4">
+        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-16 sm:h-18 flex items-center justify-between gap-2 sm:gap-4">
           {/* Zone 1: Single element wordmark & logo */}
-          <Link to="/" className="flex items-center gap-3.5 shrink-0 group">
+          <Link to="/" className="flex items-center gap-2.5 sm:gap-3 shrink-0 group">
             <img
-              src="/assets/logo.png"
+              src="/assets/logo.webp"
               alt="Genuine Egypte"
-              className="h-14 sm:h-16 w-auto object-contain bg-transparent transition-transform duration-300 group-hover:scale-105 drop-shadow-sm"
+              className="h-9 sm:h-10 w-auto object-contain transition-transform duration-300 group-hover:scale-102"
               onError={(e) => {
                 // If logo fails, keep wordmark visible
                 (e.target as HTMLElement).style.display = 'none';
               }}
             />
             <div className="flex flex-col">
-              <span className="font-serif text-lg font-bold tracking-tight text-stone-900 dark:text-stone-100 leading-none group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
+              <span className="font-serif text-base sm:text-lg font-bold tracking-tight text-stone-900 dark:text-stone-100 leading-none group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
                 Genuine Egypte
               </span>
-              <span className="text-[10px] tracking-widest text-amber-800/80 dark:text-amber-400/90 uppercase font-medium mt-0.5">
+              <span className="hidden xs:block text-[9px] sm:text-[10px] tracking-widest text-amber-800/80 dark:text-amber-400/90 uppercase font-medium mt-0.5">
                 Travel Agency & Art House
               </span>
             </div>
@@ -128,7 +128,7 @@ export const Navbar: React.FC = () => {
 
             <button
               onClick={() => setInquiryModalOpen(true)}
-              className="px-4 py-2 text-xs font-medium text-white bg-stone-900 dark:bg-amber-600 hover:bg-amber-900 dark:hover:bg-amber-500 rounded-lg transition-colors whitespace-nowrap shadow-xs"
+              className="px-3 sm:px-4 py-2 text-xs font-semibold text-white bg-stone-900 dark:bg-amber-600 hover:bg-amber-900 dark:hover:bg-amber-500 rounded-lg transition-colors whitespace-nowrap shadow-xs active:scale-[0.98]"
             >
               Inquire Now
             </button>
@@ -136,7 +136,7 @@ export const Navbar: React.FC = () => {
             {/* Mobile Hamburger Button */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="lg:hidden p-2 text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white rounded-md focus:outline-none"
+              className="lg:hidden p-2 text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white rounded-lg focus:outline-none min-w-[40px] min-h-[40px] flex items-center justify-center hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors"
               aria-label="Toggle navigation menu"
               aria-expanded={mobileMenuOpen}
             >
@@ -147,8 +147,8 @@ export const Navbar: React.FC = () => {
 
         {/* Mobile Dropdown Menu */}
         {mobileMenuOpen && (
-          <div className="lg:hidden bg-white dark:bg-[#161412] border-b border-stone-200 dark:border-stone-800 px-5 py-4 shadow-lg animate-in slide-in-from-top-2 duration-150">
-            <nav className="flex flex-col space-y-2.5">
+          <div className="lg:hidden bg-white dark:bg-[#161412] border-b border-stone-200 dark:border-stone-800 px-4 sm:px-6 py-4 shadow-xl animate-in slide-in-from-top-2 duration-150 max-h-[calc(100vh-4.5rem)] overflow-y-auto">
+            <nav className="flex flex-col divide-y divide-stone-100 dark:divide-stone-800/80">
               {navLinks.map((link) => {
                 const isActive = currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href));
                 return (
@@ -156,22 +156,23 @@ export const Navbar: React.FC = () => {
                     key={link.href}
                     to={link.href}
                     onClick={() => setMobileMenuOpen(false)}
-                    className={`py-2 text-sm font-medium border-b border-stone-100 dark:border-stone-800 ${
+                    className={`py-3 text-sm font-medium flex items-center justify-between min-h-[44px] ${
                       isActive ? 'text-amber-800 dark:text-amber-400 font-bold' : 'text-stone-700 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white'
                     }`}
                   >
-                    {link.label}
+                    <span>{link.label}</span>
+                    <span className="text-stone-400 text-xs">&rarr;</span>
                   </Link>
                 );
               })}
-              <div className="pt-3 flex flex-col gap-2">
+              <div className="pt-4 flex flex-col gap-2.5">
                 <PWAInstallButton variant="mobile" />
 
                 <a
                   href="https://wa.me/201070335551"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 py-2.5 bg-[#25D366] text-white rounded-lg text-xs font-medium"
+                  className="flex items-center justify-center gap-2 py-3 bg-[#25D366] hover:bg-[#20bd5a] text-white rounded-xl text-xs font-semibold shadow-xs min-h-[44px]"
                 >
                   <MessageCircle className="w-4 h-4 fill-current" />
                   <span>Chat on WhatsApp (+20 1070335551)</span>
@@ -181,7 +182,7 @@ export const Navbar: React.FC = () => {
                     setMobileMenuOpen(false);
                     setInquiryModalOpen(true);
                   }}
-                  className="py-2.5 bg-stone-900 dark:bg-amber-600 text-white rounded-lg text-xs font-medium text-center"
+                  className="w-full py-3 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white rounded-xl text-xs font-semibold shadow-xs min-h-[44px] text-center"
                 >
                   Request Custom Travel Proposal
                 </button>

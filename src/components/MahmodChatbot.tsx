@@ -282,13 +282,13 @@ export const MahmodChatbot: React.FC = () => {
         <button
           onClick={() => setIsOpen(true)}
           aria-label="Open chat with Mahmod, Egyptian Tour Advisor"
-          className="fixed bottom-6 right-6 z-40 flex items-center gap-3 px-4 py-3 bg-stone-900 dark:bg-amber-600 text-white rounded-full shadow-2xl hover:bg-stone-800 dark:hover:bg-amber-500 transition-all transform hover:scale-105 group border border-amber-400/40"
+          className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 z-40 flex items-center gap-2.5 sm:gap-3 p-2.5 sm:px-4 sm:py-3 bg-stone-900 dark:bg-amber-600 text-white rounded-full shadow-2xl hover:bg-stone-800 dark:hover:bg-amber-500 transition-all transform hover:scale-105 group border border-amber-400/40"
         >
           <div className="relative">
-            <div className="w-10 h-10 rounded-full bg-gradient-to-tr from-amber-500 to-amber-300 flex items-center justify-center text-stone-950 font-bold font-serif text-base shadow-sm">
+            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-gradient-to-tr from-amber-500 to-amber-300 flex items-center justify-center text-stone-950 font-bold font-serif text-sm sm:text-base shadow-sm">
               M
             </div>
-            <span className="absolute bottom-0 right-0 w-3 h-3 bg-emerald-500 border-2 border-stone-900 rounded-full animate-pulse" />
+            <span className="absolute bottom-0 right-0 w-2.5 h-2.5 sm:w-3 sm:h-3 bg-emerald-500 border-2 border-stone-900 rounded-full animate-pulse" />
           </div>
 
           <div className="text-left hidden sm:block pr-1">
@@ -310,10 +310,10 @@ export const MahmodChatbot: React.FC = () => {
         <div
           role="dialog"
           aria-label="Mahmod - Egyptian Tour Advisor Concierge"
-          className={`fixed z-50 bg-white dark:bg-stone-900 border border-stone-300 dark:border-stone-800 shadow-2xl flex flex-col overflow-hidden transition-all duration-300 ${
+          className={`fixed z-50 bg-white dark:bg-stone-900 border border-stone-300 dark:border-stone-800 shadow-2xl flex flex-col overflow-hidden transition-all duration-300 bottom-2 left-2 right-2 sm:left-auto sm:right-6 sm:bottom-6 w-auto ${
             isExpanded
-              ? 'bottom-2 right-2 sm:bottom-6 sm:right-6 w-[calc(100vw-1rem)] sm:w-[680px] max-h-[92vh] h-[90vh] rounded-2xl'
-              : 'bottom-4 right-4 sm:bottom-6 sm:right-6 w-[calc(100vw-2rem)] sm:w-[440px] max-h-[640px] h-[86vh] rounded-2xl'
+              ? 'sm:w-[680px] max-h-[94vh] h-[92vh] rounded-2xl'
+              : 'sm:w-[440px] max-h-[640px] h-[84vh] rounded-2xl'
           }`}
         >
           {/* Header */}

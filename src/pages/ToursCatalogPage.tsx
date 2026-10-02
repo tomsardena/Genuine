@@ -231,12 +231,12 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
               )}
             </div>
 
-            {/* Segmented Category Buttons */}
+            {/* Segmented Category Buttons with smooth horizontal swipe on mobile */}
             <div className="space-y-1.5">
               <span className="text-[11px] font-semibold text-stone-500 dark:text-stone-400 uppercase tracking-wider block">
                 Category
               </span>
-              <div className="flex flex-wrap gap-1.5">
+              <div className="flex items-center gap-1.5 overflow-x-auto pb-1.5 sm:pb-0 scrollbar-none sm:flex-wrap touch-pan-x">
                 {categories.map((cat) => {
                   const isActive = selectedCategory === cat.value;
                   return (
@@ -246,7 +246,7 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                         setSelectedCategory(cat.value);
                         setVisibleCount(ITEMS_PER_PAGE);
                       }}
-                      className={`px-3 py-1.5 text-xs font-medium rounded-md transition-colors whitespace-nowrap ${
+                      className={`px-3.5 py-2 sm:py-1.5 text-xs font-medium rounded-lg transition-colors whitespace-nowrap min-h-[36px] flex items-center ${
                         isActive
                           ? 'bg-stone-900 dark:bg-amber-600 text-white shadow-xs'
                           : 'bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700'
@@ -260,11 +260,11 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
             </div>
 
             {/* Secondary Filters Row: Destination & Sort */}
-            <div className="flex flex-wrap items-center justify-between gap-4 pt-3 border-t border-stone-100 dark:border-stone-800">
-              <div className="flex flex-wrap items-center gap-3">
-                <div className="flex items-center gap-2">
-                  <Filter className="w-3.5 h-3.5 text-stone-400" />
-                  <label htmlFor="filter-destination" className="text-xs text-stone-600 dark:text-stone-300 font-medium">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3.5 pt-3 border-t border-stone-100 dark:border-stone-800">
+              <div className="flex flex-col xs:flex-row xs:items-center gap-3 w-full sm:w-auto">
+                <div className="flex items-center gap-2 w-full xs:w-auto">
+                  <Filter className="w-3.5 h-3.5 text-stone-400 shrink-0" />
+                  <label htmlFor="filter-destination" className="text-xs text-stone-600 dark:text-stone-300 font-medium shrink-0">
                     Destination:
                   </label>
                   <select
@@ -274,7 +274,7 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                       setSelectedDestination(e.target.value);
                       setVisibleCount(ITEMS_PER_PAGE);
                     }}
-                    className="text-xs px-2.5 py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-md text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500"
+                    className="flex-1 xs:flex-initial text-xs px-3 py-2 sm:py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-lg text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500"
                   >
                     {destinations.map((d) => (
                       <option key={d.value} value={d.value}>
@@ -284,15 +284,15 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                   </select>
                 </div>
 
-                <div className="flex items-center gap-2">
-                  <label htmlFor="sort-tours" className="text-xs text-stone-600 dark:text-stone-300 font-medium">
+                <div className="flex items-center gap-2 w-full xs:w-auto">
+                  <label htmlFor="sort-tours" className="text-xs text-stone-600 dark:text-stone-300 font-medium shrink-0">
                     Sort:
                   </label>
                   <select
                     id="sort-tours"
                     value={sortBy}
                     onChange={(e) => setSortBy(e.target.value as any)}
-                    className="text-xs px-2.5 py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-md text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500"
+                    className="flex-1 xs:flex-initial text-xs px-3 py-2 sm:py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-lg text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500"
                   >
                     <option value="featured">Featured & Curated</option>
                     <option value="title-asc">Alphabetical (A–Z)</option>
@@ -303,7 +303,7 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
               {hasActiveFilters && (
                 <button
                   onClick={handleReset}
-                  className="inline-flex items-center gap-1.5 text-xs text-amber-800 dark:text-amber-400 hover:text-amber-900 dark:hover:text-amber-300 font-medium py-1 px-2 rounded-md hover:bg-amber-50 dark:hover:bg-amber-950/40 transition-colors"
+                  className="self-start sm:self-auto inline-flex items-center gap-1.5 text-xs text-amber-800 dark:text-amber-400 hover:text-amber-900 dark:hover:text-amber-300 font-medium py-1.5 px-2.5 rounded-lg hover:bg-amber-50 dark:hover:bg-amber-950/40 transition-colors"
                 >
                   <RotateCcw className="w-3 h-3" />
                   <span>Reset All Filters</span>

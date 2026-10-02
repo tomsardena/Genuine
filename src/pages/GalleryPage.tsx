@@ -235,37 +235,37 @@ export const GalleryPage: React.FC = () => {
           {/* Close button */}
           <button
             onClick={() => setSelectedImageIndex(null)}
-            className="absolute top-5 right-5 z-20 p-2 rounded-full bg-stone-900/80 hover:bg-stone-800 text-stone-300 hover:text-white transition-colors cursor-pointer border border-stone-700"
+            className="absolute top-3 right-3 sm:top-5 sm:right-5 z-30 p-2 sm:p-2.5 rounded-full bg-stone-900/90 hover:bg-stone-800 text-stone-300 hover:text-white transition-colors cursor-pointer border border-stone-700 shadow-lg min-w-[40px] min-h-[40px] flex items-center justify-center"
             aria-label="Close photo preview"
           >
-            <X className="w-6 h-6" />
+            <X className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
 
           {/* Navigation Prev */}
           <button
             onClick={handlePrev}
-            className="absolute left-4 sm:left-6 z-20 p-3 rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl"
+            className="absolute left-2 sm:left-6 z-20 p-2 sm:p-3 rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl min-w-[40px] min-h-[40px] flex items-center justify-center"
             aria-label="Previous photo"
           >
-            <ChevronLeft className="w-6 h-6" />
+            <ChevronLeft className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
 
           {/* Navigation Next */}
           <button
             onClick={handleNext}
-            className="absolute right-4 sm:right-6 z-20 p-3 rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl"
+            className="absolute right-2 sm:right-6 z-20 p-2 sm:p-3 rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl min-w-[40px] min-h-[40px] flex items-center justify-center"
             aria-label="Next photo"
           >
-            <ChevronRight className="w-6 h-6" />
+            <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
 
           {/* Modal Container */}
           <div
-            className="relative max-w-5xl w-full max-h-[90vh] flex flex-col md:flex-row bg-[#1a1816] rounded-2xl overflow-hidden border border-stone-800 shadow-2xl"
+            className="relative max-w-5xl w-full max-h-[92vh] flex flex-col md:flex-row bg-[#1a1816] rounded-2xl overflow-hidden border border-stone-800 shadow-2xl"
             onClick={(e) => e.stopPropagation()}
           >
             {/* Image Box */}
-            <div className="flex-1 bg-black flex items-center justify-center p-2 min-h-[320px] max-h-[60vh] md:max-h-[85vh]">
+            <div className="flex-1 bg-black flex items-center justify-center p-2 min-h-[260px] sm:min-h-[320px] max-h-[50vh] md:max-h-[85vh]">
               <OptimizedImage
                 src={activeImage.image}
                 alt={activeImage.title}
@@ -276,7 +276,7 @@ export const GalleryPage: React.FC = () => {
             </div>
 
             {/* Info Sidebar */}
-            <div className="w-full md:w-80 p-6 md:p-8 flex flex-col justify-between space-y-6 bg-stone-900 border-t md:border-t-0 md:border-l border-stone-800 overflow-y-auto">
+            <div className="w-full md:w-80 p-4 sm:p-6 md:p-8 flex flex-col justify-between space-y-4 sm:space-y-6 bg-stone-900 border-t md:border-t-0 md:border-l border-stone-800 overflow-y-auto max-h-[42vh] md:max-h-none">
               <div className="space-y-4">
                 <div className="flex items-center justify-between text-xs text-stone-400">
                   <span className="px-2.5 py-0.5 rounded-full bg-amber-950/80 border border-amber-500/40 text-amber-300 font-semibold uppercase tracking-wider text-[10px]">

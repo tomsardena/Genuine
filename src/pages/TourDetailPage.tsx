@@ -210,7 +210,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         jsonLd={tourJsonLd}
       />
 
-      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-6 sm:py-10 text-stone-800 dark:text-stone-100 transition-colors">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-6 sm:py-10 pb-24 lg:pb-10 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-8">
           {/* Breadcrumbs */}
           <Breadcrumbs
@@ -510,6 +510,36 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               </div>
             </div>
           )}
+        </div>
+      </div>
+
+      {/* Mobile Sticky Booking Bar */}
+      <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 dark:bg-stone-900/95 backdrop-blur-md border-t border-stone-200 dark:border-stone-800 px-4 py-3 flex items-center justify-between gap-3 shadow-2xl">
+        <div className="min-w-0">
+          <span className="block text-[10px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
+          <span className="text-xs sm:text-sm font-serif font-bold text-stone-900 dark:text-stone-100 truncate block">
+            Custom Seasonal Rate
+          </span>
+        </div>
+
+        <div className="flex items-center gap-2 shrink-0">
+          <a
+            href={`https://wa.me/201070335551?text=${encodeURIComponent(`Marhaban Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please share seasonal rates and availability.`)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-2.5 sm:px-3 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-semibold flex items-center gap-1.5 shadow-xs"
+            aria-label="Inquire on WhatsApp"
+          >
+            <MessageCircle className="w-4 h-4 fill-current" />
+            <span className="hidden sm:inline">WhatsApp</span>
+          </a>
+
+          <button
+            onClick={() => setInquiryModalOpen(true)}
+            className="px-4 py-2.5 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white rounded-xl text-xs font-semibold shadow-xs"
+          >
+            Inquire Now
+          </button>
         </div>
       </div>
 

@@ -117,7 +117,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
-        <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-8">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6 sm:space-y-8">
           <Breadcrumbs
             items={[
               { label: 'Tours & Excursions', href: '/tours' },
@@ -126,7 +126,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
           />
 
           {/* Header Banner */}
-          <div className="relative rounded-xl overflow-hidden bg-stone-900 text-white p-8 sm:p-12 shadow-sm border border-stone-200 dark:border-stone-800">
+          <div className="relative rounded-xl overflow-hidden bg-stone-900 text-white p-6 sm:p-10 lg:p-12 shadow-sm border border-stone-200 dark:border-stone-800">
             {heroImage && (
               <>
                 <OptimizedImage
@@ -140,11 +140,11 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
               </>
             )}
 
-            <div className="relative z-10 max-w-2xl space-y-3">
-              <span className="text-xs font-semibold text-amber-400 uppercase tracking-widest font-serif block">
+            <div className="relative z-10 max-w-2xl space-y-2.5 sm:space-y-3">
+              <span className="text-[11px] sm:text-xs font-semibold text-amber-400 uppercase tracking-widest font-serif block">
                 {subtitle}
               </span>
-              <h1 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight">
+              <h1 className="font-serif text-2xl sm:text-4xl lg:text-5xl font-bold tracking-tight leading-tight">
                 {title}
               </h1>
               <p className="text-xs sm:text-sm text-stone-200 leading-relaxed font-light">
