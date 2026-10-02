@@ -30,13 +30,90 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
     ? TOURS_DATA.filter(customFilter)
     : TOURS_DATA.filter(t => t.category.toLowerCase() === category.toLowerCase());
 
+  // Category specific keywords for search indexing
+  const categoryKeywords = [
+    title,
+    subtitle,
+    category,
+    'private Egypt tours',
+    'certified Egyptologist guide',
+    'Egypt travel packages',
+    'Luxor and Nile cruises',
+    'Genuine Egypte'
+  ].join(', ');
+
+  // Schema.org CollectionPage & ItemList Structured Data
+  const categoryJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'CollectionPage',
+        '@id': `https://genuineegypte.com${canonicalPath}#webpage`,
+        name: `${title} | Genuine Egypte`,
+        description,
+        url: `https://genuineegypte.com${canonicalPath}`,
+        isPartOf: {
+          '@type': 'WebSite',
+          name: 'Genuine Egypte',
+          url: 'https://genuineegypte.com'
+        },
+        about: {
+          '@type': 'Thing',
+          name: category
+        },
+        mainEntity: {
+          '@type': 'ItemList',
+          numberOfItems: tours.length,
+          itemListElement: tours.slice(0, 24).map((t, idx) => ({
+            '@type': 'ListItem',
+            position: idx + 1,
+            name: t.title,
+            url: `https://genuineegypte.com/booking/${t.slug}/`,
+            image: t.mainImage.startsWith('http') ? t.mainImage : `https://genuineegypte.com${t.mainImage}`,
+            description: t.shortDescription
+          }))
+        }
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `https://genuineegypte.com${canonicalPath}#breadcrumbs`,
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Home',
+            item: 'https://genuineegypte.com/'
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'Tours & Excursions',
+            item: 'https://genuineegypte.com/tours'
+          },
+          {
+            '@type': 'ListItem',
+            position: 3,
+            name: title,
+            item: `https://genuineegypte.com${canonicalPath}`
+          }
+        ]
+      }
+    ]
+  };
+
+  const effectiveOgImage = heroImage || tours[0]?.mainImage || '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
+
   return (
     <>
       <SEOHead
         title={`${title} – Genuine Egypte`}
         description={description}
         canonicalPath={canonicalPath}
-        ogImage={heroImage || (tours[0]?.mainImage)}
+        ogImage={effectiveOgImage}
+        ogImageAlt={`${title} – ${subtitle}`}
+        ogType="website"
+        keywords={categoryKeywords}
+        jsonLd={categoryJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
@@ -154,8 +231,8 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {tours.map((tour) => (
-                <TourCard key={tour.id} tour={tour} />
+              {tours.map((tour, idx) => (
+                <TourCard key={tour.id} tour={tour} priority={idx < 3} />
               ))}
             </div>
           </div>

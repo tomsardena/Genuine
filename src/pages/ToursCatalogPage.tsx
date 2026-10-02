@@ -112,12 +112,77 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
   const visibleTours = filteredTours.slice(0, visibleCount);
   const hasMore = visibleCount < filteredTours.length;
 
+  const catalogKeywords = [
+    'Egypt private tours',
+    'Nile river cruises',
+    'Luxor day trips',
+    'Aswan excursions',
+    'Cairo Pyramids tours',
+    'Dahabiya sailing Egypt',
+    'Abu Simbel tours',
+    'certified Egyptologist guides',
+    'Genuine Egypte'
+  ].join(', ');
+
+  const catalogJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'CollectionPage',
+        '@id': 'https://genuineegypte.com/tours#catalog',
+        name: pageTitle,
+        description: pageDescription,
+        url: 'https://genuineegypte.com/tours',
+        isPartOf: {
+          '@type': 'WebSite',
+          name: 'Genuine Egypte',
+          url: 'https://genuineegypte.com'
+        },
+        mainEntity: {
+          '@type': 'ItemList',
+          numberOfItems: filteredTours.length,
+          itemListElement: visibleTours.slice(0, 20).map((t, idx) => ({
+            '@type': 'ListItem',
+            position: idx + 1,
+            name: t.title,
+            url: `https://genuineegypte.com/booking/${t.slug}/`,
+            image: t.mainImage.startsWith('http') ? t.mainImage : `https://genuineegypte.com${t.mainImage}`,
+            description: t.shortDescription
+          }))
+        }
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': 'https://genuineegypte.com/tours#breadcrumbs',
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Home',
+            item: 'https://genuineegypte.com/'
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'All Tours & Cruises',
+            item: 'https://genuineegypte.com/tours'
+          }
+        ]
+      }
+    ]
+  };
+
   return (
     <>
       <SEOHead
         title={pageTitle}
         description={pageDescription}
         canonicalPath="/tours"
+        keywords={catalogKeywords}
+        ogImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
+        ogImageAlt="Genuine Egypte luxury tours and Nile cruise catalog"
+        ogType="website"
+        jsonLd={catalogJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 transition-colors">
@@ -261,8 +326,8 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
           {filteredTours.length > 0 ? (
             <>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                {visibleTours.map((tour) => (
-                  <TourCard key={tour.id} tour={tour} />
+                {visibleTours.map((tour, index) => (
+                  <TourCard key={tour.id} tour={tour} priority={index < 3} />
                 ))}
               </div>
 

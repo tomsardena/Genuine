@@ -46,6 +46,66 @@ export const HomePage: React.FC = () => {
   // Private Transfers preview
   const transferTours = TOURS_DATA.filter(t => t.category === 'Private Transfers').slice(0, 3);
 
+  const homeKeywords = [
+    'Genuine Egypte',
+    'Egypt private tours',
+    'Nile River cruises',
+    'Luxor Egypt tours',
+    'Cairo Pyramids private tour',
+    'Aswan and Abu Simbel excursion',
+    'Dahabiya Nile cruise',
+    'licensed Egyptologist guides',
+    'Egypt travel agency'
+  ].join(', ');
+
+  const homeJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebSite',
+        '@id': 'https://genuineegypte.com/#website',
+        url: 'https://genuineegypte.com/',
+        name: 'Genuine Egypte',
+        description: 'Authentic private Egypt tours, luxury Nile cruises, and intercity transfers led by licensed Egyptologists.',
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: 'https://genuineegypte.com/tours?search={search_term_string}',
+          'query-input': 'required name=search_term_string'
+        }
+      },
+      {
+        '@type': 'TravelAgency',
+        '@id': 'https://genuineegypte.com/#agency',
+        name: 'Genuine Egypte',
+        alternateName: 'Genuine Egypt Tours',
+        url: 'https://genuineegypte.com/',
+        logo: 'https://genuineegypte.com/assets/logo.png',
+        image: 'https://genuineegypte.com/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
+        description: 'Official website of Genuine Egypte: private tours, luxury Nile cruises, Cairo and Luxor excursions, and private transfers across Egypt led by licensed Egyptologists.',
+        telephone: ['+201070335551', '+201022721263'],
+        email: 'info@genuineegypte.com',
+        address: {
+          '@type': 'PostalAddress',
+          streetAddress: '44 Khaled Ibn Al Waleed Street',
+          addressLocality: 'Luxor',
+          addressCountry: 'EG'
+        },
+        geo: {
+          '@type': 'GeoCoordinates',
+          latitude: 25.6872,
+          longitude: 32.6396
+        },
+        priceRange: '$$',
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: '4.95',
+          reviewCount: '156',
+          bestRating: '5'
+        }
+      }
+    ]
+  };
+
   return (
     <>
       <SEOHead
@@ -53,6 +113,10 @@ export const HomePage: React.FC = () => {
         description="Official website of Genuine Egypte: private tours, luxury Nile cruises, Cairo and Luxor excursions, and private transfers across Egypt led by licensed Egyptologists."
         canonicalPath="/"
         ogImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
+        ogImageAlt="Genuine Egypte Luxury Nile Cruises & Private Tours"
+        ogType="website"
+        keywords={homeKeywords}
+        jsonLd={homeJsonLd}
       />
 
       {/* Hero Section */}

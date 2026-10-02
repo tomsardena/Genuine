@@ -7,9 +7,10 @@ import { OptimizedImage } from './OptimizedImage';
 
 interface TourCardProps {
   tour: TourItem;
+  priority?: boolean;
 }
 
-export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
+export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) => {
   const [inquiryOpen, setInquiryOpen] = useState(false);
 
   // Link to original booking URL slug
@@ -23,6 +24,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour }) => {
           <OptimizedImage
             src={tour.mainImage}
             alt={`${tour.title} – private excursion in ${tour.destination}, Egypt`}
+            priority={priority}
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
             className="w-full h-full object-cover transition-transform duration-500 ease-out group-hover:scale-105"
           />

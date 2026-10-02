@@ -35,6 +35,57 @@ export const DestinationDetailPage: React.FC<DestinationDetailPageProps> = ({ sl
     (destination.slug === 'cairo-giza' && (t.destination.includes('Cairo') || t.category.includes('Cairo')))
   );
 
+  const destinationKeywords = [
+    `${destination.name} tours`,
+    `${destination.name} excursions`,
+    `${destination.name} travel guide`,
+    'private Egyptologist guide',
+    'authentic Egypt travel',
+    'Genuine Egypte'
+  ].join(', ');
+
+  const destinationJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'TouristDestination',
+        '@id': `https://genuineegypte.com/destinations/${destination.slug}#place`,
+        name: destination.name,
+        description: destination.description,
+        image: destination.image.startsWith('http') ? destination.image : `https://genuineegypte.com${destination.image}`,
+        touristType: 'Cultural and Historical Tourism',
+        containsPlace: {
+          '@type': 'Country',
+          name: 'Egypt'
+        }
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `https://genuineegypte.com/destinations/${destination.slug}#breadcrumbs`,
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Home',
+            item: 'https://genuineegypte.com/'
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'Destinations',
+            item: 'https://genuineegypte.com/destinations'
+          },
+          {
+            '@type': 'ListItem',
+            position: 3,
+            name: destination.name,
+            item: `https://genuineegypte.com/destinations/${destination.slug}`
+          }
+        ]
+      }
+    ]
+  };
+
   return (
     <>
       <SEOHead
@@ -42,6 +93,10 @@ export const DestinationDetailPage: React.FC<DestinationDetailPageProps> = ({ sl
         description={destination.description}
         canonicalPath={`/destinations/${destination.slug}`}
         ogImage={destination.image}
+        ogImageAlt={`${destination.name}, Egypt – private excursions and Nile cruises`}
+        ogType="website"
+        keywords={destinationKeywords}
+        jsonLd={destinationJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">

@@ -8,6 +8,17 @@
     --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
   }
 
+  html {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+
+  body {
+    overflow-x: hidden;
+    max-width: 100%;
+    position: relative;
+  }
+
   html.dark {
     color-scheme: dark;
   }
@@ -64,10 +75,23 @@ html.dark ::-webkit-scrollbar-thumb:hover {
   animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) 0.2s both;
 }
 
+/* Blur-up placeholder shimmer */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 1.8s infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .animate-fade-in-up {
+  .animate-fade-in-up,
+  .animate-shimmer {
     animation: none !important;
-    opacity: 1 !important;
-    transform: none !important;
   }
 }

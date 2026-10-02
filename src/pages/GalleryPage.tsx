@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { GALLERY_DATA, GALLERY_CATEGORIES, GalleryImage } from '../data/galleryData';
 import { SEOHead } from '../components/SEOHead';
+import { OptimizedImage } from '../components/OptimizedImage';
 import { Link } from '../utils/router';
 import {
   Camera,
@@ -72,9 +73,10 @@ export const GalleryPage: React.FC = () => {
         {/* Hero Header */}
         <section className="relative py-16 sm:py-20 bg-stone-900 text-white overflow-hidden">
           <div className="absolute inset-0 z-0">
-            <img
+            <OptimizedImage
               src="/images/gallery/IMG-20261001-WA0012.jpg"
               alt="Egyptian sunset on the River Nile"
+              priority
               className="w-full h-full object-cover filter brightness-40 blur-xs"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-stone-900 via-stone-900/70 to-black/50" />
@@ -181,10 +183,11 @@ export const GalleryPage: React.FC = () => {
                   onClick={() => setSelectedImageIndex(idx)}
                   className="group relative rounded-xl overflow-hidden bg-stone-900 aspect-[4/5] cursor-pointer border border-stone-200 dark:border-stone-800 shadow-sm hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1"
                 >
-                  <img
+                  <OptimizedImage
                     src={item.image}
-                    alt={item.title}
-                    loading="lazy"
+                    alt={`${item.title} – ${item.location}, Egypt`}
+                    priority={idx < 4}
+                    sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 filter brightness-95 group-hover:brightness-100"
                   />
 
@@ -263,9 +266,11 @@ export const GalleryPage: React.FC = () => {
           >
             {/* Image Box */}
             <div className="flex-1 bg-black flex items-center justify-center p-2 min-h-[320px] max-h-[60vh] md:max-h-[85vh]">
-              <img
+              <OptimizedImage
                 src={activeImage.image}
                 alt={activeImage.title}
+                priority
+                sizes="(max-width: 1024px) 90vw, 1000px"
                 className="max-h-full max-w-full object-contain rounded-lg"
               />
             </div>

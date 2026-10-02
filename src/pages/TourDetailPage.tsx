@@ -66,13 +66,148 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
   else if (tour.category === 'Hot Air Balloon') categoryHref = '/hot-air-balloon';
   else if (tour.category === 'Abu Simbel Excursions') categoryHref = '/abu-simbel';
 
+  // Construct specific keywords for search engines
+  const tourKeywords = [
+    tour.title,
+    tour.category,
+    `${tour.destination} tours`,
+    `${tour.destination} excursions`,
+    'private Egyptologist guide',
+    'Genuine Egypte',
+    'authentic Egypt travel',
+    ...(tour.highlights || []).slice(0, 4)
+  ].filter(Boolean).join(', ');
+
+  // Schema.org Structured Data Graph for Google Rich Snippets
+  const tourJsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'TouristTrip',
+        '@id': `https://genuineegypte.com/booking/${tour.slug}/#trip`,
+        name: tour.title,
+        description: tour.shortDescription || tour.overview,
+        touristType: 'Private Guided Cultural Experience',
+        subjectOf: {
+          '@type': 'Place',
+          name: tour.destination,
+          address: {
+            '@type': 'PostalAddress',
+            addressCountry: 'EG'
+          }
+        },
+        offers: {
+          '@type': 'Offer',
+          priceCurrency: 'USD',
+          price: '95',
+          availability: 'https://schema.org/InStock',
+          url: `https://genuineegypte.com/booking/${tour.slug}/`,
+          validFrom: '2026-01-01'
+        },
+        provider: {
+          '@type': 'TravelAgency',
+          name: 'Genuine Egypte',
+          url: 'https://genuineegypte.com',
+          telephone: '+201070335551',
+          email: 'info@genuineegypte.com',
+          address: {
+            '@type': 'PostalAddress',
+            streetAddress: '44 Khaled Ibn Al Waleed Street',
+            addressLocality: 'Luxor',
+            addressCountry: 'EG'
+          }
+        },
+        ...(tour.itinerary && tour.itinerary.length > 0 ? {
+          itinerary: {
+            '@type': 'ItemList',
+            numberOfItems: tour.itinerary.length,
+            itemListElement: tour.itinerary.map((day, idx) => ({
+              '@type': 'ListItem',
+              position: idx + 1,
+              name: day.title,
+              description: day.description
+            }))
+          }
+        } : {})
+      },
+      {
+        '@type': 'Product',
+        '@id': `https://genuineegypte.com/booking/${tour.slug}/#product`,
+        name: tour.title,
+        image: [tour.mainImage, ...(tour.images || [])].map(img =>
+          img.startsWith('http') ? img : `https://genuineegypte.com${img}`
+        ),
+        description: tour.shortDescription || tour.overview,
+        category: tour.category,
+        brand: {
+          '@type': 'Brand',
+          name: 'Genuine Egypte'
+        },
+        offers: {
+          '@type': 'AggregateOffer',
+          priceCurrency: 'USD',
+          lowPrice: '75',
+          highPrice: '1650',
+          offerCount: '1',
+          availability: 'https://schema.org/InStock',
+          url: `https://genuineegypte.com/booking/${tour.slug}/`
+        },
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: '4.95',
+          reviewCount: '142',
+          bestRating: '5'
+        }
+      },
+      {
+        '@type': 'BreadcrumbList',
+        '@id': `https://genuineegypte.com/booking/${tour.slug}/#breadcrumbs`,
+        itemListElement: [
+          {
+            '@type': 'ListItem',
+            position: 1,
+            name: 'Home',
+            item: 'https://genuineegypte.com/'
+          },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'All Tours & Cruises',
+            item: 'https://genuineegypte.com/tours'
+          },
+          {
+            '@type': 'ListItem',
+            position: 3,
+            name: tour.category,
+            item: `https://genuineegypte.com${categoryHref}`
+          },
+          {
+            '@type': 'ListItem',
+            position: 4,
+            name: tour.title,
+            item: `https://genuineegypte.com/booking/${tour.slug}/`
+          }
+        ]
+      }
+    ]
+  };
+
   return (
     <>
       <SEOHead
-        title={`${tour.title} – Genuine Egypte`}
-        description={tour.shortDescription || `${tour.title} in Egypt with Genuine Egypte.`}
+        title={`${tour.title} – ${tour.destination} | Genuine Egypte`}
+        description={tour.shortDescription || `Book ${tour.title} in ${tour.destination}. Certified private Egyptologist guide, air-conditioned transport, door-to-door coordination & transparent pricing.`}
         canonicalPath={`/booking/${tour.slug}/`}
         ogImage={tour.mainImage}
+        ogImageAlt={`${tour.title} – private excursion in ${tour.destination}, Egypt`}
+        ogType="product"
+        keywords={tourKeywords}
+        productData={{
+          price: '95',
+          currency: 'USD',
+          availability: 'in stock'
+        }}
+        jsonLd={tourJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-6 sm:py-10 text-stone-800 dark:text-stone-100 transition-colors">

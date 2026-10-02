@@ -5,7 +5,16 @@ export interface SEOHeadProps {
   description: string;
   canonicalPath?: string;
   ogImage?: string;
+  ogImageAlt?: string;
   ogType?: 'website' | 'article' | 'product';
+  keywords?: string;
+  robots?: string;
+  author?: string;
+  productData?: {
+    price?: string;
+    currency?: string;
+    availability?: string;
+  };
   jsonLd?: Record<string, any> | Array<Record<string, any>>;
 }
 
@@ -14,16 +23,22 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
   description,
   canonicalPath = '',
   ogImage = '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
+  ogImageAlt,
   ogType = 'website',
+  keywords,
+  robots = 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1',
+  author = 'Genuine Egypte (Licensed Egyptologist Guides & Nile Cruises)',
+  productData,
   jsonLd
 }) => {
   useEffect(() => {
-    // 1. Title
+    // 1. Page Title
     const formattedTitle = title.includes('Genuine Egypte') ? title : `${title} | Genuine Egypte`;
     document.title = formattedTitle;
 
-    // Helper to get or create meta tag
-    const setMetaTag = (attributeName: string, attributeValue: string, content: string) => {
+    // Helper to get or create a <meta> tag
+    const setMetaTag = (attributeName: string, attributeValue: string, content: string | undefined) => {
+      if (!content) return;
       let meta = document.querySelector(`meta[${attributeName}="${attributeValue}"]`);
       if (!meta) {
         meta = document.createElement('meta');
@@ -33,8 +48,13 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
       meta.setAttribute('content', content);
     };
 
-    // 2. Standard Meta Description
+    // 2. Standard Meta Description & Indexing Directives
     setMetaTag('name', 'description', description);
+    setMetaTag('name', 'robots', robots);
+    setMetaTag('name', 'author', author);
+    if (keywords) {
+      setMetaTag('name', 'keywords', keywords);
+    }
 
     // 3. Canonical URL
     const fullUrl = `https://genuineegypte.com${canonicalPath.startsWith('/') ? canonicalPath : `/${canonicalPath}`}`;
@@ -52,15 +72,38 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
     setMetaTag('property', 'og:description', description);
     setMetaTag('property', 'og:url', fullUrl);
     setMetaTag('property', 'og:image', fullOgImage);
+    setMetaTag('property', 'og:image:alt', ogImageAlt || title);
     setMetaTag('property', 'og:type', ogType);
     setMetaTag('property', 'og:site_name', 'Genuine Egypte');
+    setMetaTag('property', 'og:locale', 'en_US');
 
-    // 5. Twitter Card Tags
+    // Product-specific OpenGraph tags if applicable
+    if (ogType === 'product' && productData) {
+      setMetaTag('property', 'product:price:amount', productData.price || '95');
+      setMetaTag('property', 'product:price:currency', productData.currency || 'USD');
+      setMetaTag('property', 'product:availability', productData.availability || 'in stock');
+    }
+
+    // 5. Twitter / X Card Tags
     setMetaTag('name', 'twitter:card', 'summary_large_image');
     setMetaTag('name', 'twitter:title', formattedTitle);
     setMetaTag('name', 'twitter:description', description);
     setMetaTag('name', 'twitter:image', fullOgImage);
-  }, [title, description, canonicalPath, ogImage, ogType]);
+    setMetaTag('name', 'twitter:image:alt', ogImageAlt || title);
+    setMetaTag('name', 'twitter:site', '@genuineegypte');
+
+    // 6. Schema.org JSON-LD Script Injection in document.head
+    if (jsonLd) {
+      let script = document.getElementById('seo-structured-data') as HTMLScriptElement | null;
+      if (!script) {
+        script = document.createElement('script');
+        script.id = 'seo-structured-data';
+        script.type = 'application/ld+json';
+        document.head.appendChild(script);
+      }
+      script.textContent = JSON.stringify(jsonLd);
+    }
+  }, [title, description, canonicalPath, ogImage, ogImageAlt, ogType, keywords, robots, author, productData, jsonLd]);
 
   return (
     <>
