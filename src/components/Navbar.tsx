@@ -66,13 +66,13 @@ export const Navbar: React.FC = () => {
 
       {/* Main Navigation Bar */}
       <header className="sticky top-0 z-40 bg-white/95 dark:bg-[#161412]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800 transition-colors">
-        <div className="max-w-7xl mx-auto px-4 sm:px-8 h-18 flex items-center justify-between gap-4">
+        <div className="max-w-7xl mx-auto px-4 sm:px-8 min-h-[4.75rem] h-20 flex items-center justify-between gap-4">
           {/* Zone 1: Single element wordmark & logo */}
-          <Link to="/" className="flex items-center gap-3 shrink-0 group">
+          <Link to="/" className="flex items-center gap-3.5 shrink-0 group">
             <img
-              src="/assets/logo.webp"
+              src="/assets/logo.png"
               alt="Genuine Egypte"
-              className="h-10 w-auto object-contain transition-transform duration-300 group-hover:scale-102"
+              className="h-14 sm:h-16 w-auto object-contain bg-transparent transition-transform duration-300 group-hover:scale-105 drop-shadow-sm"
               onError={(e) => {
                 // If logo fails, keep wordmark visible
                 (e.target as HTMLElement).style.display = 'none';

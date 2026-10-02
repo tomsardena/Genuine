@@ -40,6 +40,26 @@ app.get('/sitemap.xml', (_req, res) => {
   res.sendFile(target);
 });
 
+// Explicit routes for PWA manifest and service worker
+app.get(['/manifest.webmanifest', '/manifest.json'], (_req, res) => {
+  const rootManifest = path.join(__dirname, 'public', 'manifest.webmanifest');
+  const distManifest = path.join(__dirname, 'dist', 'manifest.webmanifest');
+  const target = fs.existsSync(rootManifest) ? rootManifest : distManifest;
+  res.setHeader('Content-Type', 'application/manifest+json; charset=utf-8');
+  res.sendFile(target);
+});
+
+app.get(['/sw.js', '/dev-sw.js', '/registerSW.js'], (req, res) => {
+  const fileName = path.basename(req.path);
+  const distFile = path.join(__dirname, 'dist', fileName);
+  if (fs.existsSync(distFile)) {
+    res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
+    return res.sendFile(distFile);
+  }
+  res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
+  res.send('self.addEventListener("install", () => self.skipWaiting()); self.addEventListener("activate", () => self.clients.claim());');
+});
+
 // Tour Data Definitions & Knowledge Base Index
 interface TourRecord {
   id: string;

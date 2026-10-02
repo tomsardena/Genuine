@@ -11,12 +11,20 @@ export const Footer: React.FC = () => {
         {/* Brand & Mission Row */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 pb-12 border-b border-stone-800">
           <div className="lg:col-span-4 space-y-4">
-            <Link to="/" className="inline-block group" aria-label="Genuine Egypte Home">
+            <Link to="/" className="flex items-center gap-3">
               <img
                 src="/assets/logo.png"
-                alt="Genuine Egypte"
-                className="h-14 sm:h-16 w-auto object-contain rounded-md shadow-xs transition-transform duration-300 group-hover:scale-102"
+                alt="Genuine Egypte Logo"
+                className="h-14 sm:h-16 w-auto object-contain bg-transparent brightness-110"
               />
+              <div className="flex flex-col">
+                <span className="font-serif text-xl font-bold tracking-tight text-white">
+                  Genuine Egypte
+                </span>
+                <span className="text-[10px] tracking-widest text-amber-400 uppercase font-medium">
+                  Travel Agency & Art House
+                </span>
+              </div>
             </Link>
 
             <p className="text-xs text-stone-400 leading-relaxed">
