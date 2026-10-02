@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <defs>
+    <!-- Rich Deep Burgundy Background -->
+    <radialGradient id="burgundyBg" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#3D0307"/>
+      <stop offset="70%" stop-color="#280104"/>
+      <stop offset="100%" stop-color="#1A0002"/>
+    </radialGradient>
+
+    <!-- Antique Gold Metallic Gradient -->
+    <linearGradient id="antiqueGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8C879"/>
+      <stop offset="25%" stop-color="#C59C46"/>
+      <stop offset="50%" stop-color="#F3DC9B"/>
+      <stop offset="75%" stop-color="#B28733"/>
+      <stop offset="100%" stop-color="#DFBD72"/>
+    </linearGradient>
+
+    <!-- Arc Path for Curved "AUTHENTIC TOURS" -->
+    <path id="archTextPath" d="M 320 780 A 190 190 0 0 0 680 780" fill="none"/>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="1000" height="1000" fill="url(#burgundyBg)"/>
+
+  <!-- Logo Group -->
+  <g id="genuine-egypt-logo" fill="url(#antiqueGold)" stroke="url(#antiqueGold)">
+
+    <!-- ================= TOP TYPOGRAPHY ================= -->
+    <g stroke="none" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', 'Georgia', serif" font-weight="700">
+      <text x="315" y="295" font-size="52" letter-spacing="14">GENUINE</text>
+      <text x="705" y="295" font-size="52" letter-spacing="14">EGYPT</text>
+    </g>
+
+    <!-- Subtitle: "EXPLORE MORE, PLAN LESS." -->
+    <text x="500" y="415" stroke="none" text-anchor="middle" font-family="'Trajan Pro', 'Cinzel', 'Montserrat', serif" font-size="21" font-weight="500" letter-spacing="8">&quot;EXPLORE MORE, PLAN LESS.&quot;</text>
+
+    <!-- ================= EMBLEM SYMBOL ================= -->
+    <g transform="translate(500, 580)" fill="none" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+      
+      <!-- Central Oval / Ankh Dome -->
+      <path d="M -48,-15 C -48,-70 48,-70 48,-15 C 48,20 22,55 0,55 C -22,55 -48,20 -48,-15 Z" stroke-width="4"/>
+      <path d="M -36,-15 C -36,-55 36,-55 36,-15 C 36,12 16,42 0,42 C -16,42 -36,12 -36,-15 Z" stroke-width="2.5"/>
+      
+      <!-- Inner Solid Teardrop -->
+      <path d="M 0,-34 C 10,-34 14,-18 14,-5 C 14,10 0,28 0,28 C 0,28 -14,10 -14,-5 C -14,-18 -10,-34 0,-34 Z" fill="url(#antiqueGold)" stroke="none"/>
+
+      <!-- Center Pillars -->
+      <line x1="-7" y1="42" x2="-7" y2="130" stroke-width="3.5"/>
+      <line x1="7" y1="42" x2="7" y2="130" stroke-width="3.5"/>
+
+      <!-- Left Wing Section -->
+      <g id="wing">
+        <path d="M -48,-15 L -370,-15 C -378,-15 -382,-2 -375,5 C -365,15 -320,38 -200,68 C -120,88 -40,105 -7,105" stroke-width="4.5"/>
+        <path d="M -48,-3 L -368,-3" stroke-width="3"/>
+        <path d="M -48,9 L -355,17" stroke-width="3"/>
+        <path d="M -48,22 C -180,24 -320,35 -342,42" stroke-width="3"/>
+
+        <!-- Feather Mesh Patch -->
+        <path d="M -48,22 C -60,0 -125,-2 -170,30 C -200,52 -180,82 -125,95 C -80,105 -50,85 -48,22 Z" stroke-width="3.5"/>
+        
+        <!-- Feather details -->
+        <path d="M -60,18 L -92,50 M -80,14 L -120,58 M -100,12 L -142,66 M -120,10 L -160,70 M -140,12 L -175,65" stroke-width="2"/>
+        <path d="M -72,36 L -115,75 M -90,32 L -138,82 M -110,28 L -155,88 M -130,28 L -165,82" stroke-width="2"/>
+
+        <!-- Outer Long Wing Feathers -->
+        <path d="M -170,30 C -240,32 -330,42 -350,52" stroke-width="2.5"/>
+        <path d="M -160,42 C -230,46 -300,56 -330,68" stroke-width="2.5"/>
+        <path d="M -145,55 C -210,60 -270,72 -300,85" stroke-width="2.5"/>
+        <path d="M -130,68 C -185,74 -235,88 -260,102" stroke-width="2.5"/>
+
+        <!-- Vertical Ribs -->
+        <line x1="-190" y1="-3" x2="-193" y2="31" stroke-width="2"/>
+        <line x1="-220" y1="-3" x2="-225" y2="34" stroke-width="2"/>
+        <line x1="-250" y1="-3" x2="-257" y2="37" stroke-width="2"/>
+        <line x1="-280" y1="-3" x2="-289" y2="40" stroke-width="2"/>
+        <line x1="-310" y1="-3" x2="-320" y2="44" stroke-width="2"/>
+        <line x1="-340" y1="-3" x2="-350" y2="48" stroke-width="2"/>
+      </g>
+
+      <!-- Right Wing Section (Mirrored) -->
+      <use href="#wing" transform="scale(-1, 1)"/>
+
+      <!-- Radiating Lower Spikes / Feathers -->
+      <g fill="url(#antiqueGold)" stroke="none">
+        <polygon points="0,195 -9,130 9,130"/>
+        <polygon points="-22,188 -30,128 -10,129"/>
+        <polygon points="22,188 10,129 30,128"/>
+        <polygon points="-44,176 -50,124 -28,127"/>
+        <polygon points="44,176 28,127 50,124"/>
+        <polygon points="-65,160 -70,118 -48,123"/>
+        <polygon points="65,160 48,123 70,118"/>
+        <polygon points="-85,140 -88,108 -66,116"/>
+        <polygon points="85,140 66,116 88,108"/>
+        <polygon points="-105,118 -105,96 -84,106"/>
+        <polygon points="105,118 84,106 105,96"/>
+        <polygon points="-122,94 -120,82 -98,92"/>
+        <polygon points="122,94 98,92 120,82"/>
+      </g>
+
+      <!-- Bottom Arch Line -->
+      <path d="M -135,82 Q 0,165 135,82" stroke-width="2.5" fill="none"/>
+    </g>
+
+    <!-- ================= LOWER CURVED TEXT ================= -->
+    <text font-family="'Trajan Pro', 'Cinzel', 'Montserrat', serif" font-size="20" font-weight="600" fill="url(#antiqueGold)" stroke="none" letter-spacing="6">
+      <textPath href="#archTextPath" startOffset="50%" text-anchor="middle">AUTHENTIC TOURS</textPath>
+    </text>
+
+  </g>
+</svg>
