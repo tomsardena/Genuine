@@ -4,6 +4,8 @@ import { ThemeProvider } from './utils/theme';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
 import { MahmodChatbot } from './components/MahmodChatbot';
+import { OfflineIndicator } from './components/OfflineIndicator';
+import { PWAInstallBanner } from './components/PWAInstallBanner';
 
 import { HomePage } from './pages/HomePage';
 import { ToursCatalogPage } from './pages/ToursCatalogPage';
@@ -302,6 +304,8 @@ export default function App() {
           </main>
           <Footer />
           <MahmodChatbot />
+          <PWAInstallBanner />
+          <OfflineIndicator />
         </div>
       </RouterProvider>
     </ThemeProvider>

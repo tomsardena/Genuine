@@ -4,6 +4,7 @@ import { SITE_SETTINGS } from '../data/siteSettings';
 import { Phone, MessageCircle, Menu, X, Mail, MapPin } from 'lucide-react';
 import { InquiryModal } from './InquiryModal';
 import { ThemeToggle } from '../utils/theme';
+import { PWAInstallButton } from './PWAInstallButton';
 
 export const Navbar: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -112,6 +113,9 @@ export const Navbar: React.FC = () => {
             {/* Theme Toggle Button */}
             <ThemeToggle />
 
+            {/* In-App PWA Install Action */}
+            <PWAInstallButton variant="navbar" />
+
             <a
               href="https://wa.me/201070335551"
               target="_blank"
@@ -161,6 +165,8 @@ export const Navbar: React.FC = () => {
                 );
               })}
               <div className="pt-3 flex flex-col gap-2">
+                <PWAInstallButton variant="mobile" />
+
                 <a
                   href="https://wa.me/201070335551"
                   target="_blank"
