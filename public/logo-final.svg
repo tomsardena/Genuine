@@ -1,29 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 220 800 610" width="100%" height="100%">
   <defs>
-    <!-- Rich Deep Burgundy Background -->
-    <radialGradient id="burgundyBg" cx="50%" cy="50%" r="75%">
-      <stop offset="0%" stop-color="#3D0307"/>
-      <stop offset="70%" stop-color="#280104"/>
-      <stop offset="100%" stop-color="#1A0002"/>
-    </radialGradient>
-
     <!-- Antique Gold Metallic Gradient -->
     <linearGradient id="antiqueGold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#E8C879"/>
-      <stop offset="25%" stop-color="#C59C46"/>
-      <stop offset="50%" stop-color="#F3DC9B"/>
-      <stop offset="75%" stop-color="#B28733"/>
-      <stop offset="100%" stop-color="#DFBD72"/>
+      <stop offset="0%" stop-color="#C59C46"/>
+      <stop offset="25%" stop-color="#9E731E"/>
+      <stop offset="50%" stop-color="#DEB766"/>
+      <stop offset="75%" stop-color="#8E6312"/>
+      <stop offset="100%" stop-color="#B88E38"/>
     </linearGradient>
 
     <!-- Arc Path for Curved "AUTHENTIC TOURS" -->
     <path id="archTextPath" d="M 320 780 A 190 190 0 0 0 680 780" fill="none"/>
   </defs>
 
-  <!-- Background Layer -->
-  <rect width="1000" height="1000" fill="url(#burgundyBg)"/>
-
-  <!-- Logo Group -->
+  <!-- Logo Group with Transparent Background -->
   <g id="genuine-egypt-logo" fill="url(#antiqueGold)" stroke="url(#antiqueGold)">
 
     <!-- ================= TOP TYPOGRAPHY ================= -->

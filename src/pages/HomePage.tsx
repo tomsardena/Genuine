@@ -79,8 +79,8 @@ export const HomePage: React.FC = () => {
         name: 'Genuine Egypte',
         alternateName: 'Genuine Egypt Tours',
         url: 'https://genuineegypte.com/',
-        logo: 'https://genuineegypte.com/assets/logo.png',
-        image: 'https://genuineegypte.com/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
+        logo: 'https://genuineegypte.com/assets/logo-final.svg',
+        image: 'https://genuineegypte.com/images/6ebc7c41-a104-4c52-92eb-29654c8c63a8.jpg',
         description: 'Official website of Genuine Egypte: private tours, luxury Nile cruises, Cairo and Luxor excursions, and private transfers across Egypt led by licensed Egyptologists.',
         telephone: ['+201070335551', '+201022721263'],
         email: 'info@genuineegypte.com',
@@ -112,7 +112,7 @@ export const HomePage: React.FC = () => {
         title="Genuine Egypte | Travel Agency – Private Tours, Nile Cruises & Transfers"
         description="Official website of Genuine Egypte: private tours, luxury Nile cruises, Cairo and Luxor excursions, and private transfers across Egypt led by licensed Egyptologists."
         canonicalPath="/"
-        ogImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
+        ogImage="/images/6ebc7c41-a104-4c52-92eb-29654c8c63a8.jpg"
         ogImageAlt="Genuine Egypte Luxury Nile Cruises & Private Tours"
         ogType="website"
         keywords={homeKeywords}
@@ -124,8 +124,8 @@ export const HomePage: React.FC = () => {
         {/* Background Image with Measured Contrast Scrim */}
         <div className="absolute inset-0 z-0">
           <OptimizedImage
-            src="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
-            alt="Royal Ruby Luxury Nile Cruise in Luxor and Aswan by Genuine Egypte"
+            src="/images/6ebc7c41-a104-4c52-92eb-29654c8c63a8.jpg"
+            alt="Genuine Egypte – authentic private tours and Nile cruise journeys"
             priority={true}
             sizes="100vw"
             className="w-full h-full object-cover object-center filter brightness-65"

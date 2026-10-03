@@ -66,26 +66,15 @@ export const Navbar: React.FC = () => {
 
       {/* Main Navigation Bar */}
       <header className="sticky top-0 z-40 bg-white/95 dark:bg-[#161412]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800 transition-colors">
-        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-16 sm:h-18 flex items-center justify-between gap-2 sm:gap-4">
+        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-18 sm:h-20 flex items-center justify-between gap-2 sm:gap-4">
           {/* Zone 1: Single element wordmark & logo */}
-          <Link to="/" className="flex items-center gap-2.5 sm:gap-3 shrink-0 group">
+          <Link to="/" className="flex items-center shrink-0 group py-1" aria-label="Genuine Egypte Home">
             <img
-              src="/assets/logo.webp"
-              alt="Genuine Egypte"
-              className="h-9 sm:h-10 w-auto object-contain transition-transform duration-300 group-hover:scale-102"
-              onError={(e) => {
-                // If logo fails, keep wordmark visible
-                (e.target as HTMLElement).style.display = 'none';
-              }}
+              src="/assets/logo-final.svg"
+              alt="Genuine Egypte – Authentic Tours"
+              className="h-12 sm:h-14 md:h-16 w-auto max-h-[64px] object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
             />
-            <div className="flex flex-col">
-              <span className="font-serif text-base sm:text-lg font-bold tracking-tight text-stone-900 dark:text-stone-100 leading-none group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
-                Genuine Egypte
-              </span>
-              <span className="hidden xs:block text-[9px] sm:text-[10px] tracking-widest text-amber-800/80 dark:text-amber-400/90 uppercase font-medium mt-0.5">
-                Travel Agency & Art House
-              </span>
-            </div>
+            <span className="sr-only">Genuine Egypte</span>
           </Link>
 
           {/* Zone 2: Navigation Links */}

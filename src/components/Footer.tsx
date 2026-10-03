@@ -13,9 +13,9 @@ export const Footer: React.FC = () => {
           <div className="lg:col-span-4 space-y-4">
             <Link to="/" className="inline-block group" aria-label="Genuine Egypte Home">
               <img
-                src="/assets/logo.png"
-                alt="Genuine Egypte"
-                className="h-14 sm:h-16 w-auto object-contain rounded-md shadow-xs transition-transform duration-300 group-hover:scale-102"
+                src="/assets/logo-final.svg"
+                alt="Genuine Egypte Emblem"
+                className="h-16 sm:h-20 w-auto object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
               />
             </Link>
 
