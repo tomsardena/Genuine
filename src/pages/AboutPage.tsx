@@ -6,6 +6,29 @@ import { Link } from '../utils/router';
 import { Award, ShieldCheck, HeartHandshake, MapPin, Users, Compass, ArrowRight, MessageCircle } from 'lucide-react';
 
 export const AboutPage: React.FC = () => {
+  const aboutJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    mainEntity: {
+      '@type': 'TravelAgency',
+      name: 'Genuine Egypte',
+      alternateName: 'Genuine Egypt Tours',
+      url: 'https://genuineegypte.com',
+      logo: 'https://genuineegypte.com/assets/logo-final.svg',
+      description: 'Independent Luxor-based tour operator founded by certified Egyptologists dedicated to unhurried, authentic travel experiences across Egypt.',
+      foundingLocation: {
+        '@type': 'Place',
+        name: 'Luxor, Egypt'
+      },
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: '44 Khaled Ibn Al Waleed Street',
+        addressLocality: 'Luxor',
+        addressCountry: 'EG'
+      }
+    }
+  };
+
   return (
     <>
       <SEOHead
@@ -13,6 +36,7 @@ export const AboutPage: React.FC = () => {
         description="Learn about Genuine Egypte, an independent Luxor-based tour operator founded by certified Egyptologists dedicated to unhurried, authentic travel experiences across Egypt."
         canonicalPath="/about"
         ogImage="/images/tours/KOM-OMBO-1-1-1.webp"
+        jsonLd={aboutJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">

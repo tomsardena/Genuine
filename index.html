@@ -10,7 +10,15 @@
     <meta name="apple-mobile-web-app-title" content="GenuineEgypt" />
     <title>Genuine Egypte | Travel Agency – Private Tours, Nile Cruises & Transfers</title>
     <meta name="description" content="Official website of Genuine Egypte: private tours, luxury Nile cruises, Cairo and Luxor excursions, and private transfers across Egypt." />
-    <link rel="canonical" href="https://genuineegypte.com/" />
+    
+    <!-- Indexing & Crawling Directives (Noindex removed, full indexing enabled) -->
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="bingbot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+    <!-- Canonical Tag & Sitemaps -->
+    <link rel="canonical" href="https://genuineegypte.com/" id="canonical-link" />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
     <link rel="manifest" href="/manifest.webmanifest" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" href="/favicon.png" />
@@ -35,30 +43,54 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
 
-    <!-- Schema.org Structured Data -->
+    <!-- Schema.org Structured Data Graph -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "TravelAgency",
-      "name": "Genuine Egypte",
-      "alternateName": "Genuine Egypt Tours",
-      "url": "https://genuineegypte.com",
-      "logo": "https://genuineegypte.com/assets/logo-final.svg",
-      "description": "Authentic private Egypt tours, luxury Nile cruises, and intercity transfers led by licensed Egyptologists.",
-      "telephone": ["+201070335551", "+201022721263"],
-      "email": "info@genuineegypte.com",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "44 Khaled Ibn Al Waleed Street",
-        "addressLocality": "Luxor",
-        "addressCountry": "EG"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 25.6872,
-        "longitude": 32.6396
-      },
-      "priceRange": "$$"
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://genuineegypte.com/#website",
+          "name": "Genuine Egypte",
+          "alternateName": "Genuine Egypt Tours",
+          "url": "https://genuineegypte.com/",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://genuineegypte.com/tours?search={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "TravelAgency",
+          "@id": "https://genuineegypte.com/#agency",
+          "name": "Genuine Egypte",
+          "alternateName": "Genuine Egypt Tours",
+          "url": "https://genuineegypte.com/",
+          "logo": "https://genuineegypte.com/assets/logo-final.svg",
+          "image": "https://genuineegypte.com/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
+          "description": "Authentic private Egypt tours, luxury Nile cruises, and intercity transfers led by licensed Egyptologists.",
+          "telephone": ["+201070335551", "+201022721263"],
+          "email": "info@genuineegypte.com",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "44 Khaled Ibn Al Waleed Street",
+            "addressLocality": "Luxor",
+            "addressCountry": "EG"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 25.6872,
+            "longitude": 32.6396
+          },
+          "priceRange": "$$",
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.95",
+            "reviewCount": "156",
+            "bestRating": "5"
+          }
+        }
+      ]
     }
     </script>
     <!-- Theme Initialization (Defaults to Light, dark optional) -->

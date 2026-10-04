@@ -36,12 +36,35 @@ export const ContactPage: React.FC = () => {
     window.open(url, '_blank', 'noopener,noreferrer');
   };
 
+  const contactJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ContactPage',
+    mainEntity: {
+      '@type': 'TravelAgency',
+      name: 'Genuine Egypte',
+      telephone: ['+201070335551', '+201022721263'],
+      email: 'info@genuineegypte.com',
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: '44 Khaled Ibn Al Waleed Street',
+        addressLocality: 'Luxor',
+        addressCountry: 'EG'
+      },
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: 25.6872,
+        longitude: 32.6396
+      }
+    }
+  };
+
   return (
     <>
       <SEOHead
         title="Contact Genuine Egypte – Luxor Office, Telephone & WhatsApp"
         description="Get in touch with Genuine Egypte in Luxor, Egypt. Contact our team at 44 Khaled Ibn Al Waleed Street, call +20 1070335551, or inquire via WhatsApp."
         canonicalPath="/contact"
+        jsonLd={contactJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">

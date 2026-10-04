@@ -48,17 +48,23 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
       meta.setAttribute('content', content);
     };
 
-    // 2. Standard Meta Description & Indexing Directives
+    // 2. Standard Meta Description & Indexing Directives (Ensuring full indexing & rich snippets)
     setMetaTag('name', 'description', description);
     setMetaTag('name', 'robots', robots);
+    setMetaTag('name', 'googlebot', robots);
+    setMetaTag('name', 'bingbot', robots);
     setMetaTag('name', 'author', author);
     if (keywords) {
       setMetaTag('name', 'keywords', keywords);
     }
 
     // 3. Canonical URL
-    const fullUrl = `https://genuineegypte.com${canonicalPath.startsWith('/') ? canonicalPath : `/${canonicalPath}`}`;
-    let canonical = document.querySelector('link[rel="canonical"]');
+    const normalizedPath = canonicalPath 
+      ? (canonicalPath.startsWith('/') ? canonicalPath : `/${canonicalPath}`)
+      : (window.location.pathname || '/');
+    const fullUrl = `https://genuineegypte.com${normalizedPath}`;
+    
+    let canonical = document.querySelector('link[rel="canonical"]') as HTMLLinkElement | null;
     if (!canonical) {
       canonical = document.createElement('link');
       canonical.setAttribute('rel', 'canonical');

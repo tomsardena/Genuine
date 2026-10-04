@@ -1,6 +1,7 @@
 # Genuine Egypte - Licensed Egyptian Tour Operator & Nile Cruise Specialist
 # Official Website: https://genuineegypte.com
 # Headquarters: 44 Khaled Ibn Al Waleed St, Luxor, Egypt
+# Contact: info@genuineegypte.com | WhatsApp: +201070335551
 
 User-agent: *
 Allow: /
@@ -8,6 +9,40 @@ Allow: /images/
 Allow: /assets/
 Disallow: /api/
 
-# Sitemap & Host Specification
+# Explicit search & AI web crawler permissions
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Sitemap & LLM Index
 Sitemap: https://genuineegypte.com/sitemap.xml
 Host: https://genuineegypte.com

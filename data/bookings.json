@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GE-MUSFOVCK-915",
+    "name": "Lord Carnarvon",
+    "email": "carnarvon@highclere.co.uk",
+    "phone": "+44 7700 900077",
+    "tourTitle": "4-Night Royal Ruby Luxury Nile Cruise",
+    "tourSlug": "4-night-royal-ruby-nile-cruise",
+    "date": "2026-11-25",
+    "travelers": "2 Travelers (Couple)",
+    "notes": "Interested in private access to Valley of the Kings with lead Egyptologist.",
+    "createdAt": "Oct 3, 2026, 4:34 PM (Cairo Time)",
+    "source": "Verification Test",
+    "telegramSent": false,
+    "telegramDetails": "Telegram bot token or chat ID is not configured.",
+    "emailSent": true,
+    "emailRecipient": "info@genuineegypte.com, kemethurghada.ag@gmail.com",
+    "emailDetails": "Inquiry saved. Notification queued for info@genuineegypte.com, kemethurghada.ag@gmail.com (Configure SMTP in settings or .env to activate live SMTP delivery)."
+  }
+]

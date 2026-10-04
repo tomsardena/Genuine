@@ -7,12 +7,30 @@ import { ArrowRight, MapPin } from 'lucide-react';
 import { OptimizedImage } from '../components/OptimizedImage';
 
 export const DestinationsPage: React.FC = () => {
+  const destinationsJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    name: 'Top Egypt Destinations & Regions',
+    itemListElement: DESTINATIONS_DATA.map((dest, idx) => ({
+      '@type': 'ListItem',
+      position: idx + 1,
+      item: {
+        '@type': 'TouristDestination',
+        name: dest.name,
+        description: dest.description,
+        url: `https://genuineegypte.com/destinations/${dest.slug}/`,
+        image: dest.image.startsWith('http') ? dest.image : `https://genuineegypte.com${dest.image}`
+      }
+    }))
+  };
+
   return (
     <>
       <SEOHead
         title="Destinations in Egypt – Luxor, Nile, Cairo, Aswan | Genuine Egypte"
         description="Explore Egypt’s most magnificent regions with Genuine Egypte: Luxor, the River Nile, Cairo & Giza, Aswan & Abu Simbel, Alexandria, and Hurghada."
         canonicalPath="/destinations"
+        jsonLd={destinationsJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">

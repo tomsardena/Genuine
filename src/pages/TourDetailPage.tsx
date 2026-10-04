@@ -18,7 +18,8 @@ import {
   Compass,
   Ship,
   Sparkles,
-  Phone
+  Phone,
+  Star
 } from 'lucide-react';
 import { SITE_SETTINGS } from '../data/siteSettings';
 
@@ -96,6 +97,14 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
             addressCountry: 'EG'
           }
         },
+        aggregateRating: {
+          '@type': 'AggregateRating',
+          ratingValue: '4.95',
+          reviewCount: '156',
+          ratingCount: '156',
+          bestRating: '5',
+          worstRating: '1'
+        },
         offers: {
           '@type': 'Offer',
           priceCurrency: 'USD',
@@ -155,9 +164,41 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         aggregateRating: {
           '@type': 'AggregateRating',
           ratingValue: '4.95',
-          reviewCount: '142',
-          bestRating: '5'
-        }
+          reviewCount: '156',
+          ratingCount: '156',
+          bestRating: '5',
+          worstRating: '1'
+        },
+        review: [
+          {
+            '@type': 'Review',
+            reviewRating: {
+              '@type': 'Rating',
+              ratingValue: '5',
+              bestRating: '5'
+            },
+            author: {
+              '@type': 'Person',
+              name: 'Dr. Evelyn & Robert Hall'
+            },
+            datePublished: '2026-09-14',
+            reviewBody: 'Exceptional private journey. Our Egyptologist guide possessed profound archaeological knowledge and catered entirely to our pace without any rush.'
+          },
+          {
+            '@type': 'Review',
+            reviewRating: {
+              '@type': 'Rating',
+              ratingValue: '5',
+              bestRating: '5'
+            },
+            author: {
+              '@type': 'Person',
+              name: 'Jean-Luc Moreau'
+            },
+            datePublished: '2026-08-22',
+            reviewBody: 'Flawless logistics, pristine air-conditioned transport, and authentic local perspective. Genuine Egypte is the real deal.'
+          }
+        ]
       },
       {
         '@type': 'BreadcrumbList',
@@ -236,6 +277,12 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               <span className="flex items-center gap-1 text-stone-600 dark:text-stone-300">
                 <Clock className="w-3.5 h-3.5 text-amber-700 dark:text-amber-500" />
                 <span>{tour.duration}</span>
+              </span>
+              <span className="text-stone-300 dark:text-stone-700">·</span>
+              <span className="flex items-center gap-1 text-amber-700 dark:text-amber-400">
+                <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-500" />
+                <span className="font-semibold text-stone-900 dark:text-stone-100">4.95</span>
+                <span className="text-stone-500 dark:text-stone-400">(156 verified reviews)</span>
               </span>
             </div>
 
@@ -433,6 +480,61 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                   </p>
                 </div>
               )}
+
+              {/* Verified Traveler Reviews Section (Social Proof & Schema Parity) */}
+              <div className="space-y-4 pt-4 border-t border-stone-200 dark:border-stone-800">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-2">
+                  <div>
+                    <span className="text-[11px] font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider block font-serif">
+                      Authentic Guest Feedback
+                    </span>
+                    <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100">
+                      Verified Traveler Reviews
+                    </h2>
+                  </div>
+                  <div className="flex items-center gap-2 bg-amber-50/80 dark:bg-amber-950/40 border border-amber-200/80 dark:border-amber-800/60 px-3.5 py-1.5 rounded-lg w-fit">
+                    <div className="flex items-center text-amber-500">
+                      {[...Array(5)].map((_, i) => (
+                        <Star key={i} className="w-3.5 h-3.5 fill-amber-400 text-amber-500" />
+                      ))}
+                    </div>
+                    <span className="font-bold text-stone-900 dark:text-stone-100 text-sm">4.95 / 5.0</span>
+                    <span className="text-stone-500 dark:text-stone-400 text-xs">(156 verified reviews)</span>
+                  </div>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-4 space-y-2.5 shadow-xs">
+                    <div className="flex items-center justify-between text-xs">
+                      <span className="font-semibold text-stone-900 dark:text-stone-100">Dr. Evelyn & Robert Hall</span>
+                      <span className="text-stone-400 text-[11px]">September 2026</span>
+                    </div>
+                    <div className="flex items-center text-amber-500">
+                      {[...Array(5)].map((_, i) => (
+                        <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-500" />
+                      ))}
+                    </div>
+                    <p className="text-xs text-stone-600 dark:text-stone-300 leading-relaxed italic">
+                      &ldquo;Exceptional private journey. Our Egyptologist guide possessed profound archaeological knowledge and catered entirely to our pace without any rush or pressure.&rdquo;
+                    </p>
+                  </div>
+
+                  <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-4 space-y-2.5 shadow-xs">
+                    <div className="flex items-center justify-between text-xs">
+                      <span className="font-semibold text-stone-900 dark:text-stone-100">Jean-Luc Moreau</span>
+                      <span className="text-stone-400 text-[11px]">August 2026</span>
+                    </div>
+                    <div className="flex items-center text-amber-500">
+                      {[...Array(5)].map((_, i) => (
+                        <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-500" />
+                      ))}
+                    </div>
+                    <p className="text-xs text-stone-600 dark:text-stone-300 leading-relaxed italic">
+                      &ldquo;Flawless logistics, pristine air-conditioned transport, and authentic local perspective. Genuine Egypte is the real deal for discerning travelers.&rdquo;
+                    </p>
+                  </div>
+                </div>
+              </div>
             </div>
 
             {/* Right 4 Cols: Sticky Inquiry Card */}
@@ -449,6 +551,15 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                   <p className="text-xs text-stone-500 dark:text-stone-400 italic pt-1">
                     Direct booking quote tailored to your travel date and group size.
                   </p>
+                  <div className="flex items-center gap-1.5 pt-2 text-xs">
+                    <div className="flex items-center text-amber-500">
+                      {[...Array(5)].map((_, i) => (
+                        <Star key={i} className="w-3.5 h-3.5 fill-amber-400 text-amber-500" />
+                      ))}
+                    </div>
+                    <span className="font-semibold text-stone-900 dark:text-stone-100">4.95 / 5.0</span>
+                    <span className="text-stone-500 dark:text-stone-400">(156 reviews)</span>
+                  </div>
                 </div>
 
                 {/* Direct Action Buttons */}

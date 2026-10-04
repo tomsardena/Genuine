@@ -40,6 +40,16 @@ app.get('/sitemap.xml', (_req, res) => {
   res.sendFile(target);
 });
 
+// Explicit routes for llms.txt and llms-full.txt (AI & LLM context index)
+app.get(['/llms.txt', '/llms-full.txt'], (req, res) => {
+  const fileName = req.path.replace(/^\//, '');
+  const rootFile = path.join(__dirname, fileName);
+  const publicFile = path.join(__dirname, 'public', fileName);
+  const target = fs.existsSync(rootFile) ? rootFile : publicFile;
+  res.setHeader('Content-Type', 'text/plain; charset=utf-8');
+  res.sendFile(target);
+});
+
 // Explicit routes for PWA manifest and service worker
 app.get(['/manifest.webmanifest', '/manifest.json'], (_req, res) => {
   const rootManifest = path.join(__dirname, 'public', 'manifest.webmanifest');

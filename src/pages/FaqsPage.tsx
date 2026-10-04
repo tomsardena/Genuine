@@ -28,12 +28,26 @@ export const FaqsPage: React.FC = () => {
     return matchesCat && matchesSearch;
   });
 
+  const faqJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: FAQS_DATA.map((faq) => ({
+      '@type': 'Question',
+      name: faq.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: faq.answer
+      }
+    }))
+  };
+
   return (
     <>
       <SEOHead
         title="Frequently Asked Questions & Egypt Travel Guide – Genuine Egypte"
         description="Comprehensive answers about booking private tours in Egypt, Nile cruise inclusions, Egyptian tourist visas, tipping customs, and transfer services."
         canonicalPath="/faqs"
+        jsonLd={faqJsonLd}
       />
 
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">

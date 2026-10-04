@@ -1,12 +1,16 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from '../utils/router';
 import { SITE_SETTINGS } from '../data/siteSettings';
 import { FOOTER_SECTIONS } from '../data/navigation';
-import { MapPin, Phone, Mail, MessageCircle, ShieldCheck, ExternalLink, Star } from 'lucide-react';
+import { MapPin, Phone, Mail, MessageCircle, ShieldCheck, ExternalLink, Star, Bot } from 'lucide-react';
+import { BookingNotificationsModal } from './BookingNotificationsModal';
 
 export const Footer: React.FC = () => {
+  const [notificationsModalOpen, setNotificationsModalOpen] = useState(false);
+
   return (
-    <footer className="bg-[#141210] text-stone-300 border-t border-stone-800 pt-16 pb-12">
+    <>
+      <footer className="bg-[#141210] text-stone-300 border-t border-stone-800 pt-16 pb-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-8">
         {/* Brand & Mission Row */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 pb-12 border-b border-stone-800">
@@ -136,9 +140,23 @@ export const Footer: React.FC = () => {
               <MessageCircle className="w-3.5 h-3.5 fill-current" />
               <span>WhatsApp Us</span>
             </a>
+            <button
+              onClick={() => setNotificationsModalOpen(true)}
+              className="text-amber-400 hover:text-amber-300 flex items-center gap-1 transition-colors"
+              title="Configure Telegram Bot & Website Email Dispatch"
+            >
+              <Bot className="w-3.5 h-3.5" />
+              <span>Telegram Bot & Inquiries</span>
+            </button>
           </div>
         </div>
       </div>
     </footer>
+
+    <BookingNotificationsModal
+      isOpen={notificationsModalOpen}
+      onClose={() => setNotificationsModalOpen(false)}
+    />
+  </>
   );
 };
