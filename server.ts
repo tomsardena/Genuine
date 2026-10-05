@@ -120,17 +120,21 @@ try {
 // 1. MULTI-TURN CONVERSATION MEMORY ENGINE
 // -------------------------------------------------------------
 export interface ConversationMemory {
+  travelerName?: string;
   guestCount: number;
   guestDescription: string;
   travelDates?: string;
   seasonTier: 'winter_peak' | 'summer_promo' | 'festive_peak' | 'standard';
+  specialOccasion?: string;
+  travelerPaceAndStyle?: string;
   destinations: string[];
   categories: string[];
+  specificInterests: string[];
   duration?: string;
   activeFocusTour?: TourRecord;
   previouslyDiscussedTours: TourRecord[];
   isFollowUpQuestion: boolean;
-  intent: 'pricing' | 'availability' | 'itinerary' | 'booking' | 'general';
+  intent: 'pricing' | 'availability' | 'itinerary' | 'booking' | 'comparison' | 'general';
 }
 
 function extractConversationMemory(
@@ -146,7 +150,14 @@ function extractConversationMemory(
   const fullText = userMessages.join(' ').toLowerCase();
   const currentMsgLower = currentMessage.toLowerCase();
 
-  // Guest count & composition extraction
+  // 1. Traveler Name Extraction (e.g. "I am John", "my name is Sarah", "this is David")
+  let travelerName: string | undefined;
+  const nameMatch = fullText.match(/(?:my name is|i am|i'm|call me|this is)\s+([a-zA-Z]{2,15})/i);
+  if (nameMatch && !['planning', 'looking', 'traveling', 'hoping', 'interested', 'asking'].includes(nameMatch[1].toLowerCase())) {
+    travelerName = nameMatch[1].charAt(0).toUpperCase() + nameMatch[1].slice(1);
+  }
+
+  // 2. Guest count & composition extraction across all conversation turns
   let guestCount = 2; // Realistic standard default
   let guestDescription = '2 travelers';
 
@@ -154,10 +165,10 @@ function extractConversationMemory(
   if (guestNumberMatch) {
     guestCount = parseInt(guestNumberMatch[1], 10) || 2;
     guestDescription = `${guestCount} adults/travelers`;
-  } else if (fullText.includes('solo') || fullText.includes('just me') || fullText.includes('myself')) {
+  } else if (fullText.includes('solo') || fullText.includes('just me') || fullText.includes('myself') || fullText.includes('single traveler')) {
     guestCount = 1;
     guestDescription = 'Solo traveler';
-  } else if (fullText.includes('couple') || fullText.includes('my wife') || fullText.includes('my husband') || fullText.includes('two of us') || fullText.includes('2 of us')) {
+  } else if (fullText.includes('couple') || fullText.includes('my wife') || fullText.includes('my husband') || fullText.includes('my partner') || fullText.includes('two of us') || fullText.includes('2 of us')) {
     guestCount = 2;
     guestDescription = 'Couple (2 adults)';
   } else if (fullText.includes('family')) {
@@ -166,7 +177,25 @@ function extractConversationMemory(
     guestDescription = `Family (${guestCount} guests)`;
   }
 
-  // Travel dates & season tier extraction
+  // 3. Special Occasion / Theme
+  let specialOccasion: string | undefined;
+  if (fullText.includes('honeymoon')) specialOccasion = 'Honeymoon';
+  else if (fullText.includes('anniversary')) specialOccasion = 'Wedding Anniversary';
+  else if (fullText.includes('birthday')) specialOccasion = 'Birthday Celebration';
+  else if (fullText.includes('bucket list')) specialOccasion = 'Bucket-List Dream Trip';
+  else if (fullText.includes('retirement')) specialOccasion = 'Retirement Celebration';
+
+  // 4. Traveler Pace and Style
+  let travelerPaceAndStyle: string | undefined;
+  if (fullText.includes('unhurried') || fullText.includes('relaxed') || fullText.includes('slow pace') || fullText.includes('not rushed')) {
+    travelerPaceAndStyle = 'Unhurried, leisurely pace';
+  } else if (fullText.includes('see everything') || fullText.includes('pack as much') || fullText.includes('highlights')) {
+    travelerPaceAndStyle = 'Comprehensive, maximize sights';
+  } else if (fullText.includes('luxury') || fullText.includes('5-star') || fullText.includes('vip') || fullText.includes('deluxe')) {
+    travelerPaceAndStyle = 'High-end luxury & bespoke comfort';
+  }
+
+  // 5. Travel dates & season tier extraction
   let travelDates: string | undefined;
   let seasonTier: 'winter_peak' | 'summer_promo' | 'festive_peak' | 'standard' = 'winter_peak';
 
@@ -188,7 +217,9 @@ function extractConversationMemory(
     { name: 'easter', season: 'festive_peak' },
     { name: 'spring', season: 'winter_peak' },
     { name: 'summer', season: 'summer_promo' },
-    { name: 'winter', season: 'winter_peak' }
+    { name: 'winter', season: 'winter_peak' },
+    { name: 'autumn', season: 'winter_peak' },
+    { name: 'fall', season: 'winter_peak' }
   ];
 
   for (const m of months) {
@@ -199,40 +230,56 @@ function extractConversationMemory(
     }
   }
 
-  // Destination extraction
+  // 6. Cumulative Destinations identified across the entire conversation
   const destinations: string[] = [];
-  if (fullText.includes('luxor')) destinations.push('Luxor');
-  if (fullText.includes('aswan')) destinations.push('Aswan');
-  if (fullText.includes('cairo') || fullText.includes('giza') || fullText.includes('pyramid') || fullText.includes('sphinx')) destinations.push('Cairo & Giza');
-  if (fullText.includes('abu simbel')) destinations.push('Abu Simbel');
-  if (fullText.includes('alexandria')) destinations.push('Alexandria');
-  if (fullText.includes('hurghada') || fullText.includes('red sea') || fullText.includes('marsa alam')) destinations.push('Hurghada & Red Sea');
+  if (fullText.includes('luxor') || fullText.includes('karnak') || fullText.includes('valley of the kings') || fullText.includes('hatshepsut')) destinations.push('Luxor');
+  if (fullText.includes('aswan') || fullText.includes('philae') || fullText.includes('high dam') || fullText.includes('nubian')) destinations.push('Aswan');
+  if (fullText.includes('cairo') || fullText.includes('giza') || fullText.includes('pyramid') || fullText.includes('sphinx') || fullText.includes('saqqara') || fullText.includes('gem')) destinations.push('Cairo & Giza');
+  if (fullText.includes('abu simbel') || fullText.includes('ramses')) destinations.push('Abu Simbel');
+  if (fullText.includes('alexandria') || fullText.includes('qaitbay')) destinations.push('Alexandria');
+  if (fullText.includes('hurghada') || fullText.includes('red sea') || fullText.includes('marsa alam') || fullText.includes('el gouna') || fullText.includes('snorkeling')) destinations.push('Hurghada & Red Sea');
+  if (fullText.includes('nile') || fullText.includes('river cruise')) destinations.push('Nile River');
 
-  // Category extraction
+  // 7. Cumulative Categories extraction
   const categories: string[] = [];
   if (fullText.includes('cruise') || fullText.includes('ship') || fullText.includes('boat')) categories.push('Nile Cruises');
   if (fullText.includes('dahabiya') || fullText.includes('sailing')) categories.push('Dahabiya Nile Cruises');
-  if (fullText.includes('balloon') || fullText.includes('sunrise') || fullText.includes('fly')) categories.push('Hot Air Balloon');
+  if (fullText.includes('balloon') || fullText.includes('sunrise') || fullText.includes('fly') || fullText.includes('flight')) categories.push('Hot Air Balloon');
   if (fullText.includes('transfer') || fullText.includes('drive') || fullText.includes('taxi') || fullText.includes('airport')) categories.push('Private Transfers');
-  if (fullText.includes('package') || fullText.includes('multi-day') || fullText.includes('itinerary')) categories.push('Vacation Packages');
+  if (fullText.includes('package') || fullText.includes('multi-day') || fullText.includes('multi day') || fullText.includes('itinerary')) categories.push('Vacation Packages');
   if (fullText.includes('day trip') || fullText.includes('day tour') || fullText.includes('excursion')) categories.push('Day Tours');
 
-  // Duration extraction
+  // 8. Specific Highlights & Interests Mentioned
+  const specificInterests: string[] = [];
+  if (fullText.includes('balloon')) specificInterests.push('Hot Air Balloon Sunrise Flight');
+  if (fullText.includes('abu simbel')) specificInterests.push('Abu Simbel Sun Temples');
+  if (fullText.includes('tutankhamun') || fullText.includes('king tut') || fullText.includes('nefertari')) specificInterests.push('Royal Tomb Entrances (Tut/Nefertari)');
+  if (fullText.includes('dahabiya')) specificInterests.push('Traditional Dahabiya Sailing');
+  if (fullText.includes('pyramid') || fullText.includes('giza')) specificInterests.push('Giza Pyramids & Sphinx');
+  if (fullText.includes('gem') || fullText.includes('grand egyptian museum')) specificInterests.push('Grand Egyptian Museum (GEM)');
+  if (fullText.includes('snorkeling') || fullText.includes('red sea') || fullText.includes('giftun')) specificInterests.push('Red Sea Snorkeling / Marine Excursion');
+  if (fullText.includes('sound and light') || fullText.includes('sound & light')) specificInterests.push('Karnak Sound & Light Show');
+  if (fullText.includes('nubian')) specificInterests.push('Nubian Village & Nile Felucca');
+
+  // 9. Duration extraction
   let duration: string | undefined;
   const durationMatch = fullText.match(/(\d+)\s*(day|night|week|hour)/i);
   if (durationMatch) {
     duration = durationMatch[0];
   }
 
-  // Resolve previously discussed tours from assistant turns
+  // 10. Resolve previously discussed tours across BOTH assistant and user history
   const previouslyDiscussedTours: TourRecord[] = [];
   const assistantHistory = allTurns
     .filter(turn => turn.role === 'model')
     .map(turn => turn.text)
     .join(' ');
+  const combinedHistory = `${assistantHistory} ${fullText}`;
 
   rawTours.forEach(t => {
-    if (assistantHistory.includes(t.slug) || assistantHistory.includes(t.title)) {
+    const slugInHistory = combinedHistory.includes(t.slug);
+    const titleInHistory = t.title.length > 8 && combinedHistory.includes(t.title.toLowerCase());
+    if (slugInHistory || titleInHistory) {
       if (!previouslyDiscussedTours.some(existing => existing.id === t.id)) {
         previouslyDiscussedTours.push(t);
       }
@@ -256,30 +303,40 @@ function extractConversationMemory(
     currentMsgLower.includes('depart') ||
     currentMsgLower.includes('schedule') ||
     currentMsgLower.includes('book') ||
+    currentMsgLower.includes('compare') ||
+    currentMsgLower.includes('difference') ||
+    currentMsgLower.includes('first option') ||
+    currentMsgLower.includes('second option') ||
     currentMsgLower.length < 28;
 
   // Intent classification
-  let intent: 'pricing' | 'availability' | 'itinerary' | 'booking' | 'general' = 'general';
-  if (currentMsgLower.includes('price') || currentMsgLower.includes('cost') || currentMsgLower.includes('rate') || currentMsgLower.includes('quote') || currentMsgLower.includes('how much')) {
+  let intent: 'pricing' | 'availability' | 'itinerary' | 'booking' | 'comparison' | 'general' = 'general';
+  if (currentMsgLower.includes('compare') || currentMsgLower.includes('difference') || currentMsgLower.includes('versus') || currentMsgLower.includes('vs') || currentMsgLower.includes('which is better')) {
+    intent = 'comparison';
+  } else if (currentMsgLower.includes('price') || currentMsgLower.includes('cost') || currentMsgLower.includes('rate') || currentMsgLower.includes('quote') || currentMsgLower.includes('how much') || currentMsgLower.includes('total')) {
     intent = 'pricing';
   } else if (currentMsgLower.includes('available') || currentMsgLower.includes('dates') || currentMsgLower.includes('days') || currentMsgLower.includes('when') || currentMsgLower.includes('leave') || currentMsgLower.includes('schedule') || currentMsgLower.includes('pickup')) {
     intent = 'availability';
-  } else if (currentMsgLower.includes('itinerary') || currentMsgLower.includes('stop') || currentMsgLower.includes('visit') || currentMsgLower.includes('temple') || currentMsgLower.includes('see')) {
+  } else if (currentMsgLower.includes('itinerary') || currentMsgLower.includes('stop') || currentMsgLower.includes('visit') || currentMsgLower.includes('temple') || currentMsgLower.includes('see') || currentMsgLower.includes('program') || currentMsgLower.includes('day 1')) {
     intent = 'itinerary';
-  } else if (currentMsgLower.includes('book') || currentMsgLower.includes('reserve') || currentMsgLower.includes('whatsapp') || currentMsgLower.includes('contact') || currentMsgLower.includes('pay')) {
+  } else if (currentMsgLower.includes('book') || currentMsgLower.includes('reserve') || currentMsgLower.includes('whatsapp') || currentMsgLower.includes('contact') || currentMsgLower.includes('pay') || currentMsgLower.includes('confirm')) {
     intent = 'booking';
   }
 
   return {
+    travelerName,
     guestCount,
     guestDescription,
     travelDates,
     seasonTier,
-    destinations,
-    categories,
+    specialOccasion,
+    travelerPaceAndStyle,
+    destinations: Array.from(new Set(destinations)),
+    categories: Array.from(new Set(categories)),
+    specificInterests: Array.from(new Set(specificInterests)),
     duration,
     activeFocusTour,
-    previouslyDiscussedTours: previouslyDiscussedTours.slice(-3),
+    previouslyDiscussedTours: previouslyDiscussedTours.slice(-10), // Keep up to 10 previously discussed tours in memory
     isFollowUpQuestion,
     intent
   };
@@ -510,11 +567,11 @@ function calculateRealtimeAvailability(
   };
 }
 
-// Semantic and Context-Aware Tour Query Engine
+// Semantic and Context-Aware Tour Query Engine for Long Conversations
 function queryTourKnowledgeBase(
   currentMessage: string,
   memory: ConversationMemory,
-  maxResults = 4
+  maxResults = 7
 ): RetrievedTourContext[] {
   if (!rawTours || rawTours.length === 0) return [];
 
@@ -532,80 +589,88 @@ function queryTourKnowledgeBase(
 
     // 1. If this is a follow-up about the currently active focus tour
     if (memory.isFollowUpQuestion && memory.activeFocusTour && memory.activeFocusTour.id === t.id) {
-      score += 90;
+      score += 100;
     }
 
-    // 2. Previously discussed tours bonus
+    // 2. Previously discussed tours bonus (so Mahmod keeps them in memory across long talks)
     if (memory.previouslyDiscussedTours.some(prev => prev.id === t.id)) {
-      score += memory.isFollowUpQuestion ? 50 : 20;
+      score += memory.isFollowUpQuestion ? 60 : 35;
     }
 
     // 3. Category matching from conversation history
     memory.categories.forEach(cat => {
-      if (catLower.includes(cat.toLowerCase())) score += 30;
+      if (catLower.includes(cat.toLowerCase())) score += 25;
     });
 
-    // 4. Destination matching from conversation history
+    // 4. Destination matching from cumulative conversation history
     memory.destinations.forEach(dest => {
-      if (destLower.includes(dest.toLowerCase()) || titleLower.includes(dest.toLowerCase())) score += 35;
+      if (destLower.includes(dest.toLowerCase()) || titleLower.includes(dest.toLowerCase())) score += 30;
     });
 
-    // Specific destination triggers in query
+    // 5. Specific interest triggers identified in conversation
+    memory.specificInterests.forEach(interest => {
+      const iNorm = interest.toLowerCase();
+      if (titleLower.includes(iNorm) || highlightsLower.includes(iNorm) || overviewLower.includes(iNorm)) {
+        score += 35;
+      }
+    });
+
+    // Specific destination triggers in current query
     if ((q.includes('cairo') || q.includes('giza') || q.includes('pyramid') || q.includes('sphinx')) && 
         (destLower.includes('cairo') || titleLower.includes('cairo') || titleLower.includes('pyramid') || titleLower.includes('giza'))) {
-      score += 45;
+      score += 50;
     }
     if (q.includes('luxor') && (destLower.includes('luxor') || titleLower.includes('luxor'))) {
-      score += 40;
+      score += 45;
     }
     if ((q.includes('aswan') || q.includes('philae') || q.includes('high dam')) && (destLower.includes('aswan') || titleLower.includes('aswan'))) {
-      score += 40;
+      score += 45;
     }
     if (q.includes('abu simbel') && (titleLower.includes('abu simbel') || overviewLower.includes('abu simbel') || catLower.includes('abu simbel'))) {
-      score += 65;
+      score += 70;
     }
     if ((q.includes('hurghada') || q.includes('red sea') || q.includes('snorkeling') || q.includes('giftun')) && 
         (destLower.includes('hurghada') || titleLower.includes('hurghada') || catLower.includes('hurghada'))) {
-      score += 50;
+      score += 55;
     }
     if (q.includes('alexandria') && (destLower.includes('alexandria') || titleLower.includes('alexandria'))) {
-      score += 50;
+      score += 55;
     }
 
     // Specific product query triggers
     if ((q.includes('nile cruise') || q.includes('cruise ship') || q.includes('river cruise')) && catLower.includes('nile cruise')) {
-      score += 55;
-    }
-    if (q.includes('dahabiya') && (catLower.includes('dahabiya') || titleLower.includes('dahabiya'))) {
-      score += 70;
-    }
-    if ((q.includes('balloon') || q.includes('hot air')) && (catLower.includes('balloon') || titleLower.includes('balloon'))) {
-      score += 70;
-    }
-    if ((q.includes('transfer') || q.includes('drive to') || q.includes('taxi')) && (catLower.includes('transfer') || titleLower.includes('transfer'))) {
-      score += 55;
-    }
-    if ((q.includes('shore') || q.includes('safaga') || q.includes('port')) && (catLower.includes('shore') || titleLower.includes('safaga'))) {
       score += 60;
     }
+    if (q.includes('dahabiya') && (catLower.includes('dahabiya') || titleLower.includes('dahabiya'))) {
+      score += 75;
+    }
+    if ((q.includes('balloon') || q.includes('hot air')) && (catLower.includes('balloon') || titleLower.includes('balloon'))) {
+      score += 75;
+    }
+    if ((q.includes('transfer') || q.includes('drive to') || q.includes('taxi')) && (catLower.includes('transfer') || titleLower.includes('transfer'))) {
+      score += 60;
+    }
+    if ((q.includes('shore') || q.includes('safaga') || q.includes('port')) && (catLower.includes('shore') || titleLower.includes('safaga'))) {
+      score += 65;
+    }
     if ((q.includes('package') || q.includes('multi day') || q.includes('multi-day')) && (catLower.includes('package') || titleLower.includes('days'))) {
-      score += 45;
+      score += 50;
     }
 
     // Token matching across title, destination, category, highlights, overview
     tokens.forEach((token) => {
-      if (titleLower.includes(token)) score += 12;
-      if (destLower.includes(token)) score += 8;
-      if (catLower.includes(token)) score += 6;
-      if (highlightsLower.includes(token)) score += 5;
-      if (overviewLower.includes(token)) score += 3;
+      if (titleLower.includes(token)) score += 14;
+      if (destLower.includes(token)) score += 10;
+      if (catLower.includes(token)) score += 7;
+      if (highlightsLower.includes(token)) score += 6;
+      if (overviewLower.includes(token)) score += 4;
     });
 
     // Duration matching
     if (memory.duration) {
       const durNorm = memory.duration.toLowerCase();
       if (t.duration.toLowerCase().includes(durNorm) || titleLower.includes(durNorm)) {
-        score += 30;
+        score += 35;
       }
     }
 
@@ -617,13 +682,22 @@ function queryTourKnowledgeBase(
     return { tour: t, score };
   });
 
+  // Pick top scoring tours
   const topTours = scored
     .filter(item => item.score > 0)
     .sort((a, b) => b.score - a.score)
     .slice(0, maxResults)
     .map(item => item.tour);
 
-  const finalTours = topTours.length > 0 ? topTours : rawTours.slice(0, maxResults);
+  // Guarantee that previously discussed tours are always included in retrieved pool if relevant
+  const combinedTours = [...topTours];
+  memory.previouslyDiscussedTours.forEach(prev => {
+    if (!combinedTours.some(item => item.id === prev.id) && combinedTours.length < maxResults + 2) {
+      combinedTours.push(prev);
+    }
+  });
+
+  const finalTours = combinedTours.length > 0 ? combinedTours : rawTours.slice(0, maxResults);
 
   return finalTours.map(tour => ({
     tour,
@@ -648,45 +722,60 @@ function buildMahmodSystemInstruction(
 OPTION #${idx + 1}: "${t.title}"
 - Exact Link: /booking/${t.slug}/
 - Category: ${t.category} | Destination: ${t.destination} | Duration: ${t.duration}
-- Highlights: ${(t.highlights || []).slice(0, 4).join('; ') || t.shortDescription}
+- Highlights: ${(t.highlights || []).slice(0, 5).join('; ') || t.shortDescription}
 - Real-Time Pricing: ${p.totalForPartyRange} (${p.perPersonRange})
 - Rate Notes: ${p.rateNotes}
 - Inclusions: ${p.inclusionsSummary}
 - Schedule & Availability: ${a.departureDays}; Timing: ${a.pickupTime}; Notes: ${a.seasonalNotes}`;
   }).join('\n\n');
 
+  const previouslyDiscussedList = memory.previouslyDiscussedTours.length > 0
+    ? memory.previouslyDiscussedTours.map((t, idx) => `  ${idx + 1}. [${t.title}](/booking/${t.slug}/) (${t.category}, ${t.duration})`).join('\n')
+    : '  (None yet - starting consultation)';
+
   return `You are "Mahmod", the lead licensed Egyptologist, cultural concierge, and master itinerary architect for Genuine Egypte (headquartered at 44 Khaled Ibn Al Waleed Street in Luxor, Egypt; WhatsApp: +20 1070335551 or +20 1033801083, email: info@genuineegypte.com).
 
 YOUR CORE IDENTITY & ETHOS:
 - Background: You hold an advanced degree in Egyptology from Cairo University and have 15+ years of archaeological field experience guiding through the Valley of the Kings, Karnak, Abu Simbel, Giza, and Nile cruise vessels.
-- Voice: Warm, eloquent, hospitable, culturally profound, and reassuring ("Marhaban!"). You treat each user as an honored guest, not a transaction.
+- Voice: Warm, eloquent, hospitable, culturally profound, and reassuring ("Marhaban!"). You treat each user as an honored personal guest, not a transaction.
 - Genuine Egypte's Creed: "We know the difference between a tourist and a traveler." We firmly reject hurried commercial bus convoys, fake souvenir shop detours, and impersonal cookie-cutter packages.
 - Zero Upfront Card Deductions: Genuine Egypte does NOT charge credit cards online or process instant deductions. Every itinerary is confirmed through direct, personalized communication via WhatsApp (+20 1070335551) or email.
 
-CONVERSATION & RECOMMENDATION RULES:
-1. Natural, Engaging Conversation:
-   - Greet warmly, understand their unique travel persona (e.g. couple, family with children, solo traveler, history enthusiast, luxury seeker, senior travelers).
-   - If the user asks a cultural, logistical, or practical question (e.g. weather, best season to visit, visa on arrival, tipping customs/baksheesh, safety, mobility/walking at temples, what to wear), answer with deep local authenticity and practical advice.
-   - You don't have to spit out a rigid pricing table if they just asked a conversational question or "Hello!". Converse like a trusted local friend.
+=======================================================
+CUMULATIVE TRAVELER DOSSIER ACROSS THIS ENTIRE CONVERSATION:
+=======================================================
+- Traveler Name: ${memory.travelerName || 'Honored Guest'}
+- Traveling Party: ${memory.guestDescription}
+- Travel Window / Dates: ${memory.travelDates || 'Flexible'} (${memory.seasonTier.replace('_', ' ').toUpperCase()})
+- Special Occasion / Theme: ${memory.specialOccasion || 'Cultural journey / holiday'}
+- Traveler Pace & Style: ${memory.travelerPaceAndStyle || 'Custom private pacing'}
+- Destinations Explored in Conversation: ${memory.destinations.join(', ') || 'Egypt General'}
+- Key Interests & Must-Sees Mentioned: ${memory.specificInterests.join(', ') || 'Nile & Egyptian heritage'}
+- Previously Discussed / Proposed Tours in this Thread:
+${previouslyDiscussedList}
+- Active Discussion Focus: ${memory.activeFocusTour ? `[${memory.activeFocusTour.title}](/booking/${memory.activeFocusTour.slug}/)` : 'General consultation / itinerary planning'}
+- Current Turn Intent: ${memory.intent.toUpperCase()}
 
-2. Recommending Trips from Genuine Egypte:
-   - When the user asks for trip suggestions, or when their question naturally relates to experiencing Egypt, recommend 1 to 3 specific trips from the retrieved website catalog below.
-   - ALWAYS format recommended tour titles as markdown links using the exact slug: [Exact Tour Title](/booking/<slug>/). This is vital so travelers can tap right into the trip page.
-   - Articulate WHY you chose each trip for them (e.g. "Because you mentioned wanting an unhurried pace...", "For your family...", "To see both the Pyramids and Upper Egypt...").
-   - Mention key highlights, duration, and what makes the experience special (e.g. private Egyptologist guide, full-board gourmet meals on Nile cruises, sunrise vistas).
+=======================================================
+RULES FOR LONG, CONTINUOUS CONVERSATIONS & RECOMMENDATIONS:
+=======================================================
+1. Long-Conversation Continuity & Context:
+   - You possess total recall of everything the traveler shared throughout this conversation.
+   - If they already told you their dates, party size, spouse, or preferences, NEVER ask them again. Seamlessly weave that context into your responses.
+   - When the traveler refers to "the cruise you mentioned earlier", "that first option", "can we add Abu Simbel to it?", or "what would the total cost be?", instantly connect the dots using the dossier and tour list.
+
+2. Recommending Authentic Trips from Genuine Egypte:
+   - When recommending or discussing trips, ALWAYS format the tour title as a clickable markdown link using its exact slug: [Exact Tour Title](/booking/<slug>/).
+   - Tailor your recommendations to the traveler's stated desires (e.g. "Because you mentioned preferring an unhurried pace...", "For your anniversary...", "To avoid large tour bus crowds...").
+   - Offer vivid highlights, duration, and what makes the experience exceptional (private Egyptologist guide, full-board gourmet meals on Nile cruises, sunrise flights over the Nile).
+   - If the traveler is planning a multi-day Egypt journey, help them weave individual tours (Cairo Pyramids + Nile Cruise + Luxor Balloon + Abu Simbel) into a harmonious master itinerary.
 
 3. Transparent Pricing & Availability:
-   - When discussing cost, state Genuine Egypte's transparent pricing: private A/C transport, licensed guide, and coordination are included. No surprise hidden charges.
-   - Reference the estimated per-person and party rates provided in the context below (${memory.guestDescription}).
+   - Quote transparent pricing based on the real-time calculations below for their exact party size (${memory.guestDescription}) and season (${memory.seasonTier.replace('_', ' ')}).
+   - Remind them that Genuine Egypte rates include private air-conditioned vehicles, certified guides, and coordination—with zero hidden credit card processing fees.
 
-4. Multi-Turn Memory:
-   - Traveler Party: ${memory.guestDescription}
-   - Travel Dates/Season: ${memory.travelDates || 'Flexible'} (${memory.seasonTier.replace('_', ' ').toUpperCase()})
-   - Topics/Destinations Discussed: ${memory.destinations.join(', ') || 'Egypt General'}
-   - Do NOT repeatedly ask "When are you coming?" or "How many people?" if the traveler already shared it. Acknowledge their existing context smoothly.
-
-5. Inspiring Closing:
-   - Close each reply with an insightful, relevant follow-up question or offer to adjust the itinerary, and let them know our team in Luxor is directly reachable on WhatsApp (+20 1070335551) for immediate personalized scheduling.
+4. Warm, Thoughtful Closing:
+   - Close each turn with an insightful, relevant follow-up question or offer to customize, and let them know our team in Luxor is ready to connect directly on WhatsApp (+20 1070335551) to hold dates or adjust details.
 
 =======================================================
 RELEVANT TOURS IN OUR WEBSITE CATALOG:
@@ -709,12 +798,15 @@ function generateFollowUpSuggestions(
   // If tours were recommended, offer to explore the first one
   if (tours.length > 0) {
     const firstTour = tours[0];
-    suggestions.push(`Tell me more about ${firstTour.title.slice(0, 30)}...`);
+    suggestions.push(`Tell me more about ${firstTour.title.slice(0, 32)}...`);
   }
 
-  if (textLower.includes('cruise') || memory.categories.includes('Nile Cruises')) {
-    suggestions.push('What are the departure dates & schedule?');
-    suggestions.push('What is the difference with a Dahabiya sailboat?');
+  if (memory.intent === 'pricing' || textLower.includes('quote') || textLower.includes('total')) {
+    suggestions.push('What is included vs excluded in the price?');
+    suggestions.push('Can we customize the schedule or add days?');
+  } else if (textLower.includes('cruise') || memory.categories.includes('Nile Cruises')) {
+    suggestions.push('What are the embarkation days & cabin options?');
+    suggestions.push('How does a Dahabiya sailboat compare to this cruise?');
   } else if (textLower.includes('cairo') || textLower.includes('pyramid') || memory.destinations.includes('Cairo & Giza')) {
     suggestions.push('Can we visit the Grand Egyptian Museum (GEM)?');
     suggestions.push('Can we add Saqqara & Dahshur pyramids?');
@@ -722,18 +814,18 @@ function generateFollowUpSuggestions(
     suggestions.push('How does the sunrise Hot Air Balloon flight work?');
     suggestions.push('Can we visit King Tutankhamun’s tomb?');
   } else if (textLower.includes('hurghada') || textLower.includes('red sea')) {
-    suggestions.push('Can you arrange a day trip from Hurghada to Luxor?');
-    suggestions.push('Tell me about snorkeling at Giftun Island.');
+    suggestions.push('Can you arrange a private transfer to Luxor?');
+    suggestions.push('Tell me about Giftun Island snorkeling.');
   } else if (textLower.includes('abu simbel')) {
     suggestions.push('How early is the private drive to Abu Simbel?');
-    suggestions.push('Can we take a Lake Nasser cruise to Abu Simbel?');
+    suggestions.push('Can we fly or sail to Abu Simbel?');
   } else {
     suggestions.push('Which 5-star Nile cruise do you recommend?');
     suggestions.push('What is the best season to visit Egypt?');
-    suggestions.push('How do private day tours work?');
+    suggestions.push('Can you design a 7-day or 10-day private itinerary?');
   }
 
-  suggestions.push('How do we book and confirm on WhatsApp?');
+  suggestions.push('How do we hold dates on WhatsApp?');
 
   return Array.from(new Set(suggestions)).slice(0, 4);
 }
@@ -757,7 +849,7 @@ function generateLocalAdvisorResponse(
   if (memory.intent === 'pricing' || query.includes('cost') || query.includes('price')) {
     const p = top.pricing;
     const a = top.availability;
-    const reply = `Marhaban! For **${memory.guestDescription}**${memory.travelDates ? ` traveling in ${memory.travelDates}` : ''}, here is our transparent direct quotation:\n\n### **[${top.tour.title}](/booking/${top.tour.slug}/)**\n- **Pricing for your party:** **${p.totalForPartyRange}** (${p.perPersonRange})\n- **Departure schedule:** ${a.departureDays}\n- **Rate Details:** ${p.rateNotes}\n\n**Included in your program:**\n- ${p.inclusionsSummary}\n\n**Excluded:**\n- ${p.exclusionsSummary}\n\nAt Genuine Egypte, we do not charge credit cards online. Every booking is confirmed directly with our team in Luxor via WhatsApp (**+20 1070335551**). Would you like me to check exact cabin or vehicle availability for your dates?`;
+    const reply = `Marhaban${memory.travelerName ? ` ${memory.travelerName}` : ''}! For **${memory.guestDescription}**${memory.travelDates ? ` traveling in ${memory.travelDates}` : ''}, here is our transparent direct quotation:\n\n### **[${top.tour.title}](/booking/${top.tour.slug}/)**\n- **Pricing for your party:** **${p.totalForPartyRange}** (${p.perPersonRange})\n- **Departure schedule:** ${a.departureDays}\n- **Rate Details:** ${p.rateNotes}\n\n**Included in your program:**\n- ${p.inclusionsSummary}\n\n**Excluded:**\n- ${p.exclusionsSummary}\n\nAt Genuine Egypte, we do not charge credit cards online. Every booking is confirmed directly with our team in Luxor via WhatsApp (**+20 1070335551**). Would you like me to check exact cabin or vehicle availability for your dates?`;
     return {
       reply,
       recommendedTours,
@@ -769,7 +861,7 @@ function generateLocalAdvisorResponse(
   if (memory.intent === 'availability' || query.includes('when') || query.includes('leave') || query.includes('day')) {
     const a = top.availability;
     const p = top.pricing;
-    const reply = `Marhaban! Here are the real-time scheduling details for **[${top.tour.title}](/booking/${top.tour.slug}/)**:\n\n- **Departure Schedule:** ${a.departureDays}\n- **Pickup & Timing:** ${a.pickupTime}\n- **Availability Notes:** ${a.bookingLeadTime}\n- **Pricing Guidance:** ${p.totalForPartyRange} (${p.perPersonRange})\n\nShall I check exact cabin or vehicle availability for your preferred dates?`;
+    const reply = `Marhaban${memory.travelerName ? ` ${memory.travelerName}` : ''}! Here are the real-time scheduling details for **[${top.tour.title}](/booking/${top.tour.slug}/)**:\n\n- **Departure Schedule:** ${a.departureDays}\n- **Pickup & Timing:** ${a.pickupTime}\n- **Availability Notes:** ${a.bookingLeadTime}\n- **Pricing Guidance:** ${p.totalForPartyRange} (${p.perPersonRange})\n\nShall I check exact cabin or vehicle availability for your preferred dates?`;
     return {
       reply,
       recommendedTours,
@@ -779,7 +871,7 @@ function generateLocalAdvisorResponse(
 
   // General recommendation fallback
   const tourLinks = retrieved.map(r => `- **[${r.tour.title}](/booking/${r.tour.slug}/)** (${r.tour.duration}): ${r.pricing.totalForPartyRange} · *${r.availability.departureDays}*`).join('\n');
-  const reply = `Marhaban! I am Mahmod, lead Egyptologist at Genuine Egypte in Luxor.\n\nFor **${memory.guestDescription}**${memory.travelDates ? ` in ${memory.travelDates}` : ''}, here are our hand-picked itineraries from our verified catalog:\n\n${tourLinks}\n\nAll programs include certified private Egyptologist guiding and modern air-conditioned private vehicles. Tell me: what aspect of ancient Egypt are you most excited to discover?`;
+  const reply = `Marhaban${memory.travelerName ? ` ${memory.travelerName}` : ''}! I am Mahmod, lead Egyptologist at Genuine Egypte in Luxor.\n\nFor **${memory.guestDescription}**${memory.travelDates ? ` in ${memory.travelDates}` : ''}, here are our hand-picked itineraries from our verified website catalog:\n\n${tourLinks}\n\nAll programs include certified private Egyptologist guiding and modern air-conditioned private vehicles. Tell me: what aspect of ancient Egypt are you most excited to discover?`;
   return {
     reply,
     recommendedTours,
@@ -797,29 +889,44 @@ app.post('/api/chat', async (req, res) => {
       return res.status(400).json({ error: 'Message is required' });
     }
 
-    // Step 1: Synthesize multi-turn conversation memory
+    // Step 1: Synthesize multi-turn conversation memory across all turns
     const memory = extractConversationMemory(history, message);
 
     // Step 2: Real-time Context-Retrieval Layer querying tour data for pricing & availability
-    const retrievedContext = queryTourKnowledgeBase(message, memory, 4);
-    const recommendedTours = retrievedContext.map(r => r.tour);
+    const retrievedContext = queryTourKnowledgeBase(message, memory, 7);
 
-    // Step 3: Format conversation history for Gemini
-    const contents: any[] = [];
-    if (Array.isArray(history)) {
-      for (const turn of history.slice(-8)) {
-        if (turn.role === 'user' || turn.role === 'model') {
-          contents.push({
-            role: turn.role,
-            parts: [{ text: turn.text }]
-          });
-        }
+    // Step 3: Format conversation history for Gemini (maintaining full conversation history)
+    const rawTurns = Array.isArray(history) ? history : [];
+    const validTurns: Array<{ role: 'user' | 'model'; text: string }> = [];
+    for (const t of rawTurns) {
+      if ((t.role === 'user' || t.role === 'model') && typeof t.text === 'string' && t.text.trim()) {
+        validTurns.push({ role: t.role, text: t.text.trim() });
       }
     }
-    contents.push({
-      role: 'user',
-      parts: [{ text: message }]
-    });
+
+    // Append current user message
+    validTurns.push({ role: 'user', text: message.trim() });
+
+    // Ensure valid turn sequence for Gemini API:
+    // 1) Must start with 'user'
+    // 2) Adjacent messages with the same role must be merged
+    let startIndex = 0;
+    while (startIndex < validTurns.length && validTurns[startIndex].role !== 'user') {
+      startIndex++;
+    }
+
+    const contents: Array<{ role: 'user' | 'model'; parts: Array<{ text: string }> }> = [];
+    for (let i = startIndex; i < validTurns.length; i++) {
+      const turn = validTurns[i];
+      if (contents.length > 0 && contents[contents.length - 1].role === turn.role) {
+        contents[contents.length - 1].parts[0].text += `\n\n${turn.text}`;
+      } else {
+        contents.push({
+          role: turn.role,
+          parts: [{ text: turn.text }]
+        });
+      }
+    }
 
     // Step 4: Construct refactored Mahmod system prompt with injected real-time context
     const dynamicSystemInstruction = buildMahmodSystemInstruction(memory, retrievedContext);
@@ -860,9 +967,9 @@ app.post('/api/chat', async (req, res) => {
       return res.json(localResult);
     }
 
-    // Extract any slugs mentioned in reply markdown links: /booking/<slug>/
+    // Extract any slugs mentioned in reply markdown links: /booking/<slug>/, /tour/<slug>/, /package/<slug>/
     const mentionedSlugs: string[] = [];
-    const slugRegex = /\/booking\/([a-z0-9-%]+)\/?/gi;
+    const slugRegex = /\/(?:booking|tour|package|cruise)\/([a-z0-9-%]+)\/?/gi;
     let slugMatch;
     while ((slugMatch = slugRegex.exec(reply)) !== null) {
       const s = decodeURIComponent(slugMatch[1]).replace(/\/$/, '');
@@ -880,6 +987,15 @@ app.post('/api/chat', async (req, res) => {
       }
     });
 
+    // Also match tours mentioned by title in the reply
+    rawTours.forEach(t => {
+      if (matchedTours.length < 4 && t.title.length > 8 && reply.toLowerCase().includes(t.title.toLowerCase())) {
+        if (!matchedTours.some(m => m.id === t.id)) {
+          matchedTours.push(t);
+        }
+      }
+    });
+
     // If fewer than 2 tours were explicitly parsed, supplement with top retrieved tours
     retrievedContext.forEach(rc => {
       if (matchedTours.length < 3 && !matchedTours.some(m => m.id === rc.tour.id)) {
@@ -892,7 +1008,7 @@ app.post('/api/chat', async (req, res) => {
 
     return res.json({
       reply,
-      recommendedTours: matchedTours.slice(0, 3).map(t => ({
+      recommendedTours: matchedTours.slice(0, 4).map(t => ({
         id: t.id,
         title: t.title,
         slug: t.slug,
@@ -914,6 +1030,7 @@ app.post('/api/chat', async (req, res) => {
       seasonTier: 'winter_peak',
       destinations: [],
       categories: [],
+      specificInterests: [],
       previouslyDiscussedTours: [],
       isFollowUpQuestion: false,
       intent: 'general'

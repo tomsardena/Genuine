@@ -95,20 +95,71 @@ const QUICK_TOPICS = [
   { label: '💰 Transparent Direct Quote', query: 'How do your tour prices, inclusions, and WhatsApp confirmations work?' }
 ];
 
+const CHAT_STORAGE_KEY = 'genuine_egypte_mahmod_chat_v2';
+
 export const MahmodChatbot: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   const [isExpanded, setIsExpanded] = useState(false);
-  const [messages, setMessages] = useState<ChatMessage[]>(INITIAL_MESSAGES);
+  const [messages, setMessages] = useState<ChatMessage[]>(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        const saved = sessionStorage.getItem(CHAT_STORAGE_KEY);
+        if (saved) {
+          const parsed = JSON.parse(saved);
+          if (Array.isArray(parsed) && parsed.length > 0) {
+            return parsed;
+          }
+        }
+      } catch (e) {
+        console.warn('Could not read chat history from sessionStorage:', e);
+      }
+    }
+    return INITIAL_MESSAGES;
+  });
   const [input, setInput] = useState('');
   const [loading, setLoading] = useState(false);
   const [copiedId, setCopiedId] = useState<string | null>(null);
+  const [copiedFullChat, setCopiedFullChat] = useState(false);
   const [speakingId, setSpeakingId] = useState<string | null>(null);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
+  // Persist conversation across turns and page navigation
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      try {
+        sessionStorage.setItem(CHAT_STORAGE_KEY, JSON.stringify(messages));
+      } catch (e) {
+        console.warn('Could not save chat history to sessionStorage:', e);
+      }
+    }
+  }, [messages]);
+
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  const handleResetConversation = () => {
+    if (typeof window !== 'undefined') {
+      try {
+        sessionStorage.removeItem(CHAT_STORAGE_KEY);
+      } catch (e) {
+        // ignore
+      }
+    }
+    setMessages(INITIAL_MESSAGES);
+  };
+
+  const handleCopyFullConversation = () => {
+    const textLines = messages
+      .filter(m => m.id !== 'welcome')
+      .map(m => `[${m.role === 'user' ? 'Traveler' : 'Mahmod (Egyptologist)'}]:\n${m.text}\n`)
+      .join('\n---\n\n');
+    const fullExport = `=== Genuine Egypte Travel Consultation with Mahmod ===\nDate: ${new Date().toLocaleDateString()}\n\n${textLines}\n\nGenuine Egypte (Luxor, Egypt) | WhatsApp: +20 1070335551 | info@genuineegypte.com`;
+    navigator.clipboard.writeText(fullExport);
+    setCopiedFullChat(true);
+    setTimeout(() => setCopiedFullChat(false), 2500);
   };
 
   useEffect(() => {
@@ -314,9 +365,15 @@ export const MahmodChatbot: React.FC = () => {
           <div className="text-left hidden sm:block pr-1">
             <div className="flex items-center gap-1.5">
               <span className="block text-xs font-bold tracking-wide">Ask Mahmod</span>
-              <span className="px-1.5 py-0.2 bg-amber-400 text-stone-950 text-[9px] font-bold rounded-xs uppercase">
-                Advisor
-              </span>
+              {messages.filter(m => m.role === 'user').length > 0 ? (
+                <span className="px-1.5 py-0.2 bg-amber-400 text-stone-950 text-[9px] font-bold rounded-xs uppercase">
+                  {messages.filter(m => m.role === 'user').length} Active
+                </span>
+              ) : (
+                <span className="px-1.5 py-0.2 bg-amber-400 text-stone-950 text-[9px] font-bold rounded-xs uppercase">
+                  Advisor
+                </span>
+              )}
             </div>
             <span className="block text-[11px] text-amber-300 font-medium">Licensed Egyptologist</span>
           </div>
@@ -354,12 +411,27 @@ export const MahmodChatbot: React.FC = () => {
                 </h3>
                 <p className="text-[11px] text-stone-300 flex items-center gap-1">
                   <MapPin className="w-3 h-3 text-amber-400" />
-                  <span>Luxor Office · Genuine Egypte · 15+ Yrs Experience</span>
+                  <span>Luxor Office · Genuine Egypte · 15+ Yrs Exp</span>
+                  {messages.filter(m => m.role === 'user').length > 0 && (
+                    <span className="text-amber-400 font-medium">({messages.filter(m => m.role === 'user').length} turns)</span>
+                  )}
                 </p>
               </div>
             </div>
 
             <div className="flex items-center gap-1 text-stone-400">
+              {/* Copy Full Consultation */}
+              {messages.length > 1 && (
+                <button
+                  onClick={handleCopyFullConversation}
+                  title={copiedFullChat ? 'Copied full consultation!' : 'Copy complete consultation summary'}
+                  className="hover:text-white p-1.5 rounded-lg transition-colors"
+                  aria-label="Copy consultation summary"
+                >
+                  {copiedFullChat ? <Check className="w-4 h-4 text-emerald-400" /> : <Copy className="w-4 h-4" />}
+                </button>
+              )}
+
               {/* Expand / Minimize Window Toggle */}
               <button
                 onClick={() => setIsExpanded(!isExpanded)}
@@ -372,8 +444,8 @@ export const MahmodChatbot: React.FC = () => {
 
               {/* Reset Conversation */}
               <button
-                onClick={() => setMessages(INITIAL_MESSAGES)}
-                title="Restart conversation"
+                onClick={handleResetConversation}
+                title="Restart conversation & clear history"
                 className="hover:text-white p-1.5 rounded-lg transition-colors"
                 aria-label="Restart conversation"
               >
