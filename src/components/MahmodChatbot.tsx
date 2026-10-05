@@ -31,6 +31,8 @@ interface TourSummary {
   category: string;
   destination: string;
   duration: string;
+  price?: number | null;
+  priceNote?: string;
   mainImage: string;
   shortDescription?: string;
 }
@@ -41,24 +43,26 @@ interface ChatMessage {
   text: string;
   timestamp: string;
   recommendedTours?: TourSummary[];
+  suggestions?: string[];
 }
 
 const INITIAL_MESSAGES: ChatMessage[] = [
   {
     id: 'welcome',
     role: 'model',
-    text: `Marhaban! I am **Mahmod**, lead licensed Egyptologist and master itinerary planner at Genuine Egypte in Luxor.\n\nWhether you are considering a **5-star Nile cruise** between Luxor and Aswan, a private sunrise balloon flight over the Valley of the Kings, or an unhurried Cairo & Giza cultural discovery, I am here to personally guide you to the finest choice.\n\nHow can I help you discover Egypt today?`,
+    text: `Marhaban! I am **Mahmod**, lead licensed Egyptologist and master itinerary planner at Genuine Egypte in Luxor.\n\nWhether you are considering a **5-star Nile cruise** between Luxor and Aswan, an exclusive traditional Dahabiya sailboat, sunrise ballooning over the Valley of the Kings, or an unhurried Cairo & Giza cultural discovery, I am here to personally guide you to the finest choice.\n\nHow can I help you discover Egypt today?`,
     timestamp: 'Just now',
     recommendedTours: [
       {
         id: 'rec-1',
-        title: '3 Nights / 4 Days Nile Cruise – Luxor → Aswan',
-        slug: '3-nights-4-days-nile-cruise-luxor-%e2%86%92-aswan',
+        title: 'Royal Ruby Nile Cruise 3 Nights 4 days',
+        slug: 'royal-ruby-nile-cruise-3-nights-4-days',
         category: 'Nile Cruises',
         destination: 'Luxor & Aswan',
         duration: '3 Nights / 4 Days',
-        mainImage: '/images/tours/160538339712Royal-Ruby-Nile-Cruise10.jpg',
-        shortDescription: 'Full board sailing aboard the 5-star Royal Ruby visiting Karnak, Edfu, Kom Ombo, and Philae.'
+        priceNote: 'Custom private quote · Full board',
+        mainImage: '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
+        shortDescription: 'Full board sailing aboard the 5-star Royal Ruby visiting Karnak, Edfu, Kom Ombo, and Philae with private Egyptologist shore guiding.'
       },
       {
         id: 'rec-2',
@@ -67,20 +71,28 @@ const INITIAL_MESSAGES: ChatMessage[] = [
         category: 'Luxor Tours',
         destination: 'Luxor',
         duration: 'Full Day (8–9 hours)',
+        priceNote: 'Private A/C vehicle & certified guide',
         mainImage: '/images/tours/genuine-egypte-19.webp',
         shortDescription: 'Valley of the Kings, Hatshepsut Temple, Colossi of Memnon, Karnak and Luxor Temples.'
       }
+    ],
+    suggestions: [
+      'Which 5-star Nile cruise do you recommend?',
+      'What is the best private tour for the Pyramids & Cairo?',
+      'Tell me about Dahabiya traditional sailing yachts.',
+      'Can we do a private day excursion to Abu Simbel?'
     ]
   }
 ];
 
 const QUICK_TOPICS = [
   { label: '🚢 5-Star Nile Cruises', query: 'Which 5-star Nile Cruise do you recommend between Luxor and Aswan?' },
-  { label: '⛵ Dahabiya Sailing', query: 'Tell me about Dahabiya traditional sailing cruises.' },
+  { label: '⛵ Dahabiya Sailing', query: 'Tell me about Dahabiya traditional sailing cruises and how they differ from big ships.' },
   { label: '👑 Cairo & Pyramids', query: 'What is the best private tour for the Giza Pyramids and Cairo?' },
-  { label: '☀️ Abu Simbel Trip', query: 'Can I do a private day excursion to Abu Simbel from Aswan?' },
+  { label: '☀️ Abu Simbel Excursion', query: 'Can I do a private day excursion to Abu Simbel from Aswan?' },
   { label: '🎈 Sunrise Hot Air Balloon', query: 'How does the sunrise hot air balloon flight in Luxor work?' },
-  { label: '💰 Transparent Pricing & Quote', query: 'How do your tour prices and booking deposits work?' }
+  { label: '🐠 Hurghada & Red Sea', query: 'What private trips and desert or sea safaris do you have in Hurghada?' },
+  { label: '💰 Transparent Direct Quote', query: 'How do your tour prices, inclusions, and WhatsApp confirmations work?' }
 ];
 
 export const MahmodChatbot: React.FC = () => {
@@ -185,13 +197,15 @@ export const MahmodChatbot: React.FC = () => {
       const data = await res.json();
       const replyText = data.reply || 'I am delighted to help you choose the finest Egyptian tour!';
       const recommendedTours = data.recommendedTours || [];
+      const suggestions = data.suggestions || [];
 
       const modelMsg: ChatMessage = {
         id: `model-${Date.now()}`,
         role: 'model',
         text: replyText,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
-        recommendedTours: recommendedTours.length > 0 ? recommendedTours : undefined
+        recommendedTours: recommendedTours.length > 0 ? recommendedTours : undefined,
+        suggestions: suggestions.length > 0 ? suggestions : undefined
       };
 
       setMessages(prev => [...prev, modelMsg]);
@@ -201,7 +215,13 @@ export const MahmodChatbot: React.FC = () => {
         id: `model-${Date.now()}`,
         role: 'model',
         text: `Marhaban! I am here to assist you. Our Luxor team is directly available on WhatsApp (**+20 1070335551**) or email (**info@genuineegypte.com**) to provide immediate customized advice on private tours, 5-star Nile cruises, and overland transfers.\n\nWould you like me to recommend our most popular 4-day Nile Cruise or a private Luxor East & West Bank day tour?`,
-        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+        suggestions: [
+          'Which 5-star Nile cruise do you recommend?',
+          'What is the best private tour for the Pyramids & Cairo?',
+          'Tell me about Dahabiya traditional sailing',
+          'Contact team on WhatsApp'
+        ]
       };
       setMessages(prev => [...prev, modelMsg]);
     } finally {
@@ -454,7 +474,13 @@ export const MahmodChatbot: React.FC = () => {
                                       <Link to={`/booking/${tour.slug}/`}>{tour.title}</Link>
                                     </h4>
 
-                                    <div className="flex items-center gap-2 pt-0.5">
+                                    {tour.priceNote && (
+                                      <p className="text-[10px] text-amber-800 dark:text-amber-400 font-medium truncate">
+                                        {tour.priceNote}
+                                      </p>
+                                    )}
+
+                                    <div className="flex flex-wrap items-center gap-2 pt-0.5">
                                       <Link
                                         to={`/booking/${tour.slug}/`}
                                         className="text-[11px] font-semibold text-stone-800 dark:text-stone-200 hover:text-amber-700 dark:hover:text-amber-400 inline-flex items-center gap-0.5"
@@ -463,18 +489,48 @@ export const MahmodChatbot: React.FC = () => {
                                         <ArrowRight className="w-3 h-3" />
                                       </Link>
 
+                                      <button
+                                        type="button"
+                                        onClick={() => handleSend(`Tell me more about "${tour.title}" — what are the highlights, full schedule, and pricing?`)}
+                                        className="text-[10px] font-semibold text-amber-800 dark:text-amber-300 hover:text-amber-950 dark:hover:text-amber-100 inline-flex items-center gap-1 bg-amber-100/70 dark:bg-amber-950/60 px-2 py-0.5 rounded-xs transition-colors"
+                                      >
+                                        <Sparkles className="w-2.5 h-2.5 text-amber-600 dark:text-amber-400" />
+                                        <span>Ask Mahmod</span>
+                                      </button>
+
                                       <a
                                         href={`https://wa.me/201070335551?text=${encodeURIComponent(`Hello Mahmod, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please share availability and seasonal rates.`)}`}
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="text-[10px] font-medium text-emerald-700 dark:text-emerald-400 hover:underline inline-flex items-center gap-0.5"
+                                        className="text-[10px] font-medium text-emerald-700 dark:text-emerald-400 hover:underline inline-flex items-center gap-0.5 ml-auto"
                                       >
                                         <Phone className="w-2.5 h-2.5" />
-                                        <span>WhatsApp Quote</span>
+                                        <span>WhatsApp</span>
                                       </a>
                                     </div>
                                   </div>
                                 </div>
+                              ))}
+                            </div>
+                          </div>
+                        )}
+
+                        {/* Dynamic Interactive Suggestion Chips */}
+                        {msg.suggestions && msg.suggestions.length > 0 && !loading && (
+                          <div className="pt-2 border-t border-stone-100 dark:border-stone-700/60 space-y-1.5">
+                            <span className="text-[10px] uppercase font-semibold tracking-wider text-stone-400 dark:text-stone-500 block">
+                              Suggested questions:
+                            </span>
+                            <div className="flex flex-wrap gap-1.5">
+                              {msg.suggestions.map((suggestion, sIdx) => (
+                                <button
+                                  key={sIdx}
+                                  type="button"
+                                  onClick={() => handleSend(suggestion)}
+                                  className="text-left text-[11px] bg-amber-50 hover:bg-amber-100 dark:bg-amber-950/40 dark:hover:bg-amber-900/60 text-amber-900 dark:text-amber-200 border border-amber-200/80 dark:border-amber-800/60 rounded-full px-2.5 py-1 transition-all hover:scale-[1.02] active:scale-[0.98] leading-tight"
+                                >
+                                  {suggestion}
+                                </button>
                               ))}
                             </div>
                           </div>
