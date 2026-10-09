@@ -31,7 +31,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
   const tour = getTourBySlug(slug);
   const [selectedImage, setSelectedImage] = useState<string>('');
   const [inquiryModalOpen, setInquiryModalOpen] = useState(false);
-  const [expandedDay, setExpandedDay] = useState<number | null>(0);
+  const [expandedDays, setExpandedDays] = useState<Set<number>>(new Set([0]));
 
   if (!tour) {
     return (
@@ -289,6 +289,35 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
             <h1 className="font-serif text-2xl sm:text-4xl lg:text-5xl font-bold text-stone-900 dark:text-stone-100 tracking-tight leading-tight">
               {tour.title}
             </h1>
+
+            {tour.shortDescription && (
+              <p className="text-sm sm:text-base text-stone-600 dark:text-stone-300 font-sans leading-relaxed max-w-4xl pt-1">
+                {tour.shortDescription}
+              </p>
+            )}
+
+            {/* Quick Section Jump Bar */}
+            <div className="flex items-center gap-2 overflow-x-auto pt-2 scrollbar-none text-xs font-medium text-stone-600 dark:text-stone-400">
+              <a href="#overview" className="hover:text-amber-800 dark:hover:text-amber-300 px-3 py-1.5 rounded-md bg-stone-100 dark:bg-stone-800/80 transition-colors shrink-0">
+                Overview
+              </a>
+              {tour.highlights && tour.highlights.length > 0 && (
+                <a href="#highlights" className="hover:text-amber-800 dark:hover:text-amber-300 px-3 py-1.5 rounded-md bg-stone-100 dark:bg-stone-800/80 transition-colors shrink-0">
+                  Highlights
+                </a>
+              )}
+              {tour.itinerary && tour.itinerary.length > 0 && (
+                <a href="#itinerary" className="hover:text-amber-800 dark:hover:text-amber-300 px-3 py-1.5 rounded-md bg-stone-100 dark:bg-stone-800/80 transition-colors shrink-0">
+                  Tour Plan ({tour.itinerary.length} Steps)
+                </a>
+              )}
+              <a href="#inclusions" className="hover:text-amber-800 dark:hover:text-amber-300 px-3 py-1.5 rounded-md bg-stone-100 dark:bg-stone-800/80 transition-colors shrink-0">
+                Inclusions & Services
+              </a>
+              <a href="#reviews" className="hover:text-amber-800 dark:hover:text-amber-300 px-3 py-1.5 rounded-md bg-stone-100 dark:bg-stone-800/80 transition-colors shrink-0">
+                Traveler Reviews
+              </a>
+            </div>
           </div>
 
           {/* Main Layout Grid: Content + Sticky Inquiry Column */}
@@ -306,7 +335,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                     className="w-full h-full object-cover transition-opacity duration-300"
                   />
                   <div className="absolute bottom-3 left-3 bg-[#181512]/80 backdrop-blur-xs text-stone-200 px-3 py-1 text-xs rounded-xs font-medium">
-                    Genuine Egypte Authentic Photo
+                    Genuine Egypte Verified Excursion
                   </div>
                 </div>
 
@@ -336,44 +365,49 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               </div>
 
               {/* Key Features Strip */}
-              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 p-4 bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg text-xs">
+              <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 p-4 bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg text-xs shadow-xs">
                 <div>
-                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Duration</span>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px] font-medium">Duration</span>
                   <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">{tour.duration}</strong>
                 </div>
                 <div>
-                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Tour Type</span>
-                  <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">Private / Tailored</strong>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px] font-medium">Tour Type</span>
+                  <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">100% Private / Tailored</strong>
                 </div>
                 <div>
-                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Guiding</span>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px] font-medium">Guiding</span>
                   <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">Licensed Egyptologist</strong>
                 </div>
                 <div>
-                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px]">Transport</span>
+                  <span className="text-stone-400 dark:text-stone-500 block uppercase tracking-wider text-[10px] font-medium">Vehicles</span>
                   <strong className="text-stone-800 dark:text-stone-100 text-sm font-serif">Private A/C Fleet</strong>
                 </div>
               </div>
 
               {/* Overview / Introduction */}
-              <div className="space-y-4">
-                <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
-                  Experience Overview
-                </h2>
-                <div className="prose prose-stone dark:prose-invert max-w-none text-xs sm:text-sm text-stone-700 dark:text-stone-300 leading-relaxed space-y-3">
-                  <p>{tour.overview}</p>
+              <div id="overview" className="space-y-4 scroll-mt-24">
+                <div className="flex items-center justify-between border-b border-stone-200 dark:border-stone-800 pb-2">
+                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100">
+                    Experience Overview
+                  </h2>
+                  <span className="text-[11px] font-medium text-amber-800 dark:text-amber-400 uppercase tracking-wider hidden sm:inline">
+                    Authentic Pharaonic Discovery
+                  </span>
+                </div>
+                <div className="prose prose-stone dark:prose-invert max-w-none text-xs sm:text-sm text-stone-700 dark:text-stone-300 leading-relaxed space-y-4 whitespace-pre-line">
+                  {tour.overview}
                 </div>
               </div>
 
               {/* Highlights */}
               {tour.highlights && tour.highlights.length > 0 && (
-                <div className="space-y-4">
+                <div id="highlights" className="space-y-4 scroll-mt-24">
                   <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
                     Key Highlights
                   </h2>
                   <ul className="grid grid-cols-1 sm:grid-cols-2 gap-3 list-none p-0">
                     {tour.highlights.map((hl, idx) => (
-                      <li key={idx} className="flex items-start gap-2.5 text-xs sm:text-sm text-stone-700 dark:text-stone-300">
+                      <li key={idx} className="flex items-start gap-2.5 text-xs sm:text-sm text-stone-700 dark:text-stone-300 bg-white dark:bg-stone-900/60 p-3 rounded-lg border border-stone-200/80 dark:border-stone-800">
                         <Sparkles className="w-4 h-4 text-amber-700 dark:text-amber-500 shrink-0 mt-0.5" />
                         <span>{hl}</span>
                       </li>
@@ -384,29 +418,57 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
               {/* Itinerary / Program */}
               {tour.itinerary && tour.itinerary.length > 0 && (
-                <div className="space-y-4">
-                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
-                    Tour Plan & Itinerary
-                  </h2>
+                <div id="itinerary" className="space-y-4 scroll-mt-24">
+                  <div className="flex items-center justify-between border-b border-stone-200 dark:border-stone-800 pb-2">
+                    <div>
+                      <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100">
+                        Tour Plan & Detailed Itinerary
+                      </h2>
+                      <span className="text-xs text-stone-500 dark:text-stone-400">
+                        {tour.itinerary.length} {tour.itinerary.length === 1 ? 'Program Stage' : 'Scheduled Stages'}
+                      </span>
+                    </div>
+
+                    <button
+                      onClick={() => {
+                        if (expandedDays.size === tour.itinerary.length) {
+                          setExpandedDays(new Set());
+                        } else {
+                          setExpandedDays(new Set(tour.itinerary.map((_, i) => i)));
+                        }
+                      }}
+                      className="text-xs font-semibold text-amber-800 dark:text-amber-400 hover:text-amber-900 dark:hover:text-amber-300 px-2.5 py-1 rounded bg-amber-50 dark:bg-amber-950/60 transition-colors"
+                    >
+                      {expandedDays.size === tour.itinerary.length ? 'Collapse All' : 'Expand All'}
+                    </button>
+                  </div>
 
                   <div className="space-y-3">
                     {tour.itinerary.map((step, idx) => {
-                      const isOpen = expandedDay === idx;
+                      const isOpen = expandedDays.has(idx);
                       return (
                         <div
                           key={idx}
-                          className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg overflow-hidden transition-colors"
+                          className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg overflow-hidden transition-colors shadow-2xs"
                         >
                           <button
-                            onClick={() => setExpandedDay(isOpen ? null : idx)}
-                            className="w-full text-left px-5 py-3.5 flex items-center justify-between gap-4 font-serif text-sm font-bold text-stone-900 dark:text-stone-100 hover:text-amber-800 dark:hover:text-amber-400 transition-colors"
+                            onClick={() => {
+                              const next = new Set(expandedDays);
+                              if (next.has(idx)) {
+                                next.delete(idx);
+                              } else {
+                                next.add(idx);
+                              }
+                              setExpandedDays(next);
+                            }}
+                            className="w-full text-left px-5 py-4 flex items-center justify-between gap-4 font-serif text-sm font-bold text-stone-900 dark:text-stone-100 hover:text-amber-800 dark:hover:text-amber-400 transition-colors"
                             aria-expanded={isOpen}
                           >
-                            <span className="flex items-center gap-2">
-                              <span className="text-xs font-sans text-amber-700 dark:text-amber-500 font-semibold uppercase">
-                                Part {idx + 1}:
+                            <span className="flex items-center gap-2.5">
+                              <span className="px-2 py-0.5 rounded-xs bg-amber-100/90 dark:bg-amber-950/80 text-[11px] font-sans text-amber-900 dark:text-amber-300 font-semibold tracking-wide uppercase">
+                                Part {idx + 1}
                               </span>
-                              <span>{step.title || `Day ${idx + 1} Program`}</span>
+                              <span>{step.title || `Stage ${idx + 1}`}</span>
                             </span>
                             <ChevronDown
                               className={`w-4 h-4 text-stone-400 shrink-0 transition-transform duration-200 ${
@@ -416,8 +478,8 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                           </button>
 
                           {isOpen && (
-                            <div className="px-5 pb-5 text-xs sm:text-sm text-stone-600 dark:text-stone-300 leading-relaxed border-t border-stone-100 dark:border-stone-800 pt-3 whitespace-pre-line">
-                              {step.description}
+                            <div className="px-5 pb-5 text-xs sm:text-sm text-stone-600 dark:text-stone-300 leading-relaxed border-t border-stone-100 dark:border-stone-800 pt-3 whitespace-pre-line space-y-2">
+                              <p>{step.description}</p>
                             </div>
                           )}
                         </div>
@@ -427,18 +489,23 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                 </div>
               )}
 
-              {/* Inclusions and Exclusions Side-by-Side */}
-              <div className="space-y-4">
+              {/* Inclusions, Exclusions & Optional Extras */}
+              <div id="inclusions" className="space-y-4 scroll-mt-24">
                 <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
-                  What&rsquo;s Included & Excluded
+                  Inclusions, Exclusions & Optional Extras
                 </h2>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   {/* Included */}
                   <div className="bg-emerald-50/50 dark:bg-emerald-950/30 border border-emerald-200/80 dark:border-emerald-800/50 rounded-lg p-5 space-y-3">
-                    <h3 className="text-xs font-semibold text-emerald-900 dark:text-emerald-300 uppercase tracking-wider flex items-center gap-1.5 font-serif">
-                      <CheckCircle2 className="w-4 h-4 text-emerald-700 dark:text-emerald-400" />
-                      <span>Included in this tour</span>
+                    <h3 className="text-xs font-semibold text-emerald-900 dark:text-emerald-300 uppercase tracking-wider flex items-center justify-between font-serif">
+                      <span className="flex items-center gap-1.5">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-700 dark:text-emerald-400" />
+                        <span>Included In This Tour</span>
+                      </span>
+                      <span className="text-[11px] font-sans font-normal text-emerald-700 dark:text-emerald-400">
+                        {tour.inclusions.length} verified services
+                      </span>
                     </h3>
                     <ul className="space-y-2 text-xs text-stone-700 dark:text-stone-300">
                       {tour.inclusions.map((item, idx) => (
@@ -452,9 +519,14 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
                   {/* Excluded */}
                   <div className="bg-rose-50/40 dark:bg-rose-950/30 border border-rose-200/70 dark:border-rose-800/50 rounded-lg p-5 space-y-3">
-                    <h3 className="text-xs font-semibold text-rose-950 dark:text-rose-300 uppercase tracking-wider flex items-center gap-1.5 font-serif">
-                      <XCircle className="w-4 h-4 text-rose-700 dark:text-rose-400" />
-                      <span>Excluded / Optional</span>
+                    <h3 className="text-xs font-semibold text-rose-950 dark:text-rose-300 uppercase tracking-wider flex items-center justify-between font-serif">
+                      <span className="flex items-center gap-1.5">
+                        <XCircle className="w-4 h-4 text-rose-700 dark:text-rose-400" />
+                        <span>Excluded Services</span>
+                      </span>
+                      <span className="text-[11px] font-sans font-normal text-rose-700 dark:text-rose-400">
+                        Transparent policy
+                      </span>
                     </h3>
                     <ul className="space-y-2 text-xs text-stone-700 dark:text-stone-300">
                       {tour.exclusions.map((item, idx) => (
@@ -466,14 +538,37 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                     </ul>
                   </div>
                 </div>
+
+                {/* Optional Extras & Add-ons (Clearly distinguished) */}
+                {tour.optionalExtras && tour.optionalExtras.length > 0 && (
+                  <div className="bg-amber-50/60 dark:bg-amber-950/30 border border-amber-200/80 dark:border-amber-800/50 rounded-lg p-5 space-y-3">
+                    <h3 className="text-xs font-semibold text-amber-950 dark:text-amber-300 uppercase tracking-wider flex items-center justify-between font-serif">
+                      <span className="flex items-center gap-1.5">
+                        <Sparkles className="w-4 h-4 text-amber-700 dark:text-amber-400" />
+                        <span>Optional Activities & Upgrades (Available on Request)</span>
+                      </span>
+                      <span className="text-[11px] font-sans font-normal text-amber-800 dark:text-amber-400">
+                        Add to your bespoke quote
+                      </span>
+                    </h3>
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs text-stone-700 dark:text-stone-300">
+                      {tour.optionalExtras.map((opt, idx) => (
+                        <li key={idx} className="flex items-start gap-2">
+                          <span className="w-1.5 h-1.5 rounded-full bg-amber-600 dark:bg-amber-400 shrink-0 mt-1.5" />
+                          <span>{opt}</span>
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
               </div>
 
               {/* Meeting & Pickup Information */}
               {tour.meetingPoint && (
-                <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-5 space-y-2 text-xs">
+                <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-5 space-y-2 text-xs shadow-2xs">
                   <div className="flex items-center gap-2 text-stone-800 dark:text-stone-100 font-semibold uppercase tracking-wider font-serif">
                     <Navigation className="w-4 h-4 text-amber-700 dark:text-amber-500" />
-                    <span>Meeting & Pickup Details</span>
+                    <span>Meeting, Pickup & Arrival Details</span>
                   </div>
                   <p className="text-stone-600 dark:text-stone-300 leading-relaxed">
                     {tour.meetingPoint}
@@ -481,8 +576,8 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                 </div>
               )}
 
-              {/* Verified Traveler Reviews Section (Social Proof & Schema Parity) */}
-              <div className="space-y-4 pt-4 border-t border-stone-200 dark:border-stone-800">
+              {/* Verified Traveler Reviews Section */}
+              <div id="reviews" className="space-y-4 pt-4 border-t border-stone-200 dark:border-stone-800 scroll-mt-24">
                 <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-2">
                   <div>
                     <span className="text-[11px] font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider block font-serif">
@@ -538,18 +633,18 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
             </div>
 
             {/* Right 4 Cols: Sticky Inquiry Card */}
-            <aside aria-label="Book or inquire" className="lg:col-span-4 lg:sticky lg:top-24 space-y-6">
+            <aside id="pricing" aria-label="Book or inquire" className="lg:col-span-4 lg:sticky lg:top-24 space-y-6 scroll-mt-24">
               <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl p-6 shadow-md space-y-5">
                 <div className="space-y-1 pb-4 border-b border-stone-100 dark:border-stone-800">
                   <span className="text-[11px] font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider block font-serif">
-                    Inquiry & Availability
+                    Inquiry & Custom Proposal
                   </span>
                   <div className="flex items-baseline justify-between">
-                    <span className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100">Custom Rate</span>
-                    <span className="text-xs text-stone-500 dark:text-stone-400">Per Traveler</span>
+                    <span className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100">Custom Quote</span>
+                    <span className="text-xs text-stone-500 dark:text-stone-400">Tailored To Group</span>
                   </div>
-                  <p className="text-xs text-stone-500 dark:text-stone-400 italic pt-1">
-                    Direct booking quote tailored to your travel date and group size.
+                  <p className="text-xs text-stone-600 dark:text-stone-300 italic pt-1 leading-relaxed">
+                    {tour.priceNote || 'Personalized private proposal tailored to your travel dates, cabin preference, and group size.'}
                   </p>
                   <div className="flex items-center gap-1.5 pt-2 text-xs">
                     <div className="flex items-center text-amber-500">
@@ -558,14 +653,30 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                       ))}
                     </div>
                     <span className="font-semibold text-stone-900 dark:text-stone-100">4.95 / 5.0</span>
-                    <span className="text-stone-500 dark:text-stone-400">(156 reviews)</span>
+                    <span className="text-stone-500 dark:text-stone-400">(156 traveler reviews)</span>
+                  </div>
+                </div>
+
+                {/* Key Benefits Checklist */}
+                <div className="space-y-2 text-xs text-stone-700 dark:text-stone-300">
+                  <div className="flex items-center gap-2">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                    <span>100% Private (No crowded group buses)</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                    <span>Licensed University Egyptologist Guide</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                    <span>Zero Upfront Card Deductions</span>
                   </div>
                 </div>
 
                 {/* Direct Action Buttons */}
-                <div className="space-y-2.5">
+                <div className="space-y-2.5 pt-1">
                   <a
-                    href={`https://wa.me/201070335551?text=${encodeURIComponent(`Hello Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please let me know seasonal availability and pricing.`)}`}
+                    href={`https://wa.me/201070335551?text=${encodeURIComponent(`Hello Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please provide a seasonal quotation and availability.`)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white py-3 px-4 rounded-lg font-medium text-xs sm:text-sm transition-colors shadow-xs"
@@ -591,7 +702,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                   </div>
                   <div className="flex items-start gap-2">
                     <Clock className="w-4 h-4 text-amber-700 dark:text-amber-500 shrink-0 mt-0.5" />
-                    <span>Rapid reply within 12 hours from our Luxor office.</span>
+                    <span>Rapid reply within 12 hours from Luxor team.</span>
                   </div>
                   <div className="flex items-start gap-2">
                     <Phone className="w-4 h-4 text-stone-500 shrink-0 mt-0.5" />
