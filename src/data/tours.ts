@@ -95,22 +95,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
@@ -127,11 +123,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise-5-days-04-nights-program-every-monday"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -176,22 +171,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -208,11 +199,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise-5-days-04-nights-program-every-monday"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -253,22 +243,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
@@ -285,11 +271,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise-5-days-04-nights-program-every-monday"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -334,22 +319,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -366,11 +347,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -411,18 +391,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -439,11 +419,10 @@ export const TOURS_DATA: TourItem[] = [
       "memphis-saqqara-and-dahshur-private-full-day-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -480,18 +459,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
@@ -508,11 +487,10 @@ export const TOURS_DATA: TourItem[] = [
       "memphis-saqqara-and-dahshur-private-full-day-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -553,18 +531,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -581,11 +559,10 @@ export const TOURS_DATA: TourItem[] = [
       "memphis-saqqara-and-dahshur-private-full-day-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -622,18 +599,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
@@ -650,11 +627,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -691,18 +667,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972424051citadel-of-qaitbay-fortress-alexandria.jpg",
@@ -718,11 +694,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -759,18 +734,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0026.jpg",
@@ -787,11 +762,10 @@ export const TOURS_DATA: TourItem[] = [
       "explore-the-legendary-karnak-and-luxor-temple"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -828,18 +802,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
@@ -856,11 +830,10 @@ export const TOURS_DATA: TourItem[] = [
       "explore-the-legendary-karnak-and-luxor-temple"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -901,18 +874,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -929,11 +902,10 @@ export const TOURS_DATA: TourItem[] = [
       "explore-the-legendary-karnak-and-luxor-temple"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -970,18 +942,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -998,11 +970,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -1039,18 +1010,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0011.jpg",
@@ -1067,11 +1038,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -1080,7 +1050,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "private day tour to edfu and komombo temples from luxor",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–8 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -1108,18 +1078,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/11-21.webp",
@@ -1134,11 +1104,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -1147,7 +1116,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day-trip to Abu Simbel, UNESCO World Heritage Site, from Aswan",
     "category": "Abu Simbel Excursions",
     "destination": "Aswan & Abu Simbel",
-    "duration": "Full Day (Approx. 7–8 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": true,
@@ -1179,18 +1148,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan & Abu Simbel",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan & Abu Simbel",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan & Abu Simbel. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-3-1.webp",
@@ -1207,11 +1176,10 @@ export const TOURS_DATA: TourItem[] = [
       "ms-nubian-sea-lake-nasser-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -1224,14 +1192,13 @@ export const TOURS_DATA: TourItem[] = [
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": true,
-    "shortDescription": "Reliable private door-to-door transfer in Luxor with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Hot-Air Balloon Tour in Luxor with Hotel Transfers. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "shortDescription": "Drift over Luxor's West Bank at sunrise on the Hot-Air Balloon Tour in Luxor with Hotel Transfers, marveling at the Valley of the Kings, Hatshepsut Temple, and.",
+    "overview": "Take to the dawn skies on the Hot-Air Balloon Tour in Luxor with Hotel Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of a sunrise hot air balloon flight drifting over ancient Thebes",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
+      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
+      "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
     "itinerary": [
       {
@@ -1252,23 +1219,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Pre-flight hot tea, coffee, and light morning refreshments",
-      "Personal commemorative flight certificate signed by pilot"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Luxor",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
-    "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
+    "meetingPoint": "Early morning pickup directly from your hotel lobby or Nile cruise ship reception in Luxor. Please confirm your accommodation name when booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0020.jpg",
     "images": [
       "/images/gallery/IMG-20261001-WA0020.jpg",
@@ -1282,11 +1245,9 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -1299,14 +1260,13 @@ export const TOURS_DATA: TourItem[] = [
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": true,
-    "shortDescription": "Reliable private door-to-door transfer in Luxor with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Premium Sunrise Hot Air Balloon Tour in Luxor with Photos, Video & Hotel Transfers. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "shortDescription": "Drift over Luxor's West Bank at sunrise on the Premium Sunrise Hot Air Balloon Tour in Luxor with Photos, Video & Hotel Transfers, marveling at the Valley of the.",
+    "overview": "Take to the dawn skies on the Premium Sunrise Hot Air Balloon Tour in Luxor with Photos, Video & Hotel Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of a sunrise hot air balloon flight drifting over ancient Thebes",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
+      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
+      "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
     "itinerary": [
       {
@@ -1327,23 +1287,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Pre-flight hot tea, coffee, and light morning refreshments",
-      "Personal commemorative flight certificate signed by pilot"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Luxor",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
-    "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
+    "meetingPoint": "Early morning pickup directly from your hotel lobby or Nile cruise ship reception in Luxor. Please confirm your accommodation name when booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0021.jpg",
     "images": [
       "/images/gallery/IMG-20261001-WA0021.jpg",
@@ -1357,11 +1313,9 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -1374,14 +1328,13 @@ export const TOURS_DATA: TourItem[] = [
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": true,
-    "shortDescription": "Reliable private door-to-door transfer in Luxor with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Valley of The Kings Guided Tour with Sunrise Hot Air Balloon & Round-Trip Hotel Transfers. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "shortDescription": "Drift over Luxor's West Bank at sunrise on the Valley of The Kings Guided Tour with Sunrise Hot Air Balloon & Round-Trip Hotel Transfers, marveling at the Valley.",
+    "overview": "Take to the dawn skies on the Valley of The Kings Guided Tour with Sunrise Hot Air Balloon & Round-Trip Hotel Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon the royal rock-cut tombs of the Valley of the Kings, as well as a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of the royal rock-cut tombs of the Valley of the Kings and a sunrise hot air balloon flight drifting over ancient Thebes",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
+      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
+      "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
     "itinerary": [
       {
@@ -1402,23 +1355,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Pre-flight hot tea, coffee, and light morning refreshments",
-      "Personal commemorative flight certificate signed by pilot"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Luxor",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
-    "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
+    "meetingPoint": "Early morning pickup directly from your hotel lobby or Nile cruise ship reception in Luxor. Please confirm your accommodation name when booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0022.jpg",
     "images": [
       "/images/gallery/IMG-20261001-WA0022.jpg",
@@ -1432,11 +1381,9 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -1449,14 +1396,13 @@ export const TOURS_DATA: TourItem[] = [
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": true,
-    "shortDescription": "Reliable private door-to-door transfer in Luxor with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Full Day Guided Tour of Luxor with Hot Air Balloon, Lunch & Transfers. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "shortDescription": "Drift over Luxor's West Bank at sunrise on the Full Day Guided Tour of Luxor with Hot Air Balloon, Lunch & Transfers, marveling at the Valley of the Kings.",
+    "overview": "Take to the dawn skies on the Full Day Guided Tour of Luxor with Hot Air Balloon, Lunch & Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of a sunrise hot air balloon flight drifting over ancient Thebes",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
+      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
+      "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
     "itinerary": [
       {
@@ -1477,23 +1423,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Pre-flight hot tea, coffee, and light morning refreshments",
-      "Personal commemorative flight certificate signed by pilot"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Luxor",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
-    "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
+    "meetingPoint": "Early morning pickup directly from your hotel lobby or Nile cruise ship reception in Luxor. Please confirm your accommodation name when booking.",
     "mainImage": "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
     "images": [
       "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
@@ -1507,11 +1449,9 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -1552,20 +1492,16 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Pre-flight hot tea, coffee, and light morning refreshments",
-      "Personal commemorative flight certificate signed by pilot"
+      "Commercially licensed balloon captain operating under Civil Aviation standards",
+      "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
+      "Motorboat crossing of the Nile with pre-flight tea and coffee",
+      "Personal flight certificate signed by the captain"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist archaeological guide (flight captain gives aviation commentary only)",
+      "Entrance tickets to West Bank monuments on the ground",
+      "Gratuities for balloon pilot and ground retrieval crew",
+      "Personal photo/video packages produced by ground camera team"
     ],
     "meetingPoint": "Early morning pickup directly from your hotel lobby or Nile cruise ship reception in Luxor. Please confirm your accommodation name when booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0020.jpg",
@@ -1581,11 +1517,8 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Private guided ground tour of Valley of the Kings following landing [Requires confirmation]",
+      "Upgrade to private charter balloon basket for couples or families"
     ]
   },
   {
@@ -1622,18 +1555,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -1650,11 +1583,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -1691,18 +1623,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0011.jpg",
@@ -1719,11 +1651,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -1764,18 +1695,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0014.jpg",
@@ -1792,11 +1723,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -1837,22 +1767,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
@@ -1869,11 +1795,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -1918,22 +1843,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
@@ -1950,11 +1871,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -2011,22 +1931,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -2043,11 +1959,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -2088,22 +2003,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
@@ -2120,11 +2031,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -2169,22 +2079,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
@@ -2201,11 +2107,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -2262,22 +2167,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
@@ -2294,11 +2195,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -2355,22 +2255,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
@@ -2387,11 +2283,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -2448,22 +2343,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0012.jpg",
@@ -2480,11 +2371,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -2500,11 +2390,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Reliable private door-to-door transfer in Luxor with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Luxor Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Punctual door-to-door private transfer in Luxor",
+      "Clean, air-conditioned vehicle with professional licensed driver",
+      "Direct non-stop service with verified tourist police road permits",
+      "Luggage assistance and transparent fixed quotation with zero hidden fees"
     ],
     "itinerary": [
       {
@@ -2521,18 +2410,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Luxor",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
     "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
     "mainImage": "/images/gallery/IMG-20261001-WA0012.jpg",
@@ -2547,11 +2435,9 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -2567,11 +2453,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Reliable private door-to-door transfer in Aswan with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Aswan Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of Philae Island, the High Dam, and Nile felucca sailing",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Punctual door-to-door private transfer in Aswan",
+      "Clean, air-conditioned vehicle with professional licensed driver",
+      "Direct non-stop service with verified tourist police road permits",
+      "Luggage assistance and transparent fixed quotation with zero hidden fees"
     ],
     "itinerary": [
       {
@@ -2588,18 +2473,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Aswan",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
     "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
     "mainImage": "/images/tours/15974096720PGNW-egypt-hotel-banner.jpg",
@@ -2609,16 +2493,14 @@ export const TOURS_DATA: TourItem[] = [
       "/images/gallery/IMG-20261001-WA0012.jpg"
     ],
     "relatedSlugs": [
-      "hot-air-balloon-tour-in-luxor-with-hotel-transfers",
-      "premium-sunrise-hot-air-balloon-tour-in-luxor-with-photos-video-hotel-transfers",
-      "valley-of-the-kings-guided-tour-with-sunrise-hot-air-balloon-round-trip-hotel-transfers"
+      "luxor-airport-private-transfer-hotel-%e2%86%94-airport",
+      "hurghada-airport-private-transfer-hotel-%e2%86%94-airport",
+      "luxor-%e2%86%94-aswan-private-transfer-service"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -2634,11 +2516,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Hurghada Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Punctual door-to-door private transfer in Hurghada",
+      "Clean, air-conditioned vehicle with professional licensed driver",
+      "Direct non-stop service with verified tourist police road permits",
+      "Luggage assistance and transparent fixed quotation with zero hidden fees"
     ],
     "itinerary": [
       {
@@ -2655,18 +2536,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Hurghada",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Hurghada",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
     "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -2676,16 +2556,14 @@ export const TOURS_DATA: TourItem[] = [
       "/images/gallery/IMG-20261001-WA0012.jpg"
     ],
     "relatedSlugs": [
-      "hot-air-balloon-tour-in-luxor-with-hotel-transfers",
-      "premium-sunrise-hot-air-balloon-tour-in-luxor-with-photos-video-hotel-transfers",
-      "valley-of-the-kings-guided-tour-with-sunrise-hot-air-balloon-round-trip-hotel-transfers"
+      "luxor-airport-private-transfer-hotel-%e2%86%94-airport",
+      "aswan-airport-private-transfer-hotel-%e2%86%94-airport",
+      "luxor-%e2%86%94-aswan-private-transfer-service"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -2701,11 +2579,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Reliable private door-to-door transfer in Aswan with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Luxor ↔ Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of Philae Island, the High Dam, and Nile felucca sailing",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Punctual door-to-door private transfer in Aswan",
+      "Clean, air-conditioned vehicle with professional licensed driver",
+      "Direct non-stop service with verified tourist police road permits",
+      "Luggage assistance and transparent fixed quotation with zero hidden fees"
     ],
     "itinerary": [
       {
@@ -2722,18 +2599,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Aswan",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
     "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
     "mainImage": "/images/gallery/IMG-20261001-WA0012.jpg",
@@ -2743,16 +2619,14 @@ export const TOURS_DATA: TourItem[] = [
       "/images/tours/Luxor-Private-Tour-4.webp"
     ],
     "relatedSlugs": [
-      "hot-air-balloon-tour-in-luxor-with-hotel-transfers",
-      "premium-sunrise-hot-air-balloon-tour-in-luxor-with-photos-video-hotel-transfers",
-      "valley-of-the-kings-guided-tour-with-sunrise-hot-air-balloon-round-trip-hotel-transfers"
+      "luxor-airport-private-transfer-hotel-%e2%86%94-airport",
+      "aswan-airport-private-transfer-hotel-%e2%86%94-airport",
+      "hurghada-airport-private-transfer-hotel-%e2%86%94-airport"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -2768,11 +2642,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Luxor ↔ Hurghada Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Punctual door-to-door private transfer in Hurghada",
+      "Clean, air-conditioned vehicle with professional licensed driver",
+      "Direct non-stop service with verified tourist police road permits",
+      "Luggage assistance and transparent fixed quotation with zero hidden fees"
     ],
     "itinerary": [
       {
@@ -2789,18 +2662,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Hurghada",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Hurghada",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
     "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
     "mainImage": "/images/tours/15974096720PGNW-egypt-hotel-banner.jpg",
@@ -2810,16 +2682,14 @@ export const TOURS_DATA: TourItem[] = [
       "/images/gallery/IMG-20261001-WA0012.jpg"
     ],
     "relatedSlugs": [
-      "hot-air-balloon-tour-in-luxor-with-hotel-transfers",
-      "premium-sunrise-hot-air-balloon-tour-in-luxor-with-photos-video-hotel-transfers",
-      "valley-of-the-kings-guided-tour-with-sunrise-hot-air-balloon-round-trip-hotel-transfers"
+      "luxor-airport-private-transfer-hotel-%e2%86%94-airport",
+      "aswan-airport-private-transfer-hotel-%e2%86%94-airport",
+      "hurghada-airport-private-transfer-hotel-%e2%86%94-airport"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -2835,11 +2705,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Hurghada ↔ Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Punctual door-to-door private transfer in Hurghada",
+      "Clean, air-conditioned vehicle with professional licensed driver",
+      "Direct non-stop service with verified tourist police road permits",
+      "Luggage assistance and transparent fixed quotation with zero hidden fees"
     ],
     "itinerary": [
       {
@@ -2856,18 +2725,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Hurghada",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between specified pickup and drop-off points in Hurghada",
+      "Luggage assistance upon pickup and arrival",
+      "Vehicle fuel, parking fees, and road tolls"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (driver-only service)",
+      "Monument entrance tickets to any sites along route",
+      "Meals, snacks, and beverages",
+      "Driver gratuity / tips (customary in Egypt)"
     ],
     "meetingPoint": "Personalized meet-and-greet at airport arrival hall (outside luggage exit) or hotel lobby with a custom paging board and luggage assistance.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -2877,16 +2745,14 @@ export const TOURS_DATA: TourItem[] = [
       "/images/gallery/IMG-20261001-WA0012.jpg"
     ],
     "relatedSlugs": [
-      "hot-air-balloon-tour-in-luxor-with-hotel-transfers",
-      "premium-sunrise-hot-air-balloon-tour-in-luxor-with-photos-video-hotel-transfers",
-      "valley-of-the-kings-guided-tour-with-sunrise-hot-air-balloon-round-trip-hotel-transfers"
+      "luxor-airport-private-transfer-hotel-%e2%86%94-airport",
+      "aswan-airport-private-transfer-hotel-%e2%86%94-airport",
+      "hurghada-airport-private-transfer-hotel-%e2%86%94-airport"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
+      "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
+      "Child safety seat (subject to advance request)"
     ]
   },
   {
@@ -2959,18 +2825,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -2987,11 +2854,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -3032,22 +2898,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
@@ -3064,11 +2926,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -3129,22 +2990,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0031.jpg",
@@ -3161,11 +3018,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -3230,22 +3086,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
@@ -3262,11 +3114,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -3323,22 +3174,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -3355,11 +3202,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -3416,22 +3262,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -3448,11 +3290,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -3493,22 +3334,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0018.jpg",
@@ -3525,11 +3361,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -3602,22 +3435,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0023.jpg",
@@ -3634,11 +3462,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -3679,18 +3504,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974079580alex2255.jpg",
@@ -3706,11 +3532,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -3751,18 +3576,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
@@ -3779,11 +3605,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -3824,18 +3649,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
@@ -3852,11 +3678,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -3901,18 +3726,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974099720Saqqara.jpeg",
@@ -3929,11 +3755,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -3978,18 +3803,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974079580alex2255.jpg",
@@ -4005,11 +3831,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -4050,18 +3875,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-3-1.webp",
@@ -4078,11 +3904,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -4123,22 +3948,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -4155,11 +3976,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -4200,18 +4020,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972426061Alexandria-Library-Egypt-2.jpg",
@@ -4227,11 +4048,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -4276,22 +4096,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -4308,11 +4124,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -4357,18 +4172,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-1-1.webp",
@@ -4385,11 +4201,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -4434,18 +4249,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972424051citadel-of-qaitbay-fortress-alexandria.jpg",
@@ -4461,11 +4277,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -4510,22 +4325,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
@@ -4542,11 +4353,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -4591,18 +4401,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974198080cairo.jpg",
@@ -4619,11 +4430,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -4668,22 +4478,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
@@ -4700,11 +4506,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -4757,22 +4562,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -4789,11 +4590,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -4846,22 +4646,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
@@ -4878,11 +4674,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -4943,22 +4738,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
@@ -4975,11 +4766,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -5032,18 +4822,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-3-1.webp",
@@ -5060,11 +4851,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -5117,22 +4907,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0031.jpg",
@@ -5149,11 +4935,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -5206,22 +4991,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0012.jpg",
@@ -5238,11 +5019,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -5303,22 +5083,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0016.jpg",
@@ -5335,11 +5111,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -5372,18 +5147,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg",
@@ -5400,11 +5176,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -5437,18 +5212,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -5465,11 +5241,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -5530,22 +5305,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -5562,11 +5333,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -5627,22 +5397,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
@@ -5659,11 +5425,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -5724,18 +5489,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL.webp",
@@ -5752,11 +5518,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -5789,18 +5554,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
@@ -5817,11 +5583,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -5854,18 +5619,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974099720Saqqara.jpeg",
@@ -5882,11 +5648,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -5919,18 +5684,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974198080cairo.jpg",
@@ -5947,11 +5713,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -5984,18 +5749,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg",
@@ -6012,11 +5778,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6049,18 +5814,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972424051citadel-of-qaitbay-fortress-alexandria.jpg",
@@ -6076,11 +5842,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6113,18 +5878,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
@@ -6141,11 +5907,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6182,18 +5947,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -6210,11 +5976,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6247,18 +6012,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-1-1.webp",
@@ -6275,11 +6041,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6312,18 +6077,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972424051citadel-of-qaitbay-fortress-alexandria.jpg",
@@ -6339,11 +6105,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6376,18 +6141,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974099720Saqqara.jpeg",
@@ -6404,11 +6170,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6441,18 +6206,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15971856511Abu-Simbel-for-Facebook.jpg.optimal.jpg",
@@ -6469,11 +6235,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6523,20 +6288,16 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Pre-flight hot tea, coffee, and light morning refreshments",
-      "Personal commemorative flight certificate signed by pilot"
+      "Commercially licensed balloon captain operating under Civil Aviation standards",
+      "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
+      "Motorboat crossing of the Nile with pre-flight tea and coffee",
+      "Personal flight certificate signed by the captain"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist archaeological guide (flight captain gives aviation commentary only)",
+      "Entrance tickets to West Bank monuments on the ground",
+      "Gratuities for balloon pilot and ground retrieval crew",
+      "Personal photo/video packages produced by ground camera team"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
@@ -6552,11 +6313,8 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Private guided ground tour of Valley of the Kings following landing [Requires confirmation]",
+      "Upgrade to private charter balloon basket for couples or families"
     ]
   },
   {
@@ -6593,18 +6351,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -6621,11 +6380,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6662,18 +6420,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
@@ -6690,11 +6449,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6731,18 +6489,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974079580alex2255.jpg",
@@ -6758,11 +6517,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6799,18 +6557,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
@@ -6827,11 +6586,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6868,18 +6626,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15971856511Abu-Simbel-for-Facebook.jpg.optimal.jpg",
@@ -6896,11 +6655,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -6949,18 +6707,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL.webp",
@@ -6977,11 +6736,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -7030,18 +6788,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974198080cairo.jpg",
@@ -7058,11 +6817,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -7119,18 +6877,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-1-1.webp",
@@ -7147,11 +6906,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -7200,22 +6958,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
@@ -7232,11 +6986,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -7285,18 +7038,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972426061Alexandria-Library-Egypt-2.jpg",
@@ -7312,11 +7066,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -7365,18 +7118,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974079580alex2255.jpg",
@@ -7392,11 +7146,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -7453,22 +7206,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
@@ -7485,11 +7234,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -7546,18 +7294,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-10.webp",
@@ -7574,11 +7323,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -7635,22 +7383,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
@@ -7667,11 +7411,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -7736,22 +7479,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
@@ -7768,11 +7507,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -7837,22 +7575,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan & Abu Simbel",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -7868,11 +7602,10 @@ export const TOURS_DATA: TourItem[] = [
       "ms-nubian-sea-lake-nasser-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -7937,22 +7670,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0016.jpg",
@@ -7969,11 +7698,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -8038,22 +7766,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0032.jpg",
@@ -8070,11 +7794,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -8139,22 +7862,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
@@ -8171,11 +7890,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -8240,18 +7958,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-1-1.webp",
@@ -8268,11 +7987,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -8281,12 +7999,12 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Egypt The Heart of Mystery",
     "category": "Egypt Vacation Packages",
     "destination": "Cairo, Luxor & Aswan",
-    "duration": "Full Day (Approx. 7–8 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Comprehensive Full Day (Approx. 7–8 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
-    "overview": "Embark on the ultimate Egyptian journey with the Egypt The Heart of Mystery. Over the course of Full Day (Approx. 7–8 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
+    "shortDescription": "Comprehensive Full Day (Approx. 7–9 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
+    "overview": "Embark on the ultimate Egyptian journey with the Egypt The Heart of Mystery. Over the course of Full Day (Approx. 7–9 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
       "100% private excursion customized entirely to your group’s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
@@ -8309,18 +8027,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
@@ -8337,11 +8056,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -8410,22 +8128,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ABU-SIMBEL-3-1.webp",
@@ -8442,11 +8156,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -8515,22 +8228,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
@@ -8547,11 +8256,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -8624,22 +8332,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
@@ -8656,11 +8360,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -8729,22 +8432,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
@@ -8761,11 +8460,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -8834,18 +8532,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-1-1.webp",
@@ -8862,11 +8561,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -8939,18 +8637,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -8967,11 +8666,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -9048,22 +8746,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -9080,11 +8774,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -9157,18 +8850,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
@@ -9185,11 +8879,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -9266,22 +8959,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
@@ -9298,11 +8987,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -9375,18 +9063,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-10.webp",
@@ -9403,11 +9092,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -9480,18 +9168,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-1-1.webp",
@@ -9508,11 +9197,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -9553,18 +9241,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -9581,11 +9269,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -9667,24 +9354,16 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation",
-      "Pre-flight hot tea, coffee, and light morning refreshments",
-      "Personal commemorative flight certificate signed by pilot"
+      "Commercially licensed balloon captain operating under Civil Aviation standards",
+      "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
+      "Motorboat crossing of the Nile with pre-flight tea and coffee",
+      "Personal flight certificate signed by the captain"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist archaeological guide (flight captain gives aviation commentary only)",
+      "Entrance tickets to West Bank monuments on the ground",
+      "Gratuities for balloon pilot and ground retrieval crew",
+      "Personal photo/video packages produced by ground camera team"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0021.jpg",
@@ -9700,11 +9379,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Private guided ground tour of Valley of the Kings following landing [Requires confirmation]",
+      "Upgrade to private charter balloon basket for couples or families"
     ]
   },
   {
@@ -9789,22 +9465,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15971856511Abu-Simbel-for-Facebook.jpg.optimal.jpg",
@@ -9821,11 +9493,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -9898,18 +9569,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
@@ -9926,11 +9598,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -10011,22 +9682,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -10043,11 +9710,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -10056,12 +9722,12 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Egypt Spiritual Tours (Sacred Egypt tour)",
     "category": "Egypt Vacation Packages",
     "destination": "Cairo, Luxor & Aswan",
-    "duration": "Full Day (Approx. 7–8 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Comprehensive Full Day (Approx. 7–8 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
-    "overview": "Embark on the ultimate Egyptian journey with the Egypt Spiritual Tours (Sacred Egypt tour). Over the course of Full Day (Approx. 7–8 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
+    "shortDescription": "Comprehensive Full Day (Approx. 7–9 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
+    "overview": "Embark on the ultimate Egyptian journey with the Egypt Spiritual Tours (Sacred Egypt tour). Over the course of Full Day (Approx. 7–9 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
       "100% private excursion customized entirely to your group’s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
@@ -10084,18 +9750,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974099720Saqqara.jpeg",
@@ -10112,11 +9779,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -10153,18 +9819,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974198080cairo.jpg",
@@ -10181,11 +9847,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10194,7 +9859,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Alexandria from Cairo by car",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -10222,18 +9887,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974110730alex2255.jpg",
@@ -10249,11 +9914,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10262,7 +9926,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Trip to Luxor from Cairo by Air",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -10290,18 +9954,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -10318,11 +9982,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10363,18 +10026,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
@@ -10391,11 +10054,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10432,18 +10094,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -10460,11 +10122,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10473,7 +10134,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "One Day Tour to Abu Simbel from Cairo via Aswan",
     "category": "Aswan Tours",
     "destination": "Aswan",
-    "duration": "Full Day Excursion (Approx. 14–16 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -10505,18 +10166,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-1-1.webp",
@@ -10533,11 +10194,10 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-of-aswan-philae-temple-high-dam-and-obelisk"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10578,22 +10238,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -10610,11 +10266,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -10655,18 +10310,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974099720Saqqara.jpeg",
@@ -10683,11 +10338,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10724,18 +10378,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974198080cairo.jpg",
@@ -10752,11 +10406,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10793,18 +10446,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg",
@@ -10821,11 +10474,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10866,18 +10518,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -10894,11 +10546,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10935,18 +10586,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
@@ -10963,11 +10614,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -10976,7 +10626,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "El Minya Day Tour from Cairo by car",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day Excursion (Approx. 14–16 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -11004,18 +10654,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -11032,11 +10682,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11073,18 +10722,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
@@ -11101,11 +10750,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11146,18 +10794,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
@@ -11174,11 +10822,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11219,18 +10866,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -11247,11 +10894,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11288,18 +10934,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -11316,11 +10962,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11329,7 +10974,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Cairo from Luxor by Flight",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day Excursion (Approx. 14–16 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -11357,18 +11002,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg",
@@ -11385,11 +11030,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11398,7 +11042,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Edfu and Kom Ombo from Luxor",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -11426,18 +11070,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/11-21.webp",
@@ -11452,11 +11096,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11493,18 +11136,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0015.jpg",
@@ -11521,11 +11164,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11562,18 +11204,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0024.jpg",
@@ -11590,11 +11232,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11631,18 +11272,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0025.jpg",
@@ -11659,11 +11300,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11700,18 +11340,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15971782201Luxor-Temple.jpg",
@@ -11728,11 +11368,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11769,18 +11408,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
@@ -11797,11 +11436,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11838,18 +11476,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -11866,11 +11504,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11907,18 +11544,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0026.jpg",
@@ -11935,11 +11572,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -11948,7 +11584,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Full day tour to Cairo from Aswan by flight",
     "category": "Aswan Tours",
     "destination": "Aswan",
-    "duration": "Full Day Excursion (Approx. 14–16 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -11976,18 +11612,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -12004,11 +11640,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12045,18 +11680,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0028.jpg",
@@ -12073,11 +11708,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12114,18 +11748,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15319133090Nile-cruise-Aswan-stay-3-.jpg",
@@ -12142,11 +11776,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12183,18 +11816,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/1531913309432123675724_c014cef855_b.jpg",
@@ -12211,11 +11844,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12224,7 +11856,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Private day tour to Luxor from Aswan by vehicle",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -12252,18 +11884,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0013.jpg",
@@ -12280,11 +11912,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12325,18 +11956,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/ABU-SIMBEL-3-1.webp",
@@ -12353,11 +11984,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12398,18 +12028,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15971856511Abu-Simbel-for-Facebook.jpg.optimal.jpg",
@@ -12426,11 +12056,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12467,18 +12096,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0028.jpg",
@@ -12495,11 +12124,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12536,18 +12164,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15319133090Nile-cruise-Aswan-stay-3-.jpg",
@@ -12564,11 +12192,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12605,18 +12232,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/1531913309432123675724_c014cef855_b.jpg",
@@ -12633,11 +12260,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12674,18 +12300,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0013.jpg",
@@ -12702,11 +12328,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12743,18 +12368,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0026.jpg",
@@ -12771,11 +12396,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12812,18 +12436,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0027.jpg",
@@ -12840,11 +12464,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12881,18 +12504,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0028.jpg",
@@ -12909,11 +12532,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12950,18 +12572,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15319133090Nile-cruise-Aswan-stay-3-.jpg",
@@ -12978,11 +12600,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -12991,7 +12612,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Cairo Day Tours from Hurghada",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day Excursion (Approx. 14–16 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -13019,18 +12640,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg",
@@ -13047,11 +12668,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -13088,18 +12708,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -13116,11 +12736,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -13157,18 +12776,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0026.jpg",
@@ -13185,11 +12804,10 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -13226,18 +12844,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0011.jpg",
@@ -13254,11 +12872,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -13295,18 +12912,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
@@ -13323,11 +12940,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -13343,11 +12959,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling at Mahmya Island, featuring vibrant coral reefs and marine life of the Red Sea with private hotel transfers.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling at Mahmya Island. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of vibrant coral reefs and marine life of the Red Sea",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring vibrant coral reefs and marine life of the Red Sea",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Hurghada & Red Sea",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -13364,18 +12979,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Hurghada & Red Sea",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Hurghada & Red Sea. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -13392,11 +13006,8 @@ export const TOURS_DATA: TourItem[] = [
       "sindbad-submarine-tour-in-hurghada"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -13433,18 +13044,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0024.jpg",
@@ -13461,11 +13072,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -13481,11 +13091,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip to Giftun Island, featuring vibrant coral reefs and marine life of the Red Sea with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip to Giftun Island. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of vibrant coral reefs and marine life of the Red Sea",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring vibrant coral reefs and marine life of the Red Sea",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Hurghada & Red Sea",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -13502,18 +13111,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Hurghada & Red Sea",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Hurghada & Red Sea. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0035.jpg",
@@ -13530,11 +13138,8 @@ export const TOURS_DATA: TourItem[] = [
       "sindbad-submarine-tour-in-hurghada"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -13543,18 +13148,17 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Alf Leila Wa Leila Show in Hurghada",
     "category": "Hurghada Tours",
     "destination": "Hurghada & Red Sea",
-    "duration": "Full Day (Approx. 7–8 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Alf Leila Wa Leila Show in Hurghada, featuring curated archaeological monuments and cultural highlights with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Alf Leila Wa Leila Show in Hurghada. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Hurghada & Red Sea",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -13571,18 +13175,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Hurghada & Red Sea",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Hurghada & Red Sea. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0036.jpg",
@@ -13599,11 +13202,8 @@ export const TOURS_DATA: TourItem[] = [
       "sindbad-submarine-tour-in-hurghada"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -13619,11 +13219,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Sindbad Submarine Tour in Hurghada, featuring curated archaeological monuments and cultural highlights with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Sindbad Submarine Tour in Hurghada. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Hurghada & Red Sea",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -13640,18 +13239,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Hurghada & Red Sea",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Hurghada & Red Sea. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0040.jpg",
@@ -13668,11 +13266,8 @@ export const TOURS_DATA: TourItem[] = [
       "alf-leila-wa-leila-show-in-hurghada"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -13713,22 +13308,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -13745,11 +13336,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -13786,18 +13376,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -13814,11 +13404,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -13834,11 +13423,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling by Boat to Ras Mohamed, featuring vibrant coral reefs and marine life of the Red Sea with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling by Boat to Ras Mohamed. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of vibrant coral reefs and marine life of the Red Sea",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring vibrant coral reefs and marine life of the Red Sea",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -13855,18 +13443,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974070330pexels-marcel-winger-2445852.jpg",
@@ -13883,11 +13470,8 @@ export const TOURS_DATA: TourItem[] = [
       "semi-submarine-trip-in-sharm-el-sheikh"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -13903,11 +13487,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Scuba diving Sharm El Sheikh, featuring curated archaeological monuments and cultural highlights with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Scuba diving Sharm El Sheikh. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -13924,18 +13507,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0035.jpg",
@@ -13952,11 +13534,8 @@ export const TOURS_DATA: TourItem[] = [
       "semi-submarine-trip-in-sharm-el-sheikh"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -13993,18 +13572,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0015.jpg",
@@ -14021,11 +13600,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -14034,18 +13612,17 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Mount Sinai & St.Catherine Monastery",
     "category": "Sharm El Sheikh Tours",
     "destination": "Sharm El Sheikh",
-    "duration": "Full Day Excursion (Approx. 14–16 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Mount Sinai & St.Catherine Monastery, featuring Saint Catherine Monastery and the holy peaks of Sinai with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Mount Sinai & St.Catherine Monastery. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases Saint Catherine Monastery and the holy peaks of Sinai.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of Saint Catherine Monastery and the holy peaks of Sinai",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring Saint Catherine Monastery and the holy peaks of Sinai",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14062,18 +13639,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0040.jpg",
@@ -14090,11 +13666,8 @@ export const TOURS_DATA: TourItem[] = [
       "semi-submarine-trip-in-sharm-el-sheikh"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14110,11 +13683,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Semi Submarine Trip in Sharm El Sheikh, featuring curated archaeological monuments and cultural highlights with.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Semi Submarine Trip in Sharm El Sheikh. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14131,18 +13703,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0041.jpg",
@@ -14159,11 +13730,8 @@ export const TOURS_DATA: TourItem[] = [
       "mount-sinai-stcatherine-monastery"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14179,11 +13747,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip to Tiran Island, featuring vibrant coral reefs and marine life of the Red Sea with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip to Tiran Island. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of vibrant coral reefs and marine life of the Red Sea",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring vibrant coral reefs and marine life of the Red Sea",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14200,18 +13767,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -14228,11 +13794,8 @@ export const TOURS_DATA: TourItem[] = [
       "mount-sinai-stcatherine-monastery"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14248,11 +13811,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Quad biking with Camel ride and Bedouin dinner, featuring curated archaeological monuments and cultural highlights.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Quad biking with Camel ride and Bedouin dinner. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14269,18 +13831,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974070330pexels-marcel-winger-2445852.jpg",
@@ -14297,11 +13858,8 @@ export const TOURS_DATA: TourItem[] = [
       "mount-sinai-stcatherine-monastery"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14310,18 +13868,17 @@ export const TOURS_DATA: TourItem[] = [
     "title": "St. Catherine Tour from Sharm",
     "category": "Sharm El Sheikh Tours",
     "destination": "Sharm El Sheikh",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the St. Catherine Tour from Sharm, featuring Saint Catherine Monastery and the holy peaks of Sinai with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the St. Catherine Tour from Sharm. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases Saint Catherine Monastery and the holy peaks of Sinai.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of Saint Catherine Monastery and the holy peaks of Sinai",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring Saint Catherine Monastery and the holy peaks of Sinai",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14338,18 +13895,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0035.jpg",
@@ -14366,11 +13922,8 @@ export const TOURS_DATA: TourItem[] = [
       "mount-sinai-stcatherine-monastery"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14379,18 +13932,17 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Alf Leila Wa Leila Show Sharm El Sheikh",
     "category": "Sharm El Sheikh Tours",
     "destination": "Sharm El Sheikh",
-    "duration": "Full Day (Approx. 7–8 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Alf Leila Wa Leila Show Sharm El Sheikh, featuring curated archaeological monuments and cultural highlights with.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Alf Leila Wa Leila Show Sharm El Sheikh. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14407,18 +13959,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0036.jpg",
@@ -14435,11 +13986,8 @@ export const TOURS_DATA: TourItem[] = [
       "mount-sinai-stcatherine-monastery"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14455,11 +14003,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Scuba diving Marsa Alam, featuring curated archaeological monuments and cultural highlights with private hotel transfers.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Scuba diving Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Marsa Alam",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14476,18 +14023,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Marsa Alam",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Marsa Alam. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0040.jpg",
@@ -14504,11 +14050,8 @@ export const TOURS_DATA: TourItem[] = [
       "snorkeling-trip-at-port-ghalib-marina-from-marsa-alam"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14524,11 +14067,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Bedouin Safari and Star Gazing Tour, featuring curated archaeological monuments and cultural highlights with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Bedouin Safari and Star Gazing Tour. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14545,18 +14087,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0041.jpg",
@@ -14573,11 +14114,8 @@ export const TOURS_DATA: TourItem[] = [
       "mount-sinai-stcatherine-monastery"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14614,18 +14152,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0015.jpg",
@@ -14642,11 +14180,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -14683,18 +14220,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg",
@@ -14711,11 +14248,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -14731,11 +14267,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Sharm El Sheikh City Tour, featuring curated archaeological monuments and cultural highlights with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Sharm El Sheikh City Tour. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of curated archaeological monuments and cultural highlights",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring curated archaeological monuments and cultural highlights",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Sharm El Sheikh",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14752,18 +14287,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Sharm El Sheikh",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0035.jpg",
@@ -14780,11 +14314,8 @@ export const TOURS_DATA: TourItem[] = [
       "mount-sinai-stcatherine-monastery"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14821,18 +14352,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
@@ -14849,11 +14380,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -14869,11 +14399,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip at Hamata Islands From Marsa Alam, featuring vibrant coral reefs and marine life of the Red Sea with.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip at Hamata Islands From Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of vibrant coral reefs and marine life of the Red Sea",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring vibrant coral reefs and marine life of the Red Sea",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Marsa Alam",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14890,18 +14419,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Marsa Alam",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Marsa Alam. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0040.jpg",
@@ -14918,11 +14446,8 @@ export const TOURS_DATA: TourItem[] = [
       "snorkeling-trip-at-port-ghalib-marina-from-marsa-alam"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -14938,11 +14463,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Tour to Edfu and Kom Ombo from Marsa Alam, featuring the Temple of Horus at Edfu with private hotel transfers.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Tour to Edfu and Kom Ombo from Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of the Temple of Horus at Edfu and the riverside double temple of Kom Ombo",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring the Temple of Horus at Edfu and the riverside double temple of Kom Ombo",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Marsa Alam",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -14959,18 +14483,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Marsa Alam",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Marsa Alam. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0041.jpg",
@@ -14987,11 +14510,8 @@ export const TOURS_DATA: TourItem[] = [
       "snorkeling-trip-at-port-ghalib-marina-from-marsa-alam"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -15000,7 +14520,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Cairo Day Tour from Dahab by Flight",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -15028,18 +14548,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
@@ -15056,11 +14576,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -15097,18 +14616,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0011.jpg",
@@ -15125,11 +14644,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -15145,11 +14663,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip At Port Ghalib Marina from Marsa Alam, featuring vibrant coral reefs and marine life of the Red Sea.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip At Port Ghalib Marina from Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of vibrant coral reefs and marine life of the Red Sea",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring vibrant coral reefs and marine life of the Red Sea",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Marsa Alam",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -15166,18 +14683,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Marsa Alam",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Marsa Alam. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0035.jpg",
@@ -15194,11 +14710,8 @@ export const TOURS_DATA: TourItem[] = [
       "tour-to-edfu-and-kom-ombo-from-marsa-alam"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -15235,18 +14748,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg",
@@ -15263,11 +14776,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -15304,18 +14816,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
@@ -15332,11 +14844,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -15352,11 +14863,10 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Experience the beauty of the Red Sea on the St. Catherine Tour from Dahab, featuring Saint Catherine Monastery and the holy peaks of Sinai with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the St. Catherine Tour from Dahab. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases Saint Catherine Monastery and the holy peaks of Sinai.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
-      "Expert commentary from a licensed, university-educated Egyptologist guide",
-      "Detailed exploration of Saint Catherine Monastery and the holy peaks of Sinai",
-      "Direct door-to-door transit in modern, climate-controlled private vehicles",
-      "Transparent booking with zero commercial souvenir detours or rushed convoys"
+      "Scenic Red Sea excursion exploring Saint Catherine Monastery and the holy peaks of Sinai",
+      "Professional certified boat crew and snorkeling guidance",
+      "Round-trip hotel transfers included in Dahab",
+      "Quality gear provided with safety-first briefing"
     ],
     "itinerary": [
       {
@@ -15373,18 +14883,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Dahab",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel pickup and return transfer in Dahab in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Dahab. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0041.jpg",
@@ -15401,11 +14910,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -15446,22 +14952,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
@@ -15478,11 +14980,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -15527,22 +15028,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
@@ -15559,11 +15056,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -15572,7 +15068,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Luxor Day Trip from Dahab by Flight",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -15600,18 +15096,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -15628,11 +15124,10 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -15669,18 +15164,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo & Giza",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974099720Saqqara.jpeg",
@@ -15697,11 +15192,10 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -15742,22 +15236,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0016.jpg",
@@ -15774,11 +15264,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -15819,22 +15308,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0034.jpg",
@@ -15851,11 +15335,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -15904,22 +15385,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -15936,11 +15412,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -15997,22 +15470,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
@@ -16029,11 +15497,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16074,22 +15539,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0018.jpg",
@@ -16106,11 +15566,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16155,22 +15612,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -16187,11 +15640,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -16232,22 +15684,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0031.jpg",
@@ -16264,11 +15711,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16317,22 +15761,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0034.jpg",
@@ -16349,11 +15788,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16402,22 +15838,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -16434,11 +15865,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16479,22 +15907,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
@@ -16511,11 +15934,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16564,22 +15984,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0018.jpg",
@@ -16596,11 +16011,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16641,22 +16053,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0023.jpg",
@@ -16673,11 +16080,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -16718,22 +16122,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan & Abu Simbel",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ABU-SIMBEL-2-1.webp",
@@ -16749,11 +16149,10 @@ export const TOURS_DATA: TourItem[] = [
       "ms-nubian-sea-lake-nasser-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -16794,22 +16193,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan & Abu Simbel",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -16825,11 +16220,10 @@ export const TOURS_DATA: TourItem[] = [
       "steigenberger-omar-el-khayam-lake-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -16866,18 +16260,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Safaga Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Safaga Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15956335080safaga-shore-excursions2.jpg",
@@ -16893,11 +16287,10 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-to-alexandria-city"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -16906,7 +16299,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Luxor Day Tour from Safaga Port",
     "category": "Shore Excursions",
     "destination": "Safaga Port",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -16934,18 +16327,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Safaga Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Safaga Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -16961,11 +16354,10 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-to-alexandria-city"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17006,22 +16398,17 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Hotel pickup and return transfer in Luxor & Aswan in air-conditioned vehicle",
+      "Boat cruise or desert safari transport as detailed in itinerary",
+      "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
+      "Professional boat crew or certified safari desert guide",
+      "Lunch buffet and soft drinks (on full-day marine trips)"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Egyptologist tour guide (marine and desert activities are led by crew/safari guides)",
+      "National park environmental preservation fees (if applicable at marina)",
+      "Water sports extras (e.g. banana boat, parasailing) unless specified",
+      "Crew and driver gratuities"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0018.jpg",
@@ -17038,11 +16425,8 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Introductory scuba dive with PADI certified instructor",
+      "Professional photography / underwater video package"
     ]
   },
   {
@@ -17083,22 +16467,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Aswan & Abu Simbel",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15974204940boat.jpg",
@@ -17114,11 +16494,10 @@ export const TOURS_DATA: TourItem[] = [
       "steigenberger-omar-el-khayam-lake-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -17155,18 +16534,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Safaga Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Safaga Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15956335080safaga-shore-excursions2.jpg",
@@ -17182,11 +16561,10 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-to-alexandria-city"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17223,18 +16601,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Alexandria Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Alexandria Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -17250,11 +16628,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17291,18 +16668,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Red Sea / Mediterranean",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Red Sea / Mediterranean with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
@@ -17318,11 +16695,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17359,18 +16735,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Alexandria Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Alexandria Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -17386,11 +16762,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17399,7 +16774,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Trip to the Pyramids & the Nile",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -17431,18 +16806,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Red Sea / Mediterranean",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Red Sea / Mediterranean with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15956335080safaga-shore-excursions2.jpg",
@@ -17458,11 +16833,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17471,7 +16845,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Cairo from Alexandria Port",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -17499,18 +16873,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Red Sea / Mediterranean",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Red Sea / Mediterranean with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -17526,11 +16900,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17539,7 +16912,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Trip to Pyramids & Sakkara",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -17571,18 +16944,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Red Sea / Mediterranean",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Red Sea / Mediterranean with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
@@ -17598,11 +16971,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17639,18 +17011,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Alexandria Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Alexandria Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -17666,11 +17038,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17707,18 +17078,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Port Said Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Port Said Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15956335080safaga-shore-excursions2.jpg",
@@ -17734,11 +17105,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17747,7 +17117,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Giza Pyramids & Sakkara",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -17779,18 +17149,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Red Sea / Mediterranean",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Red Sea / Mediterranean with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/Luxor-Private-Tour-4.webp",
@@ -17806,11 +17176,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17847,18 +17216,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Alexandria Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Alexandria Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
@@ -17874,11 +17243,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17887,7 +17255,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Cairo and Pyramids from Port Said",
     "category": "Shore Excursions",
     "destination": "Port Said Port",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -17919,18 +17287,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Port Said Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Port Said Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -17946,11 +17314,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -17959,7 +17326,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to the Pyramids & the Nile",
     "category": "Shore Excursions",
     "destination": "Port Said Port",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -17991,18 +17358,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Port Said Port",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Port Said Port with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/15956335080safaga-shore-excursions2.jpg",
@@ -18018,11 +17385,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -18063,22 +17429,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
@@ -18095,11 +17457,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -18140,22 +17501,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
@@ -18172,11 +17529,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -18185,7 +17541,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Cairo & Pyramids Trip from Port Sokhna",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day Excursion (Approx. 12 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
@@ -18217,18 +17573,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Red Sea / Mediterranean",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
+      "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
+      "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Direct meet-and-assist at the passenger arrival terminal dock of Red Sea / Mediterranean with your private guide and driver holding a personalized Genuine Egypte sign.",
     "mainImage": "/images/tours/153191330951396874059karnak-temple-morning.jpg",
@@ -18244,11 +17600,10 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Camel ride on the Giza desert plateau or felucca sail on the Nile",
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
     ]
   },
   {
@@ -18289,22 +17644,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0016.jpg",
@@ -18321,11 +17672,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -18390,18 +17740,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
@@ -18418,11 +17769,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -18495,18 +17845,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
@@ -18523,11 +17874,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -18568,22 +17918,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -18600,11 +17946,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -18613,12 +17958,12 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Egypt and Jordan Short Package",
     "category": "Egypt Vacation Packages",
     "destination": "Cairo, Luxor & Aswan",
-    "duration": "Full Day (Approx. 7–8 Hours)",
+    "duration": "Full Day (Approx. 7–9 Hours)",
     "price": null,
     "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Comprehensive Full Day (Approx. 7–8 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
-    "overview": "Embark on the ultimate Egyptian journey with the Egypt and Jordan Short Package. Over the course of Full Day (Approx. 7–8 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
+    "shortDescription": "Comprehensive Full Day (Approx. 7–9 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
+    "overview": "Embark on the ultimate Egyptian journey with the Egypt and Jordan Short Package. Over the course of Full Day (Approx. 7–9 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
       "100% private excursion customized entirely to your group’s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
@@ -18641,18 +17986,19 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Cairo, Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges"
+      "Hotel and cruise accommodation according to selected itinerary tier",
+      "Licensed English-speaking Egyptologist guide for all listed sightseeing visits",
+      "Private air-conditioned vehicles for all transfers and excursions",
+      "Domestic airport meet-and-assist and luggage coordination",
+      "Daily breakfast at hotels; full-board meals during Nile cruise segments"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)"
+      "International flights to and from Egypt",
+      "Egypt entry tourist visa",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates",
+      "Beverages during hotel meals and cruise dining",
+      "Gratuities for Egyptologist guides, drivers, and cruise crew",
+      "Optional excursions and personal expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo, Luxor & Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
@@ -18669,11 +18015,10 @@ export const TOURS_DATA: TourItem[] = [
       "4-day-cairo-and-luxor-tour-package"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Pre-purchased all-inclusive monument admissions pass",
+      "Sunrise Luxor Hot Air Balloon flight",
+      "Private excursion to Abu Simbel Sun Temples",
+      "Sound & Light evening show in Cairo or Luxor"
     ]
   },
   {
@@ -18758,22 +18103,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -18790,11 +18131,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -18867,22 +18207,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
@@ -18899,11 +18235,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -18944,22 +18279,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
@@ -18976,11 +18307,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19021,22 +18351,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
@@ -19053,11 +18379,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19098,22 +18423,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
@@ -19130,11 +18451,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19175,22 +18495,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
@@ -19207,11 +18523,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19252,22 +18567,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -19284,11 +18595,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19329,22 +18639,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
@@ -19361,11 +18667,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19406,22 +18711,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
@@ -19438,11 +18739,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19483,22 +18783,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
@@ -19515,11 +18811,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19560,22 +18855,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
@@ -19592,11 +18883,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19637,22 +18927,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0012.jpg",
@@ -19669,11 +18955,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19714,22 +18999,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0016.jpg",
@@ -19746,11 +19027,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19791,22 +19071,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0032.jpg",
@@ -19823,11 +19099,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19868,22 +19143,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
@@ -19900,11 +19171,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -19945,22 +19215,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -19977,11 +19243,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20022,22 +19287,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
@@ -20054,11 +19315,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20099,22 +19359,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -20131,11 +19387,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20176,22 +19431,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
@@ -20208,11 +19459,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20253,22 +19503,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
@@ -20285,11 +19531,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20330,22 +19575,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
@@ -20362,11 +19603,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20407,22 +19647,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
@@ -20439,11 +19675,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20484,22 +19719,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
@@ -20516,11 +19747,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20561,22 +19791,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -20593,11 +19819,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20638,22 +19863,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
@@ -20670,11 +19891,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20715,22 +19935,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
@@ -20747,11 +19963,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20792,22 +20007,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
@@ -20824,11 +20035,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20869,22 +20079,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
@@ -20901,11 +20107,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -20946,22 +20151,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0012.jpg",
@@ -20978,11 +20179,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21023,22 +20223,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0016.jpg",
@@ -21055,11 +20251,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21100,22 +20295,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0032.jpg",
@@ -21132,11 +20323,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21177,22 +20367,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
@@ -21209,11 +20395,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21254,22 +20439,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -21286,11 +20467,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21331,22 +20511,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
@@ -21363,11 +20539,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21408,22 +20583,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -21440,11 +20611,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21485,22 +20655,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
@@ -21517,11 +20683,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21562,22 +20727,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
@@ -21594,11 +20755,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21639,22 +20799,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
@@ -21671,11 +20827,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21716,22 +20871,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
@@ -21748,11 +20899,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21793,22 +20943,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
@@ -21825,11 +20971,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21870,22 +21015,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
@@ -21902,11 +21043,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -21947,22 +21087,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
@@ -21979,11 +21115,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22024,22 +21159,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
@@ -22056,11 +21187,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22101,22 +21231,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
@@ -22133,11 +21259,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22178,22 +21303,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
@@ -22210,11 +21331,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22255,22 +21375,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0012.jpg",
@@ -22287,11 +21403,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22332,22 +21447,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0016.jpg",
@@ -22364,11 +21475,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22409,22 +21519,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/gallery/IMG-20261001-WA0032.jpg",
@@ -22441,11 +21547,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22490,22 +21595,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
@@ -22522,11 +21623,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22571,22 +21671,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
@@ -22603,11 +21699,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22652,22 +21747,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
@@ -22684,11 +21775,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22733,22 +21823,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -22765,11 +21851,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22810,22 +21895,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
@@ -22842,11 +21923,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22887,22 +21967,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
@@ -22919,11 +21995,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -22964,22 +22039,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
@@ -22996,11 +22067,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   },
   {
@@ -23041,22 +22111,18 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)",
-      "Private transportation in a modern, air-conditioned vehicle",
-      "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in Luxor & Aswan",
-      "Complimentary chilled bottled mineral water throughout excursions",
-      "All highway tolls, parking permits, and tourist police travel clearances",
-      "All local taxes and official service charges",
-      "Scheduled shore excursion sightseeing with private guiding as detailed",
-      "Luggage assistance upon embarkation and disembarkation"
+      "Full-board accommodation onboard (buffet breakfast, lunch, and dinner)",
+      "Cabin accommodation with private en-suite bathroom and air conditioning",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist",
+      "Local transportation for scheduled temple shore visits",
+      "Luggage handling and port meet-and-assist upon embarkation and disembarkation"
     ],
     "exclusions": [
-      "Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)",
-      "Personal expenses, shopping, laundry, and telephone calls",
-      "Meals and beverages not explicitly mentioned as included",
-      "International and domestic flights (unless specified in package)",
-      "Beverage orders (soft drinks, fresh juices, and alcohol) onboard"
+      "Onboard beverages (bottled water, soft drinks, wine, and alcohol)",
+      "Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks",
+      "Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
@@ -23073,11 +22139,10 @@ export const TOURS_DATA: TourItem[] = [
       "nile-premium-nile-cruise"
     ],
     "optionalExtras": [
-      "Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)",
-      "Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)",
-      "Private early-morning excursion to the Sun Temples of Abu Simbel",
-      "Sound & Light evening performance at Karnak Temple or Philae Island",
-      "Upgrade to luxury private airport transfer or Dahabiya sailing suite"
+      "Sunrise Hot Air Balloon flight in Luxor",
+      "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ]
   }
 ];

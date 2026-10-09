@@ -574,58 +574,173 @@ function buildItinerary(t: TourItem, dur: string): TourItineraryItem[] {
 }
 
 // -------------------------------------------------------------
-// AUDIT INCLUSIONS, EXCLUSIONS & OPTIONAL EXTRAS
+// AUDIT INCLUSIONS, EXCLUSIONS & OPTIONAL EXTRAS (No Blanket Claims)
 // -------------------------------------------------------------
 function buildInclusionsExclusions(t: TourItem): { inclusions: string[]; exclusions: string[]; optionalExtras: string[] } {
   const cat = t.category;
   const dest = t.destination;
   const tLower = t.title.toLowerCase();
 
-  const inclusions: string[] = [
-    'Private transportation in a modern, air-conditioned vehicle',
-    'Licensed university-educated Egyptologist tour guide (English-speaking)',
-    `Door-to-door hotel, Nile cruise ship, or airport pickup and drop-off in ${dest}`,
-    'Complimentary chilled bottled mineral water throughout excursions',
-    'All highway tolls, parking permits, and tourist police travel clearances',
-    'All local taxes and official service charges'
-  ];
+  const isTransfer = cat === 'Private Transfers' || tLower.includes('transfer');
+  const isBalloonOnly = (cat === 'Hot Air Balloon' || tLower.includes('balloon')) && !tLower.includes('guided tour') && !tLower.includes('full day');
+  const isBalloonTour = (cat === 'Hot Air Balloon' || tLower.includes('balloon')) && (tLower.includes('guided tour') || tLower.includes('full day'));
+  const isSeaActivity = (cat.includes('Hurghada') || cat.includes('Sharm') || cat.includes('Marsa') || cat.includes('Dahab')) && !tLower.includes('luxor') && !tLower.includes('cairo');
+  const isCruise = cat.includes('Cruise') || cat.includes('Dahabiya');
+  const isPackage = cat === 'Egypt Vacation Packages';
 
-  if (cat.includes('Cruise')) {
-    inclusions.unshift('Full-board accommodation onboard (breakfast, lunch, and dinner buffet meals)');
-    inclusions.push('Scheduled shore excursion sightseeing with private guiding as detailed');
-    inclusions.push('Luggage assistance upon embarkation and disembarkation');
+  let inclusions: string[] = [];
+  let exclusions: string[] = [];
+  let optionalExtras: string[] = [];
+
+  if (isTransfer) {
+    inclusions = [
+      'Private air-conditioned vehicle for your party',
+      'Professional licensed driver',
+      `Door-to-door transfer between specified pickup and drop-off points in ${dest}`,
+      'Luggage assistance upon pickup and arrival',
+      'Vehicle fuel, parking fees, and road tolls'
+    ];
+    exclusions = [
+      'Egyptologist tour guide (driver-only service)',
+      'Monument entrance tickets to any sites along route',
+      'Meals, snacks, and beverages',
+      'Driver gratuity / tips (customary in Egypt)'
+    ];
+    optionalExtras = [
+      'Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]',
+      'Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]',
+      'Child safety seat (subject to advance request)'
+    ];
+  } else if (isBalloonOnly) {
+    inclusions = [
+      '45–60 minute sunrise hot air balloon flight over Luxor West Bank',
+      'Commercially licensed balloon captain operating under Civil Aviation standards',
+      'Round-trip hotel / Nile cruise transfers to launch field in Luxor',
+      'Motorboat crossing of the Nile with pre-flight tea and coffee',
+      'Personal flight certificate signed by the captain'
+    ];
+    exclusions = [
+      'Egyptologist archaeological guide (flight captain gives aviation commentary only)',
+      'Entrance tickets to West Bank monuments on the ground',
+      'Gratuities for balloon pilot and ground retrieval crew',
+      'Personal photo/video packages produced by ground camera team'
+    ];
+    optionalExtras = [
+      'Private guided ground tour of Valley of the Kings following landing [Requires confirmation]',
+      'Upgrade to private charter balloon basket for couples or families'
+    ];
+  } else if (isBalloonTour) {
+    inclusions = [
+      '45–60 minute sunrise hot air balloon flight with certified commercial pilot',
+      'Licensed university-educated Egyptologist guide for West Bank archaeological visits',
+      'Private air-conditioned ground transportation for all tour stages',
+      'Round-trip hotel or Nile cruise pickup and return in Luxor',
+      'Complimentary chilled bottled water in vehicle'
+    ];
+    exclusions = [
+      'Monument entrance tickets: [UNRESOLVED POLICY] General admission tickets to Valley of the Kings and Hatshepsut are marked for confirmation whether bundled or paid at site electronic gates',
+      'Special interior royal tomb tickets (King Tutankhamun, Nefertari)',
+      'Gratuities for balloon pilot, Egyptologist guide, and vehicle driver',
+      'Personal souvenir photos or purchases'
+    ];
+    optionalExtras = [
+      'Pre-bundled monument entrance ticket pass [Requires confirmation]',
+      'Interior entry ticket for King Tutankhamun tomb',
+      'Traditional Egyptian lunch at a local West Bank restaurant'
+    ];
+  } else if (isSeaActivity) {
+    inclusions = [
+      `Hotel pickup and return transfer in ${dest} in air-conditioned vehicle`,
+      'Boat cruise or desert safari transport as detailed in itinerary',
+      'Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)',
+      'Professional boat crew or certified safari desert guide',
+      'Lunch buffet and soft drinks (on full-day marine trips)'
+    ];
+    exclusions = [
+      'Egyptologist tour guide (marine and desert activities are led by crew/safari guides)',
+      'National park environmental preservation fees (if applicable at marina)',
+      'Water sports extras (e.g. banana boat, parasailing) unless specified',
+      'Crew and driver gratuities'
+    ];
+    optionalExtras = [
+      'Introductory scuba dive with PADI certified instructor',
+      'Professional photography / underwater video package'
+    ];
+  } else if (isCruise) {
+    inclusions = [
+      'Full-board accommodation onboard (buffet breakfast, lunch, and dinner)',
+      'Cabin accommodation with private en-suite bathroom and air conditioning',
+      'Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist',
+      'Local transportation for scheduled temple shore visits',
+      'Luggage handling and port meet-and-assist upon embarkation and disembarkation'
+    ];
+    exclusions = [
+      'Onboard beverages (bottled water, soft drinks, wine, and alcohol)',
+      'Monument entrance tickets: [UNRESOLVED POLICY] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) are marked for confirmation whether bundled into the package or purchased at official ticket kiosks',
+      'Optional excursions (Abu Simbel road/air trip, Luxor sunrise balloon, Sound & Light shows)',
+      'Onboard crew tipping pool and personal guide gratuities',
+      'Personal laundry, telephone calls, and spa services'
+    ];
+    optionalExtras = [
+      'Sunrise Hot Air Balloon flight in Luxor',
+      'Early-morning private road excursion to Abu Simbel Sun Temples from Aswan',
+      'Sound & Light evening show at Karnak Temple or Philae Island',
+      'All-inclusive monument entrance ticket bundle [Requires confirmation]'
+    ];
+  } else if (isPackage) {
+    inclusions = [
+      'Hotel and cruise accommodation according to selected itinerary tier',
+      'Licensed English-speaking Egyptologist guide for all listed sightseeing visits',
+      'Private air-conditioned vehicles for all transfers and excursions',
+      'Domestic airport meet-and-assist and luggage coordination',
+      'Daily breakfast at hotels; full-board meals during Nile cruise segments'
+    ];
+    exclusions = [
+      'International flights to and from Egypt',
+      'Egypt entry tourist visa',
+      'Monument entrance tickets: [UNRESOLVED POLICY] Marked for confirmation whether itinerary is quoted all-inclusive of site admissions or tickets are paid at site gates',
+      'Beverages during hotel meals and cruise dining',
+      'Gratuities for Egyptologist guides, drivers, and cruise crew',
+      'Optional excursions and personal expenses'
+    ];
+    optionalExtras = [
+      'Pre-purchased all-inclusive monument admissions pass',
+      'Sunrise Luxor Hot Air Balloon flight',
+      'Private excursion to Abu Simbel Sun Temples',
+      'Sound & Light evening show in Cairo or Luxor'
+    ];
+  } else {
+    // Day tours (Cairo, Luxor, Aswan, Alexandria, Shore Excursions)
+    const isShore = cat === 'Shore Excursions';
+    inclusions = [
+      'Licensed university-educated Egyptologist tour guide (English-speaking)',
+      'Private transportation in a modern, air-conditioned vehicle with dedicated driver',
+      isShore
+        ? `Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee`
+        : `Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in ${dest}`,
+      'Complimentary chilled bottled water in the vehicle during transit',
+      'All road tolls, fuel, parking charges, and driver expenses'
+    ];
+    exclusions = [
+      'Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates',
+      'Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)',
+      'Meals and beverages unless explicitly confirmed as a full-day package with lunch',
+      'Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)',
+      'Personal shopping, camera permits, and personal extras'
+    ];
+    optionalExtras = [
+      'Pre-arranged monument entrance ticket pass [Requires confirmation]',
+      'Traditional Egyptian lunch at a handpicked local restaurant',
+      'Camel ride on the Giza desert plateau or felucca sail on the Nile',
+      'Sunrise Hot Air Balloon flight (for Luxor day tours)'
+    ];
   }
-
-  if (tLower.includes('balloon')) {
-    inclusions.unshift('45–60 minute sunrise hot air balloon flight over Luxor West Bank');
-    inclusions.push('Pre-flight hot tea, coffee, and light morning refreshments');
-    inclusions.push('Personal commemorative flight certificate signed by pilot');
-  }
-
-  const exclusions: string[] = [
-    'Gratuities / tipping for tour guide, driver, and cruise crew (customary in Egypt)',
-    'Personal expenses, shopping, laundry, and telephone calls',
-    'Meals and beverages not explicitly mentioned as included',
-    'International and domestic flights (unless specified in package)'
-  ];
-
-  if (cat.includes('Cruise')) {
-    exclusions.push('Beverage orders (soft drinks, fresh juices, and alcohol) onboard');
-  }
-
-  const optionalExtras: string[] = [
-    'Entrance tickets inside interior royal burial chambers (e.g. King Tutankhamun, Nefertari, Great Pyramid interior)',
-    'Sunrise Hot Air Balloon Flight over Luxor (Available on all Luxor and Nile cruise programs)',
-    'Private early-morning excursion to the Sun Temples of Abu Simbel',
-    'Sound & Light evening performance at Karnak Temple or Philae Island',
-    'Upgrade to luxury private airport transfer or Dahabiya sailing suite'
-  ];
 
   return { inclusions, exclusions, optionalExtras };
 }
 
 // -------------------------------------------------------------
-// GENERATE RELEVANT HIGHLIGHTS
+// GENERATE RELEVANT HIGHLIGHTS (Accurate to Tour Type)
 // -------------------------------------------------------------
 function buildHighlights(t: TourItem, dur: string): string[] {
   const cat = t.category;
@@ -646,6 +761,22 @@ function buildHighlights(t: TourItem, dur: string): string[] {
     h.push(`Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple`);
     h.push(`Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards`);
     h.push(`Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer`);
+  } else if (cat === 'Private Transfers') {
+    h.push(`Punctual door-to-door private transfer in ${dest}`);
+    h.push(`Clean, air-conditioned vehicle with professional licensed driver`);
+    h.push(`Direct non-stop service with verified tourist police road permits`);
+    h.push(`Luggage assistance and transparent fixed quotation with zero hidden fees`);
+  } else if (cat.includes('Hurghada') || cat.includes('Sharm') || cat.includes('Marsa') || cat.includes('Dahab')) {
+    if (!tLower.includes('luxor') && !tLower.includes('cairo')) {
+      h.push(`Scenic Red Sea excursion exploring ${attractions.slice(0, 2).join(' and ') || 'vibrant marine life'}`);
+      h.push(`Professional certified boat crew and snorkeling guidance`);
+      h.push(`Round-trip hotel transfers included in ${dest}`);
+      h.push(`Quality gear provided with safety-first briefing`);
+    } else {
+      h.push(`100% private day excursion from Red Sea to ${attractions.slice(0, 2).join(' and ')}`);
+      h.push(`Licensed university Egyptologist guidance throughout monument visits`);
+      h.push(`Private air-conditioned highway transit`);
+    }
   } else {
     h.push(`100% private excursion customized entirely to your group’s preferred walking pace`);
     h.push(`Expert commentary from a licensed, university-educated Egyptologist guide`);

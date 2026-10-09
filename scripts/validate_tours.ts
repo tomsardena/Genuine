@@ -1,4 +1,11 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { TOURS_DATA } from '../src/data/tours.ts';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const rootDir = path.resolve(__dirname, '..');
 
 console.log('=== STARTING AUTOMATED VALIDATION OF TOUR CATALOG ===');
 console.log(`Validating ${TOURS_DATA.length} tours...\n`);
@@ -29,7 +36,7 @@ TOURS_DATA.forEach(t => {
   }
 });
 
-// 3. Check for Missing Titles, Descriptions, Images
+// 3. Check for Missing Required Fields
 TOURS_DATA.forEach(t => {
   if (!t.title || t.title.trim().length === 0) {
     console.error(`[ERROR] Missing title for tour ID: ${t.id}`);
@@ -37,6 +44,10 @@ TOURS_DATA.forEach(t => {
   }
   if (!t.shortDescription || t.shortDescription.trim().length === 0) {
     console.error(`[ERROR] Missing short description for tour: ${t.title} (${t.id})`);
+    errorsCount++;
+  }
+  if (!t.overview || t.overview.trim().length === 0) {
+    console.error(`[ERROR] Missing overview for tour: ${t.title} (${t.id})`);
     errorsCount++;
   }
   if (!t.mainImage || t.mainImage.trim().length === 0) {
@@ -55,26 +66,79 @@ TOURS_DATA.forEach(t => {
     console.error(`[ERROR] Missing itinerary for tour: ${t.title} (${t.id})`);
     errorsCount++;
   }
+  if (!t.inclusions || t.inclusions.length === 0) {
+    console.error(`[ERROR] Missing inclusions for tour: ${t.title} (${t.id})`);
+    errorsCount++;
+  }
+  if (!t.exclusions || t.exclusions.length === 0) {
+    console.error(`[ERROR] Missing exclusions for tour: ${t.title} (${t.id})`);
+    errorsCount++;
+  }
 });
 
-// 4. Check for self-referencing related tours
+// 4. Check for self-referencing related tours and broken slugs
 TOURS_DATA.forEach(t => {
   if (t.relatedSlugs.includes(t.slug)) {
     console.error(`[ERROR] Tour recommends itself in relatedSlugs: ${t.slug}`);
     errorsCount++;
   }
+  t.relatedSlugs.forEach(rSlug => {
+    if (!slugMap.has(rSlug.toLowerCase().trim())) {
+      console.error(`[ERROR] Broken related slug reference: "${rSlug}" in tour "${t.title}"`);
+      errorsCount++;
+    }
+  });
 });
 
-console.log(`\n========================================`);
+// 5. Verify all Image assets actually exist on disk in public/
+let checkedImagesCount = 0;
+TOURS_DATA.forEach(t => {
+  const allImages = [t.mainImage, ...(t.images || [])];
+  allImages.forEach(imgPath => {
+    checkedImagesCount++;
+    const diskPath = path.join(rootDir, 'public', imgPath.replace(/^\//, ''));
+    if (!fs.existsSync(diskPath)) {
+      console.error(`[ERROR] Missing disk image asset: "${imgPath}" referenced in "${t.title}"`);
+      errorsCount++;
+    }
+  });
+});
+
+// 6. Verify Absence of Unsupported Blanket Claims
+TOURS_DATA.forEach(t => {
+  const isTransfer = t.category === 'Private Transfers' || t.title.toLowerCase().includes('transfer');
+  const isBalloonOnly = (t.category === 'Hot Air Balloon' || t.title.toLowerCase().includes('balloon')) &&
+    !t.title.toLowerCase().includes('guided tour') && !t.title.toLowerCase().includes('full day');
+  const isSeaOnly = (t.category.includes('Hurghada') || t.category.includes('Sharm') || t.category.includes('Marsa') || t.category.includes('Dahab')) &&
+    !t.title.toLowerCase().includes('luxor') && !t.title.toLowerCase().includes('cairo');
+
+  const incJoined = (t.inclusions || []).join(' ');
+
+  if (isTransfer && incJoined.includes('Egyptologist')) {
+    console.error(`[ERROR] Transfer tour claims Egyptologist guide: "${t.title}"`);
+    errorsCount++;
+  }
+  if (isBalloonOnly && incJoined.includes('Egyptologist')) {
+    console.error(`[ERROR] Pure hot air balloon ride claims Egyptologist guide: "${t.title}"`);
+    errorsCount++;
+  }
+  if (isSeaOnly && incJoined.includes('Egyptologist')) {
+    console.error(`[ERROR] Pure marine/safari trip claims Egyptologist guide: "${t.title}"`);
+    errorsCount++;
+  }
+});
+
+console.log(`========================================`);
 console.log(`VALIDATION SUMMARY:`);
 console.log(`Total Tours Validated: ${TOURS_DATA.length}`);
 console.log(`Unique IDs: ${idMap.size}`);
 console.log(`Unique Slugs: ${slugMap.size}`);
+console.log(`Total Image Asset References Checked: ${checkedImagesCount}`);
 console.log(`Total Errors: ${errorsCount}`);
 console.log(`Total Warnings: ${warningsCount}`);
 
 if (errorsCount === 0) {
-  console.log(`✓ ALL VALIDATION CHECKS PASSED PERFECTLY!`);
+  console.log(`✓ ALL STRICT EVIDENCE & INTEGRITY CHECKS PASSED PERFECTLY!`);
   process.exit(0);
 } else {
   console.error(`✗ VALIDATION FAILED WITH ${errorsCount} ERRORS!`);

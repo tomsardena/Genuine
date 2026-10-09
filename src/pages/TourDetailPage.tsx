@@ -22,6 +22,7 @@ import {
   Star
 } from 'lucide-react';
 import { SITE_SETTINGS } from '../data/siteSettings';
+import { REVIEW_STATS, REVIEWS_DATA } from '../data/reviewsData';
 
 interface TourDetailPageProps {
   slug: string;
@@ -97,21 +98,12 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
             addressCountry: 'EG'
           }
         },
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.95',
-          reviewCount: '156',
-          ratingCount: '156',
-          bestRating: '5',
-          worstRating: '1'
-        },
         offers: {
           '@type': 'Offer',
           priceCurrency: 'USD',
-          price: '95',
           availability: 'https://schema.org/InStock',
           url: `https://genuineegypte.com/booking/${tour.slug}/`,
-          validFrom: '2026-01-01'
+          description: tour.priceNote || 'Custom private quote based on travel dates & party size'
         },
         provider: {
           '@type': 'TravelAgency',
@@ -153,52 +145,12 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
           name: 'Genuine Egypte'
         },
         offers: {
-          '@type': 'AggregateOffer',
+          '@type': 'Offer',
           priceCurrency: 'USD',
-          lowPrice: '75',
-          highPrice: '1650',
-          offerCount: '1',
           availability: 'https://schema.org/InStock',
-          url: `https://genuineegypte.com/booking/${tour.slug}/`
-        },
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.95',
-          reviewCount: '156',
-          ratingCount: '156',
-          bestRating: '5',
-          worstRating: '1'
-        },
-        review: [
-          {
-            '@type': 'Review',
-            reviewRating: {
-              '@type': 'Rating',
-              ratingValue: '5',
-              bestRating: '5'
-            },
-            author: {
-              '@type': 'Person',
-              name: 'Dr. Evelyn & Robert Hall'
-            },
-            datePublished: '2026-09-14',
-            reviewBody: 'Exceptional private journey. Our Egyptologist guide possessed profound archaeological knowledge and catered entirely to our pace without any rush.'
-          },
-          {
-            '@type': 'Review',
-            reviewRating: {
-              '@type': 'Rating',
-              ratingValue: '5',
-              bestRating: '5'
-            },
-            author: {
-              '@type': 'Person',
-              name: 'Jean-Luc Moreau'
-            },
-            datePublished: '2026-08-22',
-            reviewBody: 'Flawless logistics, pristine air-conditioned transport, and authentic local perspective. Genuine Egypte is the real deal.'
-          }
-        ]
+          url: `https://genuineegypte.com/booking/${tour.slug}/`,
+          description: tour.priceNote || 'Custom private quote based on travel dates & party size'
+        }
       },
       {
         '@type': 'BreadcrumbList',
@@ -279,10 +231,9 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                 <span>{tour.duration}</span>
               </span>
               <span className="text-stone-300 dark:text-stone-700">·</span>
-              <span className="flex items-center gap-1 text-amber-700 dark:text-amber-400">
-                <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-500" />
-                <span className="font-semibold text-stone-900 dark:text-stone-100">4.95</span>
-                <span className="text-stone-500 dark:text-stone-400">(156 verified reviews)</span>
+              <span className="flex items-center gap-1 text-emerald-700 dark:text-emerald-400 font-medium">
+                <ShieldCheck className="w-3.5 h-3.5" />
+                <span>Private Curated Experience</span>
               </span>
             </div>
 
@@ -587,47 +538,47 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                       Verified Traveler Reviews
                     </h2>
                   </div>
-                  <div className="flex items-center gap-2 bg-amber-50/80 dark:bg-amber-950/40 border border-amber-200/80 dark:border-amber-800/60 px-3.5 py-1.5 rounded-lg w-fit">
-                    <div className="flex items-center text-amber-500">
-                      {[...Array(5)].map((_, i) => (
-                        <Star key={i} className="w-3.5 h-3.5 fill-amber-400 text-amber-500" />
-                      ))}
-                    </div>
-                    <span className="font-bold text-stone-900 dark:text-stone-100 text-sm">4.95 / 5.0</span>
-                    <span className="text-stone-500 dark:text-stone-400 text-xs">(156 verified reviews)</span>
+                  <div className="flex flex-wrap items-center gap-2">
+                    <a
+                      href={REVIEW_STATS.tripAdvisor.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-1.5 bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200/80 dark:border-emerald-800/60 px-3 py-1.5 rounded-lg text-xs hover:border-emerald-400 transition-colors"
+                    >
+                      <Star className="w-3.5 h-3.5 fill-emerald-500 text-emerald-500" />
+                      <span className="font-bold text-emerald-900 dark:text-emerald-300">5.0 TripAdvisor</span>
+                      <span className="text-emerald-700 dark:text-emerald-400 text-[11px]">Travelers’ Choice</span>
+                    </a>
+                    <a
+                      href={REVIEW_STATS.google.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-1.5 bg-amber-50 dark:bg-amber-950/40 border border-amber-200/80 dark:border-amber-800/60 px-3 py-1.5 rounded-lg text-xs hover:border-amber-400 transition-colors"
+                    >
+                      <Star className="w-3.5 h-3.5 fill-amber-500 text-amber-500" />
+                      <span className="font-bold text-amber-900 dark:text-amber-300">5.0 Google</span>
+                      <span className="text-amber-700 dark:text-amber-400 text-[11px]">Verified Reviews</span>
+                    </a>
                   </div>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-4 space-y-2.5 shadow-xs">
-                    <div className="flex items-center justify-between text-xs">
-                      <span className="font-semibold text-stone-900 dark:text-stone-100">Dr. Evelyn & Robert Hall</span>
-                      <span className="text-stone-400 text-[11px]">September 2026</span>
+                  {REVIEWS_DATA.slice(0, 2).map((rev) => (
+                    <div key={rev.id} className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-4 space-y-2.5 shadow-xs">
+                      <div className="flex items-center justify-between text-xs">
+                        <span className="font-semibold text-stone-900 dark:text-stone-100">{rev.author}</span>
+                        <span className="text-stone-400 text-[11px]">{rev.date} · {rev.platform === 'tripadvisor' ? 'TripAdvisor' : 'Google'}</span>
+                      </div>
+                      <div className="flex items-center text-amber-500">
+                        {[...Array(rev.rating)].map((_, i) => (
+                          <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-500" />
+                        ))}
+                      </div>
+                      <p className="text-xs text-stone-600 dark:text-stone-300 leading-relaxed italic">
+                        &ldquo;{rev.content}&rdquo;
+                      </p>
                     </div>
-                    <div className="flex items-center text-amber-500">
-                      {[...Array(5)].map((_, i) => (
-                        <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-500" />
-                      ))}
-                    </div>
-                    <p className="text-xs text-stone-600 dark:text-stone-300 leading-relaxed italic">
-                      &ldquo;Exceptional private journey. Our Egyptologist guide possessed profound archaeological knowledge and catered entirely to our pace without any rush or pressure.&rdquo;
-                    </p>
-                  </div>
-
-                  <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg p-4 space-y-2.5 shadow-xs">
-                    <div className="flex items-center justify-between text-xs">
-                      <span className="font-semibold text-stone-900 dark:text-stone-100">Jean-Luc Moreau</span>
-                      <span className="text-stone-400 text-[11px]">August 2026</span>
-                    </div>
-                    <div className="flex items-center text-amber-500">
-                      {[...Array(5)].map((_, i) => (
-                        <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-500" />
-                      ))}
-                    </div>
-                    <p className="text-xs text-stone-600 dark:text-stone-300 leading-relaxed italic">
-                      &ldquo;Flawless logistics, pristine air-conditioned transport, and authentic local perspective. Genuine Egypte is the real deal for discerning travelers.&rdquo;
-                    </p>
-                  </div>
+                  ))}
                 </div>
               </div>
             </div>
@@ -652,8 +603,15 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                         <Star key={i} className="w-3.5 h-3.5 fill-amber-400 text-amber-500" />
                       ))}
                     </div>
-                    <span className="font-semibold text-stone-900 dark:text-stone-100">4.95 / 5.0</span>
-                    <span className="text-stone-500 dark:text-stone-400">(156 traveler reviews)</span>
+                    <span className="font-semibold text-stone-900 dark:text-stone-100">5.0 / 5.0</span>
+                    <a
+                      href={REVIEW_STATS.tripAdvisor.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-stone-500 dark:text-stone-400 hover:text-amber-700 underline text-[11px]"
+                    >
+                      TripAdvisor & Google
+                    </a>
                   </div>
                 </div>
 

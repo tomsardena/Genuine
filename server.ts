@@ -462,9 +462,9 @@ function calculateRealtimePricing(
 
   if (pricingType.includes('vehicle')) {
     return {
-      perPersonRange: `$${adjLow} – $${adjHigh} per vehicle`,
-      totalForPartyRange: `$${adjLow} – $${adjHigh} total for your party of ${guests}`,
-      rateNotes: `${seasonalNote}. Door-to-door private Mercedes or Toyota HiAce with licensed driver.`,
+      perPersonRange: `Estimated $${adjLow} – $${adjHigh} per vehicle (indicative guidance)`,
+      totalForPartyRange: `Estimated $${adjLow} – $${adjHigh} total for private vehicle (${guests} passengers)`,
+      rateNotes: `${seasonalNote}. Private door-to-door vehicle with licensed driver. Indicative estimate; exact quote confirmed on request.`,
       inclusionsSummary: inclusionsList,
       exclusionsSummary: exclusionsList
     };
@@ -474,11 +474,11 @@ function calculateRealtimePricing(
   const partyTotalHigh = guests === 1 ? Math.round(adjHigh * 1.45) : adjHigh * guests;
 
   return {
-    perPersonRange: `$${adjLow} – $${adjHigh} per person`,
+    perPersonRange: `Estimated $${adjLow} – $${adjHigh} per person (indicative guidance)`,
     totalForPartyRange: guests === 1
-      ? `$${partyTotalLow} – $${partyTotalHigh} (single cabin supplement included)`
-      : `$${partyTotalLow} – $${partyTotalHigh} USD total for ${guests} guests`,
-    rateNotes: `${seasonalNote}. Double occupancy baseline. Transparent direct quote with NO online credit card deductions.`,
+      ? `Estimated $${partyTotalLow} – $${partyTotalHigh} USD (single traveler estimate)`
+      : `Estimated $${partyTotalLow} – $${partyTotalHigh} USD for ${guests} guests (indicative estimate)`,
+    rateNotes: `${seasonalNote}. Indicative guidance estimate only. Confirmed custom proposal provided directly from Luxor with NO online card deductions.`,
     inclusionsSummary: inclusionsList,
     exclusionsSummary: exclusionsList
   };
@@ -723,10 +723,10 @@ OPTION #${idx + 1}: "${t.title}"
 - Exact Link: /booking/${t.slug}/
 - Category: ${t.category} | Destination: ${t.destination} | Duration: ${t.duration}
 - Highlights: ${(t.highlights || []).slice(0, 5).join('; ') || t.shortDescription}
-- Real-Time Pricing: ${p.totalForPartyRange} (${p.perPersonRange})
+- Indicative Guidance Estimate: ${p.totalForPartyRange} (${p.perPersonRange}) [INDICATIVE ESTIMATE - NOT CONFIRMED]
 - Rate Notes: ${p.rateNotes}
 - Inclusions: ${p.inclusionsSummary}
-- Schedule & Availability: ${a.departureDays}; Timing: ${a.pickupTime}; Notes: ${a.seasonalNotes}`;
+- Schedule Guidance: ${a.departureDays}; Timing: ${a.pickupTime}; Notes: ${a.seasonalNotes}`;
   }).join('\n\n');
 
   const previouslyDiscussedList = memory.previouslyDiscussedTours.length > 0
@@ -770,9 +770,11 @@ RULES FOR LONG, CONTINUOUS CONVERSATIONS & RECOMMENDATIONS:
    - Offer vivid highlights, duration, and what makes the experience exceptional (private Egyptologist guide, full-board gourmet meals on Nile cruises, sunrise flights over the Nile).
    - If the traveler is planning a multi-day Egypt journey, help them weave individual tours (Cairo Pyramids + Nile Cruise + Luxor Balloon + Abu Simbel) into a harmonious master itinerary.
 
-3. Transparent Pricing & Availability:
-   - Quote transparent pricing based on the real-time calculations below for their exact party size (${memory.guestDescription}) and season (${memory.seasonTier.replace('_', ' ')}).
-   - Remind them that Genuine Egypte rates include private air-conditioned vehicles, certified guides, and coordination—with zero hidden credit card processing fees.
+3. Distinguishing Verified Prices vs. Estimates (CRITICAL RULE):
+   - All catalog tours are bespoke private departures quoted upon request.
+   - ALWAYS explicitly identify any prices mentioned as "indicative seasonal estimates" or "estimated guidance ranges", NEVER as confirmed or locked rates.
+   - Clarify that exact confirmed pricing and cabin availability are confirmed directly through our Luxor team via WhatsApp (+20 1070335551) or email (info@genuineegypte.com) with zero online card deductions.
+   - NEVER present unverified prices or availability as final or confirmed.
 
 4. Warm, Thoughtful Closing:
    - Close each turn with an insightful, relevant follow-up question or offer to customize, and let them know our team in Luxor is ready to connect directly on WhatsApp (+20 1070335551) to hold dates or adjust details.
@@ -849,7 +851,7 @@ function generateLocalAdvisorResponse(
   if (memory.intent === 'pricing' || query.includes('cost') || query.includes('price')) {
     const p = top.pricing;
     const a = top.availability;
-    const reply = `Marhaban${memory.travelerName ? ` ${memory.travelerName}` : ''}! For **${memory.guestDescription}**${memory.travelDates ? ` traveling in ${memory.travelDates}` : ''}, here is our transparent direct quotation:\n\n### **[${top.tour.title}](/booking/${top.tour.slug}/)**\n- **Pricing for your party:** **${p.totalForPartyRange}** (${p.perPersonRange})\n- **Departure schedule:** ${a.departureDays}\n- **Rate Details:** ${p.rateNotes}\n\n**Included in your program:**\n- ${p.inclusionsSummary}\n\n**Excluded:**\n- ${p.exclusionsSummary}\n\nAt Genuine Egypte, we do not charge credit cards online. Every booking is confirmed directly with our team in Luxor via WhatsApp (**+20 1070335551**). Would you like me to check exact cabin or vehicle availability for your dates?`;
+    const reply = `Marhaban${memory.travelerName ? ` ${memory.travelerName}` : ''}! For **${memory.guestDescription}**${memory.travelDates ? ` traveling in ${memory.travelDates}` : ''}, here is our indicative seasonal price guidance:\n\n### **[${top.tour.title}](/booking/${top.tour.slug}/)**\n- **Indicative Price Guidance:** **${p.totalForPartyRange}** (${p.perPersonRange})\n- **Departure schedule:** ${a.departureDays}\n- **Rate Details:** ${p.rateNotes}\n\n**Included in your program:**\n- ${p.inclusionsSummary}\n\n**Excluded / Policies:**\n- ${p.exclusionsSummary}\n\n*Please note: Figures are indicative guidance estimates. At Genuine Egypte, we do not charge credit cards online. Every booking is confirmed directly with our team in Luxor via WhatsApp (**+20 1070335551**).* Would you like our team to provide a confirmed quotation and check cabin or vehicle availability for your travel dates?`;
     return {
       reply,
       recommendedTours,
@@ -861,7 +863,7 @@ function generateLocalAdvisorResponse(
   if (memory.intent === 'availability' || query.includes('when') || query.includes('leave') || query.includes('day')) {
     const a = top.availability;
     const p = top.pricing;
-    const reply = `Marhaban${memory.travelerName ? ` ${memory.travelerName}` : ''}! Here are the real-time scheduling details for **[${top.tour.title}](/booking/${top.tour.slug}/)**:\n\n- **Departure Schedule:** ${a.departureDays}\n- **Pickup & Timing:** ${a.pickupTime}\n- **Availability Notes:** ${a.bookingLeadTime}\n- **Pricing Guidance:** ${p.totalForPartyRange} (${p.perPersonRange})\n\nShall I check exact cabin or vehicle availability for your preferred dates?`;
+    const reply = `Marhaban${memory.travelerName ? ` ${memory.travelerName}` : ''}! Here are the scheduling details and price guidance for **[${top.tour.title}](/booking/${top.tour.slug}/)**:\n\n- **Departure Schedule:** ${a.departureDays}\n- **Pickup & Timing:** ${a.pickupTime}\n- **Availability Notes:** ${a.bookingLeadTime}\n- **Price Guidance:** ${p.totalForPartyRange} (${p.perPersonRange}) *(indicative estimate)*\n\nShall I connect you with our team in Luxor via WhatsApp (**+20 1070335551**) to check exact availability for your preferred dates?`;
     return {
       reply,
       recommendedTours,
@@ -1037,6 +1039,71 @@ app.post('/api/chat', async (req, res) => {
     }, []);
     return res.json(fallback);
   }
+});
+
+// In-Memory inquiries registry for proposal flow
+const inquiriesStore: any[] = [];
+let notificationSettings = {
+  notificationEmail: 'info@genuineegypte.com, kemethurghada.ag@gmail.com',
+  telegramBotToken: '',
+  telegramChatId: '',
+  smtpHost: '',
+  smtpUser: ''
+};
+
+app.post('/api/inquiries', (req, res) => {
+  try {
+    const { name, email, phone, tourTitle, tourSlug, date, travelers, notes, source } = req.body || {};
+    if (!name || (!email && !phone)) {
+      return res.status(400).json({ success: false, error: 'Name and either email or phone number are required.' });
+    }
+
+    const bookingId = `GE-${Date.now().toString(36).toUpperCase()}`;
+    const newInquiry = {
+      id: bookingId,
+      bookingId,
+      name,
+      email: email || '',
+      phone: phone || '',
+      tourTitle: tourTitle || 'General Custom Itinerary',
+      tourSlug: tourSlug || '',
+      date: date || 'Flexible',
+      travelers: travelers || '2',
+      notes: notes || '',
+      source: source || 'Website Custom Proposal',
+      createdAt: new Date().toISOString(),
+      status: 'new'
+    };
+
+    inquiriesStore.unshift(newInquiry);
+    console.log(`[PROPOSAL INQUIRY LOGGED] #${bookingId} for "${newInquiry.tourTitle}" by ${name} (${email || phone})`);
+
+    return res.json({
+      success: true,
+      bookingId,
+      message: 'Your inquiry has been received. Our team in Luxor will contact you within 12 hours.'
+    });
+  } catch (err: any) {
+    console.error('Error handling inquiry:', err);
+    return res.status(500).json({ success: false, error: 'Internal server error processing inquiry.' });
+  }
+});
+
+app.get('/api/bookings', (_req, res) => {
+  return res.json({ success: true, bookings: inquiriesStore });
+});
+
+app.get('/api/notifications/settings', (_req, res) => {
+  return res.json(notificationSettings);
+});
+
+app.post('/api/notifications/settings', (req, res) => {
+  notificationSettings = { ...notificationSettings, ...req.body };
+  return res.json({ success: true, settings: notificationSettings });
+});
+
+app.post('/api/notifications/test-telegram', (_req, res) => {
+  return res.json({ success: true, message: 'Test message received' });
 });
 
 // Setup dev server or static file serving
