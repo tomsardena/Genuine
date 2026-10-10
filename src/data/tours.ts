@@ -109,9 +109,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
-    "mainImage": "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
+    "mainImage": "/images/tours/royal-ruby-nile-cruise-luxor.webp",
     "images": [
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
+      "/images/tours/royal-ruby-nile-cruise-luxor.webp",
       "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
       "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
       "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -185,9 +185,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
-    "mainImage": "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
+    "mainImage": "/images/tours/royal-ruby-nile-cruise-sailing.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
+      "/images/tours/royal-ruby-nile-cruise-sailing.webp",
       "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
       "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
       "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -257,9 +257,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
-    "mainImage": "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
+    "mainImage": "/images/tours/nile-premium-cruise-ship.webp",
     "images": [
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
+      "/images/tours/nile-premium-cruise-ship.webp",
       "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
       "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
       "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
@@ -333,9 +333,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal laundry, telephone calls, and spa services"
     ],
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
-    "mainImage": "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
+    "mainImage": "/images/tours/nile-premium-cruise-deck.webp",
     "images": [
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
+      "/images/tours/nile-premium-cruise-deck.webp",
       "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
       "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
       "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
@@ -405,9 +405,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
-    "mainImage": "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
+    "mainImage": "/images/tours/giza-pyramids-sphinx-half-day.webp",
     "images": [
-      "/images/tours/15974092780The_River_Nile__Cairo__Egypt.jpg",
+      "/images/tours/giza-pyramids-sphinx-half-day.webp",
       "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
       "/images/tours/15974099720Saqqara.jpeg",
       "/images/tours/15974198080cairo.jpg",
@@ -473,9 +473,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
-    "mainImage": "/images/gallery/IMG-20261001-WA0037.jpg",
+    "mainImage": "/images/tours/cairo-layover-city-break.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0037.jpg",
+      "/images/tours/cairo-layover-city-break.webp",
       "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
       "/images/tours/15974099720Saqqara.jpeg",
       "/images/tours/15974198080cairo.jpg",
@@ -545,9 +545,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
-    "mainImage": "/images/gallery/IMG-20261001-WA0038.jpg",
+    "mainImage": "/images/tours/saint-samaan-cave-church-cairo.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0038.jpg",
+      "/images/tours/saint-samaan-cave-church-cairo.webp",
       "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
       "/images/tours/15974099720Saqqara.jpeg",
       "/images/tours/15974198080cairo.jpg",
@@ -613,9 +613,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
-    "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
+    "mainImage": "/images/tours/memphis-saqqara-step-pyramid.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0039.jpg",
+      "/images/tours/memphis-saqqara-step-pyramid.webp",
       "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg",
       "/images/tours/15974099720Saqqara.jpeg",
       "/images/tours/15974198080cairo.jpg",
@@ -681,9 +681,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Cairo & Giza. Flexible pickup time arranged upon booking.",
-    "mainImage": "/images/tours/15972424051citadel-of-qaitbay-fortress-alexandria.jpg",
+    "mainImage": "/images/tours/alexandria-qaitbay-citadel-tour.webp",
     "images": [
-      "/images/tours/15972424051citadel-of-qaitbay-fortress-alexandria.jpg",
+      "/images/tours/alexandria-qaitbay-citadel-tour.webp",
       "/images/tours/15972426061Alexandria-Library-Egypt-2.jpg",
       "/images/tours/15974079580alex2255.jpg",
       "/images/tours/15974110730alex2255.jpg"
@@ -748,9 +748,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
-    "mainImage": "/images/gallery/IMG-20261001-WA0026.jpg",
+    "mainImage": "/images/tours/luxor-karnak-temple-excursion.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0026.jpg",
+      "/images/tours/luxor-karnak-temple-excursion.webp",
       "/images/tours/15319133090Nile-cruise-Aswan-stay-3-.jpg",
       "/images/tours/1531913309432123675724_c014cef855_b.jpg",
       "/images/gallery/IMG-20261001-WA0013.jpg",
