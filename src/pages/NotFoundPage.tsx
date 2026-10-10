@@ -14,6 +14,10 @@ export const NotFoundPage: React.FC = () => {
 
       <div className="bg-[#FAF8F5] min-h-[60vh] py-16 flex items-center justify-center">
         <div className="max-w-md mx-auto px-4 text-center space-y-6">
+          <div className="flex justify-center">
+            <Breadcrumbs showBackButton={true} items={[{ label: 'Page Not Found' }]} />
+          </div>
+
           <div className="w-16 h-16 mx-auto bg-amber-100 text-amber-800 rounded-full flex items-center justify-center">
             <Compass className="w-8 h-8 stroke-[1.5]" />
           </div>

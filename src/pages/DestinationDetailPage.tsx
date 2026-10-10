@@ -102,6 +102,7 @@ export const DestinationDetailPage: React.FC<DestinationDetailPageProps> = ({ sl
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-10">
           <Breadcrumbs
+            showBackButton={true}
             items={[
               { label: 'Destinations', href: '/destinations' },
               { label: destination.name }

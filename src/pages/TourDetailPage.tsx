@@ -206,13 +206,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-6 sm:py-10 pb-24 lg:pb-10 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-8">
           {/* Breadcrumbs */}
-          <Breadcrumbs
-            items={[
-              { label: 'Tours & Cruises', href: '/tours' },
-              { label: tour.category, href: categoryHref },
-              { label: tour.title }
-            ]}
-          />
+          <Breadcrumbs showBackButton={true} />
 
           {/* Tour Title Header */}
           <div className="space-y-3 border-b border-stone-200 dark:border-stone-800 pb-6">

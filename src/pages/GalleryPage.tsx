@@ -3,6 +3,7 @@ import { GALLERY_DATA, GALLERY_CATEGORIES, GalleryImage } from '../data/galleryD
 import { SEOHead } from '../components/SEOHead';
 import { OptimizedImage } from '../components/OptimizedImage';
 import { Link } from '../utils/router';
+import { Breadcrumbs } from '../components/Breadcrumbs';
 import {
   Camera,
   MapPin,
@@ -97,6 +98,13 @@ export const GalleryPage: React.FC = () => {
             </p>
           </div>
         </section>
+
+        {/* Dynamic Breadcrumbs Navigation */}
+        <div className="bg-[#FAF8F5] dark:bg-[#121110] border-b border-stone-200/80 dark:border-stone-800">
+          <div className="max-w-7xl mx-auto px-4 sm:px-8 py-1.5">
+            <Breadcrumbs showBackButton={true} />
+          </div>
+        </div>
 
         {/* Filter Bar & Controls */}
         <section className="sticky top-0 z-20 bg-white/95 dark:bg-[#151311]/95 backdrop-blur-md border-b border-stone-200 dark:border-stone-800 py-3 shadow-xs">

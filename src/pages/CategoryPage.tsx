@@ -119,6 +119,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
       <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-8 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6 sm:space-y-8">
           <Breadcrumbs
+            showBackButton={true}
             items={[
               { label: 'Tours & Excursions', href: '/tours' },
               { label: title }
