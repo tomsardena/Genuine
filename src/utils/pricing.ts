@@ -21,7 +21,7 @@ export interface PriceDisplay {
  * @param isTransfer Whether the item is a transfer product
  */
 export function getTourPriceDisplay(price: number | null | undefined, isTransfer = false): PriceDisplay {
-  const validPrice = typeof price === 'number' && !isNaN(price) && price > 0;
+  const validPrice = typeof price === 'number' && Number.isFinite(price) && price > 0;
 
   if (validPrice) {
     const formattedAmount = `$${price}`;

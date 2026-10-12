@@ -101,10 +101,11 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         },
         offers: {
           '@type': 'Offer',
+          ...(tour.price && tour.price > 0 ? { price: tour.price.toString() } : {}),
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
           url: `https://genuineegypte.com/booking/${tour.slug}/`,
-          description: tour.priceNote || 'Custom private quote based on travel dates & party size'
+          description: tour.priceNote || (tour.price ? `From $${tour.price} USD per adult` : 'Custom private quote based on travel dates & party size')
         },
         provider: {
           '@type': 'TravelAgency',
@@ -147,10 +148,11 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         },
         offers: {
           '@type': 'Offer',
+          ...(tour.price && tour.price > 0 ? { price: tour.price.toString() } : {}),
           priceCurrency: 'USD',
           availability: 'https://schema.org/InStock',
           url: `https://genuineegypte.com/booking/${tour.slug}/`,
-          description: tour.priceNote || 'Custom private quote based on travel dates & party size'
+          description: tour.priceNote || (tour.price ? `From $${tour.price} USD per adult` : 'Custom private quote based on travel dates & party size')
         }
       },
       {
@@ -196,11 +198,11 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         ogImageAlt={`${tour.title} – private excursion in ${tour.destination}, Egypt`}
         ogType="product"
         keywords={tourKeywords}
-        productData={{
-          price: '95',
+        productData={tour.price && tour.price > 0 ? {
+          price: String(tour.price),
           currency: 'USD',
           availability: 'in stock'
-        }}
+        } : undefined}
         jsonLd={tourJsonLd}
       />
 
@@ -585,13 +587,33 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                   <span className="text-[11px] font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider block font-serif">
                     Inquiry & Custom Proposal
                   </span>
-                  <div className="flex items-baseline justify-between">
-                    <span className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100">Custom Quote</span>
-                    <span className="text-xs text-stone-500 dark:text-stone-400">Tailored To Group</span>
-                  </div>
-                  <p className="text-xs text-stone-600 dark:text-stone-300 italic pt-1 leading-relaxed">
-                    {tour.priceNote || 'Personalized private proposal tailored to your travel dates, cabin preference, and group size.'}
-                  </p>
+                  {(() => {
+                    const isTransfer = tour.category === 'Private Transfers';
+                    const pricing = getTourPriceDisplay(tour.price, isTransfer);
+                    return (
+                      <>
+                        <div className="flex items-baseline justify-between">
+                          {pricing.hasPrice ? (
+                            <>
+                              <div className="flex items-baseline gap-1.5">
+                                <span className="font-serif text-3xl font-bold text-stone-900 dark:text-stone-100">{pricing.formattedAmount}</span>
+                                <span className="text-xs font-medium text-stone-500 dark:text-stone-400">USD {pricing.unit}</span>
+                              </div>
+                              <span className="text-xs text-amber-800 dark:text-amber-400 font-semibold">{pricing.label}</span>
+                            </>
+                          ) : (
+                            <>
+                              <span className="font-serif text-2xl font-bold text-stone-900 dark:text-stone-100">{pricing.formattedAmount}</span>
+                              <span className="text-xs text-stone-500 dark:text-stone-400">{pricing.unit}</span>
+                            </>
+                          )}
+                        </div>
+                        <p className="text-xs text-stone-600 dark:text-stone-300 italic pt-1 leading-relaxed">
+                          {tour.priceNote || (pricing.hasPrice ? 'Starting price per adult for private tour · Final quote tailored to your party size and dates.' : 'Personalized private proposal tailored to your travel dates, cabin preference, and group size.')}
+                        </p>
+                      </>
+                    );
+                  })()}
                   <div className="flex items-center gap-1.5 pt-2 text-xs">
                     <div className="flex items-center text-amber-500">
                       {[...Array(5)].map((_, i) => (

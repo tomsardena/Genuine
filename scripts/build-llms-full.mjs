@@ -37,6 +37,9 @@ for (const t of tours) {
   fullText += `- **Category**: ${t.category}\n`;
   fullText += `- **Destination**: ${t.destination}\n`;
   fullText += `- **Duration**: ${t.duration}\n`;
+  if (t.price && t.price > 0) {
+    fullText += `- **Starting Price**: $${t.price} USD / adult\n`;
+  }
   if (t.shortDescription) {
     fullText += `- **Summary**: ${t.shortDescription}\n`;
   }

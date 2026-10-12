@@ -83,9 +83,9 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
     setMetaTag('property', 'og:site_name', 'Genuine Egypte');
     setMetaTag('property', 'og:locale', 'en_US');
 
-    // Product-specific OpenGraph tags if applicable
-    if (ogType === 'product' && productData) {
-      setMetaTag('property', 'product:price:amount', productData.price || '95');
+    // Product-specific OpenGraph tags if applicable (only when verified price exists)
+    if (ogType === 'product' && productData?.price) {
+      setMetaTag('property', 'product:price:amount', productData.price);
       setMetaTag('property', 'product:price:currency', productData.currency || 'USD');
       setMetaTag('property', 'product:availability', productData.availability || 'in stock');
     }
