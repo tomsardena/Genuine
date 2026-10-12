@@ -4,6 +4,7 @@ import { TourItem } from '../data/tours';
 import { MapPin, Clock, ArrowRight, MessageCircle } from 'lucide-react';
 import { InquiryModal } from './InquiryModal';
 import { OptimizedImage } from './OptimizedImage';
+import { getTourPriceDisplay } from '../utils/pricing';
 
 interface TourCardProps {
   tour: TourItem;
@@ -63,35 +64,49 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
           </div>
 
           {/* Bottom Bar & Actions */}
-          <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between gap-2">
-            <div>
-              <span className="block text-[10px] sm:text-[11px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
-              <span className="text-xs font-semibold text-stone-800 dark:text-stone-200">Custom Seasonal Rate</span>
-            </div>
+          {(() => {
+            const isTransfer = tour.category === 'Private Transfers';
+            const pricing = getTourPriceDisplay(tour.price, isTransfer);
+            return (
+              <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between gap-2">
+                <div>
+                  <span className="block text-[10px] sm:text-[11px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
+                  {pricing.hasPrice ? (
+                    <div className="flex items-baseline gap-1">
+                      <span className="text-[11px] font-medium text-stone-500 dark:text-stone-400">From</span>
+                      <span className="text-sm font-bold text-amber-900 dark:text-amber-400 font-serif">{pricing.formattedAmount}</span>
+                      <span className="text-[10px] text-stone-400 dark:text-stone-500">{pricing.unit}</span>
+                    </div>
+                  ) : (
+                    <span className="text-xs font-semibold text-stone-800 dark:text-stone-200">{pricing.formattedAmount}</span>
+                  )}
+                </div>
 
-            <div className="flex items-center gap-1.5 shrink-0">
-              <button
-                onClick={(e) => {
-                  e.preventDefault();
-                  e.stopPropagation();
-                  setInquiryOpen(true);
-                }}
-                className="p-2 sm:p-1.5 min-w-[36px] min-h-[36px] flex items-center justify-center text-stone-600 dark:text-stone-400 hover:text-emerald-700 dark:hover:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/60 rounded-lg transition-colors"
-                title="Quick WhatsApp Inquiry"
-                aria-label="Quick WhatsApp Inquiry"
-              >
-                <MessageCircle className="w-4 h-4" />
-              </button>
+                <div className="flex items-center gap-1.5 shrink-0">
+                  <button
+                    onClick={(e) => {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      setInquiryOpen(true);
+                    }}
+                    className="p-2 sm:p-1.5 min-w-[36px] min-h-[36px] flex items-center justify-center text-stone-600 dark:text-stone-400 hover:text-emerald-700 dark:hover:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/60 rounded-lg transition-colors"
+                    title="Quick WhatsApp Inquiry"
+                    aria-label="Quick WhatsApp Inquiry"
+                  >
+                    <MessageCircle className="w-4 h-4" />
+                  </button>
 
-              <Link
-                to={tourUrl}
-                className="inline-flex items-center gap-1 text-xs font-semibold text-stone-900 dark:text-stone-200 hover:text-amber-800 dark:hover:text-amber-400 transition-colors py-1.5 px-3 sm:py-1 sm:px-2.5 min-h-[36px] rounded-lg hover:bg-stone-50 dark:hover:bg-stone-800"
-              >
-                <span>Details</span>
-                <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5" />
-              </Link>
-            </div>
-          </div>
+                  <Link
+                    to={tourUrl}
+                    className="inline-flex items-center gap-1 text-xs font-semibold text-stone-900 dark:text-stone-200 hover:text-amber-800 dark:hover:text-amber-400 transition-colors py-1.5 px-3 sm:py-1 sm:px-2.5 min-h-[36px] rounded-lg hover:bg-stone-50 dark:hover:bg-stone-800"
+                  >
+                    <span>Details</span>
+                    <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5" />
+                  </Link>
+                </div>
+              </div>
+            );
+          })()}
         </div>
       </article>
 

@@ -128,12 +128,45 @@ TOURS_DATA.forEach(t => {
   }
 });
 
+// 7. Pricing Integrity Validation
+let pricedCount = 0;
+let unpricedCount = 0;
+TOURS_DATA.forEach(t => {
+  if (t.price !== null && t.price !== undefined) {
+    if (typeof t.price !== 'number' || isNaN(t.price)) {
+      console.error(`[ERROR] Non-numeric price value in tour "${t.title}" (${t.id}): ${t.price}`);
+      errorsCount++;
+    } else if (t.price === 0) {
+      console.error(`[ERROR] Forbidden zero price ($0) in tour "${t.title}" (${t.id}). Unpriced tours must use null.`);
+      errorsCount++;
+    } else if (t.price < 0) {
+      console.error(`[ERROR] Negative price in tour "${t.title}" (${t.id}): ${t.price}`);
+      errorsCount++;
+    } else {
+      pricedCount++;
+    }
+  } else {
+    unpricedCount++;
+  }
+
+  // Ensure transfers never display invented fares
+  const isTransfer = t.category === 'Private Transfers';
+  if (isTransfer && t.price !== null && t.price !== undefined) {
+    console.error(`[ERROR] Unverified price invented on transfer tour "${t.title}" (${t.id})`);
+    errorsCount++;
+  }
+});
+
+console.log(`[INFO] Pricing Audit: ${pricedCount} tours with verified starting prices, ${unpricedCount} tours on custom quote/request.`);
+
 console.log(`========================================`);
 console.log(`VALIDATION SUMMARY:`);
 console.log(`Total Tours Validated: ${TOURS_DATA.length}`);
 console.log(`Unique IDs: ${idMap.size}`);
 console.log(`Unique Slugs: ${slugMap.size}`);
 console.log(`Total Image Asset References Checked: ${checkedImagesCount}`);
+console.log(`Total Priced Tours: ${pricedCount}`);
+console.log(`Total Unpriced/Custom Quote Tours: ${unpricedCount}`);
 console.log(`Total Errors: ${errorsCount}`);
 console.log(`Total Warnings: ${warningsCount}`);
 

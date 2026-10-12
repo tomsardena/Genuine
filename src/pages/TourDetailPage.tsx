@@ -23,6 +23,7 @@ import {
 } from 'lucide-react';
 import { SITE_SETTINGS } from '../data/siteSettings';
 import { REVIEW_STATS, REVIEWS_DATA } from '../data/reviewsData';
+import { getTourPriceDisplay } from '../utils/pricing';
 
 interface TourDetailPageProps {
   slug: string;
