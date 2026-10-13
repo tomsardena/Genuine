@@ -66,9 +66,54 @@ function AppContent() {
         category="Nile Cruises"
         title="Luxury Nile River Cruises"
         subtitle="Upper Egypt River Expeditions"
-        description="Explore pharaonic temples between Luxor and Aswan aboard five-star cruise vessels including the Royal Ruby, Nile Premium, Oberoi, and Sonesta ships. Full-board dining, private Egyptologist shore guides, and panoramic river vistas."
+        description="Explore pharaonic temples between Luxor and Aswan aboard five-star cruise vessels including the Royale Ruby, Nile Premium, Oberoi, and Sonesta ships. Full-board dining, private Egyptologist shore guides, and panoramic river vistas."
         heroImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
         canonicalPath="/nile-cruises"
+      />
+    );
+  }
+
+  // 4a. Standard Nile Cruises Subcategory
+  if (cleanPath === '/nile-cruises/standard' || cleanPath === '/standard-nile-cruises' || cleanPath === '/categories/standard-nile-cruises') {
+    return (
+      <CategoryPage
+        category="Nile Cruises"
+        subCategory="Standard Nile Cruises"
+        title="Standard Nile Cruises"
+        subtitle="Comfort & Value on the Historic Nile"
+        description="Affordable five-star river cruising between Luxor and Aswan with comfortable air-conditioned cabins, full-board buffet dining, and scheduled temple visits guided by licensed Egyptologists. Featuring the Royale Ruby, Radamis, and Princess Sarah."
+        heroImage="/images/tours/standard-nile-cruises.webp"
+        canonicalPath="/nile-cruises/standard"
+      />
+    );
+  }
+
+  // 4b. Deluxe Nile Cruises Subcategory
+  if (cleanPath === '/nile-cruises/deluxe' || cleanPath === '/deluxe-nile-cruises' || cleanPath === '/categories/deluxe-nile-cruises') {
+    return (
+      <CategoryPage
+        category="Nile Cruises"
+        subCategory="Deluxe Nile Cruises"
+        title="Deluxe Nile Cruises"
+        subtitle="Modern Elegance & Panoramic Balconies"
+        description="Upgraded five-star cruise liners featuring superior cabins with panoramic French balconies, gourmet international dining, and unhurried shore excursions. Featuring Nile Premium, Steigenberger, Jaz, and Iberotel fleets."
+        heroImage="/images/tours/deluxe-nile-cruises.webp"
+        canonicalPath="/nile-cruises/deluxe"
+      />
+    );
+  }
+
+  // 4c. Luxury Nile Cruises Subcategory
+  if (cleanPath === '/nile-cruises/luxury' || cleanPath === '/luxury-nile-cruises' || cleanPath === '/categories/luxury-nile-cruises') {
+    return (
+      <CategoryPage
+        category="Nile Cruises"
+        subCategory="Luxury Nile Cruises"
+        title="Luxury Nile Cruises"
+        subtitle="Ultra-Luxury Floating Boutique Hotels"
+        description="The pinnacle of Egyptian river exploration: opulent boutique suites, dedicated butler service, Michelin-caliber gastronomy, and private Egyptologist guides. Featuring Oberoi Zahra, Sanctuary Sun Boats, and Sonesta Star Goddess."
+        heroImage="/images/tours/luxury-nile-cruise.webp"
+        canonicalPath="/nile-cruises/luxury"
       />
     );
   }

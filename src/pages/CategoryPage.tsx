@@ -1,14 +1,15 @@
-import React from 'react';
+import React, { useState, useMemo } from 'react';
 import { TOURS_DATA, TourCategory, TourItem } from '../data/tours';
 import { TourCard } from '../components/TourCard';
-import { Breadcrumbs } from '../components/Breadcrumbs';
+import { Breadcrumbs, BreadcrumbItem } from '../components/Breadcrumbs';
 import { SEOHead } from '../components/SEOHead';
 import { Link } from '../utils/router';
 import { OptimizedImage } from '../components/OptimizedImage';
-import { ArrowRight, MapPin } from 'lucide-react';
+import { ArrowRight, MapPin, Ship, Sparkles, Anchor, ChevronRight } from 'lucide-react';
 
 interface CategoryPageProps {
   category: TourCategory | string;
+  subCategory?: string;
   title: string;
   subtitle: string;
   description: string;
@@ -17,8 +18,53 @@ interface CategoryPageProps {
   customFilter?: (tour: TourItem) => boolean;
 }
 
+interface CruiseSubCategoryMeta {
+  id: string;
+  subCategoryName: string;
+  name: string;
+  badge: string;
+  tagline: string;
+  featuredShips: string;
+  href: string;
+  image: string;
+}
+
+const NILE_CRUISE_SUBCATEGORIES_CONFIG: CruiseSubCategoryMeta[] = [
+  {
+    id: 'standard',
+    subCategoryName: 'Standard Nile Cruises',
+    name: 'Standard Nile Cruises',
+    badge: '★ Comfort & Value',
+    tagline: 'Classic 5-star river cruisers with private Egyptologist guiding, full-board dining, and unhurried temple visits.',
+    featuredShips: 'Royale Ruby · Radamis · Princess Sarah',
+    href: '/nile-cruises/standard',
+    image: '/images/tours/standard-nile-cruises.webp'
+  },
+  {
+    id: 'deluxe',
+    subCategoryName: 'Deluxe Nile Cruises',
+    name: 'Deluxe Nile Cruises',
+    badge: '★ Modern Elegance & Balconies',
+    tagline: 'Upgraded 5-star vessels featuring spacious cabins, French balconies, gourmet international dining, and premier sun decks.',
+    featuredShips: 'Nile Premium · Steigenberger · Jaz Fleets',
+    href: '/nile-cruises/deluxe',
+    image: '/images/tours/deluxe-nile-cruises.webp'
+  },
+  {
+    id: 'luxury',
+    subCategoryName: 'Luxury Nile Cruises',
+    name: 'Luxury Nile Cruises',
+    badge: '★ Ultra-Luxury Boutique',
+    tagline: 'Opulent floating boutique suites with bespoke dining, private butler attention, and exclusive Egyptologist shore tours.',
+    featuredShips: 'Oberoi Zahra · Sanctuary Sun Boats · Sonesta Star',
+    href: '/nile-cruises/luxury',
+    image: '/images/tours/luxury-nile-cruise.webp'
+  }
+];
+
 export const CategoryPage: React.FC<CategoryPageProps> = ({
   category,
+  subCategory,
   title,
   subtitle,
   description,
@@ -26,21 +72,74 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
   canonicalPath,
   customFilter
 }) => {
-  const tours = customFilter
-    ? TOURS_DATA.filter(customFilter)
-    : TOURS_DATA.filter(t => t.category.toLowerCase() === category.toLowerCase());
+  const isNileCruisesRoot = canonicalPath === '/nile-cruises' || canonicalPath === '/categories/nile-cruises';
+  const isNileCruisesSection = category === 'Nile Cruises' || canonicalPath.includes('nile-cruises');
+
+  // In-page filter state for Nile Cruises main view
+  const [activeTierFilter, setActiveTierFilter] = useState<string>('ALL');
+
+  // Dynamic counts for Nile Cruise subcategories
+  const subCategoryCounts = useMemo(() => {
+    const counts: Record<string, number> = {
+      'Standard Nile Cruises': 0,
+      'Deluxe Nile Cruises': 0,
+      'Luxury Nile Cruises': 0,
+      'ALL': 0
+    };
+    TOURS_DATA.forEach(t => {
+      if (t.category === 'Nile Cruises') {
+        counts['ALL']++;
+        if (t.subCategory && counts[t.subCategory] !== undefined) {
+          counts[t.subCategory]++;
+        }
+      }
+    });
+    return counts;
+  }, []);
+
+  // Compute base tours matching category/filter
+  const baseTours = useMemo(() => {
+    if (customFilter) {
+      return TOURS_DATA.filter(customFilter);
+    }
+    if (subCategory) {
+      return TOURS_DATA.filter(t => t.category === 'Nile Cruises' && t.subCategory === subCategory);
+    }
+    return TOURS_DATA.filter(t => t.category.toLowerCase() === category.toLowerCase());
+  }, [category, subCategory, customFilter]);
+
+  // Apply in-page tier filter if on main Nile cruises page
+  const displayedTours = useMemo(() => {
+    if (isNileCruisesRoot && activeTierFilter !== 'ALL') {
+      return baseTours.filter(t => t.subCategory === activeTierFilter);
+    }
+    return baseTours;
+  }, [baseTours, isNileCruisesRoot, activeTierFilter]);
 
   // Category specific keywords for search indexing
   const categoryKeywords = [
     title,
     subtitle,
     category,
+    subCategory,
     'private Egypt tours',
     'certified Egyptologist guide',
     'Egypt travel packages',
     'Luxor and Nile cruises',
     'Genuine Egypte'
-  ].join(', ');
+  ].filter(Boolean).join(', ');
+
+  // Breadcrumbs definition
+  const breadcrumbItems = useMemo<BreadcrumbItem[]>(() => {
+    const items: BreadcrumbItem[] = [{ label: 'Tours & Excursions', href: '/tours' }];
+    if (subCategory && isNileCruisesSection) {
+      items.push({ label: 'Nile Cruises', href: '/nile-cruises' });
+      items.push({ label: title });
+    } else {
+      items.push({ label: title });
+    }
+    return items;
+  }, [subCategory, isNileCruisesSection, title]);
 
   // Schema.org CollectionPage & ItemList Structured Data
   const categoryJsonLd = {
@@ -59,12 +158,12 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
         },
         about: {
           '@type': 'Thing',
-          name: category
+          name: subCategory || category
         },
         mainEntity: {
           '@type': 'ItemList',
-          numberOfItems: tours.length,
-          itemListElement: tours.slice(0, 24).map((t, idx) => ({
+          numberOfItems: displayedTours.length,
+          itemListElement: displayedTours.slice(0, 24).map((t, idx) => ({
             '@type': 'ListItem',
             position: idx + 1,
             name: t.title,
@@ -90,18 +189,33 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
             name: 'Tours & Excursions',
             item: 'https://genuineegypte.com/tours'
           },
-          {
-            '@type': 'ListItem',
-            position: 3,
-            name: title,
-            item: `https://genuineegypte.com${canonicalPath}`
-          }
+          ...(subCategory && isNileCruisesSection ? [
+            {
+              '@type': 'ListItem',
+              position: 3,
+              name: 'Nile Cruises',
+              item: 'https://genuineegypte.com/nile-cruises'
+            },
+            {
+              '@type': 'ListItem',
+              position: 4,
+              name: title,
+              item: `https://genuineegypte.com${canonicalPath}`
+            }
+          ] : [
+            {
+              '@type': 'ListItem',
+              position: 3,
+              name: title,
+              item: `https://genuineegypte.com${canonicalPath}`
+            }
+          ])
         ]
       }
     ]
   };
 
-  const effectiveOgImage = heroImage || tours[0]?.mainImage || '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
+  const effectiveOgImage = heroImage || displayedTours[0]?.mainImage || '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
 
   return (
     <>
@@ -120,10 +234,7 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-6 sm:space-y-8">
           <Breadcrumbs
             showBackButton={true}
-            items={[
-              { label: 'Tours & Excursions', href: '/tours' },
-              { label: title }
-            ]}
+            items={breadcrumbItems}
           />
 
           {/* Header Banner */}
@@ -154,7 +265,127 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
             </div>
           </div>
 
-          {/* If on Day Tours, show destination quick access cards */}
+          {/* Subcategory Navigation Switcher (Displayed on Nile Cruise pages) */}
+          {isNileCruisesSection && (
+            <div className="p-3 bg-white dark:bg-stone-900/90 rounded-xl border border-stone-200 dark:border-stone-800 shadow-xs space-y-2">
+              <div className="flex items-center justify-between text-xs text-stone-500 dark:text-stone-400 pb-1">
+                <span className="font-medium flex items-center gap-1.5">
+                  <Ship className="w-3.5 h-3.5 text-amber-600 dark:text-amber-400" />
+                  <span>Nile Cruise Service Categories</span>
+                </span>
+                <span className="text-[11px] text-stone-400 dark:text-stone-500">
+                  {subCategoryCounts['ALL']} Total Cruise Programs
+                </span>
+              </div>
+              <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
+                <Link
+                  to="/nile-cruises"
+                  className={`px-3 py-1.5 text-xs font-medium rounded-lg transition-colors ${
+                    isNileCruisesRoot && activeTierFilter === 'ALL'
+                      ? 'bg-stone-900 text-white dark:bg-amber-500 dark:text-stone-950 shadow-xs'
+                      : 'bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-800'
+                  }`}
+                  onClick={() => setActiveTierFilter('ALL')}
+                >
+                  All Nile Cruises ({subCategoryCounts['ALL']})
+                </Link>
+
+                {NILE_CRUISE_SUBCATEGORIES_CONFIG.map((sub) => {
+                  const isCurrentSubcategoryPage = canonicalPath === sub.href;
+                  const isFilteredInPage = isNileCruisesRoot && activeTierFilter === sub.subCategoryName;
+                  const isActive = isCurrentSubcategoryPage || isFilteredInPage;
+
+                  return (
+                    <Link
+                      key={sub.id}
+                      to={sub.href}
+                      className={`px-3 py-1.5 text-xs font-medium rounded-lg transition-colors inline-flex items-center gap-1.5 ${
+                        isActive
+                          ? 'bg-amber-600 text-white font-semibold shadow-xs'
+                          : 'bg-stone-100 dark:bg-stone-800/80 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-800 hover:text-amber-700 dark:hover:text-amber-400'
+                      }`}
+                    >
+                      <span>{sub.name}</span>
+                      <span className="opacity-80 text-[11px]">({subCategoryCounts[sub.subCategoryName] || 0})</span>
+                    </Link>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* Prominent 3 Subcategory Cards Grid (Rendered on main Nile Cruises catalog) */}
+          {isNileCruisesRoot && (
+            <div className="space-y-4 pt-2">
+              <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-2">
+                <div className="space-y-1">
+                  <div className="inline-flex items-center gap-1.5 text-amber-700 dark:text-amber-400 text-xs font-bold uppercase tracking-wider font-serif">
+                    <Sparkles className="w-3.5 h-3.5" />
+                    <span>Explore by Experience Tier</span>
+                  </div>
+                  <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100">
+                    Nile Cruise Subcategories
+                  </h2>
+                </div>
+                <p className="text-xs text-stone-600 dark:text-stone-400 max-w-md">
+                  Choose from affordable classic cruisers, modern vessels with panoramic balconies, or ultra-luxury boutique river ships.
+                </p>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+                {NILE_CRUISE_SUBCATEGORIES_CONFIG.map((sub) => (
+                  <Link
+                    key={sub.id}
+                    to={sub.href}
+                    className="group relative rounded-xl overflow-hidden bg-stone-900 border border-stone-200 dark:border-stone-800 hover:border-amber-500 transition-all duration-300 shadow-sm hover:shadow-xl hover:-translate-y-1 min-h-[320px] flex flex-col justify-between text-white p-5"
+                  >
+                    {/* Background Photography with Zoom Effect */}
+                    <div className="absolute inset-0 z-0 overflow-hidden">
+                      <OptimizedImage
+                        src={sub.image}
+                        alt={sub.name}
+                        sizes="(max-width: 768px) 100vw, 33vw"
+                        className="w-full h-full object-cover filter brightness-85 group-hover:scale-108 transition-transform duration-700 ease-out"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/70 to-stone-950/20 group-hover:via-stone-950/80 transition-colors" />
+                    </div>
+
+                    {/* Top Row: Badge & Cruise Count */}
+                    <div className="relative z-10 flex items-center justify-between gap-2">
+                      <span className="px-2.5 py-0.5 rounded-md bg-stone-950/85 backdrop-blur-md border border-amber-500/40 text-amber-300 text-[10px] font-bold tracking-wide">
+                        {sub.badge}
+                      </span>
+                      <span className="px-2.5 py-0.5 rounded-md bg-amber-500 text-stone-950 text-[10px] font-bold">
+                        {subCategoryCounts[sub.subCategoryName] || 0} Cruises
+                      </span>
+                    </div>
+
+                    {/* Bottom Content Area */}
+                    <div className="relative z-10 space-y-2">
+                      <div className="text-[11px] text-amber-300 font-mono tracking-wide line-clamp-1">
+                        {sub.featuredShips}
+                      </div>
+
+                      <h3 className="font-serif text-2xl font-bold tracking-tight text-white group-hover:text-amber-300 transition-colors">
+                        {sub.name}
+                      </h3>
+
+                      <p className="text-xs text-stone-300 font-light leading-snug line-clamp-2">
+                        {sub.tagline}
+                      </p>
+
+                      <div className="pt-2 border-t border-stone-700/60 flex items-center justify-between text-xs text-amber-300 font-semibold">
+                        <span>Browse {sub.name}</span>
+                        <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1.5 transition-transform" />
+                      </div>
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Day Tours Quick Destination Cards */}
           {canonicalPath === '/day-tours' && (
             <div className="space-y-4 pt-2">
               <div className="flex items-center gap-2">
@@ -224,15 +455,35 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
 
           {/* Tours Count and Catalog Grid */}
           <div className="space-y-6">
-            <div className="flex items-center justify-between text-xs text-stone-500 dark:text-stone-400 border-b border-stone-200 dark:border-stone-800 pb-3">
-              <span>Showing <strong>{tours.length}</strong> authentic programs</span>
-              <Link to="/tours" className="text-amber-800 dark:text-amber-400 hover:underline font-medium">
-                View all categories &rarr;
-              </Link>
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs text-stone-500 dark:text-stone-400 border-b border-stone-200 dark:border-stone-800 pb-3">
+              <div className="flex items-center gap-2">
+                <span>
+                  Showing <strong>{displayedTours.length}</strong> {subCategory || category} programs
+                </span>
+                {isNileCruisesRoot && activeTierFilter !== 'ALL' && (
+                  <button
+                    onClick={() => setActiveTierFilter('ALL')}
+                    className="text-amber-700 dark:text-amber-400 underline font-medium hover:text-amber-800"
+                  >
+                    Clear filter (show all {baseTours.length})
+                  </button>
+                )}
+              </div>
+
+              <div className="flex items-center gap-4">
+                {subCategory && (
+                  <Link to="/nile-cruises" className="text-amber-800 dark:text-amber-400 hover:underline font-medium">
+                    ← All Nile Cruise categories
+                  </Link>
+                )}
+                <Link to="/tours" className="text-amber-800 dark:text-amber-400 hover:underline font-medium">
+                  View all 297 tours &rarr;
+                </Link>
+              </div>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-              {tours.map((tour, idx) => (
+              {displayedTours.map((tour, idx) => (
                 <TourCard key={tour.id} tour={tour} priority={idx < 3} />
               ))}
             </div>

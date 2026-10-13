@@ -12,7 +12,8 @@ import {
   CheckCircle2,
   ChevronRight,
   X,
-  MapPin
+  MapPin,
+  Anchor
 } from 'lucide-react';
 
 interface QuickAccessCategory {
@@ -22,6 +23,7 @@ interface QuickAccessCategory {
   tagline: string;
   href?: string;
   isDayToursAction?: boolean;
+  isCruiseAction?: boolean;
   isCustomAction?: boolean;
   image: string;
   alt: string;
@@ -49,14 +51,15 @@ const QUICK_CATEGORIES: QuickAccessCategory[] = [
   {
     id: 'nile-cruises',
     title: 'Nile cruises',
-    badge: '★ Luxor ↔ Aswan',
-    tagline: '5-star luxury cruise vessels and traditional Dahabiyas on full board with shore excursions',
+    badge: '★ 3 Categories',
+    tagline: 'Standard, Deluxe, and Luxury five-star cruise vessels with full board and guided shore excursions',
     href: '/nile-cruises',
+    isCruiseAction: true,
     image: '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
     alt: 'Royal Ruby 5-star Nile cruise ship on the River Nile',
-    count: '100+ Itineraries',
+    count: 'Standard · Deluxe · Luxury',
     durationInfo: '3, 4 & 7 Nights',
-    featureNote: 'Full Board & Shore Tours',
+    featureNote: 'Select Cruise Tier',
     icon: Ship
   },
   {
@@ -160,6 +163,50 @@ const DAY_TOUR_DESTINATIONS: DayTourDestination[] = [
   }
 ];
 
+interface CruiseSubCategory {
+  id: string;
+  name: string;
+  badge: string;
+  tagline: string;
+  featuredShips: string;
+  href: string;
+  image: string;
+  count: string;
+}
+
+const CRUISE_SUBCATEGORIES: CruiseSubCategory[] = [
+  {
+    id: 'standard',
+    name: 'Standard Nile Cruises',
+    badge: '★ Comfort & Value',
+    tagline: 'Classic 5-star cruisers with private Egyptologist guiding & full board.',
+    featuredShips: 'Royale Ruby · Radamis · Princess Sarah',
+    href: '/nile-cruises/standard',
+    image: '/images/tours/standard-nile-cruises.webp',
+    count: '22 Cruises'
+  },
+  {
+    id: 'deluxe',
+    name: 'Deluxe Nile Cruises',
+    badge: '★ Modern Elegance & Balconies',
+    tagline: 'Upgraded 5-star vessels featuring spacious cabins, French balconies & gourmet dining.',
+    featuredShips: 'Nile Premium · Steigenberger · Jaz Fleets',
+    href: '/nile-cruises/deluxe',
+    image: '/images/tours/deluxe-nile-cruises.webp',
+    count: '61 Cruises'
+  },
+  {
+    id: 'luxury',
+    name: 'Luxury Nile Cruises',
+    badge: '★ Ultra-Luxury Boutique',
+    tagline: 'Opulent floating boutique suites with bespoke dining & private butler attention.',
+    featuredShips: 'Oberoi Zahra · Sanctuary Sun Boats · Sonesta Star',
+    href: '/nile-cruises/luxury',
+    image: '/images/tours/luxury-nile-cruise.webp',
+    count: '24 Cruises'
+  }
+];
+
 interface CategoriesQuickAccessProps {
   onOpenCustomInquiry?: () => void;
 }
@@ -168,10 +215,18 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
   onOpenCustomInquiry
 }) => {
   const [showDestinationSelector, setShowDestinationSelector] = useState(false);
+  const [showCruiseSelector, setShowCruiseSelector] = useState(false);
 
   const handleDayToursClick = (e: React.MouseEvent) => {
     e.preventDefault();
+    setShowCruiseSelector(false);
     setShowDestinationSelector(true);
+  };
+
+  const handleCruiseClick = (e: React.MouseEvent) => {
+    e.preventDefault();
+    setShowDestinationSelector(false);
+    setShowCruiseSelector(true);
   };
 
   return (
@@ -194,7 +249,7 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
               Explore Egypt by Service
             </h2>
             <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 leading-relaxed">
-              Quick access to our 5 primary service areas: private day tours, 5-star Nile cruises, multi-day vacation packages, private door-to-door transfers, and bespoke tailor-made itineraries.
+              Quick access to our 5 primary service areas: private day tours, 5-star Nile cruises (Standard, Deluxe, Luxury), multi-day vacation packages, private door-to-door transfers, and bespoke tailor-made itineraries.
             </p>
           </div>
 
@@ -300,6 +355,101 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
           </div>
         )}
 
+        {/* Interactive Nile Cruise Subcategories Drawer */}
+        {showCruiseSelector && (
+          <div className="relative rounded-2xl bg-amber-950/10 dark:bg-stone-900/90 border-2 border-amber-500/60 p-5 sm:p-7 space-y-6 shadow-xl animate-in fade-in slide-in-from-top-3 duration-300">
+            <div className="flex items-start justify-between gap-4">
+              <div className="space-y-1">
+                <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-md bg-amber-500 text-stone-950 text-[11px] font-bold tracking-wide uppercase">
+                  <Ship className="w-3.5 h-3.5" />
+                  <span>Select Nile Cruise Category</span>
+                </div>
+                <h3 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100">
+                  Which category of Nile cruise matches your style?
+                </h3>
+                <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300">
+                  Choose between affordable Standard cruisers, upscale Deluxe vessels with panoramic French balconies, and intimate Ultra-Luxury floating boutique hotels:
+                </p>
+              </div>
+
+              <button
+                onClick={() => setShowCruiseSelector(false)}
+                className="p-1.5 rounded-lg bg-stone-200 dark:bg-stone-800 text-stone-700 dark:text-stone-300 hover:bg-stone-300 dark:hover:bg-stone-700 transition-colors"
+                title="Close cruise tier picker"
+                aria-label="Close cruise tier picker"
+              >
+                <X className="w-5 h-5" />
+              </button>
+            </div>
+
+            {/* 3 Cruise Subcategory Cards */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {CRUISE_SUBCATEGORIES.map((sub) => (
+                <Link
+                  key={sub.id}
+                  to={sub.href}
+                  className="group relative rounded-xl overflow-hidden bg-stone-900 border border-stone-200 dark:border-stone-700 hover:border-amber-400 transition-all duration-300 shadow-md hover:shadow-2xl hover:-translate-y-1 flex flex-col justify-between min-h-[300px] text-white p-4"
+                >
+                  {/* Background Photo */}
+                  <div className="absolute inset-0 z-0 overflow-hidden">
+                    <OptimizedImage
+                      src={sub.image}
+                      alt={sub.name}
+                      sizes="(max-width: 768px) 100vw, 33vw"
+                      className="w-full h-full object-cover object-center filter brightness-85 group-hover:scale-110 transition-transform duration-700 ease-out"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-stone-950/70 to-stone-950/20 group-hover:via-stone-950/80 transition-colors" />
+                  </div>
+
+                  {/* Top Badge & Count */}
+                  <div className="relative z-10 flex items-center justify-between gap-2">
+                    <span className="px-2 py-0.5 rounded-md bg-stone-950/85 backdrop-blur-md border border-amber-500/40 text-amber-300 text-[10px] font-bold tracking-wide">
+                      {sub.badge}
+                    </span>
+                    <span className="px-2 py-0.5 rounded-md bg-amber-500 text-stone-950 text-[10px] font-bold">
+                      {sub.count}
+                    </span>
+                  </div>
+
+                  {/* Bottom Content */}
+                  <div className="relative z-10 space-y-2">
+                    <div className="text-[11px] text-amber-300 font-mono tracking-wide line-clamp-1">
+                      {sub.featuredShips}
+                    </div>
+
+                    <h4 className="font-serif text-2xl font-bold tracking-tight text-white group-hover:text-amber-300 transition-colors">
+                      {sub.name}
+                    </h4>
+
+                    <p className="text-xs text-stone-300 font-light leading-snug line-clamp-2">
+                      {sub.tagline}
+                    </p>
+
+                    <div className="pt-2 border-t border-stone-700/60 flex items-center justify-between text-xs text-amber-300 font-semibold">
+                      <span>View {sub.name}</span>
+                      <ArrowRight className="w-4 h-4 transform group-hover:translate-x-1.5 transition-transform" />
+                    </div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+
+            {/* Direct Link to all Nile cruises */}
+            <div className="flex flex-wrap items-center justify-between gap-3 pt-2 text-xs">
+              <span className="text-stone-600 dark:text-stone-300">
+                Want to browse all cruise tiers together?
+              </span>
+              <Link
+                to="/nile-cruises"
+                className="font-bold text-amber-900 dark:text-amber-400 hover:underline inline-flex items-center gap-1"
+              >
+                <span>View Complete Nile Cruises Catalog (107 Ships)</span>
+                <ArrowRight className="w-3.5 h-3.5" />
+              </Link>
+            </div>
+          </div>
+        )}
+
         {/* High-Impact 5-Card Main Grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-5">
           {QUICK_CATEGORIES.map((cat) => {
@@ -358,7 +508,7 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
                     </span>
 
                     <span className="px-3 py-1.5 rounded-lg bg-amber-500 hover:bg-amber-400 text-stone-950 font-bold text-xs inline-flex items-center gap-1 transition-all shadow-xs">
-                      <span>{cat.isDayToursAction ? 'Destinations' : cat.isCustomAction ? 'Request' : 'Explore'}</span>
+                      <span>{cat.isDayToursAction ? 'Destinations' : cat.isCruiseAction ? 'Categories' : cat.isCustomAction ? 'Request' : 'Explore'}</span>
                       <ArrowRight className="w-3.5 h-3.5 transform group-hover:translate-x-1 transition-transform" />
                     </span>
                   </div>
@@ -378,6 +528,28 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
                   onKeyDown={(e) => {
                     if (e.key === 'Enter' || e.key === ' ') {
                       setShowDestinationSelector(true);
+                      setShowCruiseSelector(false);
+                    }
+                  }}
+                >
+                  {CardContent}
+                </div>
+              );
+            }
+
+            // Nile cruises opens cruise subcategories drawer
+            if (cat.isCruiseAction) {
+              return (
+                <div
+                  key={cat.id}
+                  onClick={handleCruiseClick}
+                  className="flex flex-col"
+                  role="button"
+                  tabIndex={0}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      setShowCruiseSelector(true);
+                      setShowDestinationSelector(false);
                     }
                   }}
                 >
@@ -422,15 +594,15 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
         <div className="pt-4 flex flex-wrap items-center justify-between gap-4 text-xs text-stone-600 dark:text-stone-400 border-t border-stone-200 dark:border-stone-800">
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 rounded-full bg-emerald-500" />
-            <span>Private day excursions available daily in Cairo, Luxor, Aswan & Hurghada</span>
+            <span>Standard, Deluxe & Luxury Nile cruises available between Luxor and Aswan</span>
           </div>
 
           <div className="flex items-center gap-4">
             <Link
-              to="/destinations"
+              to="/nile-cruises"
               className="text-stone-900 dark:text-stone-200 font-semibold hover:text-amber-700 dark:hover:text-amber-400 transition-colors inline-flex items-center gap-1"
             >
-              <span>Explore Destination Guides</span>
+              <span>Explore All Nile Cruises</span>
               <ArrowRight className="w-3.5 h-3.5" />
             </Link>
           </div>

@@ -50,6 +50,7 @@ export interface TourItem {
   images: string[];
   relatedSlugs: string[];
   optionalExtras?: string[];
+  subCategory?: string;
   source?: {
     website: string;
     url?: string;
@@ -127,7 +128,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "tour-2",
@@ -203,7 +205,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "tour-3",
@@ -275,7 +278,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "tour-4",
@@ -351,7 +355,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "tour-5",
@@ -1799,7 +1804,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "tour-26",
@@ -1875,7 +1881,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "tour-27",
@@ -1963,7 +1970,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "tour-28",
@@ -2035,7 +2043,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "tour-29",
@@ -2111,7 +2120,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "tour-30",
@@ -2199,7 +2209,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "tour-31",
@@ -2287,7 +2298,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "tour-32",
@@ -2375,7 +2387,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "tour-33",
@@ -2930,7 +2943,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-9-day-cairo-and-luxury-dahabiya-nile-cruise",
@@ -3118,7 +3132,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-8-day-cairo-and-dahabiya-nile-cruise",
@@ -3294,7 +3309,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-4-day-amoura-dahabiya-nile-cruise-aswan-to-esna",
@@ -3980,7 +3996,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-4-day-cairo-alexandria-and-luxor-tour",
@@ -4357,7 +4374,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-5-day-cairo-and-luxor-tour-package",
@@ -4510,7 +4528,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-7-day-cairo-nile-cruise-and-hurghada",
@@ -4594,7 +4613,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-7-day-cairo-alexandria-and-nile-cruise-tour-package-by-flight",
@@ -4678,7 +4698,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-9-day-cairo-and-nile-cruise-by-air",
@@ -4770,7 +4791,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-7-day-cairo-alexandria-luxor-edfu-kom-ombo-aswan-and-abu-simbel",
@@ -5023,7 +5045,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-9-day-cairo-nile-cruise-and-hurghada",
@@ -5115,7 +5138,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-2-day-cairo-tour",
@@ -5337,7 +5361,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-9-day-cairo-nile-cruise-and-sharm-el-sheikh",
@@ -5429,7 +5454,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-9-day-cairo-alexandria-luxor-edfu-kom-ombo-aswan-abu-simbel",
@@ -6990,7 +7016,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-6-day-cairo-and-alexandria-tour-package",
@@ -7238,7 +7265,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-8-day-cairo-aswan-abu-simbel-luxor-and-hurghada",
@@ -7415,7 +7443,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-10-day-cairo-nile-cruise-and-hurghada",
@@ -7511,7 +7540,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-10-days-of-nile-and-lake-nasser-cruises",
@@ -7702,7 +7732,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-10-day-round-trip-nile-cruise-and-cairo-tours",
@@ -7798,7 +7829,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-10-day-cairo-nile-cruise-and-sharm-el-sheikh",
@@ -7894,7 +7926,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-10-day-cairo-alexandria-luxor-abydos-aswan-and-abu-simbel",
@@ -8160,7 +8193,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-11-days-cairo-nile-cruise-and-hurghada-by-flight",
@@ -8260,7 +8294,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-12-days-cairo-alexandria-and-nile-cruise-by-flight",
@@ -8364,7 +8399,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-11-days-cairo-nile-cruise-and-sharm-el-sheikh-by-flight",
@@ -8464,7 +8500,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-11-day-cairo-alexandria-luxor-abydos-aswan-and-abu-simbel",
@@ -8778,7 +8815,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-12-days-pyramids-nile-and-hurghada",
@@ -8991,7 +9029,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-12-day-cairo-alexandria-luxor-abydos-aswan-and-abu-simbel",
@@ -9381,7 +9420,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Private guided ground tour of Valley of the Kings following landing [Requires confirmation]",
       "Upgrade to private charter balloon basket for couples or families"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-15-day-cairo-alexandria-hurghada-nile-cruise-and-abu-simbel",
@@ -9497,7 +9537,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-route-of-the-holy-family-in-egypt-15-days",
@@ -9714,7 +9755,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-egypt-spiritual-tours-sacred-egypt-tour",
@@ -10270,7 +10312,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-sound-and-light-show-at-the-pyramids",
@@ -13340,7 +13383,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-day-trip-to-cairo-from-sharm-by-air",
@@ -14984,7 +15028,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-deluxe-nile-cruises",
@@ -15060,7 +15105,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-luxor-day-trip-from-dahab-by-flight",
@@ -15268,7 +15314,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-three-pyramids-dahabiya-nile-cruise",
@@ -15644,7 +15691,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-amoura-dahabiya-nile-cruise",
@@ -17461,7 +17509,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-farah-nile-cruise",
@@ -17533,7 +17582,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-cairo-pyramids-trip-from-port-sokhna",
@@ -17676,7 +17726,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-10-day-egypt-and-jordan-travel-package",
@@ -17950,7 +18001,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-egypt-and-jordan-short-package",
@@ -18135,7 +18187,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-12-day-egypt-nile-cruise-and-jordan-tour",
@@ -18239,7 +18292,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-ms-royal-la-terrasse-nile-cruise",
@@ -18311,7 +18365,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-salima-nile-cruise",
@@ -18383,7 +18438,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-ms-esplanade-nile-cruise",
@@ -18455,7 +18511,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-farida-nile-cruise",
@@ -18527,7 +18584,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-al-hambra-nile-cruise",
@@ -18599,7 +18657,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-blue-shadow-nile-cruise",
@@ -18671,7 +18730,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-alyssa-nile-cruise",
@@ -18743,7 +18803,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-sonesta-st-george-i-nile-cruise",
@@ -18815,7 +18876,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-sonesta-moon-goddess-nile-cruise",
@@ -18887,7 +18949,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-movenpick-royal-lotus-nile-cruise",
@@ -18959,7 +19022,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-moon-dance-nile-cruise",
@@ -19031,7 +19095,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-tulip-nile-cruise",
@@ -19103,7 +19168,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-movenpick-royal-lily-nile-cruise",
@@ -19175,7 +19241,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-iberotel-crown-empress-cruise",
@@ -19247,7 +19314,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-ms-mayflower-nile-cruise",
@@ -19319,7 +19387,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-iberotel-crown-emperor-nile-cruise",
@@ -19391,7 +19460,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-acamar-nile-cruise",
@@ -19463,7 +19533,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-al-kahila-nile-cruise",
@@ -19535,7 +19606,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-steigenberger-minerva-nile-cruise",
@@ -19607,7 +19679,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-esmeralda-nile-cruise",
@@ -19679,7 +19752,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-sabena-al-jamila-nile-cruise",
@@ -19751,7 +19825,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-concerto-nile-cruise",
@@ -19823,7 +19898,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-ms-mayfair-nile-cruise",
@@ -19895,7 +19971,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-movenpick-ms-sun-ray-nile-cruise",
@@ -19967,7 +20044,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-ms-nile-goddess-nile-cruise",
@@ -20039,7 +20117,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-crown-prince-nile-cruise",
@@ -20111,7 +20190,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-steigenberger-legacy-nile-cruise",
@@ -20183,7 +20263,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-le-fayan-nile-cruise",
@@ -20255,7 +20336,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-jaz-crown-jewel-nile-cruise",
@@ -20327,7 +20409,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-ms-alexander-the-great-nile-cruise",
@@ -20399,7 +20482,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-movenpick-ms-hamees-nile-cruise",
@@ -20471,7 +20555,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-princess-sarah-ii-nile-cruise",
@@ -20543,7 +20628,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-ms-nile-style-nile-cruise",
@@ -20615,7 +20701,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-royal-esadora-nile-cruise",
@@ -20687,7 +20774,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-princess-sarah-nile-cruise",
@@ -20759,7 +20847,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-radamis-ii-nile-cruise",
@@ -20831,7 +20920,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-royal-princess-nile-cruise",
@@ -20903,7 +20993,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-tower-prestige-nile-cruise",
@@ -20975,7 +21066,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Deluxe Nile Cruises"
   },
   {
     "id": "la-ms-radamis-i-nile-cruise",
@@ -21047,7 +21139,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-ms-medea-nile-cruise",
@@ -21119,7 +21212,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-nile-quest-nile-cruise",
@@ -21191,7 +21285,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-ms-semramis-ii",
@@ -21263,7 +21358,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-grand-rose-nile-cruise",
@@ -21335,7 +21431,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-ms-zeina-nile-cruise",
@@ -21407,7 +21504,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-ms-nile-dolphin",
@@ -21479,7 +21577,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-ms-miriam-nile-cruise",
@@ -21551,7 +21650,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Standard Nile Cruises"
   },
   {
     "id": "la-luxury-oberoi-philae-nile-cruise",
@@ -21627,7 +21727,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-sanctuary-sun-boat-iv-luxury-nile-cruise",
@@ -21703,7 +21804,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-sanctuary-nile-adventurer-luxury-nile-cruise",
@@ -21779,7 +21881,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-sanctuary-sun-boat-iii-luxury-nile-cruise",
@@ -21855,7 +21958,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-oberoi-zahra-luxury-nile-cruise",
@@ -21927,7 +22031,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-ms-tosca-luxury-nile-cruise",
@@ -21999,7 +22104,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-sonesta-star-goddess-luxury-nile-cruise",
@@ -22071,7 +22177,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   },
   {
     "id": "la-ms-jaz-senator-luxury-nile-cruise",
@@ -22143,7 +22250,8 @@ export const TOURS_DATA: TourItem[] = [
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
-    ]
+    ],
+    "subCategory": "Luxury Nile Cruises"
   }
 ];
 
@@ -22169,4 +22277,9 @@ export function getToursByDestination(destination: string): TourItem[] {
 
 export function getFeaturedTours(): TourItem[] {
   return TOURS_DATA.filter(t => t.featured);
+}
+
+export function getNileCruisesBySubCategory(subCategory: string): TourItem[] {
+  const norm = subCategory.toLowerCase().trim();
+  return TOURS_DATA.filter(t => t.category === "Nile Cruises" && t.subCategory?.toLowerCase().trim() === norm);
 }

@@ -187,9 +187,18 @@ export function resolveBreadcrumbsFromPath(
   }
 
   // 4. Dedicated Category Pages
-  const categoryMap: Record<string, { label: string; categoryTitle: string }> = {
+  const categoryMap: Record<string, { label: string; categoryTitle: string; parentHref?: string }> = {
     '/nile-cruises': { label: 'Tours & Cruises', categoryTitle: 'Luxury Nile Cruises' },
     '/categories/nile-cruises': { label: 'Tours & Cruises', categoryTitle: 'Luxury Nile Cruises' },
+    '/nile-cruises/standard': { label: 'Nile Cruises', categoryTitle: 'Standard Nile Cruises', parentHref: '/nile-cruises' },
+    '/standard-nile-cruises': { label: 'Nile Cruises', categoryTitle: 'Standard Nile Cruises', parentHref: '/nile-cruises' },
+    '/categories/standard-nile-cruises': { label: 'Nile Cruises', categoryTitle: 'Standard Nile Cruises', parentHref: '/nile-cruises' },
+    '/nile-cruises/deluxe': { label: 'Nile Cruises', categoryTitle: 'Deluxe Nile Cruises', parentHref: '/nile-cruises' },
+    '/deluxe-nile-cruises': { label: 'Nile Cruises', categoryTitle: 'Deluxe Nile Cruises', parentHref: '/nile-cruises' },
+    '/categories/deluxe-nile-cruises': { label: 'Nile Cruises', categoryTitle: 'Deluxe Nile Cruises', parentHref: '/nile-cruises' },
+    '/nile-cruises/luxury': { label: 'Nile Cruises', categoryTitle: 'Luxury Nile Cruises', parentHref: '/nile-cruises' },
+    '/luxury-nile-cruises': { label: 'Nile Cruises', categoryTitle: 'Luxury Nile Cruises', parentHref: '/nile-cruises' },
+    '/categories/luxury-nile-cruises': { label: 'Nile Cruises', categoryTitle: 'Luxury Nile Cruises', parentHref: '/nile-cruises' },
     '/dahabiya-cruises': { label: 'Tours & Cruises', categoryTitle: 'Dahabiya Nile Cruises' },
     '/categories/dahabiya-cruises': { label: 'Tours & Cruises', categoryTitle: 'Dahabiya Nile Cruises' },
     '/lake-nasser-cruises': { label: 'Tours & Cruises', categoryTitle: 'Lake Nasser Cruises' },
@@ -220,6 +229,13 @@ export function resolveBreadcrumbsFromPath(
 
   if (categoryMap[cleanPath]) {
     const info = categoryMap[cleanPath];
+    if (info.parentHref) {
+      return [
+        { label: 'Tours & Cruises', href: '/tours' },
+        { label: info.label, href: info.parentHref },
+        { label: info.categoryTitle }
+      ];
+    }
     return [
       { label: info.label, href: '/tours' },
       { label: info.categoryTitle }

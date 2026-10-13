@@ -37,7 +37,10 @@ export const FOOTER_SECTIONS = [
     title: 'Tour Categories',
     links: [
       { label: 'All 297 Tours & Excursions', href: '/tours' },
-      { label: 'Luxury Nile River Cruises', href: '/nile-cruises' },
+      { label: 'Nile Cruises (All Categories)', href: '/nile-cruises' },
+      { label: 'Standard Nile Cruises', href: '/nile-cruises/standard' },
+      { label: 'Deluxe Nile Cruises', href: '/nile-cruises/deluxe' },
+      { label: 'Luxury Nile Cruises', href: '/nile-cruises/luxury' },
       { label: 'Traditional Dahabiya Sailboats', href: '/dahabiya-cruises' },
       { label: 'Lake Nasser Cruises', href: '/lake-nasser-cruises' },
       { label: 'Egypt Vacation Packages', href: '/egypt-packages' },

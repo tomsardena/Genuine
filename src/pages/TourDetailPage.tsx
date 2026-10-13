@@ -57,7 +57,12 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
   // Category breadcrumbs mapping
   let categoryHref = '/tours';
-  if (tour.category === 'Nile Cruises') categoryHref = '/nile-cruises';
+  if (tour.category === 'Nile Cruises') {
+    if (tour.subCategory === 'Standard Nile Cruises') categoryHref = '/nile-cruises/standard';
+    else if (tour.subCategory === 'Deluxe Nile Cruises') categoryHref = '/nile-cruises/deluxe';
+    else if (tour.subCategory === 'Luxury Nile Cruises') categoryHref = '/nile-cruises/luxury';
+    else categoryHref = '/nile-cruises';
+  }
   else if (tour.category === 'Dahabiya Nile Cruises') categoryHref = '/dahabiya-cruises';
   else if (tour.category === 'Lake Nasser Cruises') categoryHref = '/lake-nasser-cruises';
   else if (tour.category === 'Egypt Vacation Packages') categoryHref = '/egypt-packages';
@@ -214,9 +219,12 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
           {/* Tour Title Header */}
           <div className="space-y-3 border-b border-stone-200 dark:border-stone-800 pb-6">
             <div className="flex flex-wrap items-center gap-2 text-xs font-medium text-amber-900 dark:text-amber-300">
-              <span className="bg-amber-100/80 dark:bg-amber-950/70 px-2.5 py-0.5 rounded-xs uppercase tracking-wider text-[11px] font-semibold">
-                {tour.category}
-              </span>
+              <a
+                href={categoryHref}
+                className="bg-amber-100/80 dark:bg-amber-950/70 hover:bg-amber-200 dark:hover:bg-amber-900/80 transition-colors px-2.5 py-0.5 rounded-xs uppercase tracking-wider text-[11px] font-semibold text-amber-900 dark:text-amber-300"
+              >
+                {tour.subCategory ? `${tour.category} · ${tour.subCategory}` : tour.category}
+              </a>
               <span className="text-stone-300 dark:text-stone-700">·</span>
               <span className="flex items-center gap-1 text-stone-600 dark:text-stone-300">
                 <MapPin className="w-3.5 h-3.5 text-amber-700 dark:text-amber-500" />
