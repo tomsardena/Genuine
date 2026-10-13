@@ -397,13 +397,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -424,7 +424,6 @@ export const TOURS_DATA: TourItem[] = [
       "memphis-saqqara-and-dahshur-private-full-day-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -465,13 +464,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -492,7 +491,6 @@ export const TOURS_DATA: TourItem[] = [
       "memphis-saqqara-and-dahshur-private-full-day-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -537,13 +535,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -564,7 +562,6 @@ export const TOURS_DATA: TourItem[] = [
       "memphis-saqqara-and-dahshur-private-full-day-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -605,13 +602,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -632,7 +629,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -673,13 +669,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -699,7 +695,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -740,13 +735,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -767,7 +762,6 @@ export const TOURS_DATA: TourItem[] = [
       "explore-the-legendary-karnak-and-luxor-temple"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -808,13 +802,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -835,7 +829,6 @@ export const TOURS_DATA: TourItem[] = [
       "explore-the-legendary-karnak-and-luxor-temple"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -880,13 +873,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -907,7 +900,6 @@ export const TOURS_DATA: TourItem[] = [
       "explore-the-legendary-karnak-and-luxor-temple"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -948,13 +940,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -975,7 +967,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -1016,13 +1007,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -1043,7 +1034,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -1084,13 +1074,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -1109,7 +1099,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -1154,13 +1143,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan & Abu Simbel",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -1181,7 +1170,6 @@ export const TOURS_DATA: TourItem[] = [
       "ms-nubian-sea-lake-nasser-cruise"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -1225,6 +1213,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1232,7 +1221,6 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "exclusions": [
       "Egyptologist tour guide (driver-only service)",
-      "Monument entrance tickets to any sites along route",
       "Meals, snacks, and beverages",
       "Driver gratuity / tips (customary in Egypt)"
     ],
@@ -1293,6 +1281,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1300,7 +1289,6 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "exclusions": [
       "Egyptologist tour guide (driver-only service)",
-      "Monument entrance tickets to any sites along route",
       "Meals, snacks, and beverages",
       "Driver gratuity / tips (customary in Egypt)"
     ],
@@ -1361,6 +1349,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1368,7 +1357,6 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "exclusions": [
       "Egyptologist tour guide (driver-only service)",
-      "Monument entrance tickets to any sites along route",
       "Meals, snacks, and beverages",
       "Driver gratuity / tips (customary in Egypt)"
     ],
@@ -1429,6 +1417,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1436,7 +1425,6 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "exclusions": [
       "Egyptologist tour guide (driver-only service)",
-      "Monument entrance tickets to any sites along route",
       "Meals, snacks, and beverages",
       "Driver gratuity / tips (customary in Egypt)"
     ],
@@ -1497,6 +1485,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Commercially licensed balloon captain operating under Civil Aviation standards",
       "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
       "Motorboat crossing of the Nile with pre-flight tea and coffee",
@@ -1504,7 +1493,6 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "exclusions": [
       "Egyptologist archaeological guide (flight captain gives aviation commentary only)",
-      "Entrance tickets to West Bank monuments on the ground",
       "Gratuities for balloon pilot and ground retrieval crew",
       "Personal photo/video packages produced by ground camera team"
     ],
@@ -1561,13 +1549,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -1588,7 +1576,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -1629,13 +1616,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -1656,7 +1643,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -1701,13 +1687,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -1728,7 +1714,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -9281,13 +9266,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -9308,7 +9293,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -9862,13 +9846,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -9889,7 +9873,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -9930,13 +9913,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -9956,7 +9939,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -9997,13 +9979,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10024,7 +10006,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10069,13 +10050,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10096,7 +10077,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10137,13 +10117,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10164,7 +10144,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10209,13 +10188,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10236,7 +10215,6 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-of-aswan-philae-temple-high-dam-and-obelisk"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10354,13 +10332,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10381,7 +10359,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10422,13 +10399,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10449,7 +10426,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10490,13 +10466,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10517,7 +10493,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10562,13 +10537,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10589,7 +10564,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10630,13 +10604,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10657,7 +10631,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10698,13 +10671,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10725,7 +10698,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10766,13 +10738,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10793,7 +10765,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10838,13 +10809,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10865,7 +10836,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10910,13 +10880,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -10937,7 +10907,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -10978,13 +10947,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11005,7 +10974,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11046,13 +11014,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11073,7 +11041,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11114,13 +11081,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11139,7 +11106,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11180,13 +11146,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11207,7 +11173,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11248,13 +11213,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11275,7 +11240,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11316,13 +11280,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11343,7 +11307,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11384,13 +11347,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11411,7 +11374,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11452,13 +11414,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11479,7 +11441,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11520,13 +11481,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11547,7 +11508,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11588,13 +11548,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11615,7 +11575,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11656,13 +11615,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11683,7 +11642,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11724,13 +11682,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11751,7 +11709,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11792,13 +11749,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11819,7 +11776,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11860,13 +11816,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11887,7 +11843,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -11928,13 +11883,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -11955,7 +11910,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12000,13 +11954,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12027,7 +11981,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12072,13 +12025,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12099,7 +12052,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12140,13 +12092,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12167,7 +12119,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12208,13 +12159,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12235,7 +12186,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12276,13 +12226,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12303,7 +12253,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12344,13 +12293,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12371,7 +12320,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12412,13 +12360,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12439,7 +12387,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12480,13 +12427,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12507,7 +12454,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12548,13 +12494,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12575,7 +12521,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12616,13 +12561,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12643,7 +12588,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12684,13 +12628,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12711,7 +12655,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12752,13 +12695,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12779,7 +12722,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12820,13 +12762,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12847,7 +12789,6 @@ export const TOURS_DATA: TourItem[] = [
       "one-day-tour-to-abu-simbel-from-cairo-via-aswan"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12888,13 +12829,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12915,7 +12856,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -12956,13 +12896,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -12983,7 +12923,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -13023,6 +12962,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13088,13 +13028,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -13115,7 +13055,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -13155,6 +13094,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13219,6 +13159,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13283,6 +13224,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13421,13 +13363,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -13448,7 +13390,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -13488,6 +13429,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13552,6 +13494,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13617,13 +13560,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -13644,7 +13587,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -13684,6 +13626,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13748,6 +13691,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13812,6 +13756,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13876,6 +13821,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13940,6 +13886,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14004,6 +13951,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14068,6 +14016,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14132,6 +14081,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14197,13 +14147,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -14224,7 +14174,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -14265,13 +14214,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -14292,7 +14241,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -14332,6 +14280,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14397,13 +14346,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -14424,7 +14373,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -14464,6 +14412,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14528,6 +14477,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14593,13 +14543,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -14620,7 +14570,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -14661,13 +14610,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -14688,7 +14637,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -14728,6 +14676,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14793,13 +14742,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -14820,7 +14769,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -14861,13 +14809,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -14888,7 +14836,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -14928,6 +14875,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Dahab in air-conditioned vehicle",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -15143,13 +15091,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -15170,7 +15118,6 @@ export const TOURS_DATA: TourItem[] = [
       "egypts-valley-of-the-kings-queens-half-day-private-tour"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -15211,13 +15158,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -15238,7 +15185,6 @@ export const TOURS_DATA: TourItem[] = [
       "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16309,13 +16255,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16335,7 +16281,6 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-to-alexandria-city"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16376,13 +16321,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16402,7 +16347,6 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-to-alexandria-city"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16583,13 +16527,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16609,7 +16553,6 @@ export const TOURS_DATA: TourItem[] = [
       "day-tour-to-alexandria-city"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16650,13 +16593,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16676,7 +16619,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16717,13 +16659,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16743,7 +16685,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16784,13 +16725,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16810,7 +16751,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16855,13 +16795,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16881,7 +16821,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16922,13 +16861,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -16948,7 +16887,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -16993,13 +16931,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17019,7 +16957,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -17060,13 +16997,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17086,7 +17023,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -17127,13 +17063,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17153,7 +17089,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -17198,13 +17133,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17224,7 +17159,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -17265,13 +17199,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17291,7 +17225,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -17336,13 +17269,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17362,7 +17295,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -17407,13 +17339,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17433,7 +17365,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -17624,13 +17555,13 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
       "All road tolls, fuel, parking charges, and driver expenses"
     ],
     "exclusions": [
-      "Monument entrance tickets: [UNRESOLVED POLICY] Site admissions (e.g. Giza Pyramids, Valley of the Kings, Karnak, Egyptian Museum) are marked for confirmation whether to include in quote or purchase on site at official card-only ticket gates",
       "Special interior burial chamber tickets (e.g., King Tutankhamun, Great Pyramid interior)",
       "Meals and beverages unless explicitly confirmed as a full-day package with lunch",
       "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
@@ -17650,7 +17581,6 @@ export const TOURS_DATA: TourItem[] = [
       "two-day-trip-to-luxor-from-safaga-port"
     ],
     "optionalExtras": [
-      "Pre-arranged monument entrance ticket pass [Requires confirmation]",
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)"
@@ -22248,6 +22178,84 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Sunrise Hot Air Balloon flight in Luxor",
       "Early-morning private road excursion to Abu Simbel Sun Temples from Aswan",
+      "Sound & Light evening show at Karnak Temple or Philae Island",
+      "All-inclusive monument entrance ticket bundle [Requires confirmation]"
+    ],
+    "subCategory": "Luxury Nile Cruises"
+  },
+  {
+    "id": "la-sun-goddess-nile-cruise",
+    "slug": "sun-goddess-nile-cruise",
+    "title": "Sun Goddess Nile Cruise",
+    "category": "Nile Cruises",
+    "destination": "Luxor & Aswan",
+    "duration": "3 Nights / 4 Days & 4 Nights / 5 Days",
+    "price": null,
+    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "featured": true,
+    "shortDescription": "Experience an all-suite ultra-luxury river voyage aboard the Sun Goddess Nile Cruise between Luxor and Aswan, featuring 30 private-terrace suites, gourmet dining, and private Egyptologist shore guiding.",
+    "overview": "Embark on an unforgettable river voyage aboard the Sun Goddess Nile Cruise, an all-suite luxury cruise ship classified as A1 River Service by the American Bureau of Shipping (A.B.S.). Sailing between Luxor and Aswan along the timeless waters of the Nile, this vessel delivers ultra-luxury hospitality paired with comprehensive archaeological exploration.\n\nThe Sun Goddess features just 30 spacious suites designed for exceptional comfort and privacy: 28 deluxe Presidential Suites (40 m² each), 1 Executive Suite (60 m²), and 1 Royal Suite featuring a private outdoor Jacuzzi (60 m²). Every suite opens onto its own private terrace and includes individually controlled air conditioning, panoramic river-view windows, flat-screen television, personal safe, minibar, hairdryer, and marble en-suite bathroom.\n\nOnboard amenities include the Main Dining Room serving daily international and Egyptian breakfast and lunch buffets alongside refined à la carte dinner service, an open-air Sun Deck Bar & barbecue lounge overlooking the river, a sophisticated lounge with dance floor, a swimming pool with heated Jacuzzi, spa and wellness treatment facilities, and a dedicated fitness room. Evenings feature authentic cultural entertainment, including Nubian folkloric shows, classical belly dance, and festive Galabeya parties.\n\nAll scheduled shore excursions to Karnak, Luxor Temple, Valley of the Kings, Queen Hatshepsut Temple, Edfu, Kom Ombo, and Philae are conducted with a licensed private Egyptologist guide. Enjoy departures every Monday from Luxor (4 Nights / 5 Days) and every Friday from Aswan (3 Nights / 4 Days) with seamless meet-and-assist transfers arranged by Genuine Egypte.",
+    "highlights": [
+      "All-suite five-star luxury vessel featuring 30 private-terrace suites (Presidential, Executive & Royal with Jacuzzi)",
+      "Private licensed Egyptologist guidance for all scheduled shore excursions in Luxor, Edfu, Kom Ombo & Aswan",
+      "Panoramic sun deck with swimming pool, Jacuzzi, open-air bar, and evening barbecue specialties",
+      "Gourmet dining featuring daily international buffets and refined à la carte dinner service",
+      "Scheduled departures every Monday from Luxor and every Friday from Aswan with zero hidden booking fees"
+    ],
+    "itinerary": [
+      {
+        "title": "Day 1: Embarkation in Luxor & Monumental East Bank Temples",
+        "description": "Meet your Genuine Egypte representative upon arrival at Luxor Airport, railway station, or hotel and enjoy private air-conditioned transfer directly to the Sun Goddess docking pier. Check in to your private-terrace suite before 12:00 PM and savor a welcome lunch buffet in the Main Dining Room. In the afternoon, set out with your licensed Egyptologist to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple, linked by the Avenue of Sphinxes. Dinner onboard and evening at leisure."
+      },
+      {
+        "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu via Esna Lock",
+        "description": "After breakfast onboard, cross to the West Bank of Luxor to enter the legendary Valley of the Kings, visiting world-famous royal burial chambers adorned with original vivid hieroglyphs. Continue to the terraced cliffside Mortuary Temple of Queen Hatshepsut at Deir el-Bahari and view the towering Colossi of Memnon. Return to the Sun Goddess for lunch as the ship begins sailing upriver toward Esna. Witness the passage through the historic Esna Lock and relax on the sun deck as the ship continues toward Edfu. Dinner onboard."
+      },
+      {
+        "title": "Day 3: Edfu Temple of Horus & Kom Ombo Riverside Sanctuary",
+        "description": "Following breakfast, take a traditional horse carriage ride to visit the Temple of Horus at Edfu, one of the most intact and architecturally complete sanctuaries from classical antiquity. Return onboard as the Sun Goddess cruises toward Kom Ombo. In the afternoon, tour the unique riverside Double Temple of Kom Ombo, dedicated jointly to Sobek the crocodile god and Haroeris the winged falcon god, and visit the adjacent Crocodile Museum. Continue sailing south toward Aswan; enjoy dinner and a vibrant Nubian folkloric performance onboard."
+      },
+      {
+        "title": "Day 4: Aswan High Dam, Philae Island Temple & Nile Felucca Sail",
+        "description": "Breakfast onboard followed by an excursion to the monumental Aswan High Dam, modern engineering triumph controlling the Nile's floods. Transfer by motorboat to the romantic island of Agilkia to tour the Temple of Philae, ancient sanctuary of Isis rescued from rising waters by UNESCO. Visit the ancient northern granite quarries to observe the colossal Unfinished Obelisk. In the afternoon, enjoy a tranquil sail around Elephantine Island on a traditional felucca sailboat. Dinner onboard and celebratory Galabeya party."
+      },
+      {
+        "title": "Day 5: Disembarkation in Aswan & Optional Abu Simbel Excursion",
+        "description": "Enjoy breakfast onboard your private-terrace suite before disembarkation at 8:00 AM. (Optional early-morning excursion to the colossal Sun Temples of Ramesses II and Nefertari at Abu Simbel available by private road or flight). Your Genuine Egypte representative will assist with luggage and transfer you directly to Aswan Airport, train station, or your onward accommodation."
+      }
+    ],
+    "inclusions": [
+      "Full-board luxury accommodation in a private-terrace suite (buffet breakfast, lunch, and à la carte dinner)",
+      "Private-terrace suite with individually controlled air conditioning, LED TV, safe, minibar, and luxury bath amenities",
+      "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist guide",
+      "All private transfers between airport/station and cruise ship in modern air-conditioned vehicle",
+      "Luggage handling and VIP meet-and-assist upon embarkation and disembarkation",
+      "Nightly onboard entertainment including Nubian folklore show, belly dancer performance, and Galabeya party"
+    ],
+    "exclusions": [
+      "Onboard beverages (bottled water, soft drinks, wine, and alcoholic drinks)",
+      "Monument entrance tickets: [Requires confirmation] Temple admissions (Karnak, Luxor, Edfu, Kom Ombo, Philae) available bundled or at official kiosks",
+      "Optional excursions (Abu Simbel Sun Temples excursion, Luxor sunrise hot air balloon flight, Sound & Light shows)",
+      "Onboard crew tipping pool and personal guide gratuities",
+      "Personal laundry, spa treatments, and telephone charges"
+    ],
+    "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or hotel with direct private transfer to Sun Goddess embarkation pier.",
+    "mainImage": "/images/tours/sun-goddess-nile-cruise-ship.webp",
+    "images": [
+      "/images/tours/sun-goddess-nile-cruise-ship.webp",
+      "/images/tours/sun-goddess-nile-cruise-suite.webp",
+      "/images/tours/sun-goddess-nile-cruise-sundeck.webp",
+      "/images/tours/sun-goddess-nile-cruise-lounge.webp",
+      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
+    ],
+    "relatedSlugs": [
+      "royal-ruby-nile-cruise-4-nights-5-days",
+      "nile-premium-nile-cruise",
+      "sonesta-st-george-i-nile-cruise"
+    ],
+    "optionalExtras": [
+      "Sunrise Hot Air Balloon flight over Luxor West Bank",
+      "Private road or air excursion to Abu Simbel Temples from Aswan",
       "Sound & Light evening show at Karnak Temple or Philae Island",
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ],
