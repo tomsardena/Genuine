@@ -89,9 +89,57 @@ html.dark ::-webkit-scrollbar-thumb:hover {
   animation: shimmer 1.8s infinite;
 }
 
+/* Subcategory Smooth Expansion & Move Animations */
+@keyframes subcategorySlideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px) scale(0.98);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes subcategoryCardPop {
+  0% {
+    opacity: 0;
+    transform: translateY(16px) scale(0.96);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes subcategoryIndicatorBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.animate-subcategory-slide-down {
+  animation: subcategorySlideDown 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-subcategory-card-pop {
+  animation: subcategoryCardPop 0.35s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.animate-indicator-bounce {
+  animation: subcategoryIndicatorBounce 1.6s ease-in-out infinite;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .animate-fade-in-up,
-  .animate-shimmer {
+  .animate-shimmer,
+  .animate-subcategory-slide-down,
+  .animate-subcategory-card-pop,
+  .animate-indicator-bounce {
     animation: none !important;
   }
 }
+

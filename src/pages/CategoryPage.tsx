@@ -333,11 +333,12 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-                {NILE_CRUISE_SUBCATEGORIES_CONFIG.map((sub) => (
+                {NILE_CRUISE_SUBCATEGORIES_CONFIG.map((sub, idx) => (
                   <Link
                     key={sub.id}
                     to={sub.href}
-                    className="group relative rounded-xl overflow-hidden bg-stone-900 border border-stone-200 dark:border-stone-800 hover:border-amber-500 transition-all duration-300 shadow-sm hover:shadow-xl hover:-translate-y-1 min-h-[320px] flex flex-col justify-between text-white p-5"
+                    style={{ animationDelay: `${idx * 80}ms` }}
+                    className="group relative rounded-xl overflow-hidden bg-stone-900 border border-stone-200 dark:border-stone-800 hover:border-amber-500 transition-all duration-300 shadow-sm hover:shadow-xl hover:-translate-y-1 min-h-[320px] flex flex-col justify-between text-white p-5 animate-subcategory-card-pop"
                   >
                     {/* Background Photography with Zoom Effect */}
                     <div className="absolute inset-0 z-0 overflow-hidden">
@@ -424,11 +425,12 @@ export const CategoryPage: React.FC<CategoryPageProps> = ({
                     image: '/images/tours/11-21.webp',
                     count: '14+ Tours'
                   }
-                ].map((d) => (
+                ].map((d, idx) => (
                   <Link
                     key={d.name}
                     to={d.href}
-                    className="group relative rounded-xl overflow-hidden bg-stone-900 border border-stone-200 dark:border-stone-800 hover:border-amber-500 transition-all duration-300 shadow-sm hover:shadow-lg hover:-translate-y-1 p-4 min-h-[170px] flex flex-col justify-end text-white"
+                    style={{ animationDelay: `${idx * 70}ms` }}
+                    className="group relative rounded-xl overflow-hidden bg-stone-900 border border-stone-200 dark:border-stone-800 hover:border-amber-500 transition-all duration-300 shadow-sm hover:shadow-lg hover:-translate-y-1 p-4 min-h-[170px] flex flex-col justify-end text-white animate-subcategory-card-pop"
                   >
                     <div className="absolute inset-0 z-0 overflow-hidden">
                       <OptimizedImage

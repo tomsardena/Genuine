@@ -38,8 +38,14 @@ for (const t of tours) {
   fullText += `- **Destination**: ${t.destination}\n`;
   fullText += `- **Duration**: ${t.duration}\n`;
   if (t.price && t.price > 0) {
-    fullText += `- **Starting Price**: $${t.price} USD / adult\n`;
+    const isTransfer = t.category === 'Private Transfers' || t.pricingBasis === 'per-vehicle';
+    const unit = isTransfer ? '/ vehicle' : '/ adult';
+    fullText += `- **Starting Price**: $${t.price} USD ${unit}\n`;
+    if (t.vehicleOptions && t.vehicleOptions.length > 0) {
+      fullText += `- **Fleet Rates**: ${t.vehicleOptions.map(v => `${v.vehicleType} (${v.capacity}): $${v.price} USD`).join('; ')}\n`;
+    }
   }
+
   if (t.shortDescription) {
     fullText += `- **Summary**: ${t.shortDescription}\n`;
   }

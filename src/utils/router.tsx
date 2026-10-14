@@ -63,7 +63,7 @@ export interface LinkProps extends React.AnchorHTMLAttributes<HTMLAnchorElement>
   className?: string;
   children: React.ReactNode;
   title?: string;
-  onClick?: () => void;
+  onClick?: (e?: React.MouseEvent<HTMLAnchorElement>) => void;
 }
 
 export const Link: React.FC<LinkProps> = ({ to, className, children, title, onClick, ...rest }) => {
@@ -72,8 +72,11 @@ export const Link: React.FC<LinkProps> = ({ to, className, children, title, onCl
   const handleClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
     // If command or control key is pressed, let browser handle new tab
     if (e.metaKey || e.ctrlKey || e.shiftKey) return;
+    if (onClick) {
+      onClick(e);
+      if (e.defaultPrevented) return;
+    }
     e.preventDefault();
-    if (onClick) onClick();
     navigate(to);
   };
 

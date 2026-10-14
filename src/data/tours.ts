@@ -29,6 +29,15 @@ export type TourCategory =
   | 'Day Tours'
   | 'Egypt Tours';
 
+export interface TransferVehicleOption {
+  vehicleType: string;
+  capacity: string;
+  maxPassengers: number;
+  price: number;
+  currency: string;
+  isDefault?: boolean;
+}
+
 export interface TourItem {
   id: string;
   slug: string;
@@ -38,6 +47,13 @@ export interface TourItem {
   duration: string;
   price: number | null;
   priceNote: string;
+  currency?: string;
+  priceUnit?: string;
+  pricingBasis?: 'per-adult' | 'per-vehicle' | 'custom-quote';
+  priceSourceUrl?: string;
+  priceVerifiedAt?: string;
+  priceStatus?: 'provisional-benchmark' | 'confirmed';
+  vehicleOptions?: TransferVehicleOption[];
   featured: boolean;
   shortDescription: string;
   overview: string;
@@ -56,6 +72,7 @@ export interface TourItem {
     url?: string;
   };
 }
+
 
 export const TOURS_DATA: TourItem[] = [
   {
@@ -365,8 +382,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo & Giza Tours",
     "destination": "Cairo & Giza",
     "duration": "Half Day (Approx. 4–5 Hours)",
-    "price": 100,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 60,
+    "priceNote": "Provisional starting price per adult for private tour with licensed Egyptologist guide.",
     "featured": true,
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Giza Pyramids And The Sphinx Half Day Tour. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -428,7 +445,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-6",
@@ -645,8 +668,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo & Giza Tours",
     "destination": "Cairo & Giza",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 79,
+    "priceNote": "Provisional starting price per adult for private Alexandria full-day tour from Cairo.",
     "featured": false,
     "shortDescription": "Discover the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with a private licensed Egyptologist guide and door-to-door.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Alexandria full day tour from Cairo to explore. This carefully planned private excursion guides you through the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -703,7 +726,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.egyptfortravel.com/Egypt/egypt-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-10",
@@ -779,8 +808,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 130,
+    "priceNote": "Provisional starting price per adult for private full-day East & West Bank highlights tour.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor's West & East Side Highlights. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -838,7 +867,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-12",
@@ -919,8 +954,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
     "duration": "Half Day (Approx. 4–5 Hours)",
-    "price": 79,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 55,
+    "priceNote": "Provisional starting price per adult for private East Bank tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Explore Karnak Temple Complex with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Explore the legendary Karnak and Luxor temple. Centered in ancient Thebes, this private tour explores Karnak Temple Complex, as well as Luxor Temple on the Nile Corniche, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -978,7 +1013,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-14",
@@ -987,8 +1028,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 140,
+    "priceNote": "Provisional starting price per adult for private full-day Dendera & Abydos temples tour.",
     "featured": false,
     "shortDescription": "Explore the astronomical sanctuaries of Dendera and Abydos with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the From Luxor to Dendera & Abydos. Centered in ancient Thebes, this private tour explores the astronomical sanctuaries of Dendera and Abydos, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -1046,7 +1087,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-15",
@@ -1055,8 +1102,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 80,
+    "priceNote": "Provisional starting price per adult for private day tour to Edfu & Kom Ombo temples.",
     "featured": false,
     "shortDescription": "Explore the Temple of Horus at Edfu with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the private day tour to edfu and komombo temples from luxor. Centered in ancient Thebes, this private tour explores the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -1112,7 +1159,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-16",
@@ -1121,8 +1174,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Abu Simbel Excursions",
     "destination": "Aswan & Abu Simbel",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": 265,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": null,
+    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
     "featured": true,
     "shortDescription": "Discover the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day-trip to Abu Simbel, UNESCO World Heritage Site, from Aswan. This private journey takes you through the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -1331,8 +1384,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Hot Air Balloon",
     "destination": "Luxor",
     "duration": "Approx. 3 Hours (45–60 Min Flight)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 120,
+    "priceNote": "Provisional starting price per adult for West Bank guided tour combined with sunrise hot-air balloon flight.",
     "featured": true,
     "shortDescription": "Drift over Luxor's West Bank at sunrise on the Valley of The Kings Guided Tour with Sunrise Hot Air Balloon & Round-Trip Hotel Transfers, marveling at the Valley.",
     "overview": "Take to the dawn skies on the Valley of The Kings Guided Tour with Sunrise Hot Air Balloon & Round-Trip Hotel Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon the royal rock-cut tombs of the Valley of the Kings, as well as a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
@@ -1391,7 +1444,13 @@ export const TOURS_DATA: TourItem[] = [
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
       "Child safety seat (subject to advance request)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-20",
@@ -1537,8 +1596,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": 125,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 130,
+    "priceNote": "Provisional starting price per adult for private full-day East & West Bank highlights tour.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the From Luxor: Full-Day All-Inclusive Tour to West and East Banks with Lunch. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -1596,7 +1655,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-23",
@@ -1673,8 +1738,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
     "duration": "Half Day (Approx. 4–5 Hours)",
-    "price": 87,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 50,
+    "priceNote": "Provisional starting price per adult for private West Bank tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Explore the royal rock-cut tombs of the Valley of the Kings with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the From Luxor: Half-Day West Bank Guided Tour including Valley of the Kings & Hatshepsut Temple with Lunch. Centered in ancient Thebes, this private tour explores the royal rock-cut tombs of the Valley of the Kings, as well as the terraced Mortuary Temple of Queen Hatshepsut, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -1736,7 +1801,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-25",
@@ -2401,8 +2472,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Private Transfers",
     "destination": "Luxor",
     "duration": "Approx. 45–60 mins",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 15,
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer · Door-to-door meet & assist.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Luxor with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Luxor Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
@@ -2455,7 +2526,44 @@ export const TOURS_DATA: TourItem[] = [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
       "Child safety seat (subject to advance request)"
-    ]
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Economy sedan",
+        "capacity": "1–3 passengers",
+        "maxPassengers": 3,
+        "price": 15,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Standard sedan",
+        "capacity": "1–3 passengers",
+        "maxPassengers": 3,
+        "price": 23,
+        "currency": "USD"
+      },
+      {
+        "vehicleType": "Standard van",
+        "capacity": "Up to 7 passengers",
+        "maxPassengers": 7,
+        "price": 30,
+        "currency": "USD"
+      },
+      {
+        "vehicleType": "Minibus",
+        "capacity": "Up to 10 passengers",
+        "maxPassengers": 10,
+        "price": 75,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-34",
@@ -2464,8 +2572,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Private Transfers",
     "destination": "Aswan",
     "duration": "Approx. 45–60 mins",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 18,
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer · Door-to-door meet & assist.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Aswan with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Aswan Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
@@ -2518,7 +2626,30 @@ export const TOURS_DATA: TourItem[] = [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
       "Child safety seat (subject to advance request)"
-    ]
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://cairoegypttravel.com/transfers/prices",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Sedan",
+        "capacity": "Up to 3 passengers",
+        "maxPassengers": 3,
+        "price": 18,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Minivan",
+        "capacity": "Up to 4 passengers",
+        "maxPassengers": 4,
+        "price": 26,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-35",
@@ -2527,8 +2658,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Private Transfers",
     "destination": "Hurghada",
     "duration": "Approx. 45–60 mins",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 14,
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer · Door-to-door meet & assist.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Hurghada Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
@@ -2581,7 +2712,30 @@ export const TOURS_DATA: TourItem[] = [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
       "Child safety seat (subject to advance request)"
-    ]
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Sedan",
+        "capacity": "Up to 3 passengers",
+        "maxPassengers": 3,
+        "price": 14,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Minivan",
+        "capacity": "Up to 4 passengers",
+        "maxPassengers": 4,
+        "price": 20,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-36",
@@ -2590,8 +2744,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Private Transfers",
     "destination": "Aswan",
     "duration": "Approx. 4–5 hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 80,
+    "priceNote": "Starting rate per vehicle for one-way private intercity transfer between Luxor and Aswan.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Aswan with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Luxor ↔ Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
@@ -2644,7 +2798,44 @@ export const TOURS_DATA: TourItem[] = [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
       "Child safety seat (subject to advance request)"
-    ]
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.egypt1tours.com/tours/luxor-to-aswan-private-transfer/t24",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Economy sedan",
+        "capacity": "1–3 passengers",
+        "maxPassengers": 3,
+        "price": 80,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Standard sedan",
+        "capacity": "1–3 passengers",
+        "maxPassengers": 3,
+        "price": 100,
+        "currency": "USD"
+      },
+      {
+        "vehicleType": "First-class van",
+        "capacity": "Up to 5 passengers",
+        "maxPassengers": 5,
+        "price": 130,
+        "currency": "USD"
+      },
+      {
+        "vehicleType": "Minibus",
+        "capacity": "Up to 10 passengers",
+        "maxPassengers": 10,
+        "price": 180,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-37",
@@ -2653,8 +2844,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Private Transfers",
     "destination": "Hurghada",
     "duration": "Approx. 4–5 hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 85,
+    "priceNote": "Starting rate per vehicle for one-way private intercity transfer between Luxor and Hurghada.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Luxor ↔ Hurghada Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
@@ -2707,7 +2898,44 @@ export const TOURS_DATA: TourItem[] = [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
       "Child safety seat (subject to advance request)"
-    ]
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Economy sedan",
+        "capacity": "1–3 passengers",
+        "maxPassengers": 3,
+        "price": 85,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Standard sedan",
+        "capacity": "1–3 passengers",
+        "maxPassengers": 3,
+        "price": 120,
+        "currency": "USD"
+      },
+      {
+        "vehicleType": "First-class van",
+        "capacity": "Up to 5 passengers",
+        "maxPassengers": 5,
+        "price": 140,
+        "currency": "USD"
+      },
+      {
+        "vehicleType": "Minibus",
+        "capacity": "Up to 10 passengers",
+        "maxPassengers": 10,
+        "price": 190,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "tour-38",
@@ -2716,8 +2944,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Private Transfers",
     "destination": "Hurghada",
     "duration": "Approx. 4–5 hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 210,
+    "priceNote": "Starting rate per vehicle for one-way private intercity transfer between Hurghada and Aswan.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
     "overview": "Travel with complete peace of mind across Egypt on the Hurghada ↔ Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
@@ -2770,7 +2998,37 @@ export const TOURS_DATA: TourItem[] = [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
       "Child safety seat (subject to advance request)"
-    ]
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Sedan",
+        "capacity": "1–2 passengers",
+        "maxPassengers": 2,
+        "price": 210,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Van",
+        "capacity": "3–5 passengers",
+        "maxPassengers": 5,
+        "price": 275,
+        "currency": "USD"
+      },
+      {
+        "vehicleType": "Minibus",
+        "capacity": "6–8 passengers",
+        "maxPassengers": 8,
+        "price": 300,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-best-of-egypt-in-12-luxury-days",
@@ -9253,8 +9511,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
     "duration": "Approx. 8 Hours",
-    "price": 125,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 60,
+    "priceNote": "Provisional starting price per adult for private full-day tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Day Tour to Pyramids, Memphis and Sakkara. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Step Pyramid of Djoser at Saqqara, as well as the ancient capital of Memphis, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -9316,7 +9574,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-14-day-cairo-hurghada-nile-cruise-balloon-and-abu-simbel",
@@ -9906,8 +10170,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 79,
+    "priceNote": "Provisional starting price per adult for private Alexandria full-day tour from Cairo.",
     "featured": false,
     "shortDescription": "Discover the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with a private licensed Egyptologist guide and door-to-door.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Day Tour to Alexandria from Cairo by car. This carefully planned private excursion guides you through the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -9964,7 +10228,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.egyptfortravel.com/Egypt/egypt-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-day-trip-to-luxor-from-cairo-by-air",
@@ -10042,7 +10312,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "Approx. 8 Hours",
     "price": 105,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "priceNote": "Provisional starting price per adult for private tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Private Tour to Pyramids, the Egyptian Museum and Khan Khalili. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Egyptian Museum and world-renowned antiquities, as well as the historic Khan el-Khalili bazaar, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -10104,7 +10374,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo",
@@ -10113,8 +10389,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
     "duration": "Approx. 8 Hours",
-    "price": 125,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 55,
+    "priceNote": "Provisional starting price per adult for private city tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Discover the Egyptian Museum and world-renowned antiquities with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Cairo City Tour to Egyptian Museum, Citadel and Old Cairo. This carefully planned private excursion guides you through the Egyptian Museum and world-renowned antiquities, as well as the Saladin Citadel and Mosque of Muhammad Ali, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -10172,7 +10448,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-one-day-tour-to-abu-simbel-from-cairo-via-aswan",
@@ -10398,8 +10680,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
     "duration": "Approx. 8 Hours",
-    "price": 125,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 55,
+    "priceNote": "Provisional starting price per adult for private cultural tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Discover Old Coptic Cairo and the Hanging Church with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Coptic and Islamic Cairo Tour. This carefully planned private excursion guides you through Old Coptic Cairo and the Hanging Church, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -10457,7 +10739,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-felucca-trip-on-the-nile-in-cairo",
@@ -10534,8 +10822,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
     "duration": "Approx. 8 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 140,
+    "priceNote": "Provisional starting price per adult for private 3-pyramid-fields tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Private Tour to Pyramids , Sakkara and Dahshur. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Step Pyramid of Djoser at Saqqara, as well as the Bent and Red Pyramids at Dahshur, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -10597,7 +10885,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-day-tour-to-el-fayoum-from-cairo",
@@ -10810,8 +11104,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
     "duration": "2 hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 35,
+    "priceNote": "Provisional starting price per adult for desert camel trek at Giza Plateau.",
     "featured": false,
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Camel Ride Trip at the Pyramids. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
@@ -10873,7 +11167,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-private-tour-to-the-west-bank",
@@ -10882,8 +11182,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Approx. 6 Hours",
-    "price": 125,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 50,
+    "priceNote": "Provisional starting price per adult for private West Bank tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Private tour to the West Bank. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -10945,7 +11245,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-private-tour-to-the-east-bank",
@@ -10954,8 +11260,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Approx. 4 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 55,
+    "priceNote": "Provisional starting price per adult for private East Bank tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Private tour to the East Bank. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11013,7 +11319,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-day-tour-to-cairo-from-luxor-by-flight",
@@ -11090,8 +11402,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 80,
+    "priceNote": "Provisional starting price per adult for private day tour to Edfu & Kom Ombo temples.",
     "featured": false,
     "shortDescription": "Explore the Temple of Horus at Edfu with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Tour to Edfu and Kom Ombo from Luxor. Centered in ancient Thebes, this private tour explores the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11147,7 +11459,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-tour-to-luxor-museum-and-mummification-museum",
@@ -11156,8 +11474,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Approx. 4 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 60,
+    "priceNote": "Provisional starting price per adult for private tour of Luxor and Mummification museums.",
     "featured": false,
     "shortDescription": "Explore the Egyptian Museum and world-renowned antiquities with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Tour to Luxor Museum and Mummification Museum. Centered in ancient Thebes, this private tour explores the Egyptian Museum and world-renowned antiquities, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11215,7 +11533,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-luxor-camel-ride",
@@ -11224,8 +11548,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Approx. 3 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 65,
+    "priceNote": "Provisional starting price per adult for West Bank desert camel trek in Luxor.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor Camel Ride. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11283,7 +11607,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-luxor-city-tour-by-horse-carriage",
@@ -11292,8 +11622,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "2 hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 35,
+    "priceNote": "Provisional starting price per adult for 2-hour private Luxor horse carriage tour.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor City tour by Horse Carriage. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11351,7 +11681,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-felucca-ride-on-the-nile",
@@ -11360,8 +11696,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Approx. 3 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 60,
+    "priceNote": "Provisional starting price per adult for private Nile felucca sailing in Luxor.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Felucca Ride on the Nile. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11419,7 +11755,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-day-tour-to-ramesseum-temple-habu-temple-and-nobles-valley",
@@ -11428,8 +11770,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Approx. 6 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 65,
+    "priceNote": "Provisional starting price per adult for private tour to Ramesseum, Medinet Habu & Nobles Valley.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Tour to Ramesseum Temple, Habu Temple, and Nobles Valley. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11487,7 +11829,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-sound-and-light-show-at-karnak-temples",
@@ -11496,8 +11844,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Approx. 3 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 60,
+    "priceNote": "Provisional starting price per adult for evening Sound & Light show at Karnak Temples.",
     "featured": false,
     "shortDescription": "Explore Karnak Temple Complex with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Sound and Light Show at Karnak Temples. Centered in ancient Thebes, this private tour explores Karnak Temple Complex, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11555,7 +11903,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-day-tour-of-aswan-philae-temple-high-dam-and-obelisk",
@@ -11564,8 +11918,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "Approx. 6 Hours",
-    "price": 105,
-    "priceNote": "Starting price per adult in USD · Final quote based on party size & travel dates · Zero online booking deductions",
+    "price": 55,
+    "priceNote": "Provisional starting price per adult for private Aswan highlights tour.",
     "featured": false,
     "shortDescription": "Discover the island temple complex of Philae on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day Tour of Aswan , Philae temple, High Dam and Obelisk. This private journey takes you through the island temple complex of Philae, as well as the monumental Aswan High Dam, as well as the ancient granite quarries and Unfinished Obelisk, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -11623,7 +11977,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-full-day-tour-to-cairo-from-aswan-by-flight",
@@ -11700,8 +12060,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "2 hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 25,
+    "priceNote": "Provisional starting price per adult for private 2-hour Nile felucca sailing in Aswan.",
     "featured": false,
     "shortDescription": "Discover Philae Island, the High Dam, and Nile felucca sailing on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Felucca Ride on the Nile in Aswan. This private journey takes you through Philae Island, the High Dam, and Nile felucca sailing, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -11759,7 +12119,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-bird-watching-tour-in-aswan",
@@ -11836,8 +12202,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "Approx. 8 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 75,
+    "priceNote": "Provisional starting price per adult for private day tour to Kom Ombo and Edfu from Aswan.",
     "featured": false,
     "shortDescription": "Discover the Temple of Horus at Edfu on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Private tour to Kom Ombo and Edfu Temples from Aswan. This private journey takes you through the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -11895,7 +12261,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-private-day-tour-to-luxor-from-aswan-by-vehicle",
@@ -11904,8 +12276,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Luxor Tours",
     "destination": "Luxor",
     "duration": "Full Day (Approx. 7–9 Hours)",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 110,
+    "priceNote": "Provisional starting price per adult for private overland day tour from Aswan to Luxor.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Private day tour to Luxor from Aswan by vehicle. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
@@ -11963,7 +12335,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-day-trip-to-abu-simbel-from-aswan-by-coach",
@@ -11972,8 +12350,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "9 hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 99,
+    "priceNote": "Provisional starting price per adult for shared air-conditioned coach day excursion to Abu Simbel.",
     "featured": false,
     "shortDescription": "Discover the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day Trip to Abu Simbel from Aswan by coach. This private journey takes you through the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -12035,7 +12413,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-day-trip-to-abu-simbel-from-aswan-by-flight",
@@ -12044,8 +12428,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "Approx. 6 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 575,
+    "priceNote": "Provisional starting price per adult for Abu Simbel day trip by flight including domestic airfare.",
     "featured": false,
     "shortDescription": "Discover the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day Trip to Abu Simbel from Aswan by flight. This private journey takes you through the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -12107,7 +12491,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-kalabsha-temple-and-nubian-museum-tour",
@@ -12116,8 +12506,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "Approx. 6 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 59,
+    "priceNote": "Provisional starting price per adult for private tour of Kalabsha Temple & Nubian Museum.",
     "featured": false,
     "shortDescription": "Discover the Egyptian Museum and world-renowned antiquities on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Kalabsha Temple and Nubian Museum Tour. This private journey takes you through the Egyptian Museum and world-renowned antiquities, as well as a colorful Nubian village on the West Bank, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -12175,7 +12565,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-private-tour-to-the-tombs-of-the-nobles",
@@ -12252,8 +12648,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "Approx. 4 Hours",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 39,
+    "priceNote": "Provisional starting price per adult for scenic Nile boat trip to authentic Nubian village.",
     "featured": false,
     "shortDescription": "Discover a colorful Nubian village on the West Bank on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Trip to the Nubian Villages by boat. This private journey takes you through a colorful Nubian village on the West Bank, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -12311,7 +12707,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-sound-and-light-show-at-philae-temple",
@@ -12320,8 +12722,8 @@ export const TOURS_DATA: TourItem[] = [
     "category": "Aswan Tours",
     "destination": "Aswan",
     "duration": "1 hour",
-    "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "price": 40,
+    "priceNote": "Provisional starting price per adult for evening Sound & Light show at Philae Temple.",
     "featured": false,
     "shortDescription": "Discover the island temple complex of Philae on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Sound and Light Show at Philae Temple. This private journey takes you through the island temple complex of Philae, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
@@ -12379,7 +12781,13 @@ export const TOURS_DATA: TourItem[] = [
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
       "Sunrise Hot Air Balloon flight (for Luxor day tours)",
       "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
-    ]
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/aswan-day-tours",
+    "priceVerifiedAt": "2026-10-14"
   },
   {
     "id": "la-private-day-tour-to-the-nubian-museum",

@@ -19,7 +19,10 @@ import {
   Ship,
   Sparkles,
   Phone,
-  Star
+  Star,
+  Car,
+  Users,
+  Check
 } from 'lucide-react';
 import { SITE_SETTINGS } from '../data/siteSettings';
 import { REVIEW_STATS, REVIEWS_DATA } from '../data/reviewsData';
@@ -34,6 +37,8 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
   const [selectedImage, setSelectedImage] = useState<string>('');
   const [inquiryModalOpen, setInquiryModalOpen] = useState(false);
   const [expandedDays, setExpandedDays] = useState<Set<number>>(new Set([0]));
+  const [selectedVehicle, setSelectedVehicle] = useState<string>('');
+
 
   if (!tour) {
     return (
@@ -96,6 +101,30 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
     return true;
   }, [tour.category, tour.duration]);
 
+  // Determine pricing basis & structured data offer
+  const isTransfer = tour.category === 'Private Transfers' || tour.pricingBasis === 'per-vehicle';
+  const hasVehicleOptions = isTransfer && Boolean(tour.vehicleOptions && tour.vehicleOptions.length > 0);
+
+  const offerJsonLd = hasVehicleOptions
+    ? {
+        '@type': 'AggregateOffer',
+        priceCurrency: 'USD',
+        lowPrice: Math.min(...tour.vehicleOptions!.map(v => v.price)).toString(),
+        highPrice: Math.max(...tour.vehicleOptions!.map(v => v.price)).toString(),
+        offerCount: tour.vehicleOptions!.length,
+        availability: 'https://schema.org/InStock',
+        url: `https://genuineegypte.com/booking/${tour.slug}/`,
+        description: `Private vehicle transfer rates from $${Math.min(...tour.vehicleOptions!.map(v => v.price))} to $${Math.max(...tour.vehicleOptions!.map(v => v.price))} USD per vehicle (one-way)`
+      }
+    : {
+        '@type': 'Offer',
+        ...(tour.price && tour.price > 0 ? { price: tour.price.toString() } : {}),
+        priceCurrency: 'USD',
+        availability: 'https://schema.org/InStock',
+        url: `https://genuineegypte.com/booking/${tour.slug}/`,
+        description: tour.priceNote || (tour.price ? (isTransfer ? `From $${tour.price} USD per vehicle` : `From $${tour.price} USD per adult`) : 'Custom private quote based on travel dates & party size')
+      };
+
   // Schema.org Structured Data Graph for Google Rich Snippets
   const tourJsonLd = {
     '@context': 'https://schema.org',
@@ -105,7 +134,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         '@id': `https://genuineegypte.com/booking/${tour.slug}/#trip`,
         name: tour.title,
         description: tour.shortDescription || tour.overview,
-        touristType: 'Private Guided Cultural Experience',
+        touristType: isTransfer ? 'Private Vehicle Chauffeur Transfer' : 'Private Guided Cultural Experience',
         subjectOf: {
           '@type': 'Place',
           name: tour.destination,
@@ -114,14 +143,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
             addressCountry: 'EG'
           }
         },
-        offers: {
-          '@type': 'Offer',
-          ...(tour.price && tour.price > 0 ? { price: tour.price.toString() } : {}),
-          priceCurrency: 'USD',
-          availability: 'https://schema.org/InStock',
-          url: `https://genuineegypte.com/booking/${tour.slug}/`,
-          description: tour.priceNote || (tour.price ? `From $${tour.price} USD per adult` : 'Custom private quote based on travel dates & party size')
-        },
+        offers: offerJsonLd,
         provider: {
           '@type': 'TravelAgency',
           name: 'Genuine Egypte',
@@ -161,15 +183,9 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
           '@type': 'Brand',
           name: 'Genuine Egypte'
         },
-        offers: {
-          '@type': 'Offer',
-          ...(tour.price && tour.price > 0 ? { price: tour.price.toString() } : {}),
-          priceCurrency: 'USD',
-          availability: 'https://schema.org/InStock',
-          url: `https://genuineegypte.com/booking/${tour.slug}/`,
-          description: tour.priceNote || (tour.price ? `From $${tour.price} USD per adult` : 'Custom private quote based on travel dates & party size')
-        }
+        offers: offerJsonLd
       },
+
       {
         '@type': 'BreadcrumbList',
         '@id': `https://genuineegypte.com/booking/${tour.slug}/#breadcrumbs`,
@@ -364,6 +380,93 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                   {tour.overview}
                 </div>
               </div>
+
+              {/* Private Transfer Fleet Options & Rates */}
+              {tour.vehicleOptions && tour.vehicleOptions.length > 0 && (
+                <div id="fleet-rates" className="space-y-4 scroll-mt-24">
+                  <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-2 border-b border-stone-200 dark:border-stone-800 pb-2">
+                    <div>
+                      <span className="text-[11px] font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider block font-serif">
+                        Transparent Per-Vehicle Fleet Rates
+                      </span>
+                      <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100">
+                        Fleet Vehicle Options & One-Way Rates
+                      </h2>
+                    </div>
+                    <span className="text-xs text-stone-500 dark:text-stone-400 font-medium">
+                      Rates are per vehicle (one-way) · Never per person
+                    </span>
+                  </div>
+
+                  <div className="overflow-hidden rounded-xl border border-stone-200 dark:border-stone-800 bg-white dark:bg-stone-900 shadow-xs">
+                    <table className="w-full text-left text-xs sm:text-sm">
+                      <thead className="bg-stone-100/80 dark:bg-stone-800/80 text-[11px] font-semibold text-stone-600 dark:text-stone-300 uppercase tracking-wider border-b border-stone-200 dark:border-stone-700">
+                        <tr>
+                          <th scope="col" className="px-4 py-3 sm:px-6">Vehicle Class</th>
+                          <th scope="col" className="px-4 py-3 sm:px-6">Passenger Capacity</th>
+                          <th scope="col" className="px-4 py-3 sm:px-6 text-right">Fixed One-Way Fare</th>
+                          <th scope="col" className="px-4 py-3 sm:px-6 text-right">Selection</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-stone-100 dark:divide-stone-800">
+                        {tour.vehicleOptions.map((v, idx) => {
+                          const isSelected = selectedVehicle.includes(v.vehicleType);
+                          return (
+                            <tr
+                              key={idx}
+                              className={`transition-colors hover:bg-amber-50/50 dark:hover:bg-amber-950/20 ${
+                                isSelected ? 'bg-amber-50/80 dark:bg-amber-950/40' : ''
+                              }`}
+                            >
+                              <td className="px-4 py-3.5 sm:px-6 font-semibold text-stone-900 dark:text-stone-100 flex items-center gap-2.5">
+                                <Car className="w-4 h-4 text-amber-700 dark:text-amber-500 shrink-0" />
+                                <span>{v.vehicleType}</span>
+                                {v.isDefault && (
+                                  <span className="text-[10px] px-2 py-0.5 rounded-sm bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 font-bold uppercase tracking-wider">
+                                    Standard
+                                  </span>
+                                )}
+                              </td>
+                              <td className="px-4 py-3.5 sm:px-6 text-stone-600 dark:text-stone-300">
+                                <span className="inline-flex items-center gap-1.5">
+                                  <Users className="w-3.5 h-3.5 text-stone-400" />
+                                  <span>{v.capacity}</span>
+                                </span>
+                              </td>
+                              <td className="px-4 py-3.5 sm:px-6 text-right font-serif font-bold text-amber-900 dark:text-amber-400 text-base">
+                                ${v.price} <span className="text-xs font-sans text-stone-500 dark:text-stone-400 font-normal">USD</span>
+                              </td>
+                              <td className="px-4 py-3.5 sm:px-6 text-right">
+                                <button
+                                  type="button"
+                                  onClick={() => {
+                                    setSelectedVehicle(`${v.vehicleType} (${v.capacity}) - $${v.price} USD`);
+                                    setInquiryModalOpen(true);
+                                  }}
+                                  className="px-3 py-1.5 rounded-lg text-xs font-semibold bg-stone-900 text-white dark:bg-amber-600 dark:hover:bg-amber-500 hover:bg-stone-800 transition-colors shadow-2xs"
+                                >
+                                  Inquire Vehicle
+                                </button>
+                              </td>
+                            </tr>
+                          );
+                        })}
+                      </tbody>
+                    </table>
+                  </div>
+
+                  <div className="p-3 bg-stone-50 dark:bg-stone-800/50 rounded-lg border border-stone-200 dark:border-stone-700/80 text-xs text-stone-600 dark:text-stone-300 space-y-1">
+                    <p className="font-semibold text-stone-800 dark:text-stone-100 flex items-center gap-1.5">
+                      <ShieldCheck className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
+                      <span>All-Inclusive Private Transfer Guarantee</span>
+                    </p>
+                    <p className="text-[11px] leading-relaxed">
+                      Rates include private air-conditioned vehicle, professional licensed chauffeur, fuel, road tolls, and flight tracking / meet & assist. Return transfers and custom stops (e.g., temples en route) can be accommodated seamlessly upon request.
+                    </p>
+                  </div>
+                </div>
+              )}
+
 
               {/* Highlights */}
               {tour.highlights && tour.highlights.length > 0 && (
@@ -615,11 +718,10 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
               <div className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl p-6 shadow-md space-y-5">
                 <div className="space-y-1 pb-4 border-b border-stone-100 dark:border-stone-800">
                   <span className="text-[11px] font-semibold text-amber-800 dark:text-amber-400 uppercase tracking-wider block font-serif">
-                    Inquiry & Custom Proposal
+                    {isTransfer ? 'Private Route Fare' : 'Inquiry & Custom Proposal'}
                   </span>
                   {(() => {
-                    const isTransfer = tour.category === 'Private Transfers';
-                    const pricing = getTourPriceDisplay(tour.price, isTransfer);
+                    const pricing = getTourPriceDisplay(tour);
                     return (
                       <>
                         <div className="flex items-baseline justify-between">
@@ -639,8 +741,43 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                           )}
                         </div>
                         <p className="text-xs text-stone-600 dark:text-stone-300 italic pt-1 leading-relaxed">
-                          {tour.priceNote || (pricing.hasPrice ? 'Starting price per adult for private tour · Final quote tailored to your party size and dates.' : 'Personalized private proposal tailored to your travel dates, cabin preference, and group size.')}
+                          {tour.priceNote || (pricing.hasPrice 
+                            ? (isTransfer ? 'Starting rate per private vehicle (one-way). No per-person fees.' : 'Starting price per adult for private tour · Final quote tailored to your party size.') 
+                            : 'Personalized private proposal tailored to your travel dates, cabin preference, and group size.')}
                         </p>
+
+                        {/* Interactive Vehicle Selector for Transfers */}
+                        {tour.vehicleOptions && tour.vehicleOptions.length > 0 && (
+                          <div className="pt-3 space-y-1.5">
+                            <span className="text-[11px] font-semibold text-stone-700 dark:text-stone-300 block">
+                              Select Vehicle Class:
+                            </span>
+                            <div className="grid grid-cols-1 gap-1.5">
+                              {tour.vehicleOptions.map((v, idx) => {
+                                const isCurrent = selectedVehicle.includes(v.vehicleType) || (!selectedVehicle && idx === 0);
+                                return (
+                                  <button
+                                    key={idx}
+                                    type="button"
+                                    onClick={() => setSelectedVehicle(`${v.vehicleType} (${v.capacity}) - $${v.price} USD`)}
+                                    className={`flex items-center justify-between p-2 rounded-lg text-xs border transition-all text-left ${
+                                      isCurrent
+                                        ? 'border-amber-600 bg-amber-50/70 dark:bg-amber-950/40 text-stone-900 dark:text-stone-100 font-semibold ring-1 ring-amber-600'
+                                        : 'border-stone-200 dark:border-stone-800 hover:border-amber-400 text-stone-600 dark:text-stone-300'
+                                    }`}
+                                  >
+                                    <div className="flex items-center gap-1.5">
+                                      <Car className="w-3.5 h-3.5 text-amber-700 dark:text-amber-400 shrink-0" />
+                                      <span>{v.vehicleType}</span>
+                                      <span className="text-[10px] text-stone-400 font-normal">({v.capacity})</span>
+                                    </div>
+                                    <span className="font-serif font-bold text-amber-900 dark:text-amber-300">${v.price}</span>
+                                  </button>
+                                );
+                              })}
+                            </div>
+                          </div>
+                        )}
                       </>
                     );
                   })()}
@@ -664,24 +801,47 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
 
                 {/* Key Benefits Checklist */}
                 <div className="space-y-2 text-xs text-stone-700 dark:text-stone-300">
-                  <div className="flex items-center gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-                    <span>100% Private (No crowded group buses)</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-                    <span>Licensed University Egyptologist Guide</span>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-                    <span>Zero Upfront Card Deductions</span>
-                  </div>
+                  {isTransfer ? (
+                    <>
+                      <div className="flex items-center gap-2">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        <span>100% Private Door-to-Door Vehicle</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        <span>Licensed Professional Chauffeur Driver</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        <span>Flight Tracking & Luggage Meet & Assist</span>
+                      </div>
+                    </>
+                  ) : (
+                    <>
+                      <div className="flex items-center gap-2">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        <span>100% Private (No crowded group buses)</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        <span>Licensed University Egyptologist Guide</span>
+                      </div>
+                      <div className="flex items-center gap-2">
+                        <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
+                        <span>Zero Upfront Card Deductions</span>
+                      </div>
+                    </>
+                  )}
                 </div>
 
                 {/* Direct Action Buttons */}
                 <div className="space-y-2.5 pt-1">
                   <a
-                    href={`https://wa.me/201070335551?text=${encodeURIComponent(`Hello Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please provide a seasonal quotation and availability.`)}`}
+                    href={`https://wa.me/201070335551?text=${encodeURIComponent(
+                      `Hello Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/).${
+                        selectedVehicle ? ` Interested in: ${selectedVehicle}.` : ''
+                      } Please provide availability and confirmation.`
+                    )}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="w-full flex items-center justify-center gap-2 bg-[#25D366] hover:bg-[#20bd5a] text-white py-3 px-4 rounded-lg font-medium text-xs sm:text-sm transition-colors shadow-xs"
@@ -695,7 +855,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                     className="w-full flex items-center justify-center gap-2 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white py-3 px-4 rounded-lg font-medium text-xs sm:text-sm transition-colors"
                   >
                     <Mail className="w-4 h-4" />
-                    <span>Request Custom Proposal</span>
+                    <span>{isTransfer ? 'Book Transfer Vehicle' : 'Request Custom Proposal'}</span>
                   </button>
                 </div>
 
@@ -741,40 +901,59 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
       </div>
 
       {/* Mobile Sticky Booking Bar */}
-      <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 dark:bg-stone-900/95 backdrop-blur-md border-t border-stone-200 dark:border-stone-800 px-4 py-3 flex items-center justify-between gap-3 shadow-2xl">
-        <div className="min-w-0">
-          <span className="block text-[10px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
-          <span className="text-xs sm:text-sm font-serif font-bold text-stone-900 dark:text-stone-100 truncate block">
-            Custom Seasonal Rate
-          </span>
-        </div>
+      {(() => {
+        const pricing = getTourPriceDisplay(tour);
+        return (
+          <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 dark:bg-stone-900/95 backdrop-blur-md border-t border-stone-200 dark:border-stone-800 px-4 py-3 flex items-center justify-between gap-3 shadow-2xl">
+            <div className="min-w-0">
+              <span className="block text-[10px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
+              {pricing.hasPrice ? (
+                <div className="flex items-baseline gap-1 truncate">
+                  <span className="text-[11px] text-stone-500 dark:text-stone-400">From</span>
+                  <span className="text-sm font-bold text-amber-900 dark:text-amber-400 font-serif">{pricing.formattedAmount}</span>
+                  <span className="text-[10px] text-stone-500 dark:text-stone-400">{pricing.unit}</span>
+                </div>
+              ) : (
+                <span className="text-xs sm:text-sm font-serif font-bold text-stone-900 dark:text-stone-100 truncate block">
+                  {pricing.formattedAmount}
+                </span>
+              )}
+            </div>
 
-        <div className="flex items-center gap-2 shrink-0">
-          <a
-            href={`https://wa.me/201070335551?text=${encodeURIComponent(`Marhaban Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/). Please share seasonal rates and availability.`)}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="p-2.5 sm:px-3 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-semibold flex items-center gap-1.5 shadow-xs"
-            aria-label="Inquire on WhatsApp"
-          >
-            <MessageCircle className="w-4 h-4 fill-current" />
-            <span className="hidden sm:inline">WhatsApp</span>
-          </a>
+            <div className="flex items-center gap-2 shrink-0">
+              <a
+                href={`https://wa.me/201070335551?text=${encodeURIComponent(
+                  `Marhaban Genuine Egypte, I am inquiring about "${tour.title}" (https://genuineegypte.com/booking/${tour.slug}/).${
+                    selectedVehicle ? ` Vehicle: ${selectedVehicle}.` : ''
+                  } Please share rates and availability.`
+                )}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="p-2.5 sm:px-3 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-semibold flex items-center gap-1.5 shadow-xs"
+                aria-label="Inquire on WhatsApp"
+              >
+                <MessageCircle className="w-4 h-4 fill-current" />
+                <span className="hidden sm:inline">WhatsApp</span>
+              </a>
 
-          <button
-            onClick={() => setInquiryModalOpen(true)}
-            className="px-4 py-2.5 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white rounded-xl text-xs font-semibold shadow-xs"
-          >
-            Inquire Now
-          </button>
-        </div>
-      </div>
+              <button
+                onClick={() => setInquiryModalOpen(true)}
+                className="px-4 py-2.5 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white rounded-xl text-xs font-semibold shadow-xs"
+              >
+                Inquire Now
+              </button>
+            </div>
+          </div>
+        );
+      })()}
 
       <InquiryModal
         isOpen={inquiryModalOpen}
         onClose={() => setInquiryModalOpen(false)}
         tour={tour}
+        selectedVehicle={selectedVehicle}
       />
+
     </>
   );
 };

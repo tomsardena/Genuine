@@ -65,8 +65,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
 
           {/* Bottom Bar & Actions */}
           {(() => {
-            const isTransfer = tour.category === 'Private Transfers';
-            const pricing = getTourPriceDisplay(tour.price, isTransfer);
+            const pricing = getTourPriceDisplay(tour);
             return (
               <div className="pt-3 border-t border-stone-100 dark:border-stone-800 flex items-center justify-between gap-2">
                 <div>
@@ -75,7 +74,7 @@ export const TourCard: React.FC<TourCardProps> = ({ tour, priority = false }) =>
                     <div className="flex items-baseline gap-1">
                       <span className="text-[11px] font-medium text-stone-500 dark:text-stone-400">From</span>
                       <span className="text-sm font-bold text-amber-900 dark:text-amber-400 font-serif">{pricing.formattedAmount}</span>
-                      <span className="text-[10px] text-stone-400 dark:text-stone-500">{pricing.unit}</span>
+                      <span className="text-[10px] text-stone-500 dark:text-stone-400 font-medium">{pricing.unit}</span>
                     </div>
                   ) : (
                     <span className="text-xs font-semibold text-stone-800 dark:text-stone-200">{pricing.formattedAmount}</span>

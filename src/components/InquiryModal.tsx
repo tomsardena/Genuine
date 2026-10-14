@@ -7,19 +7,22 @@ interface InquiryModalProps {
   isOpen: boolean;
   onClose: () => void;
   tour?: TourItem;
+  selectedVehicle?: string;
 }
 
 export const InquiryModal: React.FC<InquiryModalProps> = ({
   isOpen,
   onClose,
-  tour
+  tour,
+  selectedVehicle
 }) => {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
   const [date, setDate] = useState('');
   const [travelers, setTravelers] = useState('2');
-  const [notes, setNotes] = useState('');
+  const [notes, setNotes] = useState(selectedVehicle ? `Requested vehicle: ${selectedVehicle}` : '');
+
   
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submittedBookingId, setSubmittedBookingId] = useState<string | null>(null);
