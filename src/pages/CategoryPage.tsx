@@ -56,7 +56,7 @@ const NILE_CRUISE_SUBCATEGORIES_CONFIG: CruiseSubCategoryMeta[] = [
     name: 'Luxury Nile Cruises',
     badge: '★ Ultra-Luxury Boutique',
     tagline: 'Opulent floating boutique suites with bespoke dining, private butler attention, and exclusive Egyptologist shore tours.',
-    featuredShips: 'Oberoi Zahra · Sanctuary Sun Boats · Sonesta Star',
+    featuredShips: 'Sonesta St. George I · Sun Goddess · Oberoi Zahra',
     href: '/nile-cruises/luxury',
     image: '/images/tours/luxury-nile-cruise.webp'
   }

@@ -200,10 +200,10 @@ const CRUISE_SUBCATEGORIES: CruiseSubCategory[] = [
     name: 'Luxury Nile Cruises',
     badge: '★ Ultra-Luxury Boutique',
     tagline: 'Opulent floating boutique suites with bespoke dining & private butler attention.',
-    featuredShips: 'Oberoi Zahra · Sanctuary Sun Boats · Sonesta Star',
+    featuredShips: 'Sonesta St. George I · Sun Goddess · Oberoi Zahra',
     href: '/nile-cruises/luxury',
     image: '/images/tours/luxury-nile-cruise.webp',
-    count: '24 Cruises'
+    count: '25 Cruises'
   }
 ];
 

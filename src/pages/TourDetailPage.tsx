@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { getTourBySlug, TOURS_DATA, TourItem } from '../data/tours';
 import { Breadcrumbs } from '../components/Breadcrumbs';
 import { SEOHead } from '../components/SEOHead';
@@ -85,6 +85,16 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
     'authentic Egypt travel',
     ...(tour.highlights || []).slice(0, 4)
   ].filter(Boolean).join(', ');
+
+  // Identify Day Tours / Daily Tours for explicit entrance ticket guarantee
+  const isDayTour = useMemo(() => {
+    const cat = tour.category.toLowerCase();
+    const dur = (tour.duration || '').toLowerCase();
+    if (cat.includes('cruise') || cat.includes('dahabiya') || cat.includes('package')) return false;
+    if (dur.includes('night')) return false;
+    if (cat.includes('transfers')) return false;
+    return true;
+  }, [tour.category, tour.duration]);
 
   // Schema.org Structured Data Graph for Google Rich Snippets
   const tourJsonLd = {
@@ -450,6 +460,18 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                 <h2 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 border-b border-stone-200 dark:border-stone-800 pb-2">
                   Inclusions, Exclusions & Optional Extras
                 </h2>
+
+                {isDayTour && (
+                  <div className="flex items-center gap-3 p-3.5 rounded-lg bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200/90 dark:border-emerald-800/60 text-emerald-900 dark:text-emerald-200 text-xs sm:text-sm">
+                    <div className="w-6 h-6 rounded-full bg-emerald-600 dark:bg-emerald-500 text-white flex items-center justify-center shrink-0">
+                      <CheckCircle2 className="w-4 h-4" />
+                    </div>
+                    <div>
+                      <span className="font-semibold text-emerald-950 dark:text-emerald-200">Entry Tickets Included: </span>
+                      <span className="text-emerald-800 dark:text-emerald-300">All official archaeological monument, temple, and museum entrance tickets specified in this day tour itinerary are fully included in the tour price.</span>
+                    </div>
+                  </div>
+                )}
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                   {/* Included */}

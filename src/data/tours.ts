@@ -397,7 +397,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -426,7 +426,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -464,7 +465,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -493,7 +494,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -535,7 +537,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -564,7 +566,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -602,7 +605,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -631,7 +634,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -669,7 +673,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -697,7 +701,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -802,7 +807,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -831,7 +836,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -873,7 +879,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -902,7 +908,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -940,7 +947,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -969,7 +976,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1007,7 +1015,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -1036,7 +1044,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1074,7 +1083,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -1101,7 +1110,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1143,7 +1153,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan & Abu Simbel",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -1172,7 +1182,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1213,7 +1224,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1240,7 +1251,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
-      "Child safety seat (subject to advance request)"
+      "Child safety seat (subject to advance request)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1281,7 +1293,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1308,7 +1320,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
-      "Child safety seat (subject to advance request)"
+      "Child safety seat (subject to advance request)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1349,7 +1362,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1376,7 +1389,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
-      "Child safety seat (subject to advance request)"
+      "Child safety seat (subject to advance request)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1417,7 +1431,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Private air-conditioned vehicle for your party",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Professional licensed driver",
       "Door-to-door transfer between specified pickup and drop-off points in Luxor",
       "Luggage assistance upon pickup and arrival",
@@ -1444,7 +1458,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Sightseeing stop en route (e.g., Dendera, Kom Ombo, or Edfu) [Requires advance quote]",
       "Licensed Egyptologist guide for en route sightseeing stops [Requires confirmation]",
-      "Child safety seat (subject to advance request)"
+      "Child safety seat (subject to advance request)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1485,7 +1500,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Commercially licensed balloon captain operating under Civil Aviation standards",
       "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
       "Motorboat crossing of the Nile with pre-flight tea and coffee",
@@ -1511,7 +1526,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Private guided ground tour of Valley of the Kings following landing [Requires confirmation]",
-      "Upgrade to private charter balloon basket for couples or families"
+      "Upgrade to private charter balloon basket for couples or families",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1549,7 +1565,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -1578,7 +1594,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1616,7 +1633,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -1645,7 +1662,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -1687,7 +1705,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -1716,7 +1734,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -9266,7 +9285,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -9295,7 +9314,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -9846,7 +9866,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -9875,7 +9895,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -9913,7 +9934,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -9941,7 +9962,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -9979,7 +10001,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10008,7 +10030,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10050,7 +10073,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10079,7 +10102,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10117,7 +10141,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10146,7 +10170,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10188,7 +10213,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10217,7 +10242,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10332,7 +10358,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10361,7 +10387,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10399,7 +10426,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10428,7 +10455,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10466,7 +10494,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10495,7 +10523,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10537,7 +10566,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10566,7 +10595,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10604,7 +10634,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10633,7 +10663,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10671,7 +10702,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10700,7 +10731,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10738,7 +10770,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10767,7 +10799,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10809,7 +10842,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10838,7 +10871,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10880,7 +10914,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10909,7 +10943,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -10947,7 +10982,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -10976,7 +11011,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11014,7 +11050,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11043,7 +11079,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11081,7 +11118,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11108,7 +11145,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11146,7 +11184,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11175,7 +11213,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11213,7 +11252,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11242,7 +11281,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11280,7 +11320,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11309,7 +11349,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11347,7 +11388,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11376,7 +11417,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11414,7 +11456,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11443,7 +11485,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11481,7 +11524,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11510,7 +11553,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11548,7 +11592,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11577,7 +11621,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11615,7 +11660,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11644,7 +11689,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11682,7 +11728,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11711,7 +11757,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11749,7 +11796,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11778,7 +11825,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11816,7 +11864,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11845,7 +11893,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11883,7 +11932,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11912,7 +11961,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -11954,7 +12004,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -11983,7 +12033,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12025,7 +12076,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12054,7 +12105,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12092,7 +12144,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12121,7 +12173,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12159,7 +12212,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12188,7 +12241,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12226,7 +12280,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12255,7 +12309,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12293,7 +12348,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12322,7 +12377,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12360,7 +12416,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12389,7 +12445,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12427,7 +12484,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12456,7 +12513,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12494,7 +12552,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12523,7 +12581,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12561,7 +12620,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12590,7 +12649,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12628,7 +12688,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12657,7 +12717,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12695,7 +12756,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12724,7 +12785,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12762,7 +12824,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Aswan",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12791,7 +12853,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12829,7 +12892,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12858,7 +12921,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12896,7 +12960,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -12925,7 +12989,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -12962,7 +13027,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -12990,7 +13055,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13028,7 +13094,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -13057,7 +13123,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13094,7 +13161,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13122,7 +13189,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13159,7 +13227,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13187,7 +13255,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13224,7 +13293,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Hurghada & Red Sea in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13252,7 +13321,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13363,7 +13433,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -13392,7 +13462,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13429,7 +13500,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13457,7 +13528,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13494,7 +13566,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13522,7 +13594,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13560,7 +13633,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -13589,7 +13662,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13626,7 +13700,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13654,7 +13728,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13691,7 +13766,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13719,7 +13794,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13756,7 +13832,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13784,7 +13860,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13821,7 +13898,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13849,7 +13926,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13886,7 +13964,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13914,7 +13992,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -13951,7 +14030,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -13979,7 +14058,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14016,7 +14096,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14044,7 +14124,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14081,7 +14162,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14109,7 +14190,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14147,7 +14229,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -14176,7 +14258,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14214,7 +14297,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -14243,7 +14326,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14280,7 +14364,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Sharm El Sheikh in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14308,7 +14392,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14346,7 +14431,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -14375,7 +14460,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14412,7 +14498,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14440,7 +14526,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14477,7 +14564,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14505,7 +14592,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14543,7 +14631,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -14572,7 +14660,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14610,7 +14699,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -14639,7 +14728,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14676,7 +14766,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Marsa Alam in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14704,7 +14794,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14742,7 +14833,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -14771,7 +14862,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14809,7 +14901,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -14838,7 +14930,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -14875,7 +14968,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Hotel pickup and return transfer in Dahab in air-conditioned vehicle",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Boat cruise or desert safari transport as detailed in itinerary",
       "Activity equipment (snorkeling mask and fins for sea trips / quad bike for safari)",
       "Professional boat crew or certified safari desert guide",
@@ -14903,7 +14996,8 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "optionalExtras": [
       "Introductory scuba dive with PADI certified instructor",
-      "Professional photography / underwater video package"
+      "Professional photography / underwater video package",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -15091,7 +15185,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Luxor",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -15120,7 +15214,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -15158,7 +15253,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Door-to-door pickup and return from your hotel, private residence, or Nile cruise ship in Cairo & Giza",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -15187,7 +15282,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16255,7 +16351,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16283,7 +16379,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16321,7 +16418,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16349,7 +16446,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16527,7 +16625,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16555,7 +16653,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16593,7 +16692,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16621,7 +16720,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16659,7 +16759,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16687,7 +16787,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16725,7 +16826,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16753,7 +16854,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16795,7 +16897,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16823,7 +16925,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16861,7 +16964,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16889,7 +16992,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16931,7 +17035,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -16959,7 +17063,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -16997,7 +17102,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -17025,7 +17130,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -17063,7 +17169,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -17091,7 +17197,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -17133,7 +17240,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -17161,7 +17268,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -17199,7 +17307,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -17227,7 +17335,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -17269,7 +17378,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -17297,7 +17406,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -17339,7 +17449,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -17367,7 +17477,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {
@@ -17555,7 +17666,7 @@ export const TOURS_DATA: TourItem[] = [
     ],
     "inclusions": [
       "Licensed university-educated Egyptologist tour guide (English-speaking)",
-      "All monument entrance tickets and archaeological site admissions specified in the itinerary (standard entry tickets included)",
+      "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
       "Direct port passenger terminal pickup and return with verified port security clearances and on-time ship return guarantee",
       "Complimentary chilled bottled water in the vehicle during transit",
@@ -17583,7 +17694,8 @@ export const TOURS_DATA: TourItem[] = [
     "optionalExtras": [
       "Traditional Egyptian lunch at a handpicked local restaurant",
       "Camel ride on the Giza desert plateau or felucca sail on the Nile",
-      "Sunrise Hot Air Balloon flight (for Luxor day tours)"
+      "Sunrise Hot Air Balloon flight (for Luxor day tours)",
+      "Special interior chamber entrance tickets (optional upgrade: King Tutankhamun tomb or Great Pyramid interior; standard site entry tickets are already included)"
     ]
   },
   {

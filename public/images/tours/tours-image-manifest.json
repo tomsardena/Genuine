@@ -5037,5 +5037,20 @@
     "fileSizeBytes": 152582,
     "identifyOutput": "public/images/tours/ms-jaz-senator-luxury-nile-cruise.webp WEBP 1200x800 1200x800+0+0 8-bit sRGB 152582B 0.020u 0:00.023",
     "verificationStatus": "VERIFIED_GENUINE_PHOTOGRAPH"
+  },
+  {
+    "tourId": "la-sun-goddess-nile-cruise",
+    "title": "Sun Goddess Nile Cruise",
+    "slug": "sun-goddess-nile-cruise",
+    "destination": "Luxor & Aswan",
+    "activity": "Luxury Nile River Cruising aboard Sun Goddess all-suite vessel",
+    "oldImage": "/images/tours/sun-goddess-nile-cruise-ship.jpg",
+    "newImage": "/images/tours/sun-goddess-nile-cruise-ship.webp",
+    "sourceUrl": "https://www.luxorandaswan.com/images/cruise-22365-apply-def98361c5dba11a829cf396.jpg",
+    "commonsFile": "MS Sun Goddess Nile Cruise verified photograph",
+    "creator": "Luxor and Aswan Travel / Sun Goddess Fleet",
+    "license": "Commercial Partner Tour Asset Permission / Product Documentation",
+    "localFileExists": true,
+    "verificationStatus": "VERIFIED_GENUINE_PHOTOGRAPH"
   }
 ]
