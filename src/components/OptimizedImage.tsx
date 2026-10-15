@@ -15,7 +15,7 @@ export interface OptimizedImageProps extends React.ImgHTMLAttributes<HTMLImageEl
 export const WARM_EGYPT_PLACEHOLDER =
   'data:image/svg+xml;charset=utf-8,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100"%3E%3Cdefs%3E%3ClinearGradient id="eg" x1="0%25" y1="0%25" x2="100%25" y2="100%25"%3E%3Cstop offset="0%25" stop-color="%233a3024"/%3E%3Cstop offset="35%25" stop-color="%236b5335"/%3E%3Cstop offset="70%25" stop-color="%238f6f43"/%3E%3Cstop offset="100%25" stop-color="%232e2316"/%3E%3C/linearGradient%3E%3Cfilter id="b"%3E%3CfeGaussianBlur stdDeviation="8"/%3E%3C/filter%3E%3C/defs%3E%3Crect width="100%25" height="100%25" fill="url(%23eg)"/%3E%3Ccircle cx="80" cy="45" r="28" fill="%23d4a359" opacity="0.3" filter="url(%23b)"/%3E%3Cpolygon points="20,95 65,40 110,95" fill="%234a3b2a" opacity="0.45" filter="url(%23b)"/%3E%3Cpolygon points="85,95 125,50 155,95" fill="%23564532" opacity="0.35" filter="url(%23b)"/%3E%3C/svg%3E';
 
-const DEFAULT_FALLBACK = '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg';
+const DEFAULT_FALLBACK = '/images/placeholder-tour.svg';
 
 export const OptimizedImage: React.FC<OptimizedImageProps> = ({
   src,

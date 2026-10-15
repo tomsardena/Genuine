@@ -280,10 +280,11 @@ export const TOURS_DATA: TourItem[] = [
     "mainImage": "/images/tours/nile-premium-cruise-ship.webp",
     "images": [
       "/images/tours/nile-premium-cruise-ship.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/nile-premium-cruise-deck.webp",
+      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
+      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -357,10 +358,11 @@ export const TOURS_DATA: TourItem[] = [
     "mainImage": "/images/tours/nile-premium-cruise-deck.webp",
     "images": [
       "/images/tours/nile-premium-cruise-deck.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/nile-premium-cruise-deck.webp",
+      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
+      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -997,11 +999,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/luxor-temple-entrance-pylons.webp",
     "images": [
-      "/images/tours/Luxor-Private-Tour-4.webp",
-      "/images/tours/15971782201Luxor-Temple.jpg",
-      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
+      "/images/tours/luxor-temple-entrance-pylons.webp",
+      "/images/tours/karnak-temple-obelisk-ramesses.webp",
       "/images/tours/153191330951396874059karnak-temple-morning.jpg",
-      "/images/gallery/IMG-20261001-WA0011.jpg"
+      "/images/tours/luxor-temple-avenue-of-sphinxes.webp",
+      "/images/tours/luxor-temple-colonnade-hypostyle.webp",
+      "/images/tours/15971782201Luxor-Temple.jpg"
     ],
     "relatedSlugs": [
       "day-tours-luxor-and-aswan-luxor-and-aswan",
@@ -1785,11 +1788,13 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/medinet-habu-temple-luxor.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0014.jpg",
-      "/images/tours/15971782201Luxor-Temple.jpg",
-      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
-      "/images/tours/153191330951396874059karnak-temple-morning.jpg",
-      "/images/tours/Luxor-Private-Tour-4.webp"
+      "/images/tours/medinet-habu-temple-luxor.webp",
+      "/images/tours/valley-of-the-kings-thebes-luxor.webp",
+      "/images/tours/valley-of-kings-tomb-kv9-ramesses-vi.webp",
+      "/images/tours/hatshepsut-temple-luxor.webp",
+      "/images/tours/colossi-of-memnon-luxor-thebes.webp",
+      "/images/gallery/IMG-20261001-WA0011.jpg",
+      "/images/gallery/IMG-20261001-WA0019.jpg"
     ],
     "relatedSlugs": [
       "day-tours-luxor-and-aswan-luxor-and-aswan",
@@ -1863,11 +1868,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-ship-luxor-aswan.webp",
     "images": [
-      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-cruise-ship-luxor-aswan.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -1940,11 +1946,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-sundeck-pool-river.webp",
     "images": [
-      "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -2029,11 +2036,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/deluxe-nile-cruise-ship-river.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -2102,11 +2110,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-ship-aswan-riverbanks.webp",
     "images": [
-      "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-cruise-ship-aswan-riverbanks.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -2179,11 +2188,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-river-cruiser-at-kom-ombo.webp",
     "images": [
-      "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-river-cruiser-at-kom-ombo.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -2268,11 +2278,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/luxury-nile-cruise-ship-upper-egypt.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/luxury-nile-cruise-ship-upper-egypt.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -2357,11 +2368,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/roundtrip-nile-cruise-edfu.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/roundtrip-nile-cruise-edfu.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -2446,11 +2458,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/flexible-nile-cruise-sunset-aswan.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0012.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/flexible-nile-cruise-sunset-aswan.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -3189,11 +3202,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/oberoi-zahra-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/oberoi-zahra-luxury-nile-cruise.webp",
+      "/images/tours/luxury-oberoi-philae-nile-cruise.webp",
+      "/images/tours/luxury-nile-cruise-ship-upper-egypt.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -3282,11 +3296,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0031.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg"
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -3378,11 +3393,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/luxury-egypt-tour-nile-cruiser-temple.webp",
     "images": [
-      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/luxury-egypt-tour-nile-cruiser-temple.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -3467,11 +3483,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/dahabiya-nile-sailing-boat.webp",
     "images": [
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -3555,11 +3572,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/luxury-nile-cruise-package-dusk.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/luxury-nile-cruise-package-dusk.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -3627,11 +3645,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/amoura-dahabiya-nile-river-esna.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/amoura-dahabiya-nile-cruise.webp",
+      "/images/tours/amoura-dahabiya-nile-river-esna.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -3728,11 +3746,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/dahabiya-nile-pyramids-luxury-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/dahabiya-nile-pyramids-luxury-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -4242,11 +4261,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-ship-upper-egypt-waters.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/nile-cruise-ship-upper-egypt-waters.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -4391,11 +4411,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/merit-dahabiya-wooden-yacht-nile.webp",
     "images": [
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/merit-dahabiya-nile-cruise.webp",
+      "/images/tours/merit-dahabiya-wooden-yacht-nile.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -4620,11 +4640,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-felucca-sailing-egypt.webp",
     "images": [
-      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-cruise-felucca-sailing-egypt.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -4774,11 +4795,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/luxor-aswan-cruise-ship-palms.webp",
     "images": [
-      "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/luxor-aswan-cruise-ship-palms.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -4859,11 +4881,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/hurghada-red-sea-resort-coastline.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/hurghada-red-sea-resort-coastline.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -4944,11 +4967,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/alexandria-corniche-stanley-bridge.webp",
     "images": [
-      "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/alexandria-corniche-stanley-bridge.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -5037,11 +5061,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-boat-aswan-high-dam.webp",
     "images": [
-      "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-cruise-boat-aswan-high-dam.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -5207,11 +5232,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/princess-farida-dahabiya-boat-nile.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0031.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg"
+      "/images/tours/princess-farida-luxury-dahabiya-nile-cruise.webp",
+      "/images/tours/princess-farida-dahabiya-boat-nile.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -5291,11 +5316,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-ship-sailing-luxor.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0012.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-cruise-ship-sailing-luxor.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -5384,11 +5410,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/hurghada-coral-reef-snorkeling-red-sea.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0016.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/hurghada-coral-reef-snorkeling-red-sea.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -5607,11 +5634,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/montaza-palace-gardens-alexandria.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/montaza-palace-gardens-alexandria.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -5700,11 +5728,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sharm-el-sheikh-ras-mohammed-red-sea.webp",
     "images": [
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/sharm-el-sheikh-ras-mohammed-red-sea.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -7262,11 +7291,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-feluccas-sailing-at-dusk.webp",
     "images": [
-      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-feluccas-sailing-at-dusk.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -7511,11 +7541,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/hurghada-red-sea-coral-reef-fish.webp",
     "images": [
-      "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/hurghada-red-sea-coral-reef-fish.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -7689,11 +7720,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-cruise-ship-docked-kom-ombo.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-cruise-ship-docked-kom-ombo.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -7786,11 +7818,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/hurghada-desert-safari-quad-sunset.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/hurghada-desert-safari-quad-sunset.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -7978,11 +8011,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/10-day-cairo-nile-cruise-and-alexandria-by-flight.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0016.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/10-day-cairo-nile-cruise-and-alexandria-by-flight.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -8075,11 +8109,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/10-day-round-trip-nile-cruise-and-cairo-tours.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0032.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/10-day-round-trip-nile-cruise-and-cairo-tours.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -8172,11 +8207,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/10-day-cairo-nile-cruise-and-sharm-el-sheikh.webp",
     "images": [
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/10-day-cairo-nile-cruise-and-sharm-el-sheikh.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -8540,11 +8576,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/11-days-cairo-nile-cruise-and-hurghada-by-flight.webp",
     "images": [
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/11-days-cairo-nile-cruise-and-hurghada-by-flight.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -8645,11 +8682,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/12-days-cairo-alexandria-and-nile-cruise-by-flight.webp",
     "images": [
-      "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/12-days-cairo-alexandria-and-nile-cruise-by-flight.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -8746,11 +8784,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/11-days-cairo-nile-cruise-and-sharm-el-sheikh-by-flight.webp",
     "images": [
-      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/11-days-cairo-nile-cruise-and-sharm-el-sheikh-by-flight.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -9061,11 +9100,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/13-day-cairo-nile-cruise-and-hurghada.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/13-day-cairo-nile-cruise-and-hurghada.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -9275,11 +9315,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/13-day-cairo-nile-cruise-and-sharm-el-sheikh.webp",
     "images": [
-      "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/13-day-cairo-nile-cruise-and-sharm-el-sheikh.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -10007,11 +10048,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/14-day-cairo-nile-and-lake-cruise.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/14-day-cairo-nile-and-lake-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -10582,11 +10624,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/cairo-dinner-cruise-and-oriental-show.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/cairo-dinner-cruise-and-oriental-show.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -11229,11 +11272,13 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/private-tour-to-the-west-bank.webp",
     "images": [
-      "/images/tours/153191330951396874059karnak-temple-morning.jpg",
-      "/images/tours/15971782201Luxor-Temple.jpg",
-      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
-      "/images/tours/Luxor-Private-Tour-4.webp",
-      "/images/gallery/IMG-20261001-WA0011.jpg"
+      "/images/tours/private-tour-to-the-west-bank.webp",
+      "/images/tours/valley-of-the-kings-thebes-luxor.webp",
+      "/images/tours/valley-of-kings-tomb-kv9-ramesses-vi.webp",
+      "/images/tours/hatshepsut-temple-luxor.webp",
+      "/images/tours/colossi-of-memnon-luxor-thebes.webp",
+      "/images/gallery/IMG-20261001-WA0011.jpg",
+      "/images/gallery/IMG-20261001-WA0019.jpg"
     ],
     "relatedSlugs": [
       "day-tours-luxor-and-aswan-luxor-and-aswan",
@@ -11303,11 +11348,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/private-tour-to-the-east-bank.webp",
     "images": [
-      "/images/tours/Luxor-Private-Tour-4.webp",
-      "/images/tours/15971782201Luxor-Temple.jpg",
-      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
+      "/images/tours/private-tour-to-the-east-bank.webp",
+      "/images/tours/karnak-temple-obelisk-ramesses.webp",
       "/images/tours/153191330951396874059karnak-temple-morning.jpg",
-      "/images/gallery/IMG-20261001-WA0011.jpg"
+      "/images/tours/luxor-temple-avenue-of-sphinxes.webp",
+      "/images/tours/luxor-temple-colonnade-hypostyle.webp",
+      "/images/tours/15971782201Luxor-Temple.jpg"
     ],
     "relatedSlugs": [
       "day-tours-luxor-and-aswan-luxor-and-aswan",
@@ -11813,11 +11859,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/day-tour-to-ramesseum-temple-habu-temple-and-nobles-valley.webp",
     "images": [
-      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
-      "/images/tours/15971782201Luxor-Temple.jpg",
-      "/images/tours/153191330951396874059karnak-temple-morning.jpg",
-      "/images/tours/Luxor-Private-Tour-4.webp",
-      "/images/gallery/IMG-20261001-WA0011.jpg"
+      "/images/tours/day-tour-to-ramesseum-temple-habu-temple-and-nobles-valley.webp",
+      "/images/tours/medinet-habu-temple-luxor.webp",
+      "/images/tours/medinet-habu-ramesses-iii-reliefs.webp",
+      "/images/tours/ramesseum-mortuary-temple-luxor.webp",
+      "/images/gallery/IMG-20261001-WA0015.jpg",
+      "/images/gallery/IMG-20261001-WA0023.jpg"
     ],
     "relatedSlugs": [
       "day-tours-luxor-and-aswan-luxor-and-aswan",
@@ -11887,11 +11934,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/sound-and-light-show-at-karnak-temples.webp",
     "images": [
+      "/images/tours/sound-and-light-show-at-karnak-temples.webp",
+      "/images/tours/karnak-temple-obelisk-ramesses.webp",
       "/images/tours/153191330951396874059karnak-temple-morning.jpg",
-      "/images/tours/15971782201Luxor-Temple.jpg",
-      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg",
-      "/images/tours/Luxor-Private-Tour-4.webp",
-      "/images/gallery/IMG-20261001-WA0011.jpg"
+      "/images/tours/luxor-temple-avenue-of-sphinxes.webp",
+      "/images/tours/luxor-temple-colonnade-hypostyle.webp",
+      "/images/tours/15971782201Luxor-Temple.jpg"
     ],
     "relatedSlugs": [
       "day-tours-luxor-and-aswan-luxor-and-aswan",
@@ -12623,11 +12671,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Aswan. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/private-tour-to-the-tombs-of-the-nobles.webp",
     "images": [
-      "/images/tours/15319133090Nile-cruise-Aswan-stay-3-.jpg",
-      "/images/tours/1531913309432123675724_c014cef855_b.jpg",
-      "/images/gallery/IMG-20261001-WA0013.jpg",
-      "/images/gallery/IMG-20261001-WA0026.jpg",
-      "/images/gallery/IMG-20261001-WA0027.jpg"
+      "/images/tours/private-tour-to-the-tombs-of-the-nobles.webp",
+      "/images/tours/medinet-habu-temple-luxor.webp",
+      "/images/tours/medinet-habu-ramesses-iii-reliefs.webp",
+      "/images/tours/ramesseum-mortuary-temple-luxor.webp",
+      "/images/gallery/IMG-20261001-WA0015.jpg",
+      "/images/gallery/IMG-20261001-WA0023.jpg"
     ],
     "relatedSlugs": [
       "aswan-airport-private-transfer-hotel-%e2%86%94-airport",
@@ -13787,11 +13836,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/petra-tour-from-sharm-by-cruise.webp",
     "images": [
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/petra-tour-from-sharm-by-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -14123,11 +14173,10 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/mount-sinai-stcatherine-monastery.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0040.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/15974070330pexels-marcel-winger-2445852.jpg",
-      "/images/gallery/IMG-20261001-WA0035.jpg",
-      "/images/gallery/IMG-20261001-WA0036.jpg"
+      "/images/tours/mount-sinai-stcatherine-monastery.webp",
+      "/images/tours/mount-sinai-stcatherine-monastery.webp",
+      "/images/gallery/IMG-20261001-WA0027.jpg",
+      "/images/tours/bedouin-safari-and-star-gazing-tour.webp"
     ],
     "relatedSlugs": [
       "snorkeling-by-boat-to-ras-mohamed",
@@ -14387,11 +14436,10 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Sharm El Sheikh. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/st-catherine-tour-from-sharm.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0035.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/15974070330pexels-marcel-winger-2445852.jpg",
-      "/images/gallery/IMG-20261001-WA0036.jpg",
-      "/images/gallery/IMG-20261001-WA0040.jpg"
+      "/images/tours/st-catherine-tour-from-sharm.webp",
+      "/images/tours/mount-sinai-stcatherine-monastery.webp",
+      "/images/gallery/IMG-20261001-WA0027.jpg",
+      "/images/tours/bedouin-safari-and-star-gazing-tour.webp"
     ],
     "relatedSlugs": [
       "snorkeling-by-boat-to-ras-mohamed",
@@ -15391,11 +15439,10 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Dahab. Flexible pickup time arranged upon booking.",
     "mainImage": "/images/tours/st-catherine-tour-from-dahab.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0041.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/15974070330pexels-marcel-winger-2445852.jpg",
-      "/images/gallery/IMG-20261001-WA0035.jpg",
-      "/images/gallery/IMG-20261001-WA0036.jpg"
+      "/images/tours/st-catherine-tour-from-dahab.webp",
+      "/images/tours/mount-sinai-stcatherine-monastery.webp",
+      "/images/gallery/IMG-20261001-WA0027.jpg",
+      "/images/tours/bedouin-safari-and-star-gazing-tour.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -15462,11 +15509,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/standard-nile-cruises.webp",
     "images": [
-      "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/standard-nile-cruises.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -15539,11 +15587,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/deluxe-nile-cruises.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/deluxe-nile-cruises.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -15748,11 +15797,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/luxury-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0016.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/luxury-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -15820,11 +15870,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/three-pyramids-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0034.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg"
+      "/images/tours/three-pyramids-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-pyramids-luxury-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -15897,11 +15947,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/meroe-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/meroe-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -15982,11 +16033,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sonesta-amirat-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/tours/15974204940boat.jpg",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/sonesta-amirat-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16051,11 +16102,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/princess-farida-luxury-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/princess-farida-luxury-dahabiya-nile-cruise.webp",
+      "/images/tours/princess-farida-dahabiya-boat-nile.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16125,11 +16176,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ultra-deluxe-nile-cruises.webp",
     "images": [
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/ultra-deluxe-nile-cruises.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16197,11 +16249,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/amoura-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0031.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg"
+      "/images/tours/amoura-dahabiya-nile-cruise.webp",
+      "/images/tours/amoura-dahabiya-nile-river-esna.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16274,11 +16326,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/assouan-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0034.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg"
+      "/images/tours/assouan-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16351,11 +16404,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nour-el-nil-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/nour-el-nil-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16420,11 +16474,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/merit-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/tours/15974204940boat.jpg",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/merit-dahabiya-nile-cruise.webp",
+      "/images/tours/merit-dahabiya-wooden-yacht-nile.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16497,11 +16551,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/malouka-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/malouka-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16566,11 +16621,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/abundance-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/abundance-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -16911,11 +16967,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/jasmine-dahabiya-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0018.jpg",
-      "/images/tours/15974204940boat.jpg",
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-_E2_86_92-Luxor.webp",
-      "/images/gallery/IMG-20261001-WA0023.jpg",
-      "/images/gallery/IMG-20261001-WA0031.jpg"
+      "/images/tours/jasmine-dahabiya-nile-cruise.webp",
+      "/images/tours/dahabiya-nile-sailing-boat.webp",
+      "/images/tours/luxury-dahabiya-nile-cruise-sailing.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg",
+      "/images/gallery/IMG-20261001-WA0013.jpg",
+      "/images/gallery/IMG-20261001-WA0028.jpg"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -17943,11 +18000,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nebu-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nebu-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18016,11 +18074,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/farah-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/farah-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18160,11 +18219,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-amwaj-living-stone.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0016.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-amwaj-living-stone.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18435,11 +18495,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-salacia-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/ms-salacia-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18621,11 +18682,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/15-day-egypt-and-jordan-tours-cairo-nile-cruise-and-dahab.webp",
     "images": [
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/15-day-egypt-and-jordan-tours-cairo-nile-cruise-and-dahab.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18726,11 +18788,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/12-day-egypt-nile-cruise-and-jordan-tour.webp",
     "images": [
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/12-day-egypt-nile-cruise-and-jordan-tour.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18799,11 +18862,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-royal-terrasse-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-royal-terrasse-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18872,11 +18936,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/salima-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/salima-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -18945,11 +19010,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-esplanade-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-esplanade-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19018,11 +19084,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/farida-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/farida-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19091,11 +19158,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/al-hambra-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/al-hambra-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19164,11 +19232,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/blue-shadow-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/blue-shadow-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19237,11 +19306,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/alyssa-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/alyssa-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19310,11 +19380,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sonesta-st-george-i-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/sonesta-st-george-i-nile-cruise.webp",
+      "/images/tours/sonesta-star-goddess-luxury-nile-cruise.webp",
+      "/images/tours/sonesta-st-george-i-nile-cruise.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19383,11 +19454,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sonesta-moon-goddess-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/sonesta-moon-goddess-nile-cruise.webp",
+      "/images/tours/sonesta-star-goddess-luxury-nile-cruise.webp",
+      "/images/tours/sonesta-st-george-i-nile-cruise.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19456,11 +19528,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/movenpick-royal-lotus-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0012.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/movenpick-royal-lotus-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lily-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lotus-nile-cruise.webp",
+      "/images/tours/movenpick-ms-sun-ray-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19529,11 +19601,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/moon-dance-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0016.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/moon-dance-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19602,11 +19675,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/tulip-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0032.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/tulip-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19675,11 +19749,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/movenpick-royal-lily-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/movenpick-royal-lily-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lily-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lotus-nile-cruise.webp",
+      "/images/tours/movenpick-ms-sun-ray-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19748,11 +19822,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/iberotel-crown-empress-cruise.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/iberotel-crown-empress-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19821,11 +19896,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-mayflower-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/ms-mayflower-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19894,11 +19970,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/iberotel-crown-emperor-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/iberotel-crown-emperor-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -19967,11 +20044,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/acamar-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/acamar-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20040,11 +20118,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/al-kahinile-cruise.webp",
     "images": [
-      "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/al-kahinile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20113,11 +20192,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/steigenberger-minerva-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/steigenberger-minerva-nile-cruise.webp",
+      "/images/tours/steigenberger-legacy-nile-cruise.webp",
+      "/images/tours/steigenberger-minerva-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20186,11 +20266,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/esmeralda-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/esmeralda-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20259,11 +20340,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sabena-al-jaminile-cruise.webp",
     "images": [
-      "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/sabena-al-jaminile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20332,11 +20414,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/concerto-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/concerto-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20405,11 +20488,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-mayfair-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-mayfair-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20478,11 +20562,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/movenpick-ms-sun-ray-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/movenpick-ms-sun-ray-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lily-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lotus-nile-cruise.webp",
+      "/images/tours/movenpick-ms-sun-ray-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20551,11 +20635,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-nile-goddess-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-nile-goddess-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20624,11 +20709,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/crown-prince-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/crown-prince-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20697,11 +20783,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/steigenberger-legacy-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0012.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/steigenberger-legacy-nile-cruise.webp",
+      "/images/tours/steigenberger-legacy-nile-cruise.webp",
+      "/images/tours/steigenberger-minerva-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20770,11 +20857,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/le-fayan-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0016.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/le-fayan-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20843,11 +20931,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/jaz-crown-jewel-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0032.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/jaz-crown-jewel-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20916,11 +21005,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-alexander-the-great-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/ms-alexander-the-great-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -20989,11 +21079,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/movenpick-ms-hamees-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/movenpick-ms-hamees-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lily-nile-cruise.webp",
+      "/images/tours/movenpick-royal-lotus-nile-cruise.webp",
+      "/images/tours/movenpick-ms-sun-ray-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21062,11 +21152,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/princess-sarah-ii-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/princess-sarah-ii-nile-cruise.webp",
+      "/images/tours/princess-sarah-ii-nile-cruise.webp",
+      "/images/tours/nile-cruise-ship-docked-kom-ombo.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21135,11 +21225,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-nile-style-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/ms-nile-style-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21208,11 +21299,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/royal-esadora-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/royal-esadora-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21281,11 +21373,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/princess-sarah-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/princess-sarah-nile-cruise.webp",
+      "/images/tours/princess-sarah-ii-nile-cruise.webp",
+      "/images/tours/nile-cruise-ship-docked-kom-ombo.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21354,11 +21446,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/radamis-ii-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/radamis-ii-nile-cruise.webp",
+      "/images/tours/radamis-ii-nile-cruise.webp",
+      "/images/tours/ms-radamis-i-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/kom-ombo-temple-sobek-haroeris.webp",
+      "/images/tours/edfu-temple-court-of-offerings-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21427,11 +21520,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/royal-princess-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/royal-princess-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21500,11 +21594,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/tower-prestige-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070215Nile-Premium-Nile-cruise18-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/tower-prestige-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21573,11 +21668,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-radamis-i-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070216Nile-Premium-Nile-cruise21-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-radamis-i-nile-cruise.webp",
+      "/images/tours/radamis-ii-nile-cruise.webp",
+      "/images/tours/ms-radamis-i-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/kom-ombo-temple-sobek-haroeris.webp",
+      "/images/tours/edfu-temple-court-of-offerings-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21646,11 +21742,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-medea-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070217Nile-Premium-Nile-cruise23-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-medea-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21719,11 +21816,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/nile-quest-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070218Nile-Premium-Nile-cruise22-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/nile-quest-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21792,11 +21890,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-semramis-ii.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Aswan-3.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-semramis-ii.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21865,11 +21964,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/grand-rose-nile-cruise.webp",
     "images": [
-      "/images/tours/Nile-Cruise-_E2_80_93-Luxor-_E2_86_92-Aswan-10.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/grand-rose-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -21938,11 +22038,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-zeina-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0012.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-zeina-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22011,11 +22112,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-nile-dolphin.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0016.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-nile-dolphin.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22084,11 +22186,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-miriam-nile-cruise.webp",
     "images": [
-      "/images/gallery/IMG-20261001-WA0032.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-miriam-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22161,11 +22264,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/luxury-oberoi-philae-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/luxury-oberoi-philae-nile-cruise.webp",
+      "/images/tours/luxury-oberoi-philae-nile-cruise.webp",
+      "/images/tours/luxury-nile-cruise-ship-upper-egypt.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22238,11 +22342,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sanctuary-sun-boat-iv-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/sanctuary-sun-boat-iv-luxury-nile-cruise.webp",
+      "/images/tours/sanctuary-sun-boat-iii-luxury-nile-cruise.webp",
+      "/images/tours/sanctuary-sun-boat-iv-luxury-nile-cruise.webp",
+      "/images/tours/luxury-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22315,11 +22419,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sanctuary-nile-adventurer-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/sanctuary-nile-adventurer-luxury-nile-cruise.webp",
+      "/images/tours/sanctuary-sun-boat-iii-luxury-nile-cruise.webp",
+      "/images/tours/sanctuary-sun-boat-iv-luxury-nile-cruise.webp",
+      "/images/tours/luxury-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22392,11 +22496,11 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sanctuary-sun-boat-iii-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg"
+      "/images/tours/sanctuary-sun-boat-iii-luxury-nile-cruise.webp",
+      "/images/tours/sanctuary-sun-boat-iii-luxury-nile-cruise.webp",
+      "/images/tours/sanctuary-sun-boat-iv-luxury-nile-cruise.webp",
+      "/images/tours/luxury-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22465,11 +22569,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/oberoi-zahra-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833978Royal-Ruby-Nile-Cruise9-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/oberoi-zahra-luxury-nile-cruise.webp",
+      "/images/tours/luxury-oberoi-philae-nile-cruise.webp",
+      "/images/tours/luxury-nile-cruise-ship-upper-egypt.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22538,11 +22643,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-tosca-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/16053833977Royal-Ruby-Nile-Cruise8-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-tosca-luxury-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22611,11 +22717,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/sonesta-star-goddess-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070213Nile-Premium-Nile-cruise14-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/sonesta-star-goddess-luxury-nile-cruise.webp",
+      "/images/tours/sonesta-star-goddess-luxury-nile-cruise.webp",
+      "/images/tours/sonesta-st-george-i-nile-cruise.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22684,11 +22791,12 @@ export const TOURS_DATA: TourItem[] = [
     "meetingPoint": "Complimentary VIP meet-and-assist at Luxor or Aswan airport, railway station, or local hotel with direct private transfer to your cruise ship embarkation dock.",
     "mainImage": "/images/tours/ms-jaz-senator-luxury-nile-cruise.webp",
     "images": [
-      "/images/tours/160539070214Nile-Premium-Nile-cruise15-600x540.jpg",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg",
-      "/images/tours/160538339711Royal-Ruby-Nile-Cruise13-600x540.jpg",
-      "/images/tours/160538339710Royal-Ruby-Nile-Cruise12-600x540.jpg",
-      "/images/tours/16053833979Royal-Ruby-Nile-Cruise11-600x540.jpg"
+      "/images/tours/ms-jaz-senator-luxury-nile-cruise.webp",
+      "/images/tours/deluxe-nile-cruise-ship-river.webp",
+      "/images/tours/nile-cruise-sundeck-pool-river.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp",
+      "/images/tours/edfu-temple-of-horus.webp",
+      "/images/tours/philae-temple-isis-island-aswan.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-3-nights-4-days",
@@ -22763,10 +22871,11 @@ export const TOURS_DATA: TourItem[] = [
     "mainImage": "/images/tours/sun-goddess-nile-cruise-ship.webp",
     "images": [
       "/images/tours/sun-goddess-nile-cruise-ship.webp",
+      "/images/tours/sun-goddess-nile-cruise-lounge.webp",
       "/images/tours/sun-goddess-nile-cruise-suite.webp",
       "/images/tours/sun-goddess-nile-cruise-sundeck.webp",
-      "/images/tours/sun-goddess-nile-cruise-lounge.webp",
-      "/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
+      "/images/tours/sonesta-star-goddess-luxury-nile-cruise.webp",
+      "/images/tours/kom-ombo-temple-nile-overlook.webp"
     ],
     "relatedSlugs": [
       "royal-ruby-nile-cruise-4-nights-5-days",
@@ -23091,9 +23200,9 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Flexible morning or afternoon departure arranged upon booking.",
-    "mainImage": "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
+    "mainImage": "/images/tours/grand-egyptian-museum-gem-atrium.webp",
     "images": [
-      "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
+      "/images/tours/grand-egyptian-museum-gem-atrium.webp",
       "/images/tours/giza-pyramids-sphinx-half-day.webp",
       "/images/tours/saladin-citadel-cairo-cityscape.webp"
     ],
@@ -23165,11 +23274,11 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping and souvenirs"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Flexible morning departure arranged upon booking.",
-    "mainImage": "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
+    "mainImage": "/images/tours/national-museum-of-egyptian-civilization-nmec.webp",
     "images": [
-      "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
-      "/images/tours/saladin-citadel-cairo-cityscape.webp",
-      "/images/gallery/IMG-20261001-WA0011.jpg"
+      "/images/tours/national-museum-of-egyptian-civilization-nmec.webp",
+      "/images/tours/cairo-museum-antiquities-tahrir.webp",
+      "/images/tours/saladin-citadel-cairo-cityscape.webp"
     ],
     "relatedSlugs": [
       "cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo",
@@ -23239,11 +23348,11 @@ export const TOURS_DATA: TourItem[] = [
       "Personal purchases"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Flexible morning or late afternoon departure arranged upon booking.",
-    "mainImage": "/images/tours/saladin-citadel-cairo-cityscape.webp",
+    "mainImage": "/images/tours/cairo-tower-zamalek-gezirah.webp",
     "images": [
-      "/images/tours/saladin-citadel-cairo-cityscape.webp",
-      "/images/tours/15974198080cairo.jpg",
-      "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg"
+      "/images/tours/cairo-tower-zamalek-gezirah.webp",
+      "/images/tours/islamic-cairo-khan-el-khalili-street.webp",
+      "/images/tours/15974198080cairo.jpg"
     ],
     "relatedSlugs": [
       "cairo-layover-city-break",
@@ -23462,11 +23571,11 @@ export const TOURS_DATA: TourItem[] = [
       "Personal insurance and expenses"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Scheduled for late afternoon (approx. 3:30\u20134:30 PM depending on season).",
-    "mainImage": "/images/tours/giza-pyramids-plateau-cairo.webp",
+    "mainImage": "/images/gallery/IMG-20261001-WA0039.jpg",
     "images": [
-      "/images/tours/giza-pyramids-plateau-cairo.webp",
-      "/images/tours/giza-pyramids-sphinx-half-day.webp",
-      "/images/gallery/IMG-20261001-WA0013.jpg"
+      "/images/gallery/IMG-20261001-WA0039.jpg",
+      "/images/gallery/IMG-20261001-WA0040.jpg",
+      "/images/tours/giza-pyramids-plateau-cairo.webp"
     ],
     "relatedSlugs": [
       "giza-pyramids-and-the-sphinx-half-day-tour",
@@ -23536,11 +23645,11 @@ export const TOURS_DATA: TourItem[] = [
       "Personal shopping, camera permits, and personal extras"
     ],
     "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible morning departure arranged upon booking.",
-    "mainImage": "/images/tours/abu-simbel-nefertari-hathor-temple.webp",
+    "mainImage": "/images/tours/tomb-of-queen-nefertari-qv66-luxor.webp",
     "images": [
-      "/images/tours/abu-simbel-nefertari-hathor-temple.webp",
-      "/images/tours/valley-of-the-kings-thebes-luxor.webp",
-      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg"
+      "/images/tours/tomb-of-queen-nefertari-qv66-luxor.webp",
+      "/images/gallery/IMG-20261001-WA0011.jpg",
+      "/images/tours/valley-of-the-kings-thebes-luxor.webp"
     ],
     "relatedSlugs": [
       "egypts-valley-of-the-kings-queens-half-day-private-tour",

@@ -42,7 +42,7 @@ export const DESTINATIONS_DATA: Destination[] = [
     slug: 'nile-river',
     tagline: 'The Lifeline of Egypt from Luxor to Aswan',
     description: 'Sailing the majestic River Nile is the classic way to experience Upper Egypt. Relax on luxury ships like the Royal Ruby and Nile Premium while docking right at the monumental temples of Kom Ombo, Edfu, and Esna.',
-    image: '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
+    image: '/images/tours/nile-cruise-ship-luxor-aswan.webp',
     highlights: [
       'Luxurious 3-night, 4-night, and 7-night cruise itineraries',
       'Temple of Horus at Edfu, the best-preserved temple in Egypt',

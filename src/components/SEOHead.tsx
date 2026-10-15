@@ -22,7 +22,7 @@ export const SEOHead: React.FC<SEOHeadProps> = ({
   title,
   description,
   canonicalPath = '',
-  ogImage = '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
+  ogImage = '/images/6ebc7c41-a104-4c52-92eb-29654c8c63a8.jpg',
   ogImageAlt,
   ogType = 'website',
   keywords,

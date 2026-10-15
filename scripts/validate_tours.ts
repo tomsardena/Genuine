@@ -92,6 +92,9 @@ TOURS_DATA.forEach(t => {
 
 // 5. Verify all Image assets actually exist on disk in public/
 let checkedImagesCount = 0;
+let crossVesselErrors = 0;
+let destinationMismatches = 0;
+
 TOURS_DATA.forEach(t => {
   const allImages = [t.mainImage, ...(t.images || [])];
   allImages.forEach(imgPath => {
@@ -102,7 +105,79 @@ TOURS_DATA.forEach(t => {
       errorsCount++;
     }
   });
+
+  const titleLower = t.title.toLowerCase();
+
+  // Cross-vessel audit: No non-Royal Ruby cruise may use Royal Ruby images
+  if (t.category === 'Nile Cruises' && !titleLower.includes('ruby')) {
+    const hasRuby = allImages.some(img => img.toLowerCase().includes('royal-ruby'));
+    if (hasRuby) {
+      console.error(`[ERROR] Cross-vessel image misuse: Non-Ruby cruise "${t.title}" (${t.id}) contains Royal Ruby photographs.`);
+      errorsCount++;
+      crossVesselErrors++;
+    }
+  }
+
+  // Dahabiya audit: Dahabiyas must use authentic sailboats, not large motor cruisers
+  if (t.category === 'Dahabiya Nile Cruises') {
+    const hasCruiser = allImages.some(img => img.toLowerCase().includes('royal-ruby') || img.toLowerCase().includes('aswan-_e2_86_92-luxor.webp'));
+    if (hasCruiser) {
+      console.error(`[ERROR] Dahabiya sailboat "${t.title}" (${t.id}) contains large motor cruise ship photograph.`);
+      errorsCount++;
+      crossVesselErrors++;
+    }
+  }
+
+  // East Bank vs West Bank audit in Luxor
+  if (t.id === 'la-private-tour-to-the-east-bank' || t.id === 'tour-13') {
+    const hasValleyOfKings = allImages.some(img => img.toLowerCase().includes('valley_of_the_kings') || img.toLowerCase().includes('valley-of-the-kings'));
+    if (hasValleyOfKings) {
+      console.error(`[ERROR] East Bank tour "${t.title}" (${t.id}) contains West Bank Valley of the Kings image.`);
+      errorsCount++;
+      destinationMismatches++;
+    }
+  }
+  if (t.id === 'la-private-tour-to-the-west-bank') {
+    const hasKarnakOrLuxor = allImages.some(img => img.toLowerCase().includes('karnak') || img.toLowerCase().includes('luxor-temple'));
+    if (hasKarnakOrLuxor) {
+      console.error(`[ERROR] West Bank tour "${t.title}" (${t.id}) contains East Bank Karnak/Luxor temple image.`);
+      errorsCount++;
+      destinationMismatches++;
+    }
+  }
 });
+
+// 5b. Verify Global Fallback in OptimizedImage.tsx
+const optImgPath = path.join(rootDir, 'src', 'components', 'OptimizedImage.tsx');
+if (fs.existsSync(optImgPath)) {
+  const optImgContent = fs.readFileSync(optImgPath, 'utf8');
+  if (optImgContent.includes('Royal-Ruby-Nile-Cruise')) {
+    console.error(`[ERROR] OptimizedImage.tsx still contains Royal Ruby cruise photo as fallback!`);
+    errorsCount++;
+  }
+  if (!optImgContent.includes('/images/placeholder-tour.svg')) {
+    console.error(`[ERROR] OptimizedImage.tsx does not use neutral /images/placeholder-tour.svg as fallback!`);
+    errorsCount++;
+  }
+}
+
+// 5c. Verify Image Manifest
+const imgManifestPath = path.join(rootDir, 'src', 'data', 'image_manifest.json');
+if (!fs.existsSync(imgManifestPath)) {
+  console.error(`[ERROR] Missing master image manifest at ${imgManifestPath}`);
+  errorsCount++;
+} else {
+  try {
+    const imgManifest = JSON.parse(fs.readFileSync(imgManifestPath, 'utf8'));
+    if (!imgManifest.images || !Array.isArray(imgManifest.images) || imgManifest.images.length === 0) {
+      console.error(`[ERROR] Image manifest has no documented images`);
+      errorsCount++;
+    }
+  } catch (err: any) {
+    console.error(`[ERROR] Corrupt image manifest: ${err.message}`);
+    errorsCount++;
+  }
+}
 
 // 6. Verify Absence of Unsupported Blanket Claims
 TOURS_DATA.forEach(t => {

@@ -319,8 +319,8 @@ const CATEGORIES_DATA: QuickAccessCategory[] = [
         badge: '★ Family Friendly',
         tagline: 'Spacious private vehicles, child-friendly Egyptologist storytellers, and flexible rest breaks.',
         href: '/contact',
-        image: '/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg',
-        alt: 'Family cruise and travel in Egypt',
+        image: '/images/gallery/IMG-20261001-WA0027.jpg',
+        alt: 'Family and small group travel in Egypt',
         count: 'Tailored for You',
         isCustomAction: true,
         highlights: ['Kid-engaging history guides', 'Comfortable family minivans', 'Private group pricing']

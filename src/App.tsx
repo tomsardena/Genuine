@@ -125,7 +125,7 @@ function AppContent() {
         title="Private Dahabiya Nile Cruises"
         subtitle="Exclusive Traditional Sailboats"
         description="Experience the magic of the River Nile on a traditional twin-sailed Dahabiya (Princess Farida, Three Pyramids, Sonesta Amirat, etc.). Small private groups, access to secluded riverbanks, and authentic gourmet dining."
-        heroImage="/images/tours/160538339712Royal-Ruby-Nile-Cruise10-600x540.jpg"
+        heroImage="/images/tours/luxury-dahabiya-nile-cruise-sailing.webp"
         canonicalPath="/dahabiya-cruises"
       />
     );
