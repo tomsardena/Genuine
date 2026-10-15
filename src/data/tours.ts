@@ -83,7 +83,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the Royal Ruby Nile Cruise 3 Nights 4 days with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard Royal Ruby Nile Cruise 3 Nights 4 days, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -97,7 +97,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -156,7 +156,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Nights 5 days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the Royal Ruby Nile Cruise 4 Nights 5 days with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard Royal Ruby Nile Cruise 4 Nights 5 days, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -233,7 +233,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights / 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the Nile Premium Nile cruise 04 Days / 03 Nights with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard Nile Premium Nile cruise 04 Days / 03 Nights, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -247,7 +247,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -306,7 +306,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Nights / 5 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the Nile Premium Nile cruise 5 Days / 04 Nights Program (Every Monday) with private Egyptologist shore guiding, full-board gourmet.",
     "overview": "Embark on an unforgettable river voyage aboard Nile Premium Nile cruise 5 Days / 04 Nights Program (Every Monday), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -381,14 +381,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Giza Pyramids And The Sphinx Half Day Tour",
     "category": "Cairo & Giza Tours",
     "destination": "Cairo & Giza",
-    "duration": "Half Day (Approx. 4–5 Hours)",
+    "duration": "Half Day (Approx. 4\u20135 Hours)",
     "price": 60,
     "priceNote": "Provisional starting price per adult for private tour with licensed Egyptologist guide.",
     "featured": true,
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Giza Pyramids And The Sphinx Half Day Tour. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -401,7 +401,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -459,14 +459,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Cairo Layover City Break",
     "category": "Cairo & Giza Tours",
     "destination": "Cairo & Giza",
-    "duration": "Flexible (4–8 Hours Custom Pacing)",
+    "duration": "Flexible (4\u20138 Hours Custom Pacing)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Cairo Layover City Break. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -475,7 +475,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -527,14 +527,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Half Day Tour of Garbage City and Saint Samaan Cave Church and City of the Dead",
     "category": "Cairo & Giza Tours",
     "destination": "Cairo & Giza",
-    "duration": "Half Day (Approx. 4–5 Hours)",
+    "duration": "Half Day (Approx. 4\u20135 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover Saint Simon Cave Church at Mokattam with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Half Day Tour of Garbage City and Saint Samaan Cave Church and City of the Dead. This carefully planned private excursion guides you through Saint Simon Cave Church at Mokattam, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Saint Simon Cave Church at Mokattam",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -547,7 +547,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -599,14 +599,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Memphis Saqqara and Dahshur Private Full Day Tour",
     "category": "Cairo & Giza Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the Step Pyramid of Djoser at Saqqara with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Memphis Saqqara and Dahshur Private Full Day Tour. This carefully planned private excursion guides you through the Step Pyramid of Djoser at Saqqara, as well as the ancient capital of Memphis, as well as the Bent and Red Pyramids at Dahshur, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Step Pyramid of Djoser at Saqqara and the ancient capital of Memphis",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -615,7 +615,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -667,14 +667,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Alexandria full day tour from Cairo to explore",
     "category": "Cairo & Giza Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 79,
     "priceNote": "Provisional starting price per adult for private Alexandria full-day tour from Cairo.",
     "featured": false,
     "shortDescription": "Discover the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with a private licensed Egyptologist guide and door-to-door.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Alexandria full day tour from Cairo to explore. This carefully planned private excursion guides you through the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -683,7 +683,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -742,12 +742,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "3 Days / 2 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the 3 days tours luxor and aswan Luxor and Aswan. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -756,7 +756,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -807,14 +807,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Luxor's West & East Side Highlights",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 130,
     "priceNote": "Provisional starting price per adult for private full-day East & West Bank highlights tour.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor's West & East Side Highlights. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -823,7 +823,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -881,14 +881,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Egypt's Valley of the Kings & Queens",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Half Day (Approx. 4–5 Hours)",
+    "duration": "Half Day (Approx. 4\u20135 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the royal rock-cut tombs of the Valley of the Kings with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Egypt's Valley of the Kings & Queens. Centered in ancient Thebes, this private tour explores the royal rock-cut tombs of the Valley of the Kings, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the royal rock-cut tombs of the Valley of the Kings",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -901,11 +901,11 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Royal Valley of the Kings",
-        "description": "Descend into three selected pharaonic burial chambers deeply carved into the limestone hills. Admire the astonishingly vivid astronomical and funerary wall reliefs that have survived for over 3,000 years. Optional: King Tutankhamun’s burial chamber."
+        "description": "Descend into three selected pharaonic burial chambers deeply carved into the limestone hills. Admire the astonishingly vivid astronomical and funerary wall reliefs that have survived for over 3,000 years. Optional: King Tutankhamun\u2019s burial chamber."
       },
       {
         "title": "Stop 3: Mortuary Temple of Queen Hatshepsut at Deir el-Bahari",
-        "description": "Visit the magnificent three-tiered terraced temple dedicated to Egypt’s greatest female pharaoh, built seamlessly against the towering cliffs of Deir el-Bahari, featuring the famous Punt trading expedition reliefs."
+        "description": "Visit the magnificent three-tiered terraced temple dedicated to Egypt\u2019s greatest female pharaoh, built seamlessly against the towering cliffs of Deir el-Bahari, featuring the famous Punt trading expedition reliefs."
       },
       {
         "title": "Stop 4: The Colossi of Memnon & Return Transfer",
@@ -953,14 +953,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Explore the legendary Karnak and Luxor temple",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Half Day (Approx. 4–5 Hours)",
+    "duration": "Half Day (Approx. 4\u20135 Hours)",
     "price": 55,
     "priceNote": "Provisional starting price per adult for private East Bank tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Explore Karnak Temple Complex with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Explore the legendary Karnak and Luxor temple. Centered in ancient Thebes, this private tour explores Karnak Temple Complex, as well as Luxor Temple on the Nile Corniche, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Karnak Temple Complex and Luxor Temple on the Nile Corniche",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -969,7 +969,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -1027,14 +1027,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "From Luxor to Dendera & Abydos",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 140,
     "priceNote": "Provisional starting price per adult for private full-day Dendera & Abydos temples tour.",
     "featured": false,
     "shortDescription": "Explore the astronomical sanctuaries of Dendera and Abydos with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the From Luxor to Dendera & Abydos. Centered in ancient Thebes, this private tour explores the astronomical sanctuaries of Dendera and Abydos, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the astronomical sanctuaries of Dendera and Abydos",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -1043,7 +1043,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -1101,14 +1101,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "private day tour to edfu and komombo temples from luxor",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 80,
     "priceNote": "Provisional starting price per adult for private day tour to Edfu & Kom Ombo temples.",
     "featured": false,
     "shortDescription": "Explore the Temple of Horus at Edfu with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the private day tour to edfu and komombo temples from luxor. Centered in ancient Thebes, this private tour explores the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Temple of Horus at Edfu and the riverside double temple of Kom Ombo",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -1117,7 +1117,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -1173,14 +1173,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day-trip to Abu Simbel, UNESCO World Heritage Site, from Aswan",
     "category": "Abu Simbel Excursions",
     "destination": "Aswan & Abu Simbel",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Discover the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day-trip to Abu Simbel, UNESCO World Heritage Site, from Aswan. This private journey takes you through the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -1197,11 +1197,11 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 3: The Temple of Hathor and Queen Nefertari",
-        "description": "Explore the companion temple dedicated to Ramses’ beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen’s statues stand at equal height to the king—an extraordinary tribute in pharaonic art."
+        "description": "Explore the companion temple dedicated to Ramses\u2019 beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen\u2019s statues stand at equal height to the king\u2014an extraordinary tribute in pharaonic art."
       },
       {
         "title": "Stop 4: UNESCO Salvage Exhibition & Return Drive to Aswan",
-        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser’s rising waters. Relax on your private drive back to Aswan."
+        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser\u2019s rising waters. Relax on your private drive back to Aswan."
       }
     ],
     "inclusions": [
@@ -1245,15 +1245,15 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Hot-Air Balloon Tour in Luxor with Hotel Transfers",
     "category": "Hot Air Balloon",
     "destination": "Luxor",
-    "duration": "Approx. 3 Hours (45–60 Min Flight)",
+    "duration": "Approx. 3 Hours (45\u201360 Min Flight)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Drift over Luxor's West Bank at sunrise on the Hot-Air Balloon Tour in Luxor with Hotel Transfers, marveling at the Valley of the Kings, Hatshepsut Temple, and.",
     "overview": "Take to the dawn skies on the Hot-Air Balloon Tour in Luxor with Hotel Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
       "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
-      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Panoramic bird\u2019s-eye views of the Valley of the Kings and Hatshepsut Temple",
       "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
       "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
@@ -1267,8 +1267,8 @@ export const TOURS_DATA: TourItem[] = [
         "description": "Arrive at the official Civil Aviation launch field on the West Bank. Meet your certified commercial hot air balloon pilot and watch the ground crew inflate the mammoth envelope before stepping into the sturdy passenger basket."
       },
       {
-        "title": "Stop 3: 45–60 Minute Sunrise Flight over Ancient Thebes",
-        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut’s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
+        "title": "Stop 3: 45\u201360 Minute Sunrise Flight over Ancient Thebes",
+        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut\u2019s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
       },
       {
         "title": "Stop 4: Gentle Touchdown, Flight Certificates & Return Transfer",
@@ -1314,15 +1314,15 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Premium Sunrise Hot Air Balloon Tour in Luxor with Photos, Video & Hotel Transfers",
     "category": "Hot Air Balloon",
     "destination": "Luxor",
-    "duration": "Approx. 3 Hours (45–60 Min Flight)",
+    "duration": "Approx. 3 Hours (45\u201360 Min Flight)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Drift over Luxor's West Bank at sunrise on the Premium Sunrise Hot Air Balloon Tour in Luxor with Photos, Video & Hotel Transfers, marveling at the Valley of the.",
     "overview": "Take to the dawn skies on the Premium Sunrise Hot Air Balloon Tour in Luxor with Photos, Video & Hotel Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
       "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
-      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Panoramic bird\u2019s-eye views of the Valley of the Kings and Hatshepsut Temple",
       "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
       "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
@@ -1336,8 +1336,8 @@ export const TOURS_DATA: TourItem[] = [
         "description": "Arrive at the official Civil Aviation launch field on the West Bank. Meet your certified commercial hot air balloon pilot and watch the ground crew inflate the mammoth envelope before stepping into the sturdy passenger basket."
       },
       {
-        "title": "Stop 3: 45–60 Minute Sunrise Flight over Ancient Thebes",
-        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut’s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
+        "title": "Stop 3: 45\u201360 Minute Sunrise Flight over Ancient Thebes",
+        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut\u2019s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
       },
       {
         "title": "Stop 4: Gentle Touchdown, Flight Certificates & Return Transfer",
@@ -1383,7 +1383,7 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Valley of The Kings Guided Tour with Sunrise Hot Air Balloon & Round-Trip Hotel Transfers",
     "category": "Hot Air Balloon",
     "destination": "Luxor",
-    "duration": "Approx. 3 Hours (45–60 Min Flight)",
+    "duration": "Approx. 3 Hours (45\u201360 Min Flight)",
     "price": 120,
     "priceNote": "Provisional starting price per adult for West Bank guided tour combined with sunrise hot-air balloon flight.",
     "featured": true,
@@ -1391,7 +1391,7 @@ export const TOURS_DATA: TourItem[] = [
     "overview": "Take to the dawn skies on the Valley of The Kings Guided Tour with Sunrise Hot Air Balloon & Round-Trip Hotel Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon the royal rock-cut tombs of the Valley of the Kings, as well as a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
       "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
-      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Panoramic bird\u2019s-eye views of the Valley of the Kings and Hatshepsut Temple",
       "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
       "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
@@ -1405,8 +1405,8 @@ export const TOURS_DATA: TourItem[] = [
         "description": "Arrive at the official Civil Aviation launch field on the West Bank. Meet your certified commercial hot air balloon pilot and watch the ground crew inflate the mammoth envelope before stepping into the sturdy passenger basket."
       },
       {
-        "title": "Stop 3: 45–60 Minute Sunrise Flight over Ancient Thebes",
-        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut’s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
+        "title": "Stop 3: 45\u201360 Minute Sunrise Flight over Ancient Thebes",
+        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut\u2019s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
       },
       {
         "title": "Stop 4: Gentle Touchdown, Flight Certificates & Return Transfer",
@@ -1458,15 +1458,15 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Full Day Guided Tour of Luxor with Hot Air Balloon, Lunch & Transfers",
     "category": "Hot Air Balloon",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Drift over Luxor's West Bank at sunrise on the Full Day Guided Tour of Luxor with Hot Air Balloon, Lunch & Transfers, marveling at the Valley of the Kings.",
     "overview": "Take to the dawn skies on the Full Day Guided Tour of Luxor with Hot Air Balloon, Lunch & Transfers, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
       "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
-      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Panoramic bird\u2019s-eye views of the Valley of the Kings and Hatshepsut Temple",
       "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
       "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
@@ -1480,8 +1480,8 @@ export const TOURS_DATA: TourItem[] = [
         "description": "Arrive at the official Civil Aviation launch field on the West Bank. Meet your certified commercial hot air balloon pilot and watch the ground crew inflate the mammoth envelope before stepping into the sturdy passenger basket."
       },
       {
-        "title": "Stop 3: 45–60 Minute Sunrise Flight over Ancient Thebes",
-        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut’s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
+        "title": "Stop 3: 45\u201360 Minute Sunrise Flight over Ancient Thebes",
+        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut\u2019s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
       },
       {
         "title": "Stop 4: Gentle Touchdown, Flight Certificates & Return Transfer",
@@ -1527,15 +1527,15 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Luxor Hot Air Balloon Tour at Sunrise",
     "category": "Hot Air Balloon",
     "destination": "Luxor",
-    "duration": "Approx. 3 Hours (45–60 Min Flight)",
+    "duration": "Approx. 3 Hours (45\u201360 Min Flight)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Drift over Luxor's West Bank at sunrise on the Luxor Hot Air Balloon Tour at Sunrise, marveling at the Valley of the Kings, Hatshepsut Temple, and the Nile from.",
     "overview": "Take to the dawn skies on the Luxor Hot Air Balloon Tour at Sunrise, greeting the rising sun as it illuminates the ancient pharaonic capital of Thebes. As your balloon ascends peacefully over Luxor's West Bank, gaze down upon a sunrise hot air balloon flight drifting over ancient Thebes, the emerald agricultural strip of the Nile valley, and the dramatic limestone cliffs of the Libyan Desert.\n\nOperated under strict Egyptian Civil Aviation authority safety standards, this flight is conducted by seasoned, licensed hot air balloon captains. Your morning begins with a seamless hotel pickup and private motorboat transfer across the Nile, complete with morning refreshments and a thorough safety briefing prior to gentle liftoff.\n\nFloating silently at sunrise provides an unmatched aerial vantage point of the Valley of the Kings, the Ramesseum, and Queen Hatshepsut's terraced colonnades before tour buses arrive. Smooth touchdown is followed by personal flight certificates and comfortable return transfer to your accommodation.",
     "highlights": [
       "Breathtaking sunrise flight floating 1,500 feet over ancient Thebes and the Nile",
-      "Panoramic bird’s-eye views of the Valley of the Kings and Hatshepsut Temple",
+      "Panoramic bird\u2019s-eye views of the Valley of the Kings and Hatshepsut Temple",
       "Experienced commercially licensed pilots operating under Egyptian Civil Aviation standards",
       "Convenient pre-dawn hotel pickup, Nile motorboat crossing, and return transfer"
     ],
@@ -1549,8 +1549,8 @@ export const TOURS_DATA: TourItem[] = [
         "description": "Arrive at the official Civil Aviation launch field on the West Bank. Meet your certified commercial hot air balloon pilot and watch the ground crew inflate the mammoth envelope before stepping into the sturdy passenger basket."
       },
       {
-        "title": "Stop 3: 45–60 Minute Sunrise Flight over Ancient Thebes",
-        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut’s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
+        "title": "Stop 3: 45\u201360 Minute Sunrise Flight over Ancient Thebes",
+        "description": "Ascend smoothly into the golden morning sky. Glide over the Valley of the Kings, Queen Hatshepsut\u2019s Temple, Medinet Habu, and the Colossi of Memnon while admiring the stark contrast between fertile green Nile farmland and rugged desert mountains."
       },
       {
         "title": "Stop 4: Gentle Touchdown, Flight Certificates & Return Transfer",
@@ -1558,7 +1558,7 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
+      "45\u201360 minute sunrise hot air balloon flight over Luxor West Bank",
       "Entry tickets included: All monument entrance tickets and archaeological site admissions specified in the itinerary",
       "Commercially licensed balloon captain operating under Civil Aviation standards",
       "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
@@ -1595,14 +1595,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "From Luxor: Full-Day All-Inclusive Tour to West and East Banks with Lunch",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 130,
     "priceNote": "Provisional starting price per adult for private full-day East & West Bank highlights tour.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the From Luxor: Full-Day All-Inclusive Tour to West and East Banks with Lunch. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -1611,7 +1611,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -1669,14 +1669,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "From Luxor: Half-Day East Bank Guided Tour with Karnak & Luxor Temple Visits and Lunch",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Half Day (Approx. 4–5 Hours)",
+    "duration": "Half Day (Approx. 4\u20135 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore Karnak Temple Complex with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the From Luxor: Half-Day East Bank Guided Tour with Karnak & Luxor Temple Visits and Lunch. Centered in ancient Thebes, this private tour explores Karnak Temple Complex, as well as Luxor Temple on the Nile Corniche, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Karnak Temple Complex and Luxor Temple on the Nile Corniche",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -1685,7 +1685,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -1737,14 +1737,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "From Luxor: Half-Day West Bank Guided Tour including Valley of the Kings & Hatshepsut Temple with Lunch",
     "category": "Luxor & Upper Egypt",
     "destination": "Luxor",
-    "duration": "Half Day (Approx. 4–5 Hours)",
+    "duration": "Half Day (Approx. 4\u20135 Hours)",
     "price": 50,
     "priceNote": "Provisional starting price per adult for private West Bank tour with licensed Egyptologist guide.",
     "featured": false,
     "shortDescription": "Explore the royal rock-cut tombs of the Valley of the Kings with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the From Luxor: Half-Day West Bank Guided Tour including Valley of the Kings & Hatshepsut Temple with Lunch. Centered in ancient Thebes, this private tour explores the royal rock-cut tombs of the Valley of the Kings, as well as the terraced Mortuary Temple of Queen Hatshepsut, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the royal rock-cut tombs of the Valley of the Kings and the terraced Mortuary Temple of Queen Hatshepsut",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -1757,11 +1757,11 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Royal Valley of the Kings",
-        "description": "Descend into three selected pharaonic burial chambers deeply carved into the limestone hills. Admire the astonishingly vivid astronomical and funerary wall reliefs that have survived for over 3,000 years. Optional: King Tutankhamun’s burial chamber."
+        "description": "Descend into three selected pharaonic burial chambers deeply carved into the limestone hills. Admire the astonishingly vivid astronomical and funerary wall reliefs that have survived for over 3,000 years. Optional: King Tutankhamun\u2019s burial chamber."
       },
       {
         "title": "Stop 3: Mortuary Temple of Queen Hatshepsut at Deir el-Bahari",
-        "description": "Visit the magnificent three-tiered terraced temple dedicated to Egypt’s greatest female pharaoh, built seamlessly against the towering cliffs of Deir el-Bahari, featuring the famous Punt trading expedition reliefs."
+        "description": "Visit the magnificent three-tiered terraced temple dedicated to Egypt\u2019s greatest female pharaoh, built seamlessly against the towering cliffs of Deir el-Bahari, featuring the famous Punt trading expedition reliefs."
       },
       {
         "title": "Stop 4: The Colossi of Memnon & Return Transfer",
@@ -1812,15 +1812,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-25",
     "slug": "3-nights-4-days-nile-cruise-luxor-%e2%86%92-aswan",
-    "title": "3 Nights / 4 Days Nile Cruise – Luxor → Aswan",
+    "title": "3 Nights / 4 Days Nile Cruise \u2013 Luxor \u2192 Aswan",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "3 Nights / 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 3 Nights / 4 Days Nile Cruise – Luxor → Aswan with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
-    "overview": "Embark on an unforgettable river voyage aboard 3 Nights / 4 Days Nile Cruise – Luxor → Aswan, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 3 Nights / 4 Days Nile Cruise \u2013 Luxor \u2192 Aswan with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
+    "overview": "Embark on an unforgettable river voyage aboard 3 Nights / 4 Days Nile Cruise \u2013 Luxor \u2192 Aswan, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -1831,7 +1831,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -1885,15 +1885,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-26",
     "slug": "4-nights-5-days-nile-cruise-luxor-%e2%86%92-aswan-detailed-program",
-    "title": "4 Nights / 5 Days Nile Cruise – Luxor → Aswan (Detailed Program)",
+    "title": "4 Nights / 5 Days Nile Cruise \u2013 Luxor \u2192 Aswan (Detailed Program)",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "4 Nights / 5 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 4 Nights / 5 Days Nile Cruise – Luxor → Aswan (Detailed Program) with private Egyptologist shore guiding, full-board gourmet.",
-    "overview": "Embark on an unforgettable river voyage aboard 4 Nights / 5 Days Nile Cruise – Luxor → Aswan (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 4 Nights / 5 Days Nile Cruise \u2013 Luxor \u2192 Aswan (Detailed Program) with private Egyptologist shore guiding, full-board gourmet.",
+    "overview": "Embark on an unforgettable river voyage aboard 4 Nights / 5 Days Nile Cruise \u2013 Luxor \u2192 Aswan (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -1962,15 +1962,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-27",
     "slug": "7-nights-8-days-deluxe-nile-cruise-luxor-%e2%86%92-aswan-detailed-program",
-    "title": "7 Nights / 8 Days Deluxe Nile Cruise – Luxor → Aswan (Detailed Program)",
+    "title": "7 Nights / 8 Days Deluxe Nile Cruise \u2013 Luxor \u2192 Aswan (Detailed Program)",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "7 Nights / 8 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 7 Nights / 8 Days Deluxe Nile Cruise – Luxor → Aswan (Detailed Program) with private Egyptologist shore guiding, full-board.",
-    "overview": "Embark on an unforgettable river voyage aboard 7 Nights / 8 Days Deluxe Nile Cruise – Luxor → Aswan (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 7 Nights / 8 Days Deluxe Nile Cruise \u2013 Luxor \u2192 Aswan (Detailed Program) with private Egyptologist shore guiding, full-board.",
+    "overview": "Embark on an unforgettable river voyage aboard 7 Nights / 8 Days Deluxe Nile Cruise \u2013 Luxor \u2192 Aswan (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -2051,15 +2051,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-28",
     "slug": "3-nights-4-days-nile-cruise-aswan",
-    "title": "3 Nights / 4 Days Nile Cruise – Aswan → Luxor (Detailed Program)",
+    "title": "3 Nights / 4 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Detailed Program)",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "3 Nights / 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 3 Nights / 4 Days Nile Cruise – Aswan → Luxor (Detailed Program) with private Egyptologist shore guiding, full-board gourmet.",
-    "overview": "Embark on an unforgettable river voyage aboard 3 Nights / 4 Days Nile Cruise – Aswan → Luxor (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 3 Nights / 4 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Detailed Program) with private Egyptologist shore guiding, full-board gourmet.",
+    "overview": "Embark on an unforgettable river voyage aboard 3 Nights / 4 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -2070,7 +2070,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -2124,15 +2124,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-29",
     "slug": "4-nights-5-days-nile-cruise-aswan-%e2%86%92-luxor-detailed-program",
-    "title": "4 Nights / 5 Days Nile Cruise – Aswan → Luxor (Detailed Program)",
+    "title": "4 Nights / 5 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Detailed Program)",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "4 Nights / 5 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 4 Nights / 5 Days Nile Cruise – Aswan → Luxor (Detailed Program) with private Egyptologist shore guiding, full-board gourmet.",
-    "overview": "Embark on an unforgettable river voyage aboard 4 Nights / 5 Days Nile Cruise – Aswan → Luxor (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 4 Nights / 5 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Detailed Program) with private Egyptologist shore guiding, full-board gourmet.",
+    "overview": "Embark on an unforgettable river voyage aboard 4 Nights / 5 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Detailed Program), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -2201,15 +2201,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-30",
     "slug": "7-nights-8-days-nile-cruise-aswan-%e2%86%92-luxor-luxury",
-    "title": "7 Nights / 8 Days Nile Cruise – Aswan → Luxor (Luxury)",
+    "title": "7 Nights / 8 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Luxury)",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "7 Nights / 8 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 7 Nights / 8 Days Nile Cruise – Aswan → Luxor (Luxury) with private Egyptologist shore guiding, full-board gourmet dining, and.",
-    "overview": "Embark on an unforgettable river voyage aboard 7 Nights / 8 Days Nile Cruise – Aswan → Luxor (Luxury), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 7 Nights / 8 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Luxury) with private Egyptologist shore guiding, full-board gourmet dining, and.",
+    "overview": "Embark on an unforgettable river voyage aboard 7 Nights / 8 Days Nile Cruise \u2013 Aswan \u2192 Luxor (Luxury), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -2290,15 +2290,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-31",
     "slug": "8-days-extended-round-trip-nile-cruise-luxor-%e2%86%92-aswan-%e2%86%92-luxor",
-    "title": "8 Days Extended Round Trip Nile Cruise – Luxor → Aswan → Luxor",
+    "title": "8 Days Extended Round Trip Nile Cruise \u2013 Luxor \u2192 Aswan \u2192 Luxor",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 8 Days Extended Round Trip Nile Cruise – Luxor → Aswan → Luxor with private Egyptologist shore guiding, full-board gourmet.",
-    "overview": "Embark on an unforgettable river voyage aboard 8 Days Extended Round Trip Nile Cruise – Luxor → Aswan → Luxor, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 8 Days Extended Round Trip Nile Cruise \u2013 Luxor \u2192 Aswan \u2192 Luxor with private Egyptologist shore guiding, full-board gourmet.",
+    "overview": "Embark on an unforgettable river voyage aboard 8 Days Extended Round Trip Nile Cruise \u2013 Luxor \u2192 Aswan \u2192 Luxor, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -2379,15 +2379,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-32",
     "slug": "8-days-flexible-extended-nile-cruise-aswan-%e2%86%92-luxor-optional-return",
-    "title": "8 Days Flexible Extended Nile Cruise – Aswan → Luxor (Optional Return)",
+    "title": "8 Days Flexible Extended Nile Cruise \u2013 Aswan \u2192 Luxor (Optional Return)",
     "category": "Nile Cruises",
     "destination": "Luxor & Aswan",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Sail between Luxor & Aswan on the 8 Days Flexible Extended Nile Cruise – Aswan → Luxor (Optional Return) with private Egyptologist shore guiding, full-board.",
-    "overview": "Embark on an unforgettable river voyage aboard 8 Days Flexible Extended Nile Cruise – Aswan → Luxor (Optional Return), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
+    "shortDescription": "Sail between Luxor & Aswan on the 8 Days Flexible Extended Nile Cruise \u2013 Aswan \u2192 Luxor (Optional Return) with private Egyptologist shore guiding, full-board.",
+    "overview": "Embark on an unforgettable river voyage aboard 8 Days Flexible Extended Nile Cruise \u2013 Aswan \u2192 Luxor (Optional Return), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
     "highlights": [
       "Deluxe full-board accommodation sailing the historic Nile between Luxor & Aswan",
       "Private licensed Egyptologist guidance for all scheduled shore excursions",
@@ -2468,15 +2468,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-33",
     "slug": "luxor-airport-private-transfer-hotel-%e2%86%94-airport",
-    "title": "Luxor Airport Private Transfer – Hotel ↔ Airport",
+    "title": "Luxor Airport Private Transfer \u2013 Hotel \u2194 Airport",
     "category": "Private Transfers",
     "destination": "Luxor",
-    "duration": "Approx. 45–60 mins",
+    "duration": "Approx. 45\u201360 mins",
     "price": 15,
-    "priceNote": "Starting rate per vehicle for one-way private airport transfer · Door-to-door meet & assist.",
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer \u00b7 Door-to-door meet & assist.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Luxor with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Luxor Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "overview": "Travel with complete peace of mind across Egypt on the Luxor Airport Private Transfer \u2013 Hotel \u2194 Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Luxor without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
       "Punctual door-to-door private transfer in Luxor",
       "Clean, air-conditioned vehicle with professional licensed driver",
@@ -2535,7 +2535,7 @@ export const TOURS_DATA: TourItem[] = [
     "vehicleOptions": [
       {
         "vehicleType": "Economy sedan",
-        "capacity": "1–3 passengers",
+        "capacity": "1\u20133 passengers",
         "maxPassengers": 3,
         "price": 15,
         "currency": "USD",
@@ -2543,7 +2543,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "vehicleType": "Standard sedan",
-        "capacity": "1–3 passengers",
+        "capacity": "1\u20133 passengers",
         "maxPassengers": 3,
         "price": 23,
         "currency": "USD"
@@ -2568,15 +2568,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-34",
     "slug": "aswan-airport-private-transfer-hotel-%e2%86%94-airport",
-    "title": "Aswan Airport Private Transfer – Hotel ↔ Airport",
+    "title": "Aswan Airport Private Transfer \u2013 Hotel \u2194 Airport",
     "category": "Private Transfers",
     "destination": "Aswan",
-    "duration": "Approx. 45–60 mins",
+    "duration": "Approx. 45\u201360 mins",
     "price": 18,
-    "priceNote": "Starting rate per vehicle for one-way private airport transfer · Door-to-door meet & assist.",
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer \u00b7 Door-to-door meet & assist.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Aswan with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Aswan Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "overview": "Travel with complete peace of mind across Egypt on the Aswan Airport Private Transfer \u2013 Hotel \u2194 Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
       "Punctual door-to-door private transfer in Aswan",
       "Clean, air-conditioned vehicle with professional licensed driver",
@@ -2654,15 +2654,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-35",
     "slug": "hurghada-airport-private-transfer-hotel-%e2%86%94-airport",
-    "title": "Hurghada Airport Private Transfer – Hotel ↔ Airport",
+    "title": "Hurghada Airport Private Transfer \u2013 Hotel \u2194 Airport",
     "category": "Private Transfers",
     "destination": "Hurghada",
-    "duration": "Approx. 45–60 mins",
+    "duration": "Approx. 45\u201360 mins",
     "price": 14,
-    "priceNote": "Starting rate per vehicle for one-way private airport transfer · Door-to-door meet & assist.",
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer \u00b7 Door-to-door meet & assist.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Hurghada Airport Private Transfer – Hotel ↔ Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "overview": "Travel with complete peace of mind across Egypt on the Hurghada Airport Private Transfer \u2013 Hotel \u2194 Airport. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
       "Punctual door-to-door private transfer in Hurghada",
       "Clean, air-conditioned vehicle with professional licensed driver",
@@ -2740,15 +2740,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-36",
     "slug": "luxor-%e2%86%94-aswan-private-transfer-service",
-    "title": "Luxor ↔ Aswan Private Transfer Service",
+    "title": "Luxor \u2194 Aswan Private Transfer Service",
     "category": "Private Transfers",
     "destination": "Aswan",
-    "duration": "Approx. 4–5 hours",
+    "duration": "Approx. 4\u20135 hours",
     "price": 80,
     "priceNote": "Starting rate per vehicle for one-way private intercity transfer between Luxor and Aswan.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Aswan with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Luxor ↔ Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "overview": "Travel with complete peace of mind across Egypt on the Luxor \u2194 Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Aswan without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
       "Punctual door-to-door private transfer in Aswan",
       "Clean, air-conditioned vehicle with professional licensed driver",
@@ -2807,7 +2807,7 @@ export const TOURS_DATA: TourItem[] = [
     "vehicleOptions": [
       {
         "vehicleType": "Economy sedan",
-        "capacity": "1–3 passengers",
+        "capacity": "1\u20133 passengers",
         "maxPassengers": 3,
         "price": 80,
         "currency": "USD",
@@ -2815,7 +2815,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "vehicleType": "Standard sedan",
-        "capacity": "1–3 passengers",
+        "capacity": "1\u20133 passengers",
         "maxPassengers": 3,
         "price": 100,
         "currency": "USD"
@@ -2840,15 +2840,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-37",
     "slug": "luxor-%e2%86%94-hurghada-private-transfer-service",
-    "title": "Luxor ↔ Hurghada Private Transfer Service",
+    "title": "Luxor \u2194 Hurghada Private Transfer Service",
     "category": "Private Transfers",
     "destination": "Hurghada",
-    "duration": "Approx. 4–5 hours",
+    "duration": "Approx. 4\u20135 hours",
     "price": 85,
     "priceNote": "Starting rate per vehicle for one-way private intercity transfer between Luxor and Hurghada.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Luxor ↔ Hurghada Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "overview": "Travel with complete peace of mind across Egypt on the Luxor \u2194 Hurghada Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
       "Punctual door-to-door private transfer in Hurghada",
       "Clean, air-conditioned vehicle with professional licensed driver",
@@ -2907,7 +2907,7 @@ export const TOURS_DATA: TourItem[] = [
     "vehicleOptions": [
       {
         "vehicleType": "Economy sedan",
-        "capacity": "1–3 passengers",
+        "capacity": "1\u20133 passengers",
         "maxPassengers": 3,
         "price": 85,
         "currency": "USD",
@@ -2915,7 +2915,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "vehicleType": "Standard sedan",
-        "capacity": "1–3 passengers",
+        "capacity": "1\u20133 passengers",
         "maxPassengers": 3,
         "price": 120,
         "currency": "USD"
@@ -2940,15 +2940,15 @@ export const TOURS_DATA: TourItem[] = [
   {
     "id": "tour-38",
     "slug": "hurghada-%e2%86%94-aswan-private-transfer-service",
-    "title": "Hurghada ↔ Aswan Private Transfer Service",
+    "title": "Hurghada \u2194 Aswan Private Transfer Service",
     "category": "Private Transfers",
     "destination": "Hurghada",
-    "duration": "Approx. 4–5 hours",
+    "duration": "Approx. 4\u20135 hours",
     "price": 210,
     "priceNote": "Starting rate per vehicle for one-way private intercity transfer between Hurghada and Aswan.",
     "featured": false,
     "shortDescription": "Reliable private door-to-door transfer in Hurghada with modern air-conditioned vehicles, professional licensed drivers, and fixed transparent rates.",
-    "overview": "Travel with complete peace of mind across Egypt on the Hurghada ↔ Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
+    "overview": "Travel with complete peace of mind across Egypt on the Hurghada \u2194 Aswan Private Transfer Service. Designed for discerning travelers seeking comfort and reliability, this service provides direct, door-to-door transportation between Hurghada without the stress of public transit or unmetered taxis.\n\nRelax in a modern, spotless, air-conditioned vehicle driven by a licensed, vetted professional driver. Whether heading to an airport flight, railway terminal, hotel, or cruise dock, you will enjoy punctual service, chilled bottled water, luggage assistance, and approved highway travel routes.\n\nGenuine Egypte provides upfront fixed rates with zero hidden fees, toll surcharges, or baggage extras. Our operations team monitors incoming flight and train schedules in real time to ensure seamless pickups every time.",
     "highlights": [
       "Punctual door-to-door private transfer in Hurghada",
       "Clean, air-conditioned vehicle with professional licensed driver",
@@ -3007,7 +3007,7 @@ export const TOURS_DATA: TourItem[] = [
     "vehicleOptions": [
       {
         "vehicleType": "Sedan",
-        "capacity": "1–2 passengers",
+        "capacity": "1\u20132 passengers",
         "maxPassengers": 2,
         "price": 210,
         "currency": "USD",
@@ -3015,14 +3015,14 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "vehicleType": "Van",
-        "capacity": "3–5 passengers",
+        "capacity": "3\u20135 passengers",
         "maxPassengers": 5,
         "price": 275,
         "currency": "USD"
       },
       {
         "vehicleType": "Minibus",
-        "capacity": "6–8 passengers",
+        "capacity": "6\u20138 passengers",
         "maxPassengers": 8,
         "price": 300,
         "currency": "USD"
@@ -3038,12 +3038,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "12 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Comprehensive 12 Days private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists and 24/7 coordination.",
     "overview": "Embark on the ultimate Egyptian journey with the Best of Egypt in 12 Luxury Days. Over the course of 12 Days, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -3056,7 +3056,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -3143,7 +3143,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the Luxury Oberoi Zahra Nile Cruise and Cairo with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard Luxury Oberoi Zahra Nile Cruise and Cairo, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -3157,7 +3157,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -3216,7 +3216,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "9 Days / 8 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Experience intimate boutique river sailing aboard 9 Day Cairo and Luxury Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island.",
     "overview": "Step into the golden age of Nile exploration aboard the 9 Day Cairo and Luxury Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -3308,7 +3308,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the 10 Day Luxury Egypt Tours and Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 10 Day Luxury Egypt Tours and Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -3405,7 +3405,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Experience intimate boutique river sailing aboard 8 Day Cairo and Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops.",
     "overview": "Step into the golden age of Nile exploration aboard the 8 Day Cairo and Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -3493,7 +3493,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 8 Day Egypt Luxury Tours and Luxury Nile Cruise Package with private Egyptologist shore guiding, full-board gourmet dining, and.",
     "overview": "Embark on an unforgettable river voyage aboard 8 Day Egypt Luxury Tours and Luxury Nile Cruise Package, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -3582,7 +3582,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard 4 Day Amoura Dahabiya Nile Cruise Aswan to Esna between Luxor & Aswan, with private chef dining, secluded.",
     "overview": "Step into the golden age of Nile exploration aboard the 4 Day Amoura Dahabiya Nile Cruise Aswan to Esna. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -3596,7 +3596,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -3651,7 +3651,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "12 Days / 11 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard 12 Day Luxury Dahabiya Nile Cruise and Egypt Pyramids Tours between Luxor & Aswan, with private chef dining.",
     "overview": "Step into the golden age of Nile exploration aboard the 12 Day Luxury Dahabiya Nile Cruise and Egypt Pyramids Tours. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the Giza Plateau, the Great Pyramids, and the Sphinx, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -3752,12 +3752,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 4 Days / 3 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 4 Day Cairo and Alexandria Tour Package. Over the course of 4 Days / 3 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -3770,7 +3770,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -3824,12 +3824,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 4 Days / 3 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 4 Day Cairo and Luxor Tour Package. Over the course of 4 Days / 3 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -3842,7 +3842,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -3897,12 +3897,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 4 Days / 3 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 4 Day Cairo Tour Package. Over the course of 4 Days / 3 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -3915,7 +3915,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -3970,12 +3970,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "5 Days / 4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 5 Days / 4 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 5 Day Tour of Cairo. Over the course of 5 Days / 4 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -3988,7 +3988,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -4047,12 +4047,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "5 Days / 4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 5 Days / 4 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 5 Day Cairo and Alexandria Tour. Over the course of 5 Days / 4 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -4065,7 +4065,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -4123,12 +4123,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 4 Days / 3 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 4 Day Luxor, Edfu, Kom Ombo, Aswan and Abu Simbel Tour. Over the course of 4 Days / 3 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel and the Temple of Horus at Edfu",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -4141,7 +4141,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -4196,7 +4196,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 4 Days Nile Cruise from Cairo with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard 4 Days Nile Cruise from Cairo, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -4210,7 +4210,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -4269,12 +4269,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 4 Days / 3 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 4 Day Cairo, Alexandria and Luxor Tour. Over the course of 4 Days / 3 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -4287,7 +4287,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -4341,7 +4341,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard 5 Day Merit Dahabiya Nile River Cruise Luxor to Aswan between Luxor & Aswan, with private chef dining, secluded.",
     "overview": "Step into the golden age of Nile exploration aboard the 5 Day Merit Dahabiya Nile River Cruise Luxor to Aswan. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -4417,12 +4417,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "5 Days / 4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 5 Days / 4 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 5 Day Cairo, Luxor, Edfu, Kom Ombo, Aswan and Abu Simbel. Over the course of 5 Days / 4 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel and the Temple of Horus at Edfu",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -4435,7 +4435,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -4494,12 +4494,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "5 Days / 4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 5 Days / 4 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 5 Days Cairo, Alexandria and Luxor Tour. Over the course of 5 Days / 4 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -4512,7 +4512,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -4570,7 +4570,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Days / 4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 5 Day Cairo and Nile Cruise Tour Package with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 5 Day Cairo and Nile Cruise Tour Package, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -4647,12 +4647,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "5 Days / 4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 5 Days / 4 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 5 Day Cairo and Luxor Tour Package. Over the course of 5 Days / 4 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -4665,7 +4665,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -4724,7 +4724,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Days / 4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 5 Day Luxor to Aswan Nile Cruise From Cairo By Flight with private Egyptologist shore guiding, full-board gourmet dining, and.",
     "overview": "Embark on an unforgettable river voyage aboard 5 Day Luxor to Aswan Nile Cruise From Cairo By Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -4801,7 +4801,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "7 Days / 6 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 7 Day Cairo, Nile Cruise and Hurghada with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard 7 Day Cairo, Nile Cruise and Hurghada, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -4886,7 +4886,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "7 Days / 6 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 7 Day Cairo, Alexandria and Nile Cruise Tour Package by Flight with private Egyptologist shore guiding, full-board gourmet.",
     "overview": "Embark on an unforgettable river voyage aboard 7 Day Cairo, Alexandria and Nile Cruise Tour Package by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -4971,7 +4971,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "9 Days / 8 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 9 Day Cairo and Nile Cruise By Air with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard 9 Day Cairo and Nile Cruise By Air, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -5064,12 +5064,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "7 Days / 6 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 7 Days / 6 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 7 Day Cairo, Alexandria, Luxor, Edfu, Kom Ombo, Aswan and Abu Simbel. Over the course of 7 Days / 6 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel and the Temple of Horus at Edfu",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -5082,7 +5082,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -5149,7 +5149,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "7 Days / 6 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Experience intimate boutique river sailing aboard 7 Day Cairo and Princess Farida Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded.",
     "overview": "Step into the golden age of Nile exploration aboard the 7 Day Cairo and Princess Farida Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -5233,7 +5233,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "7 Days / 6 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 7 Day Cairo and Nile Cruise by Flight with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard 7 Day Cairo and Nile Cruise by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -5318,7 +5318,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "9 Days / 8 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 9 Day Cairo, Nile Cruise and Hurghada with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard 9 Day Cairo, Nile Cruise and Hurghada, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -5411,12 +5411,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 2 Day Cairo Tour. Over the course of 2 Days / 1 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -5429,7 +5429,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -5476,12 +5476,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 2 Day Cairo and Luxor from Hurghada by Flight. Over the course of 2 Days / 1 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -5494,7 +5494,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -5541,7 +5541,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "9 Days / 8 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 9 Day Cairo, Alexandria and Nile Cruise Tour Package by Flight with private Egyptologist shore guiding, full-board gourmet.",
     "overview": "Embark on an unforgettable river voyage aboard 9 Day Cairo, Alexandria and Nile Cruise Tour Package by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -5634,7 +5634,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "9 Days / 8 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 9 Day Cairo, Nile Cruise and Sharm El Sheikh with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 9 Day Cairo, Nile Cruise and Sharm El Sheikh, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -5727,12 +5727,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "9 Days / 8 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 9 Days / 8 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 9 Day Cairo, Alexandria, Luxor, Edfu, Kom Ombo, Aswan, Abu Simbel. Over the course of 9 Days / 8 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel and the Temple of Horus at Edfu",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -5745,7 +5745,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -5820,12 +5820,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 2 Day Aswan, Abu Simble and Luxor from Cairo. Over the course of 2 Days / 1 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -5838,7 +5838,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -5885,12 +5885,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "2 Days / 1 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Nights private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 2 Day Trip to Luxor. Over the course of 2 Days / 1 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -5903,7 +5903,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -5950,12 +5950,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Night",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Night private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the Overnight Trip to Luxor from Cairo. Over the course of 2 Days / 1 Night, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -5968,7 +5968,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6015,12 +6015,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "2 Days / 1 Night",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Night private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the Overnight Tour to Luxor from Marsa Alam. Over the course of 2 Days / 1 Night, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6033,7 +6033,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6080,12 +6080,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Night",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Night private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the Overnight Trip to Cairo and Alexandria from Luxor by Flight. Over the course of 2 Days / 1 Night, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6098,7 +6098,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6144,12 +6144,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 2 Day Cairo and Luxor from Marsa Alam by Flight. Over the course of 2 Days / 1 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6162,7 +6162,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6209,12 +6209,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "3 Days / 2 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 3 Days / 2 Nights private Egyptian journey exploring the astronomical sanctuaries of Dendera and Abydos with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 3 Day Best Ancient Monuments of Luxor, Dendera and Abydos. Over the course of 3 Days / 2 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the astronomical sanctuaries of Dendera and Abydos.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the astronomical sanctuaries of Dendera and Abydos",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6227,7 +6227,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -6278,12 +6278,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "2 Days / 1 Night",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Night private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the Overnight Tour to Abu Simbel from Aswan. Over the course of 2 Days / 1 Night, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6296,7 +6296,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6343,12 +6343,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 2 Day Cairo and Alexandria Tour Package. Over the course of 2 Days / 1 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6361,7 +6361,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6407,12 +6407,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "2 Days / 1 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 2 Day Cairo and Luxor by flight Round trip. Over the course of 2 Days / 1 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6425,7 +6425,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6472,12 +6472,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "2 Days / 1 Night",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 2 Days / 1 Night private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the Overnight Tours to Aswan and Abu Simbel temple from Luxor. Over the course of 2 Days / 1 Night, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6490,7 +6490,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       }
     ],
     "inclusions": [
@@ -6537,12 +6537,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "6 Days / 5 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 6 Days / 5 Nights private Egyptian journey exploring a sunrise hot air balloon flight drifting over ancient Thebes with private Egyptologists and.",
     "overview": "Embark on the ultimate Egyptian journey with the 6 Day Cairo and Luxor Tour with Sound and Light Show and Balloon. Over the course of 6 Days / 5 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to a sunrise hot air balloon flight drifting over ancient Thebes.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of a sunrise hot air balloon flight drifting over ancient Thebes",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6555,7 +6555,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -6575,7 +6575,7 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
+      "45\u201360 minute sunrise hot air balloon flight over Luxor West Bank",
       "Commercially licensed balloon captain operating under Civil Aviation standards",
       "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
       "Motorboat crossing of the Nile with pre-flight tea and coffee",
@@ -6613,12 +6613,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "3 Days / 2 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 3 Days / 2 Nights private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 3 Day Luxor Tour Package. Over the course of 3 Days / 2 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6631,7 +6631,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -6682,12 +6682,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "3 Days / 2 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 3 Days / 2 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 3 Day Cairo and Luxor by round trip flight. Over the course of 3 Days / 2 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6700,7 +6700,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -6751,12 +6751,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "3 Days / 2 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 3 Days / 2 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 3 Day Cairo and Alexandria Tour Package. Over the course of 3 Days / 2 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6769,7 +6769,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -6819,12 +6819,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "3 Days / 2 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 3 Days / 2 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 3 Day Cairo Tour. Over the course of 3 Days / 2 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6837,7 +6837,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -6888,12 +6888,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "3 Days / 2 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 3 Days / 2 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 3 Day Luxor, Edfu, Kom Ombo, Aswan and Abu Simbel. Over the course of 3 Days / 2 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel and the Temple of Horus at Edfu",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6906,7 +6906,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -6957,12 +6957,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "6 Days / 5 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 6 Days / 5 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 6 Day Cairo, Luxor, Edfu, Kom Ombo, Aswan and Abu Simbel. Over the course of 6 Days / 5 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel and the Temple of Horus at Edfu",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -6975,7 +6975,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -7038,12 +7038,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "6 Days / 5 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 6 Days / 5 Nights private Egyptian journey exploring the legendary Giza Pyramids and Cairo cultural landmarks with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 6 Day Cairo, Luxor and Hurghada Tour. Over the course of 6 Days / 5 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the legendary Giza Pyramids and Cairo cultural landmarks.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -7056,7 +7056,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -7119,12 +7119,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 8 Days / 7 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 8 Day Cairo, Alexandria, Luxor , Edfu, Kom Ombo, Aswan and Abu Simbel. Over the course of 8 Days / 7 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel and the Temple of Horus at Edfu",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -7137,7 +7137,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -7208,7 +7208,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "6 Days / 5 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 6 Days Cairo and Nile Cruise Tour Package with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 6 Days Cairo and Nile Cruise Tour Package, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -7289,12 +7289,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "6 Days / 5 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 6 Days / 5 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 6 Day Cairo and Alexandria Tour Package. Over the course of 6 Days / 5 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -7307,7 +7307,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -7369,12 +7369,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "6 Days / 5 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 6 Days / 5 Nights private Egyptian journey exploring the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with private.",
     "overview": "Embark on the ultimate Egyptian journey with the 6 Day Cairo, Alexandria and Luxor Tour. Over the course of 6 Days / 5 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -7387,7 +7387,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -7449,7 +7449,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 8 Day Cairo, Nile Cruise and Hurghada with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard 8 Day Cairo, Nile Cruise and Hurghada, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -7538,12 +7538,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 8 Days / 7 Nights private Egyptian journey exploring the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel with private Egyptologists.",
     "overview": "Embark on the ultimate Egyptian journey with the 8 Day Cairo, Aswan, Abu Simbel, Luxor and Hurghada. Over the course of 8 Days / 7 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -7556,7 +7556,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -7627,7 +7627,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "8 Days / 7 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 8 Day Cairo, Alexandria and Nile Cruise Tour Package by Flight with private Egyptologist shore guiding, full-board gourmet.",
     "overview": "Embark on an unforgettable river voyage aboard 8 Day Cairo, Alexandria and Nile Cruise Tour Package by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -7716,7 +7716,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 10 Day Cairo, Nile Cruise and Hurghada with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard 10 Day Cairo, Nile Cruise and Hurghada, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -7813,7 +7813,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan & Abu Simbel",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Cruise Lake Nasser aboard 10 Days of Nile and Lake Nasser Cruises to explore ancient Nubian temples, desert panoramas, and the monumental sun temples of Abu.",
     "overview": "Discover the pristine, less-traveled waters of southern Upper Egypt aboard the 10 Days of Nile and Lake Nasser Cruises. Cruising Lake Nasser provides an extraordinary journey through ancient Nubia, carrying you across vast desert vistas to monumental relocated temples, highlighted by Philae Island, the High Dam, and Nile felucca sailing.\n\nExperience peaceful sailing aboard a 5-star lake vessel featuring spacious lake-view staterooms, refined dining, and sweeping sun decks overlooking the Nubian desert. Guided shore excursions unlock remote archaeological gems including Amada, Wadi El Seboua, and Kasr Ibrim, all interpreted with scholarly clarity by your licensed guide.\n\nWith direct transfers and comprehensive shipboard coordination provided by Genuine Egypte, this cruise delivers an unhurried, awe-inspiring perspective on Egypt's monumental UNESCO preservation triumph at Abu Simbel and Lake Nasser.",
@@ -7831,7 +7831,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -7908,7 +7908,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 10 Day Cairo, Nile Cruise and Alexandria by Flight with private Egyptologist shore guiding, full-board gourmet dining, and.",
     "overview": "Embark on an unforgettable river voyage aboard 10 Day Cairo, Nile Cruise and Alexandria by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -8005,7 +8005,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 10 Day Round Trip Nile Cruise and Cairo Tours with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 10 Day Round Trip Nile Cruise and Cairo Tours, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -8102,7 +8102,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 10 Day Cairo, Nile Cruise and Sharm El Sheikh with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 10 Day Cairo, Nile Cruise and Sharm El Sheikh, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -8199,12 +8199,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 10 Days / 9 Nights private Egyptian journey exploring the astronomical sanctuaries of Dendera and Abydos with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 10 Day Cairo, Alexandria, Luxor, Abydos, Aswan and Abu Simbel. Over the course of 10 Days / 9 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the astronomical sanctuaries of Dendera and Abydos, as well as the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the astronomical sanctuaries of Dendera and Abydos and the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -8217,7 +8217,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -8294,14 +8294,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Egypt The Heart of Mystery",
     "category": "Egypt Vacation Packages",
     "destination": "Cairo, Luxor & Aswan",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Comprehensive Full Day (Approx. 7–9 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
-    "overview": "Embark on the ultimate Egyptian journey with the Egypt The Heart of Mystery. Over the course of Full Day (Approx. 7–9 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
+    "shortDescription": "Comprehensive Full Day (Approx. 7\u20139 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
+    "overview": "Embark on the ultimate Egyptian journey with the Egypt The Heart of Mystery. Over the course of Full Day (Approx. 7\u20139 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -8310,7 +8310,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo, Luxor & Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo, Luxor & Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -8365,7 +8365,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "11 Days / 10 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 11 Days Cairo, Alexandria, Nile Cruise and Abu Simbel with private Egyptologist shore guiding, full-board gourmet dining, and.",
     "overview": "Embark on an unforgettable river voyage aboard 11 Days Cairo, Alexandria, Nile Cruise and Abu Simbel, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -8466,7 +8466,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "11 Days / 10 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 11 Days Cairo, Nile Cruise and Hurghada by Flight with private Egyptologist shore guiding, full-board gourmet dining, and.",
     "overview": "Embark on an unforgettable river voyage aboard 11 Days Cairo, Nile Cruise and Hurghada by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -8567,7 +8567,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "12 Days / 11 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 12 Days Cairo, Alexandria and Nile Cruise by Flight with private Egyptologist shore guiding, full-board gourmet dining, and.",
     "overview": "Embark on an unforgettable river voyage aboard 12 Days Cairo, Alexandria and Nile Cruise by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -8672,7 +8672,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "11 Days / 10 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 11 Days Cairo, Nile Cruise and Sharm El sheikh by Flight with private Egyptologist shore guiding, full-board gourmet dining.",
     "overview": "Embark on an unforgettable river voyage aboard 11 Days Cairo, Nile Cruise and Sharm El sheikh by Flight, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -8773,12 +8773,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "11 Days / 10 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 11 Days / 10 Nights private Egyptian journey exploring the astronomical sanctuaries of Dendera and Abydos with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 11 Day Cairo, Alexandria, Luxor , Abydos, Aswan and Abu Simbel. Over the course of 11 Days / 10 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the astronomical sanctuaries of Dendera and Abydos, as well as the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the astronomical sanctuaries of Dendera and Abydos and the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -8791,7 +8791,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -8874,12 +8874,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "12 Days / 11 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 12 Days / 11 Nights private Egyptian journey exploring the Giza Plateau, the Great Pyramids, and the Sphinx with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 12 Days Pyramids, Nile and Sinai. Over the course of 12 Days / 11 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Giza Plateau, the Great Pyramids, and the Sphinx.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -8892,7 +8892,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -8979,7 +8979,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "13 Days / 12 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 13 Day Cairo, Nile Cruise and Hurghada with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard 13 Day Cairo, Nile Cruise and Hurghada, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -9088,12 +9088,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "12 Days / 11 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 12 Days / 11 Nights private Egyptian journey exploring the Giza Plateau, the Great Pyramids, and the Sphinx with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 12 Days Pyramids, Nile and Hurghada. Over the course of 12 Days / 11 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the Giza Plateau, the Great Pyramids, and the Sphinx.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -9106,7 +9106,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -9193,7 +9193,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "13 Days / 12 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 13 Day Cairo, Nile Cruise and Sharm El Sheikh with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 13 Day Cairo, Nile Cruise and Sharm El Sheikh, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -9302,12 +9302,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "12 Days / 11 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 12 Days / 11 Nights private Egyptian journey exploring the astronomical sanctuaries of Dendera and Abydos with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 12 Day Cairo, Alexandria, Luxor, Abydos, Aswan and Abu Simbel. Over the course of 12 Days / 11 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the astronomical sanctuaries of Dendera and Abydos, as well as the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the astronomical sanctuaries of Dendera and Abydos and the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -9320,7 +9320,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -9407,12 +9407,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo",
     "duration": "13 Days / 12 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 13 Days / 12 Nights private Egyptian journey exploring the astronomical sanctuaries of Dendera and Abydos with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 13 Day Cairo, Alexandria, Luxor , Abydos, Aswan and Abu Simbel. Over the course of 13 Days / 12 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the astronomical sanctuaries of Dendera and Abydos, as well as the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the astronomical sanctuaries of Dendera and Abydos and the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -9425,7 +9425,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -9517,7 +9517,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Day Tour to Pyramids, Memphis and Sakkara. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Step Pyramid of Djoser at Saqqara, as well as the ancient capital of Memphis, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx and the Step Pyramid of Djoser at Saqqara",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -9530,7 +9530,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -9590,7 +9590,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "14 Days / 13 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 14 Day Cairo, Hurghada, Nile Cruise, Balloon and Abu Simbel with private Egyptologist shore guiding, full-board gourmet dining.",
     "overview": "Embark on an unforgettable river voyage aboard 14 Day Cairo, Hurghada, Nile Cruise, Balloon and Abu Simbel, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including a sunrise hot air balloon flight drifting over ancient Thebes, as well as the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -9660,7 +9660,7 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "45–60 minute sunrise hot air balloon flight over Luxor West Bank",
+      "45\u201360 minute sunrise hot air balloon flight over Luxor West Bank",
       "Commercially licensed balloon captain operating under Civil Aviation standards",
       "Round-trip hotel / Nile cruise transfers to launch field in Luxor",
       "Motorboat crossing of the Nile with pre-flight tea and coffee",
@@ -9699,7 +9699,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "15 Days / 14 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 15 Day Cairo, Alexandria, Hurghada, Nile Cruise and Abu Simbel with private Egyptologist shore guiding, full-board gourmet.",
     "overview": "Embark on an unforgettable river voyage aboard 15 Day Cairo, Alexandria, Hurghada, Nile Cruise and Abu Simbel, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, as well as the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -9816,12 +9816,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "15 Days / 14 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 15 Days / 14 Nights private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the Route of the Holy Family in Egypt (15 Days). Over the course of 15 Days / 14 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -9834,7 +9834,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -9921,7 +9921,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "14 Days / 13 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 14 Day Cairo, Nile and Lake Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard 14 Day Cairo, Nile and Lake Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -10032,14 +10032,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Egypt Spiritual Tours (Sacred Egypt tour)",
     "category": "Egypt Vacation Packages",
     "destination": "Cairo, Luxor & Aswan",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Comprehensive Full Day (Approx. 7–9 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
-    "overview": "Embark on the ultimate Egyptian journey with the Egypt Spiritual Tours (Sacred Egypt tour). Over the course of Full Day (Approx. 7–9 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
+    "shortDescription": "Comprehensive Full Day (Approx. 7\u20139 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
+    "overview": "Embark on the ultimate Egyptian journey with the Egypt Spiritual Tours (Sacred Egypt tour). Over the course of Full Day (Approx. 7\u20139 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10048,7 +10048,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo, Luxor & Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo, Luxor & Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10103,12 +10103,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Stopover Tour of Cairo. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10117,7 +10117,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10169,14 +10169,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Alexandria from Cairo by car",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 79,
     "priceNote": "Provisional starting price per adult for private Alexandria full-day tour from Cairo.",
     "featured": false,
     "shortDescription": "Discover the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with a private licensed Egyptologist guide and door-to-door.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Day Tour to Alexandria from Cairo by car. This carefully planned private excursion guides you through the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10185,7 +10185,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10242,14 +10242,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Trip to Luxor from Cairo by Air",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Trip to Luxor from Cairo by Air. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10258,7 +10258,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10317,7 +10317,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Private Tour to Pyramids, the Egyptian Museum and Khan Khalili. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Egyptian Museum and world-renowned antiquities, as well as the historic Khan el-Khalili bazaar, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx and the Egyptian Museum and world-renowned antiquities",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10330,7 +10330,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -10395,7 +10395,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the Egyptian Museum and world-renowned antiquities with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Cairo City Tour to Egyptian Museum, Citadel and Old Cairo. This carefully planned private excursion guides you through the Egyptian Museum and world-renowned antiquities, as well as the Saladin Citadel and Mosque of Muhammad Ali, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Egyptian Museum and world-renowned antiquities and the Saladin Citadel and Mosque of Muhammad Ali",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10404,7 +10404,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10462,14 +10462,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "One Day Tour to Abu Simbel from Cairo via Aswan",
     "category": "Aswan Tours",
     "destination": "Aswan",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the One Day Tour to Abu Simbel from Cairo via Aswan. This private journey takes you through the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10486,11 +10486,11 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 3: The Temple of Hathor and Queen Nefertari",
-        "description": "Explore the companion temple dedicated to Ramses’ beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen’s statues stand at equal height to the king—an extraordinary tribute in pharaonic art."
+        "description": "Explore the companion temple dedicated to Ramses\u2019 beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen\u2019s statues stand at equal height to the king\u2014an extraordinary tribute in pharaonic art."
       },
       {
         "title": "Stop 4: UNESCO Salvage Exhibition & Return Drive to Aswan",
-        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser’s rising waters. Relax on your private drive back to Aswan."
+        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser\u2019s rising waters. Relax on your private drive back to Aswan."
       }
     ],
     "inclusions": [
@@ -10536,7 +10536,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "Approx. 3 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Cairo Dinner Cruise and Oriental show with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits.",
     "overview": "Embark on an unforgettable river voyage aboard Cairo Dinner Cruise and Oriental show, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -10550,7 +10550,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -10609,12 +10609,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "2 hour",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Sound and Light Show at the Pyramids. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10627,7 +10627,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -10686,7 +10686,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover Old Coptic Cairo and the Hanging Church with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Coptic and Islamic Cairo Tour. This carefully planned private excursion guides you through Old Coptic Cairo and the Hanging Church, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Old Coptic Cairo and the Hanging Church",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10695,7 +10695,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10755,12 +10755,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "Approx. 3 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Felucca trip on the Nile in Cairo. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10769,7 +10769,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10828,7 +10828,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Private Tour to Pyramids , Sakkara and Dahshur. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Step Pyramid of Djoser at Saqqara, as well as the Bent and Red Pyramids at Dahshur, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx and the Step Pyramid of Djoser at Saqqara",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10841,7 +10841,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -10901,12 +10901,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "1 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Day Tour to El Fayoum from Cairo. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10915,7 +10915,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -10967,14 +10967,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "El Minya Day Tour from Cairo by car",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the El Minya Day Tour from Cairo by car. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -10983,7 +10983,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11037,12 +11037,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "16005543941Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover Saint Catherine Monastery and the holy peaks of Sinai with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Day Tour to Wadi El Natroun Monastery from Cairo. This carefully planned private excursion guides you through Saint Catherine Monastery and the holy peaks of Sinai, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Saint Catherine Monastery and the holy peaks of Sinai",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11051,7 +11051,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11110,7 +11110,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the Giza Plateau, the Great Pyramids, and the Sphinx with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Camel Ride Trip at the Pyramids. This carefully planned private excursion guides you through the Giza Plateau, the Great Pyramids, and the Sphinx, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11123,7 +11123,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -11188,7 +11188,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Private tour to the West Bank. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11201,11 +11201,11 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Royal Valley of the Kings",
-        "description": "Descend into three selected pharaonic burial chambers deeply carved into the limestone hills. Admire the astonishingly vivid astronomical and funerary wall reliefs that have survived for over 3,000 years. Optional: King Tutankhamun’s burial chamber."
+        "description": "Descend into three selected pharaonic burial chambers deeply carved into the limestone hills. Admire the astonishingly vivid astronomical and funerary wall reliefs that have survived for over 3,000 years. Optional: King Tutankhamun\u2019s burial chamber."
       },
       {
         "title": "Stop 3: Mortuary Temple of Queen Hatshepsut at Deir el-Bahari",
-        "description": "Visit the magnificent three-tiered terraced temple dedicated to Egypt’s greatest female pharaoh, built seamlessly against the towering cliffs of Deir el-Bahari, featuring the famous Punt trading expedition reliefs."
+        "description": "Visit the magnificent three-tiered terraced temple dedicated to Egypt\u2019s greatest female pharaoh, built seamlessly against the towering cliffs of Deir el-Bahari, featuring the famous Punt trading expedition reliefs."
       },
       {
         "title": "Stop 4: The Colossi of Memnon & Return Transfer",
@@ -11266,7 +11266,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Private tour to the East Bank. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11275,7 +11275,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11333,14 +11333,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Cairo from Luxor by Flight",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Tour to Cairo from Luxor by Flight. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11349,7 +11349,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11401,14 +11401,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Edfu and Kom Ombo from Luxor",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 80,
     "priceNote": "Provisional starting price per adult for private day tour to Edfu & Kom Ombo temples.",
     "featured": false,
     "shortDescription": "Explore the Temple of Horus at Edfu with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Tour to Edfu and Kom Ombo from Luxor. Centered in ancient Thebes, this private tour explores the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Temple of Horus at Edfu and the riverside double temple of Kom Ombo",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11417,7 +11417,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11480,7 +11480,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore the Egyptian Museum and world-renowned antiquities with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Tour to Luxor Museum and Mummification Museum. Centered in ancient Thebes, this private tour explores the Egyptian Museum and world-renowned antiquities, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Egyptian Museum and world-renowned antiquities",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11489,7 +11489,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11554,7 +11554,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor Camel Ride. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11563,7 +11563,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11628,7 +11628,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor City tour by Horse Carriage. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11637,7 +11637,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11702,7 +11702,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Felucca Ride on the Nile. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11711,7 +11711,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11776,7 +11776,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Tour to Ramesseum Temple, Habu Temple, and Nobles Valley. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11785,7 +11785,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11850,7 +11850,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Explore Karnak Temple Complex with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Sound and Light Show at Karnak Temples. Centered in ancient Thebes, this private tour explores Karnak Temple Complex, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Karnak Temple Complex",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11859,7 +11859,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11924,7 +11924,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the island temple complex of Philae on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day Tour of Aswan , Philae temple, High Dam and Obelisk. This private journey takes you through the island temple complex of Philae, as well as the monumental Aswan High Dam, as well as the ancient granite quarries and Unfinished Obelisk, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the island temple complex of Philae and the monumental Aswan High Dam",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -11933,7 +11933,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -11991,14 +11991,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Full day tour to Cairo from Aswan by flight",
     "category": "Aswan Tours",
     "destination": "Aswan",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover Philae Island, the High Dam, and Nile felucca sailing on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Full day tour to Cairo from Aswan by flight. This private journey takes you through Philae Island, the High Dam, and Nile felucca sailing, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Philae Island, the High Dam, and Nile felucca sailing",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12007,7 +12007,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12066,7 +12066,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover Philae Island, the High Dam, and Nile felucca sailing on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Felucca Ride on the Nile in Aswan. This private journey takes you through Philae Island, the High Dam, and Nile felucca sailing, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Philae Island, the High Dam, and Nile felucca sailing",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12075,7 +12075,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12135,12 +12135,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan",
     "duration": "Approx. 3 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover Philae Island, the High Dam, and Nile felucca sailing on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Bird Watching Tour in Aswan. This private journey takes you through Philae Island, the High Dam, and Nile felucca sailing, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Philae Island, the High Dam, and Nile felucca sailing",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12149,7 +12149,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12208,7 +12208,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the Temple of Horus at Edfu on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Private tour to Kom Ombo and Edfu Temples from Aswan. This private journey takes you through the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Temple of Horus at Edfu and the riverside double temple of Kom Ombo",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12217,7 +12217,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12275,14 +12275,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Private day tour to Luxor from Aswan by vehicle",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": 110,
     "priceNote": "Provisional starting price per adult for private overland day tour from Aswan to Luxor.",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Private day tour to Luxor from Aswan by vehicle. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12291,7 +12291,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12356,7 +12356,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day Trip to Abu Simbel from Aswan by coach. This private journey takes you through the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12373,11 +12373,11 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 3: The Temple of Hathor and Queen Nefertari",
-        "description": "Explore the companion temple dedicated to Ramses’ beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen’s statues stand at equal height to the king—an extraordinary tribute in pharaonic art."
+        "description": "Explore the companion temple dedicated to Ramses\u2019 beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen\u2019s statues stand at equal height to the king\u2014an extraordinary tribute in pharaonic art."
       },
       {
         "title": "Stop 4: UNESCO Salvage Exhibition & Return Drive to Aswan",
-        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser’s rising waters. Relax on your private drive back to Aswan."
+        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser\u2019s rising waters. Relax on your private drive back to Aswan."
       }
     ],
     "inclusions": [
@@ -12434,7 +12434,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day Trip to Abu Simbel from Aswan by flight. This private journey takes you through the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the colossal Sun Temples of Ramses II and Nefertari at Abu Simbel",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12451,11 +12451,11 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 3: The Temple of Hathor and Queen Nefertari",
-        "description": "Explore the companion temple dedicated to Ramses’ beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen’s statues stand at equal height to the king—an extraordinary tribute in pharaonic art."
+        "description": "Explore the companion temple dedicated to Ramses\u2019 beloved royal wife, Queen Nefertari, and the goddess Hathor. Gaze upon the facade where the queen\u2019s statues stand at equal height to the king\u2014an extraordinary tribute in pharaonic art."
       },
       {
         "title": "Stop 4: UNESCO Salvage Exhibition & Return Drive to Aswan",
-        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser’s rising waters. Relax on your private drive back to Aswan."
+        "description": "Learn the remarkable modern engineering story of how UNESCO disassembled and reassembled both temples 65 meters higher to save them from Lake Nasser\u2019s rising waters. Relax on your private drive back to Aswan."
       }
     ],
     "inclusions": [
@@ -12512,7 +12512,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the Egyptian Museum and world-renowned antiquities on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Kalabsha Temple and Nubian Museum Tour. This private journey takes you through the Egyptian Museum and world-renowned antiquities, as well as a colorful Nubian village on the West Bank, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Egyptian Museum and world-renowned antiquities and a colorful Nubian village on the West Bank",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12521,7 +12521,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12581,12 +12581,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan",
     "duration": "Approx. 5 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover Philae Island, the High Dam, and Nile felucca sailing on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Private tour to the Tombs of The Nobles. This private journey takes you through Philae Island, the High Dam, and Nile felucca sailing, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Philae Island, the High Dam, and Nile felucca sailing",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12595,7 +12595,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12654,7 +12654,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover a colorful Nubian village on the West Bank on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Trip to the Nubian Villages by boat. This private journey takes you through a colorful Nubian village on the West Bank, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of a colorful Nubian village on the West Bank",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12663,7 +12663,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12728,7 +12728,7 @@ export const TOURS_DATA: TourItem[] = [
     "shortDescription": "Discover the island temple complex of Philae on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Sound and Light Show at Philae Temple. This private journey takes you through the island temple complex of Philae, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the island temple complex of Philae",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12737,7 +12737,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12797,12 +12797,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan",
     "duration": "Approx. 3 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the Egyptian Museum and world-renowned antiquities on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Private day tour to The Nubian Museum. This private journey takes you through the Egyptian Museum and world-renowned antiquities, as well as a colorful Nubian village on the West Bank, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Egyptian Museum and world-renowned antiquities and a colorful Nubian village on the West Bank",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12811,7 +12811,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12865,12 +12865,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan",
     "duration": "Approx. 4 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the Egyptian Museum and world-renowned antiquities on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Private day tour to The Botanic Gardens and Botanical Museum. This private journey takes you through the Egyptian Museum and world-renowned antiquities, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Egyptian Museum and world-renowned antiquities",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12879,7 +12879,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -12933,12 +12933,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan",
     "duration": "2 hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover Philae Island, the High Dam, and Nile felucca sailing on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Aswan City Tour in Horse Carriage. This private journey takes you through Philae Island, the High Dam, and Nile felucca sailing, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Philae Island, the High Dam, and Nile felucca sailing",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -12947,7 +12947,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13001,12 +13001,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the Egyptian Museum and world-renowned antiquities on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Day Trip to Philae Temple and Nubian Museum. This private journey takes you through the Egyptian Museum and world-renowned antiquities, as well as the island temple complex of Philae, as well as a colorful Nubian village on the West Bank, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Egyptian Museum and world-renowned antiquities and the island temple complex of Philae",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13015,7 +13015,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13067,14 +13067,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Cairo Day Tours from Hurghada",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Cairo Day Tours from Hurghada. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13083,7 +13083,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13137,12 +13137,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "2 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the 2 Day Tour to Cairo by Air from Hurghada. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13151,7 +13151,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13205,12 +13205,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan",
     "duration": "Approx. 4 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover Saint Catherine Monastery and the holy peaks of Sinai on a private tour with licensed Egyptologist guidance and door-to-door vehicle transfers.",
     "overview": "Experience the timeless tranquility and monumental pharaonic legacy of southern Egypt on the Trip to St.Simeon Monastery. This private journey takes you through Saint Catherine Monastery and the holy peaks of Sinai, celebrating the unique Nubian culture and enduring engineering feats that define this sun-drenched region of the Nile.\n\nYour private excursion is conducted with a licensed English-speaking Egyptologist and modern air-conditioned transport. Whether admiring the island sanctuary of Philae, tracing the chisel marks on the Unfinished Obelisk, or standing before the colossal seated statues of Ramses II at Abu Simbel, you will enjoy deeply engaging commentary and personalized pacing.\n\nGenuine Egypte guarantees prompt hotel or Nile cruise pickups, pre-arranged road travel coordination, and an unhurried, respectful visit away from crowded convoys. Relax and let our team manage all the logistics while you absorb the majesty of southern Egypt.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of Saint Catherine Monastery and the holy peaks of Sinai",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13219,7 +13219,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13273,12 +13273,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "1 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Tour to Luxor from Hurghada. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13287,7 +13287,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13341,12 +13341,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "2 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the 2 Day Cairo and Luxor from Hurghada by Flight. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13355,7 +13355,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13409,7 +13409,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Hurghada & Red Sea",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling at Mahmya Island, featuring vibrant coral reefs and marine life of the Red Sea with private hotel transfers.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling at Mahmya Island. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -13422,7 +13422,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13475,12 +13475,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor overnight Tour from Hurghada. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13489,7 +13489,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13543,7 +13543,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Hurghada & Red Sea",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip to Giftun Island, featuring vibrant coral reefs and marine life of the Red Sea with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip to Giftun Island. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -13556,7 +13556,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13607,9 +13607,9 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Alf Leila Wa Leila Show in Hurghada",
     "category": "Hurghada Tours",
     "destination": "Hurghada & Red Sea",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Alf Leila Wa Leila Show in Hurghada, featuring curated archaeological monuments and cultural highlights with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Alf Leila Wa Leila Show in Hurghada. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -13622,7 +13622,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13675,7 +13675,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Hurghada & Red Sea",
     "duration": "2 hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Sindbad Submarine Tour in Hurghada, featuring curated archaeological monuments and cultural highlights with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Sindbad Submarine Tour in Hurghada. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -13688,7 +13688,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Hurghada & Red Sea. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13741,7 +13741,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "1 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Petra Tour from Sharm by Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Petra Tour from Sharm by Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -13755,7 +13755,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -13814,12 +13814,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "15972759750Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Day Trip to Cairo from Sharm by Air. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -13828,7 +13828,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13882,7 +13882,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Sharm El Sheikh",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling by Boat to Ras Mohamed, featuring vibrant coral reefs and marine life of the Red Sea with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling by Boat to Ras Mohamed. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -13895,7 +13895,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -13948,7 +13948,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Sharm El Sheikh",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Scuba diving Sharm El Sheikh, featuring curated archaeological monuments and cultural highlights with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Scuba diving Sharm El Sheikh. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -13961,7 +13961,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14014,12 +14014,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "10 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Tour to Luxor from Sharm by Air. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -14028,7 +14028,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14080,9 +14080,9 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Mount Sinai & St.Catherine Monastery",
     "category": "Sharm El Sheikh Tours",
     "destination": "Sharm El Sheikh",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Mount Sinai & St.Catherine Monastery, featuring Saint Catherine Monastery and the holy peaks of Sinai with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Mount Sinai & St.Catherine Monastery. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases Saint Catherine Monastery and the holy peaks of Sinai.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14095,7 +14095,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14148,7 +14148,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Sharm El Sheikh",
     "duration": "2 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Semi Submarine Trip in Sharm El Sheikh, featuring curated archaeological monuments and cultural highlights with.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Semi Submarine Trip in Sharm El Sheikh. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14161,7 +14161,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14214,7 +14214,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Sharm El Sheikh",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip to Tiran Island, featuring vibrant coral reefs and marine life of the Red Sea with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip to Tiran Island. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14227,7 +14227,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14280,7 +14280,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Sharm El Sheikh",
     "duration": "Approx. 4 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Quad biking with Camel ride and Bedouin dinner, featuring curated archaeological monuments and cultural highlights.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Quad biking with Camel ride and Bedouin dinner. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14293,7 +14293,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14344,9 +14344,9 @@ export const TOURS_DATA: TourItem[] = [
     "title": "St. Catherine Tour from Sharm",
     "category": "Sharm El Sheikh Tours",
     "destination": "Sharm El Sheikh",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the St. Catherine Tour from Sharm, featuring Saint Catherine Monastery and the holy peaks of Sinai with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the St. Catherine Tour from Sharm. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases Saint Catherine Monastery and the holy peaks of Sinai.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14359,7 +14359,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14410,9 +14410,9 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Alf Leila Wa Leila Show Sharm El Sheikh",
     "category": "Sharm El Sheikh Tours",
     "destination": "Sharm El Sheikh",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Alf Leila Wa Leila Show Sharm El Sheikh, featuring curated archaeological monuments and cultural highlights with.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Alf Leila Wa Leila Show Sharm El Sheikh. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14425,7 +14425,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14478,7 +14478,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Marsa Alam",
     "duration": "Approx. 8 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Scuba diving Marsa Alam, featuring curated archaeological monuments and cultural highlights with private hotel transfers.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Scuba diving Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14491,7 +14491,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14544,7 +14544,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Sharm El Sheikh",
     "duration": "Approx. 5 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Bedouin Safari and Star Gazing Tour, featuring curated archaeological monuments and cultural highlights with private.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Bedouin Safari and Star Gazing Tour. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14557,7 +14557,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14610,12 +14610,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "1 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Day Trip to Luxor from Marsa Alam. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -14624,7 +14624,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14678,12 +14678,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "2 days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the 2 Day Trip to Cairo from Marsa Alam. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -14692,7 +14692,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14746,7 +14746,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Sharm El Sheikh",
     "duration": "Approx. 4 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Sharm El Sheikh City Tour, featuring curated archaeological monuments and cultural highlights with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Sharm El Sheikh City Tour. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases curated archaeological monuments and cultural highlights.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14759,7 +14759,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Sharm El Sheikh. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14812,12 +14812,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "20 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Cairo Tour from Marsa Alam by Flight. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -14826,7 +14826,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14880,7 +14880,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Marsa Alam",
     "duration": "Approx. 7 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip at Hamata Islands From Marsa Alam, featuring vibrant coral reefs and marine life of the Red Sea with.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip at Hamata Islands From Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14893,7 +14893,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -14946,7 +14946,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Marsa Alam",
     "duration": "1 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Tour to Edfu and Kom Ombo from Marsa Alam, featuring the Temple of Horus at Edfu with private hotel transfers.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Tour to Edfu and Kom Ombo from Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases the Temple of Horus at Edfu, as well as the riverside double temple of Kom Ombo.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -14959,7 +14959,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15010,14 +15010,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Cairo Day Tour from Dahab by Flight",
     "category": "Cairo Tours",
     "destination": "Cairo & Giza",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Cairo Day Tour from Dahab by Flight. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -15026,7 +15026,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15080,12 +15080,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Overnight Trip to Luxor from Marsa Alam. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -15094,7 +15094,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15148,7 +15148,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Marsa Alam",
     "duration": "Approx. 7 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the Snorkeling Trip At Port Ghalib Marina from Marsa Alam, featuring vibrant coral reefs and marine life of the Red Sea.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the Snorkeling Trip At Port Ghalib Marina from Marsa Alam. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases vibrant coral reefs and marine life of the Red Sea.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -15161,7 +15161,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Marsa Alam. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15214,12 +15214,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "2 days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Tour to Cairo & Luxor from Marsa Alam by Flight. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -15228,7 +15228,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15282,12 +15282,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Two Day Tour to Cairo and Luxor from Dahab. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -15296,7 +15296,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15350,7 +15350,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Dahab",
     "duration": "Approx. 6 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience the beauty of the Red Sea on the St. Catherine Tour from Dahab, featuring Saint Catherine Monastery and the holy peaks of Sinai with private hotel.",
     "overview": "Immerse yourself in the extraordinary marine and coastal wonders of the Red Sea on the St. Catherine Tour from Dahab. Renowned worldwide for crystal-clear turquoise waters and thriving coral gardens, this excursion showcases Saint Catherine Monastery and the holy peaks of Sinai.\n\nEnjoy pristine private coordination, modern sea vessels or safari 4x4 vehicles, and safety-certified professional crew members. Whether snorkeling among exotic marine life, diving world-class reefs, or venturing into desert canyons under desert stars, you will receive personalized attention and quality gear.\n\nGenuine Egypte takes care of hotel transfers, marine park permissions, and timing, allowing you to relax and soak up the coastal warmth of the Red Sea in true comfort and safety.",
@@ -15363,7 +15363,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Dahab. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Dahab. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15416,7 +15416,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Standard Nile Cruises with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Standard Nile Cruises, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -15430,7 +15430,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -15489,7 +15489,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Deluxe Nile Cruises with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Deluxe Nile Cruises, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -15564,14 +15564,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Luxor Day Trip from Dahab by Flight",
     "category": "Luxor Tours",
     "destination": "Luxor",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Explore the ancient Theban necropolis, Karnak, and Luxor Temple with your private licensed Egyptologist, door-to-door transport, and customized unhurried pacing.",
     "overview": "Step into the world's greatest open-air museum on the Luxor Day Trip from Dahab by Flight. Centered in ancient Thebes, this private tour explores the ancient Theban necropolis, Karnak, and Luxor Temple, leading you through ceremonial processional avenues, colossal hypostyle halls, and brightly painted royal tombs that have survived for over three thousand years.\n\nTravel in a private air-conditioned vehicle accompanied throughout by your licensed local Egyptologist. You will receive vivid explanations of ancient religious rituals, architectural masterworks, and royal burial customs, while enjoying the flexibility to linger at your favorite vantage points and explore at your personal pace.\n\nGenuine Egypte takes pride in providing unhurried, bespoke itineraries designed around optimal morning light and reduced crowds. From doorstep hotel or cruise pickup in Luxor to comfortable drop-off, your excursion is delivered with genuine warmth and absolute transparency.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -15580,7 +15580,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Luxor. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15634,12 +15634,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo & Giza",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Discover the legendary Giza Pyramids and Cairo cultural landmarks with a private licensed Egyptologist guide and door-to-door climate-controlled transport.",
     "overview": "Immerse yourself in Egypt's vibrant capital and monumental royal necropolises on the Two Day Tour to Cairo from Dahab. This carefully planned private excursion guides you through the legendary Giza Pyramids and Cairo cultural landmarks, presenting millennia of history from the Fourth Dynasty pyramid builders through the vibrant Islamic and Coptic eras.\n\nTraverse Cairo in the quiet comfort of a private, modern air-conditioned vehicle with a professional driver. Your private university-educated Egyptologist brings ancient monuments to life, unraveling the construction techniques of the Old Kingdom pyramids and decoding priceless golden antiquities while tailoring the walking pace entirely to your preferences.\n\nGenuine Egypte strictly avoids commercial tourist bazaars and rushed tour group queues, focusing instead on authentic exploration, excellent photography opportunities, and memorable local cultural encounters. Door-to-door hotel pickup and return ensure a relaxed, seamless journey.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the legendary Giza Pyramids and Cairo cultural landmarks",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -15648,7 +15648,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo & Giza. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -15702,7 +15702,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Days / 3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -15716,7 +15716,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -15775,7 +15775,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Three Pyramids Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and.",
     "overview": "Step into the golden age of Nile exploration aboard the Three Pyramids Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the Giza Plateau, the Great Pyramids, and the Sphinx, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -15789,7 +15789,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -15844,7 +15844,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Nights 6 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Meroe Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and private.",
     "overview": "Step into the golden age of Nile exploration aboard the Meroe Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -15921,7 +15921,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "7 Nights 8 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Sonesta Amirat Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and.",
     "overview": "Step into the golden age of Nile exploration aboard the Sonesta Amirat Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16006,7 +16006,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Experience intimate boutique river sailing aboard Princess Farida Luxury Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island.",
     "overview": "Step into the golden age of Nile exploration aboard the Princess Farida Luxury Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16020,7 +16020,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -16075,7 +16075,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Ultra Deluxe Nile Cruises with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Ultra Deluxe Nile Cruises, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -16152,7 +16152,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Amoura Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and private.",
     "overview": "Step into the golden age of Nile exploration aboard the Amoura Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16166,7 +16166,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -16221,7 +16221,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Nights 6 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Assouan Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and.",
     "overview": "Step into the golden age of Nile exploration aboard the Assouan Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16298,7 +16298,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Nights 6 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Nour El Nil Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and.",
     "overview": "Step into the golden age of Nile exploration aboard the Nour El Nil Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16375,7 +16375,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Merit Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and private.",
     "overview": "Step into the golden age of Nile exploration aboard the Merit Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16389,7 +16389,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -16444,7 +16444,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Nights 6 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Malouka Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and.",
     "overview": "Step into the golden age of Nile exploration aboard the Malouka Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16521,7 +16521,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Abundance Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and.",
     "overview": "Step into the golden age of Nile exploration aboard the Abundance Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16535,7 +16535,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -16590,7 +16590,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan & Abu Simbel",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Cruise Lake Nasser aboard Steigenberger Omar El Khayam Lake Cruise to explore ancient Nubian temples, desert panoramas, and the monumental sun temples of Abu.",
     "overview": "Discover the pristine, less-traveled waters of southern Upper Egypt aboard the Steigenberger Omar El Khayam Lake Cruise. Cruising Lake Nasser provides an extraordinary journey through ancient Nubia, carrying you across vast desert vistas to monumental relocated temples, highlighted by Philae Island, the High Dam, and Nile felucca sailing.\n\nExperience peaceful sailing aboard a 5-star lake vessel featuring spacious lake-view staterooms, refined dining, and sweeping sun decks overlooking the Nubian desert. Guided shore excursions unlock remote archaeological gems including Amada, Wadi El Seboua, and Kasr Ibrim, all interpreted with scholarly clarity by your licensed guide.\n\nWith direct transfers and comprehensive shipboard coordination provided by Genuine Egypte, this cruise delivers an unhurried, awe-inspiring perspective on Egypt's monumental UNESCO preservation triumph at Abu Simbel and Lake Nasser.",
@@ -16608,7 +16608,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -16661,7 +16661,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan & Abu Simbel",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Cruise Lake Nasser aboard MS Nubian Sea Lake Nasser Cruise to explore ancient Nubian temples, desert panoramas, and the monumental sun temples of Abu Simbel in.",
     "overview": "Discover the pristine, less-traveled waters of southern Upper Egypt aboard the MS Nubian Sea Lake Nasser Cruise. Cruising Lake Nasser provides an extraordinary journey through ancient Nubia, carrying you across vast desert vistas to monumental relocated temples, highlighted by a colorful Nubian village on the West Bank.\n\nExperience peaceful sailing aboard a 5-star lake vessel featuring spacious lake-view staterooms, refined dining, and sweeping sun decks overlooking the Nubian desert. Guided shore excursions unlock remote archaeological gems including Amada, Wadi El Seboua, and Kasr Ibrim, all interpreted with scholarly clarity by your licensed guide.\n\nWith direct transfers and comprehensive shipboard coordination provided by Genuine Egypte, this cruise delivers an unhurried, awe-inspiring perspective on Egypt's monumental UNESCO preservation triumph at Abu Simbel and Lake Nasser.",
@@ -16679,7 +16679,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -16732,12 +16732,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Safaga Port",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to curated archaeological monuments and cultural highlights with guaranteed on-time port return and licensed.",
     "overview": "Maximize your time ashore with the 2 Days Tour to Cairo And Luxor from Safaga Port, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including curated archaeological monuments and cultural highlights, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of curated archaeological monuments and cultural highlights",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -16746,7 +16746,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Safaga Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Safaga Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -16797,14 +16797,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Luxor Day Tour from Safaga Port",
     "category": "Shore Excursions",
     "destination": "Safaga Port",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to curated archaeological monuments and cultural highlights with guaranteed on-time port return and licensed.",
     "overview": "Maximize your time ashore with the Luxor Day Tour from Safaga Port, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including curated archaeological monuments and cultural highlights, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of curated archaeological monuments and cultural highlights",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -16813,7 +16813,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Safaga Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Safaga Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -16866,7 +16866,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Experience intimate boutique river sailing aboard Jasmine Dahabiya Nile Cruise between Luxor & Aswan, with private chef dining, secluded island stops, and.",
     "overview": "Step into the golden age of Nile exploration aboard the Jasmine Dahabiya Nile Cruise. Dahabiyas represent the traditional, motor-free twin-masted sailing vessels favored by travelers in the 19th century, offering an intimate and serene journey along the river between Luxor & Aswan. You will visit iconic landmarks such as the ancient Theban necropolis, Karnak, and Luxor Temple, alongside secluded riverbank ruins that giant cruise ships simply cannot reach.\n\nWith only an exclusive selection of luxury cabins, your Dahabiya experience offers peace, personalized service, and farm-to-table cuisine prepared daily by a dedicated onboard chef. Guided visits are accompanied by your private Egyptologist, giving you the luxury of private time at ancient quarries like Gebel el-Silsila and quiet island moorings under star-filled Egyptian skies.\n\nUnlike large passenger vessels, our Dahabiya itineraries emphasize gentle river breezes, private shore moorings, and deeply authentic local encounters. Genuine Egypte handles every logistical detail from arrival meet-and-greet to departure, guaranteeing a serene, premium pharaonic voyage.",
@@ -16880,7 +16880,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -16935,7 +16935,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Aswan & Abu Simbel",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Cruise Lake Nasser aboard Movenpick Prince Abbas Lake Cruise to explore ancient Nubian temples, desert panoramas, and the monumental sun temples of Abu Simbel in.",
     "overview": "Discover the pristine, less-traveled waters of southern Upper Egypt aboard the Movenpick Prince Abbas Lake Cruise. Cruising Lake Nasser provides an extraordinary journey through ancient Nubia, carrying you across vast desert vistas to monumental relocated temples, highlighted by Philae Island, the High Dam, and Nile felucca sailing.\n\nExperience peaceful sailing aboard a 5-star lake vessel featuring spacious lake-view staterooms, refined dining, and sweeping sun decks overlooking the Nubian desert. Guided shore excursions unlock remote archaeological gems including Amada, Wadi El Seboua, and Kasr Ibrim, all interpreted with scholarly clarity by your licensed guide.\n\nWith direct transfers and comprehensive shipboard coordination provided by Genuine Egypte, this cruise delivers an unhurried, awe-inspiring perspective on Egypt's monumental UNESCO preservation triumph at Abu Simbel and Lake Nasser.",
@@ -16953,7 +16953,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -17006,12 +17006,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Safaga Port",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to curated archaeological monuments and cultural highlights with guaranteed on-time port return and licensed.",
     "overview": "Maximize your time ashore with the Two Day Trip to Luxor from Safaga port, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including curated archaeological monuments and cultural highlights, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of curated archaeological monuments and cultural highlights",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17020,7 +17020,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Safaga Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Safaga Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17073,12 +17073,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Alexandria Port",
     "duration": "Approx. 6 Hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with guaranteed on-time port return.",
     "overview": "Maximize your time ashore with the Day Tour to Alexandria City, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17087,7 +17087,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17140,12 +17140,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Red Sea / Mediterranean",
     "duration": "10 hours",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to vibrant coral reefs and marine life of the Red Sea with guaranteed on-time port return and licensed Egyptologist guiding.",
     "overview": "Maximize your time ashore with the Snorkeling Trip & Excursion from Safaga Port, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including vibrant coral reefs and marine life of the Red Sea, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of vibrant coral reefs and marine life of the Red Sea",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17154,7 +17154,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Red Sea / Mediterranean. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Red Sea / Mediterranean. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17207,12 +17207,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Alexandria Port",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with guaranteed on-time port return.",
     "overview": "Maximize your time ashore with the Overnight Tour to Cairo and Alexandria, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17221,7 +17221,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17272,14 +17272,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Trip to the Pyramids & the Nile",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Giza Plateau, the Great Pyramids, and the Sphinx with guaranteed on-time port return and licensed Egyptologist.",
     "overview": "Maximize your time ashore with the Day Trip to the Pyramids & the Nile, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Giza Plateau, the Great Pyramids, and the Sphinx, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17292,7 +17292,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -17343,14 +17343,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Cairo from Alexandria Port",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with guaranteed on-time port return.",
     "overview": "Maximize your time ashore with the Day Tour to Cairo from Alexandria Port, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17359,7 +17359,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Red Sea / Mediterranean. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Red Sea / Mediterranean. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17410,14 +17410,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Trip to Pyramids & Sakkara",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Giza Plateau, the Great Pyramids, and the Sphinx with guaranteed on-time port return and licensed Egyptologist.",
     "overview": "Maximize your time ashore with the Day Trip to Pyramids & Sakkara, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Step Pyramid of Djoser at Saqqara, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx and the Step Pyramid of Djoser at Saqqara",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17430,7 +17430,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -17483,12 +17483,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Alexandria Port",
     "duration": "2 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with guaranteed on-time port return.",
     "overview": "Maximize your time ashore with the Cairo Tour from Alexandria Return to PortSaid, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17497,7 +17497,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17550,12 +17550,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Port Said Port",
     "duration": "2 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to curated archaeological monuments and cultural highlights with guaranteed on-time port return and licensed.",
     "overview": "Maximize your time ashore with the Overnight Trip to Cairo from Port Said, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including curated archaeological monuments and cultural highlights, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of curated archaeological monuments and cultural highlights",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17564,7 +17564,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Port Said Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Port Said Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17615,14 +17615,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Giza Pyramids & Sakkara",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Giza Plateau, the Great Pyramids, and the Sphinx with guaranteed on-time port return and licensed Egyptologist.",
     "overview": "Maximize your time ashore with the Day Tour to Giza Pyramids & Sakkara, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Giza Plateau, the Great Pyramids, and the Sphinx, as well as the Step Pyramid of Djoser at Saqqara, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx and the Step Pyramid of Djoser at Saqqara",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17635,7 +17635,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -17688,12 +17688,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Alexandria Port",
     "duration": "2 Day",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina with guaranteed on-time port return.",
     "overview": "Maximize your time ashore with the 2 Day Tour of Cairo and Alexandria, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Mediterranean coastline, Citadel of Qaitbay, and the Bibliotheca Alexandrina",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17702,7 +17702,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Alexandria Port. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -17753,14 +17753,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to Cairo and Pyramids from Port Said",
     "category": "Shore Excursions",
     "destination": "Port Said Port",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Giza Plateau, the Great Pyramids, and the Sphinx with guaranteed on-time port return and licensed Egyptologist.",
     "overview": "Maximize your time ashore with the Day Tour to Cairo and Pyramids from Port Said, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Giza Plateau, the Great Pyramids, and the Sphinx, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17773,7 +17773,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -17824,14 +17824,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Day Tour to the Pyramids & the Nile",
     "category": "Shore Excursions",
     "destination": "Port Said Port",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Giza Plateau, the Great Pyramids, and the Sphinx with guaranteed on-time port return and licensed Egyptologist.",
     "overview": "Maximize your time ashore with the Day Tour to the Pyramids & the Nile, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Giza Plateau, the Great Pyramids, and the Sphinx, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -17844,7 +17844,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -17897,7 +17897,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Nebu Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient Theban.",
     "overview": "Embark on an unforgettable river voyage aboard Nebu Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -17911,7 +17911,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -17970,7 +17970,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Farah Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Farah Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -17984,7 +17984,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -18041,14 +18041,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Cairo & Pyramids Trip from Port Sokhna",
     "category": "Shore Excursions",
     "destination": "Red Sea / Mediterranean",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Private cruise passenger shore excursion to the Giza Plateau, the Great Pyramids, and the Sphinx with guaranteed on-time port return and licensed Egyptologist.",
     "overview": "Maximize your time ashore with the Cairo & Pyramids Trip from Port Sokhna, specially architected for cruise ship passengers docking in Egypt. This excursion delivers an efficient, private, and secure transfer to iconic wonders including the Giza Plateau, the Great Pyramids, and the Sphinx, ensuring you experience Egypt's greatest highlights during your port call.\n\nMeet your private guide and professional driver directly at the port passenger terminal upon docking. Traveling in a comfortable, modern air-conditioned vehicle, your private Egyptologist will guide you through monumental temples and burial grounds, providing insightful context while keeping careful track of your shore timetable.\n\nWe provide an absolute On-Time Ship Return Guarantee, coordinating all tourist police travel permits and highway clearances in advance. Experience Egypt's treasures with peace of mind and return safely to your ship well before embarkation.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the Giza Plateau, the Great Pyramids, and the Sphinx",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -18061,7 +18061,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Stop 2: The Great Pyramids of Khufu, Khafre & Menkaure",
-        "description": "Stand at the foot of the Great Pyramid of King Khufu—the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
+        "description": "Stand at the foot of the Great Pyramid of King Khufu\u2014the sole surviving wonder of the ancient world. Walk around the monumental pyramid complex while your Egyptologist explains the Fourth Dynasty engineering genius. Optional: Purchase tickets on-site to enter the interior burial chamber."
       },
       {
         "title": "Stop 3: Panoramic Plateau Lookout & Camel Ride (Optional)",
@@ -18114,7 +18114,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Amwaj Living Stone with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard MS Amwaj Living Stone, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18128,7 +18128,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -18187,12 +18187,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "10 Days / 9 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 10 Days / 9 Nights private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 10 Day Egypt and Jordan Travel Package. Over the course of 10 Days / 9 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -18205,7 +18205,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -18284,12 +18284,12 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Cairo, Luxor & Aswan",
     "duration": "14 Days / 13 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Comprehensive 14 Days / 13 Nights private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists and 24/7.",
     "overview": "Embark on the ultimate Egyptian journey with the 14 Day Egypt and Jordan Highlights Tour. Over the course of 14 Days / 13 Nights, this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -18302,7 +18302,7 @@ export const TOURS_DATA: TourItem[] = [
       },
       {
         "title": "Day 2: Giza Plateau Pyramids, Sphinx & Historic Saqqara",
-        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid—the oldest monumental stone structure in history."
+        "description": "Begin your adventure at the Giza Plateau alongside your private Egyptologist. Marvel at the Great Pyramids of Khufu, Khafre, and Menkaure, and gaze upon the enigmatic Great Sphinx. Savor a traditional Egyptian lunch, then journey to Saqqara to witness Djoser's Step Pyramid\u2014the oldest monumental stone structure in history."
       },
       {
         "title": "Day 3: Egyptian Museum, Old Cairo & Khan el-Khalili Bazaar",
@@ -18389,7 +18389,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Salacia Nile cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard MS Salacia Nile cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18403,7 +18403,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -18460,14 +18460,14 @@ export const TOURS_DATA: TourItem[] = [
     "title": "Egypt and Jordan Short Package",
     "category": "Egypt Vacation Packages",
     "destination": "Cairo, Luxor & Aswan",
-    "duration": "Full Day (Approx. 7–9 Hours)",
+    "duration": "Full Day (Approx. 7\u20139 Hours)",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
-    "shortDescription": "Comprehensive Full Day (Approx. 7–9 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
-    "overview": "Embark on the ultimate Egyptian journey with the Egypt and Jordan Short Package. Over the course of Full Day (Approx. 7–9 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
+    "shortDescription": "Comprehensive Full Day (Approx. 7\u20139 Hours) private Egyptian journey exploring the ancient Theban necropolis, Karnak, and Luxor Temple with private Egyptologists.",
+    "overview": "Embark on the ultimate Egyptian journey with the Egypt and Jordan Short Package. Over the course of Full Day (Approx. 7\u20139 Hours), this comprehensive travel package weaves together the finest cultural, historical, and scenic destinations across Egypt, bringing you to the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nEvery segment of your journey is coordinated with private Egyptologist guides, private air-conditioned vehicles, and handpicked premium accommodations or luxury Nile cruise ships. Experience ancient royal tombs, colossal temples, and vibrant street life with personalized pacing and thoughtful attention to detail.\n\nGenuine Egypte handles all domestic flight bookings, cruise check-ins, entrance permits, and road transit with 24/7 on-the-ground support from our Luxor headquarters, delivering an unhurried, authentic Egyptian holiday of a lifetime.",
     "highlights": [
-      "100% private excursion customized entirely to your group’s preferred walking pace",
+      "100% private excursion customized entirely to your group\u2019s preferred walking pace",
       "Expert commentary from a licensed, university-educated Egyptologist guide",
       "Detailed exploration of the ancient Theban necropolis, Karnak, and Luxor Temple",
       "Direct door-to-door transit in modern, climate-controlled private vehicles",
@@ -18476,7 +18476,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Stop 1: Private Hotel Pickup & Journey Briefing",
-        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo, Luxor & Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day’s archaeological highlights."
+        "description": "Your licensed private Egyptologist guide and driver greet you at your accommodation in Cairo, Luxor & Aswan. Board your modern air-conditioned vehicle for a comfortable departure and overview of the day\u2019s archaeological highlights."
       },
       {
         "title": "Stop 2: In-Depth Exploration of Core Monuments",
@@ -18531,7 +18531,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "15 Days / 14 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 15 Day Egypt and Jordan Tours (Cairo, Nile Cruise and Dahab) with private Egyptologist shore guiding, full-board gourmet.",
     "overview": "Embark on an unforgettable river voyage aboard 15 Day Egypt and Jordan Tours (Cairo, Nile Cruise and Dahab), sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18648,7 +18648,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "12 Days / 11 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the 12 Day Egypt Nile Cruise and Jordan Tour with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard 12 Day Egypt Nile Cruise and Jordan Tour, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18753,7 +18753,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Royal La Terrasse Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard MS Royal La Terrasse Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18767,7 +18767,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -18826,7 +18826,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Salima Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Salima Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18840,7 +18840,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -18899,7 +18899,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Esplanade Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard MS Esplanade Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18913,7 +18913,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -18972,7 +18972,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Farida Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Farida Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -18986,7 +18986,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19045,7 +19045,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Al Hambra Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Al Hambra Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19059,7 +19059,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19118,7 +19118,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Blue Shadow Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Blue Shadow Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19132,7 +19132,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19191,7 +19191,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Alyssa Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Alyssa Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19205,7 +19205,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19264,7 +19264,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Sonesta St. George I Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Sonesta St. George I Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19278,7 +19278,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19337,7 +19337,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Sonesta Moon Goddess Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Sonesta Moon Goddess Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19351,7 +19351,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19410,7 +19410,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Movenpick Royal Lotus Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Movenpick Royal Lotus Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19424,7 +19424,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19483,7 +19483,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Moon Dance Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Moon Dance Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19497,7 +19497,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19556,7 +19556,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Tulip Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Tulip Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19570,7 +19570,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19629,7 +19629,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Movenpick Royal Lily Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Movenpick Royal Lily Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19643,7 +19643,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19702,7 +19702,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Iberotel Crown Empress cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Iberotel Crown Empress cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19716,7 +19716,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19775,7 +19775,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS MayFlower Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard MS MayFlower Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19789,7 +19789,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19848,7 +19848,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Iberotel Crown Emperor Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Iberotel Crown Emperor Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19862,7 +19862,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19921,7 +19921,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Acamar Nile cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Acamar Nile cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -19935,7 +19935,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -19994,7 +19994,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Al Kahila Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Al Kahila Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20008,7 +20008,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20067,7 +20067,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Steigenberger Minerva Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Steigenberger Minerva Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20081,7 +20081,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20140,7 +20140,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Esmeralda Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Esmeralda Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20154,7 +20154,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20213,7 +20213,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Sabena Al Jamila Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Sabena Al Jamila Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20227,7 +20227,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20286,7 +20286,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Concerto Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Concerto Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20300,7 +20300,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20359,7 +20359,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Mayfair Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard MS Mayfair Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20373,7 +20373,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20432,7 +20432,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Movenpick MS Sun Ray Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Movenpick MS Sun Ray Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20446,7 +20446,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20505,7 +20505,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Nile Goddess Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard MS Nile Goddess Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20519,7 +20519,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20578,7 +20578,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Crown Prince Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Crown Prince Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20592,7 +20592,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20651,7 +20651,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Steigenberger Legacy Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Steigenberger Legacy Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20665,7 +20665,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20724,7 +20724,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Le Fayan Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Le Fayan Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20738,7 +20738,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20797,7 +20797,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Jaz Crown Jewel Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Jaz Crown Jewel Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20811,7 +20811,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20870,7 +20870,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Alexander The Great Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard MS Alexander The Great Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20884,7 +20884,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -20943,7 +20943,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Movenpick Ms Hamees Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Movenpick Ms Hamees Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -20957,7 +20957,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21016,7 +21016,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Princess Sarah II Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Princess Sarah II Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21030,7 +21030,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21089,7 +21089,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the M/S Nile Style Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard M/S Nile Style Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21103,7 +21103,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21162,7 +21162,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Royal Esadora Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Royal Esadora Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21176,7 +21176,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21235,7 +21235,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Princess Sarah Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Princess Sarah Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21249,7 +21249,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21308,7 +21308,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Radamis II Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Radamis II Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21322,7 +21322,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21381,7 +21381,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Royal Princess Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Royal Princess Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21395,7 +21395,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21454,7 +21454,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Tower Prestige Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Tower Prestige Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21468,7 +21468,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21527,7 +21527,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Radamis I Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard MS Radamis I Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21541,7 +21541,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21600,7 +21600,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Medea Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard MS Medea Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21614,7 +21614,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21673,7 +21673,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Nile Quest Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Nile Quest Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21687,7 +21687,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21746,7 +21746,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the M/S Semramis II with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient Theban.",
     "overview": "Embark on an unforgettable river voyage aboard M/S Semramis II, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21760,7 +21760,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21819,7 +21819,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Grand Rose Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard Grand Rose Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21833,7 +21833,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21892,7 +21892,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Zeina Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard MS Zeina Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21906,7 +21906,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -21965,7 +21965,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the M/S Nile Dolphin with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient Theban.",
     "overview": "Embark on an unforgettable river voyage aboard M/S Nile Dolphin, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -21979,7 +21979,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -22038,7 +22038,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Miriam Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the ancient.",
     "overview": "Embark on an unforgettable river voyage aboard MS Miriam Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22052,7 +22052,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -22111,7 +22111,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the Luxury Oberoi Philae Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard Luxury Oberoi Philae Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the island temple complex of Philae.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22188,7 +22188,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Sanctuary Sun Boat IV Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard Sanctuary Sun Boat IV Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22265,7 +22265,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Sanctuary Nile Adventurer Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard Sanctuary Nile Adventurer Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22342,7 +22342,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "5 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Sanctuary Sun Boat III Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard Sanctuary Sun Boat III Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22419,7 +22419,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Sail between Luxor & Aswan on the Oberoi Zahra Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard Oberoi Zahra Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22433,7 +22433,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -22492,7 +22492,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Tosca Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to the.",
     "overview": "Embark on an unforgettable river voyage aboard MS Tosca Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22506,7 +22506,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -22565,7 +22565,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights 4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the Sonesta Star Goddess Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried.",
     "overview": "Embark on an unforgettable river voyage aboard Sonesta Star Goddess Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22579,7 +22579,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -22638,7 +22638,7 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "4 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": false,
     "shortDescription": "Sail between Luxor & Aswan on the MS Jaz Senator Luxury Nile Cruise with private Egyptologist shore guiding, full-board gourmet dining, and unhurried visits to.",
     "overview": "Embark on an unforgettable river voyage aboard MS Jaz Senator Luxury Nile Cruise, sailing along the legendary waters of the Nile between Luxor & Aswan. This cruise blends timeless river navigation with deep archaeological immersion, bringing you directly to world-renowned sanctuaries including the ancient Theban necropolis, Karnak, and Luxor Temple.\n\nAboard your cruise vessel, experience deluxe full-board hospitality with gourmet Egyptian and international buffet dining, spacious air-conditioned river-view cabins, a panoramic sun deck with swimming pool, and nightly cultural entertainment. Every shore excursion is conducted with a licensed private Egyptologist guide, ensuring in-depth historical insight into pharaonic architecture and hieroglyphic inscriptions.\n\nEnjoy effortless travel between Luxor and Aswan with all shore transfers, port coordination, and luggage assistance handled smoothly by Genuine Egypte. Our unhurried pacing ensures you explore iconic temples during optimal morning hours while enjoying peaceful sailing afternoons as the Nile riverbanks drift gently by.",
@@ -22652,7 +22652,7 @@ export const TOURS_DATA: TourItem[] = [
     "itinerary": [
       {
         "title": "Day 1: Arrival & East Bank Temples in Luxor",
-        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival in Luxor (airport or railway station) and transfer directly to your cruise ship for embarkation and check-in before 12:00 PM. Enjoy an introductory buffet lunch onboard. In the afternoon, accompany your licensed Egyptologist to the East Bank to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple connected by the Avenue of Sphinxes. Dinner onboard; evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu",
@@ -22711,21 +22711,21 @@ export const TOURS_DATA: TourItem[] = [
     "destination": "Luxor & Aswan",
     "duration": "3 Nights / 4 Days & 4 Nights / 5 Days",
     "price": null,
-    "priceNote": "Custom private quote based on travel dates & party size · Zero online booking deductions",
+    "priceNote": "Custom private quote based on travel dates & party size \u00b7 Zero online booking deductions",
     "featured": true,
     "shortDescription": "Experience an all-suite ultra-luxury river voyage aboard the Sun Goddess Nile Cruise between Luxor and Aswan, featuring 30 private-terrace suites, gourmet dining, and private Egyptologist shore guiding.",
-    "overview": "Embark on an unforgettable river voyage aboard the Sun Goddess Nile Cruise, an all-suite luxury cruise ship classified as A1 River Service by the American Bureau of Shipping (A.B.S.). Sailing between Luxor and Aswan along the timeless waters of the Nile, this vessel delivers ultra-luxury hospitality paired with comprehensive archaeological exploration.\n\nThe Sun Goddess features just 30 spacious suites designed for exceptional comfort and privacy: 28 deluxe Presidential Suites (40 m² each), 1 Executive Suite (60 m²), and 1 Royal Suite featuring a private outdoor Jacuzzi (60 m²). Every suite opens onto its own private terrace and includes individually controlled air conditioning, panoramic river-view windows, flat-screen television, personal safe, minibar, hairdryer, and marble en-suite bathroom.\n\nOnboard amenities include the Main Dining Room serving daily international and Egyptian breakfast and lunch buffets alongside refined à la carte dinner service, an open-air Sun Deck Bar & barbecue lounge overlooking the river, a sophisticated lounge with dance floor, a swimming pool with heated Jacuzzi, spa and wellness treatment facilities, and a dedicated fitness room. Evenings feature authentic cultural entertainment, including Nubian folkloric shows, classical belly dance, and festive Galabeya parties.\n\nAll scheduled shore excursions to Karnak, Luxor Temple, Valley of the Kings, Queen Hatshepsut Temple, Edfu, Kom Ombo, and Philae are conducted with a licensed private Egyptologist guide. Enjoy departures every Monday from Luxor (4 Nights / 5 Days) and every Friday from Aswan (3 Nights / 4 Days) with seamless meet-and-assist transfers arranged by Genuine Egypte.",
+    "overview": "Embark on an unforgettable river voyage aboard the Sun Goddess Nile Cruise, an all-suite luxury cruise ship classified as A1 River Service by the American Bureau of Shipping (A.B.S.). Sailing between Luxor and Aswan along the timeless waters of the Nile, this vessel delivers ultra-luxury hospitality paired with comprehensive archaeological exploration.\n\nThe Sun Goddess features just 30 spacious suites designed for exceptional comfort and privacy: 28 deluxe Presidential Suites (40 m\u00b2 each), 1 Executive Suite (60 m\u00b2), and 1 Royal Suite featuring a private outdoor Jacuzzi (60 m\u00b2). Every suite opens onto its own private terrace and includes individually controlled air conditioning, panoramic river-view windows, flat-screen television, personal safe, minibar, hairdryer, and marble en-suite bathroom.\n\nOnboard amenities include the Main Dining Room serving daily international and Egyptian breakfast and lunch buffets alongside refined \u00e0 la carte dinner service, an open-air Sun Deck Bar & barbecue lounge overlooking the river, a sophisticated lounge with dance floor, a swimming pool with heated Jacuzzi, spa and wellness treatment facilities, and a dedicated fitness room. Evenings feature authentic cultural entertainment, including Nubian folkloric shows, classical belly dance, and festive Galabeya parties.\n\nAll scheduled shore excursions to Karnak, Luxor Temple, Valley of the Kings, Queen Hatshepsut Temple, Edfu, Kom Ombo, and Philae are conducted with a licensed private Egyptologist guide. Enjoy departures every Monday from Luxor (4 Nights / 5 Days) and every Friday from Aswan (3 Nights / 4 Days) with seamless meet-and-assist transfers arranged by Genuine Egypte.",
     "highlights": [
       "All-suite five-star luxury vessel featuring 30 private-terrace suites (Presidential, Executive & Royal with Jacuzzi)",
       "Private licensed Egyptologist guidance for all scheduled shore excursions in Luxor, Edfu, Kom Ombo & Aswan",
       "Panoramic sun deck with swimming pool, Jacuzzi, open-air bar, and evening barbecue specialties",
-      "Gourmet dining featuring daily international buffets and refined à la carte dinner service",
+      "Gourmet dining featuring daily international buffets and refined \u00e0 la carte dinner service",
       "Scheduled departures every Monday from Luxor and every Friday from Aswan with zero hidden booking fees"
     ],
     "itinerary": [
       {
         "title": "Day 1: Embarkation in Luxor & Monumental East Bank Temples",
-        "description": "Meet your Genuine Egypte representative upon arrival at Luxor Airport, railway station, or hotel and enjoy private air-conditioned transfer directly to the Sun Goddess docking pier. Check in to your private-terrace suite before 12:00 PM and savor a welcome lunch buffet in the Main Dining Room. In the afternoon, set out with your licensed Egyptologist to explore the monumental Karnak Temple Complex—the largest religious sanctuary in the ancient world—and the majestic Luxor Temple, linked by the Avenue of Sphinxes. Dinner onboard and evening at leisure."
+        "description": "Meet your Genuine Egypte representative upon arrival at Luxor Airport, railway station, or hotel and enjoy private air-conditioned transfer directly to the Sun Goddess docking pier. Check in to your private-terrace suite before 12:00 PM and savor a welcome lunch buffet in the Main Dining Room. In the afternoon, set out with your licensed Egyptologist to explore the monumental Karnak Temple Complex\u2014the largest religious sanctuary in the ancient world\u2014and the majestic Luxor Temple, linked by the Avenue of Sphinxes. Dinner onboard and evening at leisure."
       },
       {
         "title": "Day 2: West Bank Theban Necropolis & Sailing to Edfu via Esna Lock",
@@ -22745,7 +22745,7 @@ export const TOURS_DATA: TourItem[] = [
       }
     ],
     "inclusions": [
-      "Full-board luxury accommodation in a private-terrace suite (buffet breakfast, lunch, and à la carte dinner)",
+      "Full-board luxury accommodation in a private-terrace suite (buffet breakfast, lunch, and \u00e0 la carte dinner)",
       "Private-terrace suite with individually controlled air conditioning, LED TV, safe, minibar, and luxury bath amenities",
       "Scheduled shore excursions accompanied by a licensed English-speaking Egyptologist guide",
       "All private transfers between airport/station and cruise ship in modern air-conditioned vehicle",
@@ -22780,6 +22780,857 @@ export const TOURS_DATA: TourItem[] = [
       "All-inclusive monument entrance ticket bundle [Requires confirmation]"
     ],
     "subCategory": "Luxury Nile Cruises"
+  },
+  {
+    "id": "tour-39",
+    "slug": "hurghada-airport-to-el-gouna-private-transfer",
+    "title": "Hurghada Airport (HRG) \u2194 El Gouna Private Transfer",
+    "category": "Private Transfers",
+    "destination": "Hurghada",
+    "duration": "Approx. 35\u201345 mins",
+    "price": 20,
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer \u00b7 Door-to-door meet & assist.",
+    "featured": false,
+    "shortDescription": "Private one-way airport transfer between Hurghada Airport (HRG) and El Gouna resorts or marina in modern climate-controlled vehicles with professional licensed driver.",
+    "overview": "Travel smoothly between Hurghada International Airport (HRG) and your resort, hotel, or private villa in El Gouna with Genuine Egypte's private door-to-door transfer service.\n\nUpon arrival at HRG, your licensed, vetted driver meets you directly outside the baggage terminal holding a personalized Genuine Egypte sign. Enjoy prompt assistance with your luggage before boarding a spotless, air-conditioned vehicle for a direct, stress-free journey north along the Red Sea coastal highway to El Gouna.\n\nAll pricing is strictly per vehicle (one way) with transparent rates, zero hidden luggage charges or toll fees, and complimentary bottled water provided for all passengers.",
+    "highlights": [
+      "Private one-way door-to-door transfer between Hurghada Airport and El Gouna",
+      "Flight monitoring and terminal meet-and-greet with personalized name board",
+      "Choice of modern air-conditioned Sedan (up to 3 pax) or Minivan (up to 4 pax)",
+      "Fixed transparent pricing per vehicle with zero hidden baggage fees or road tolls"
+    ],
+    "itinerary": [
+      {
+        "title": "Step 1: Terminal Meet-and-Greet or Resort Pickup",
+        "description": "Meet your professional licensed driver holding a personalized paging board at Hurghada Airport arrival terminal (or your El Gouna hotel lobby for departures). Receive courteous luggage assistance."
+      },
+      {
+        "title": "Step 2: Direct Coastal Highway Transit",
+        "description": "Relax in a spotless, climate-controlled private vehicle with complimentary chilled bottled water and authorized tourist police permits along the direct Hurghada-El Gouna highway."
+      },
+      {
+        "title": "Step 3: Direct Arrival at Destination",
+        "description": "Smooth arrival at your designated hotel, resort, golf club, or private marina in El Gouna (or drop-off directly at HRG departure terminal). Driver assists with all baggage."
+      }
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between Hurghada Airport (HRG) and El Gouna",
+      "Luggage assistance upon pickup and arrival",
+      "Airport parking fees, highway tolls, and fuel expenses",
+      "Complimentary chilled bottled water in the vehicle"
+    ],
+    "exclusions": [
+      "Egyptologist tour guide (driver-only transfer service)",
+      "Monument or sightseeing entrance tickets",
+      "Meals and refreshments",
+      "Driver gratuity / tips (customary in Egypt)"
+    ],
+    "meetingPoint": "Personalized meet-and-greet at Hurghada Airport (HRG) arrival terminal exit with a custom paging board, or direct lobby pickup from any hotel or villa in El Gouna.",
+    "mainImage": "/images/tours/hurghada-airport-transfer-limousine.webp",
+    "images": [
+      "/images/tours/hurghada-airport-transfer-limousine.webp",
+      "/images/tours/luxor-hurghada-desert-road-transfer.webp",
+      "/images/gallery/IMG-20261001-WA0012.jpg"
+    ],
+    "relatedSlugs": [
+      "hurghada-airport-private-transfer-hotel-%e2%86%94-airport",
+      "luxor-%e2%86%94-hurghada-private-transfer-service",
+      "hurghada-%e2%86%94-aswan-private-transfer-service"
+    ],
+    "optionalExtras": [
+      "Child safety seat (subject to advance request)",
+      "Return transfer booking discount"
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Sedan",
+        "capacity": "Up to 3 passengers",
+        "maxPassengers": 3,
+        "price": 20,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Minivan",
+        "capacity": "Up to 4 passengers",
+        "maxPassengers": 4,
+        "price": 28,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-40",
+    "slug": "hurghada-airport-to-makadi-bay-soma-bay-private-transfer",
+    "title": "Hurghada Airport (HRG) \u2194 Makadi Bay / Soma Bay Private Transfer",
+    "category": "Private Transfers",
+    "destination": "Hurghada",
+    "duration": "Approx. 40\u201355 mins",
+    "price": 22,
+    "priceNote": "Starting rate per vehicle for one-way private airport transfer \u00b7 Door-to-door meet & assist.",
+    "featured": false,
+    "shortDescription": "Private one-way airport transfer between Hurghada Airport (HRG) and Makadi Bay or Soma Bay resorts in clean air-conditioned vehicles with professional driver.",
+    "overview": "Enjoy seamless, reliable private transportation connecting Hurghada International Airport (HRG) and the luxury beach resorts of Makadi Bay and Soma Bay.\n\nAvoid airport taxi queues and haggling with our pre-booked private transfer. Your licensed chauffeur monitors your flight in real time, warmly welcomes you at the terminal with a name board, and assists with all baggage. Travel comfortably along the Red Sea highway in a clean, sanitized vehicle directly to your resort lobby.\n\nFares are charged strictly per vehicle on a one-way basis, ensuring total transparency for couples, families, and small traveling parties.",
+    "highlights": [
+      "Private one-way transfer between Hurghada Airport and Makadi Bay / Soma Bay resorts",
+      "Punctual meet-and-greet service in the terminal with personalized name sign",
+      "Sedan (up to 3 passengers) and Minivan (up to 4 passengers) vehicle options",
+      "Zero hidden fees, parking surcharges, or luggage costs; all tolls included"
+    ],
+    "itinerary": [
+      {
+        "title": "Step 1: Punctual Arrival Welcome or Hotel Lobby Pickup",
+        "description": "Meet your licensed driver holding a personalized name sign at Hurghada Airport arrivals or your Makadi Bay / Soma Bay resort lobby. Assistance with luggage provided."
+      },
+      {
+        "title": "Step 2: Climate-Controlled Highway Transit",
+        "description": "Travel smoothly southbound along the coastal highway in a modern air-conditioned vehicle with complimentary bottled water and approved travel permits."
+      },
+      {
+        "title": "Step 3: Direct Resort Lobby Drop-Off",
+        "description": "Arrive safely at your Makadi Bay or Soma Bay hotel reception, ready to begin your Red Sea vacation without transit stress."
+      }
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between Hurghada Airport (HRG) and Makadi Bay / Soma Bay",
+      "Luggage handling and assistance",
+      "Airport parking charges, road tolls, and fuel expenses",
+      "Complimentary chilled bottled water in the vehicle"
+    ],
+    "exclusions": [
+      "Egyptologist guide (driver-only transfer service)",
+      "Monument admissions or sightseeing detours",
+      "Meals and personal expenses",
+      "Driver gratuity / tips (customary in Egypt)"
+    ],
+    "meetingPoint": "Personalized meet-and-greet at Hurghada Airport (HRG) arrival terminal exit with a custom paging board, or direct lobby pickup from any hotel in Makadi Bay or Soma Bay.",
+    "mainImage": "/images/tours/hurghada-airport-transfer-limousine.webp",
+    "images": [
+      "/images/tours/hurghada-airport-transfer-limousine.webp",
+      "/images/tours/luxor-hurghada-desert-road-transfer.webp",
+      "/images/gallery/IMG-20261001-WA0014.jpg"
+    ],
+    "relatedSlugs": [
+      "hurghada-airport-private-transfer-hotel-%e2%86%94-airport",
+      "hurghada-airport-to-el-gouna-private-transfer",
+      "luxor-%e2%86%94-hurghada-private-transfer-service"
+    ],
+    "optionalExtras": [
+      "Child safety seat (subject to advance request)",
+      "Return journey airport reservation"
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Sedan",
+        "capacity": "Up to 3 passengers",
+        "maxPassengers": 3,
+        "price": 22,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Minivan",
+        "capacity": "Up to 4 passengers",
+        "maxPassengers": 4,
+        "price": 30,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-41",
+    "slug": "hurghada-airport-to-safaga-private-transfer",
+    "title": "Hurghada Airport (HRG) \u2194 Safaga Port & Hotels Private Transfer",
+    "category": "Private Transfers",
+    "destination": "Hurghada",
+    "duration": "Approx. 55\u201370 mins",
+    "price": 32,
+    "priceNote": "Starting rate per vehicle for one-way private transfer \u00b7 Door-to-door meet & assist.",
+    "featured": false,
+    "shortDescription": "Private one-way transfer between Hurghada Airport (HRG) and Safaga Port cruise terminal or Safaga hotels in air-conditioned comfort with professional driver.",
+    "overview": "Ensure a relaxed, punctual transfer between Hurghada International Airport (HRG) and Safaga Port passenger cruise terminal or coastal hotels in Safaga.\n\nWhether connecting to a Red Sea cruise embarkation, diving holiday, or hotel stay, this private one-way service delivers comfort and punctuality. Your dedicated licensed driver meets you at the airport arrivals area or port gate with a personalized name board and assists with all luggage.\n\nEnjoy transparent per-vehicle pricing, modern air conditioning, bottled water, and verified highway travel permits.",
+    "highlights": [
+      "Private one-way transfer between Hurghada Airport (HRG) and Safaga Port / hotels",
+      "Meet-and-greet service at airport arrivals hall or Safaga cruise passenger dock",
+      "Air-conditioned Sedan (up to 3 pax) or Minivan (up to 4 pax) options",
+      "Fixed per-vehicle pricing with all road tolls, port fees, and luggage included"
+    ],
+    "itinerary": [
+      {
+        "title": "Step 1: Arrival Terminal Meet-and-Greet or Safaga Pickup",
+        "description": "Meet your licensed driver holding a Genuine Egypte paging board at HRG arrival hall or outside the Safaga Port passenger gate. Luggage assistance provided."
+      },
+      {
+        "title": "Step 2: Direct Highway Transit to Safaga",
+        "description": "Relax in a modern, climate-controlled vehicle along the scenic Red Sea coastal route with complimentary chilled bottled water."
+      },
+      {
+        "title": "Step 3: Direct Arrival at Ship Dock or Hotel",
+        "description": "Direct drop-off at your cruise ship terminal gate or hotel reception in Safaga with complete baggage assistance."
+      }
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle for your party",
+      "Professional licensed driver",
+      "Door-to-door transfer between Hurghada Airport (HRG) and Safaga Port / hotels",
+      "Luggage handling and assistance",
+      "Airport and port gate access fees, road tolls, and fuel expenses",
+      "Complimentary chilled bottled water in the vehicle"
+    ],
+    "exclusions": [
+      "Egyptologist guide (driver-only transfer service)",
+      "Cruise terminal boarding fees or monument admissions",
+      "Meals and personal drinks",
+      "Driver gratuity / tips (customary in Egypt)"
+    ],
+    "meetingPoint": "Personalized meet-and-greet at Hurghada Airport (HRG) arrival terminal exit with a custom paging board, or Safaga Port cruise terminal exit / hotel lobby.",
+    "mainImage": "/images/tours/hurghada-airport-transfer-limousine.webp",
+    "images": [
+      "/images/tours/hurghada-airport-transfer-limousine.webp",
+      "/images/tours/luxor-hurghada-desert-road-transfer.webp",
+      "/images/gallery/IMG-20261001-WA0015.jpg"
+    ],
+    "relatedSlugs": [
+      "hurghada-airport-private-transfer-hotel-%e2%86%94-airport",
+      "hurghada-airport-to-makadi-bay-soma-bay-private-transfer",
+      "hurghada-%e2%86%94-aswan-private-transfer-service"
+    ],
+    "optionalExtras": [
+      "Child safety seat (subject to advance request)",
+      "Return transfer booking coordination"
+    ],
+    "priceUnit": "/ vehicle",
+    "pricingBasis": "per-vehicle",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+    "vehicleOptions": [
+      {
+        "vehicleType": "Sedan",
+        "capacity": "Up to 3 passengers",
+        "maxPassengers": 3,
+        "price": 32,
+        "currency": "USD",
+        "isDefault": true
+      },
+      {
+        "vehicleType": "Minivan",
+        "capacity": "Up to 4 passengers",
+        "maxPassengers": 4,
+        "price": 42,
+        "currency": "USD"
+      }
+    ],
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-42",
+    "slug": "grand-egyptian-museum-gem-tour",
+    "title": "Grand Egyptian Museum (GEM) Tour",
+    "category": "Cairo & Giza Tours",
+    "destination": "Cairo & Giza",
+    "duration": "Half Day (Approx. 4\u20135 Hours)",
+    "price": 78,
+    "priceNote": "Provisional starting price per adult. Includes standard GEM general admission ticket, private licensed Egyptologist guide, and round-trip climate-controlled transfers.",
+    "featured": true,
+    "shortDescription": "Explore the Grand Egyptian Museum (GEM) with a private licensed Egyptologist guide, standard general admission tickets included, and round-trip Cairo hotel transfers.",
+    "overview": "Discover the architectural wonder of the 21st century on the Grand Egyptian Museum (GEM) Tour. Situated near the Giza Pyramids, the Grand Egyptian Museum is the world\u2019s largest archaeological complex dedicated to a single ancient civilization.\n\nAccompanied by your university-educated Egyptologist guide, enter through the monumental glass atrium and stand before the colossal 3,200-year-old statue of King Ramesses II. Ascend the grand staircase lined with 60 monumental royal sculptures and architectural elements arranged chronologically, leading to sweeping panoramic views of the Giza Pyramids through the floor-to-ceiling glass wall.\n\nGenuine Egypte provides seamless private door-to-door transfers from your Cairo or Giza hotel, unhurried personalized pacing, and comprehensive commentary decoding ancient Egyptian history.",
+    "highlights": [
+      "Private guided excursion to the monumental Grand Egyptian Museum (GEM)",
+      "Standard general admission ticket to the Hanging Obelisk, Grand Atrium, and Grand Staircase included",
+      "Expert historical commentary from a licensed, university-educated Egyptologist guide",
+      "Spectacular panoramic views of the Giza Pyramids from the upper atrium gallery",
+      "Direct round-trip hotel transfers in a private, climate-controlled vehicle"
+    ],
+    "itinerary": [
+      {
+        "title": "Stop 1: Hotel Pickup & Transfer to the Grand Egyptian Museum",
+        "description": "Your private Egyptologist and professional driver pick you up from your Cairo or Giza hotel in a modern, air-conditioned vehicle for a short drive to the GEM complex."
+      },
+      {
+        "title": "Stop 2: The Hanging Obelisk & Main Atrium",
+        "description": "Begin at the world's first hanging obelisk of Ramesses II, where you can see the royal cartouche beneath its base. Step into the majestic Grand Atrium to marvel at the 11-meter colossus of Ramesses II and the victory column of King Merneptah."
+      },
+      {
+        "title": "Stop 3: The Grand Staircase & Exhibition Galleries",
+        "description": "Ascend the chronological Grand Staircase featuring 60 monumental statues, sarcophagi, and royal architectural relics illustrating the evolution of pharaonic kingship. Explore the accessible main exhibition galleries with detailed commentary."
+      },
+      {
+        "title": "Stop 4: Panoramic Pyramid Lookout & Return Transfer",
+        "description": "Pause at the upper viewpoint overlooking the Giza Plateau for photos before relaxing in your private vehicle for the return transfer to your hotel."
+      }
+    ],
+    "inclusions": [
+      "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "Entry tickets included: Standard GEM general admission ticket to the Grand Hall, Grand Staircase, and accessible main galleries",
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel or private residence in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
+    ],
+    "exclusions": [
+      "Special interior exhibition permits or Tutankhamun exclusive gallery tickets (if requiring supplementary permits upon full opening)",
+      "Meals and beverages",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
+    ],
+    "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Flexible morning or afternoon departure arranged upon booking.",
+    "mainImage": "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
+    "images": [
+      "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
+      "/images/tours/giza-pyramids-sphinx-half-day.webp",
+      "/images/tours/saladin-citadel-cairo-cityscape.webp"
+    ],
+    "relatedSlugs": [
+      "giza-pyramids-and-the-sphinx-half-day-tour",
+      "cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo",
+      "memphis-saqqara-and-dahshur-private-full-day-tour"
+    ],
+    "optionalExtras": [
+      "Traditional Egyptian lunch at a handpicked local restaurant",
+      "Afternoon Nile felucca sail"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-43",
+    "slug": "egyptian-museum-and-national-museum-of-egyptian-civilization-tour",
+    "title": "Egyptian Museum + National Museum of Egyptian Civilization (NMEC)",
+    "category": "Cairo & Giza Tours",
+    "destination": "Cairo & Giza",
+    "duration": "Full Day (Approx. 6\u20137 Hours)",
+    "price": 65,
+    "priceNote": "Provisional starting price per adult. Includes standard entry tickets to both Egyptian Museum (Tahrir) and NMEC (Royal Mummies), private Egyptologist, and transfers.",
+    "featured": false,
+    "shortDescription": "Visit both the historic Egyptian Museum in Tahrir and the National Museum of Egyptian Civilization (NMEC) with Royal Mummies Hall, private Egyptologist, and hotel transfers.",
+    "overview": "Experience the ultimate journey through Egyptian history on this private dual-museum day tour. This curated itinerary brings together the historic 1902 Egyptian Museum in Tahrir Square and the cutting-edge National Museum of Egyptian Civilization (NMEC) in ancient Fustat.\n\nIn Tahrir Square, wander through classical neo-classical galleries housing over 120,000 pharaonic antiquities, masterworks from the Old Kingdom, the Yuya and Thuya collection, and monumental stone sarcophagi. Then travel comfortably to NMEC to experience the state-of-the-art Royal Mummies Hall, where 22 pharaohs and queens (including Ramesses II, Hatshepsut, and Thutmose III) rest in climate-controlled preservation designed to evoke the Valley of the Kings.\n\nWith a private university-educated Egyptologist and air-conditioned transit, you enjoy insightful storytelling without rushing.",
+    "highlights": [
+      "Comprehensive exploration of two world-renowned Cairo museums in one seamless private tour",
+      "Standard admission tickets to both the Egyptian Museum (Tahrir) and NMEC included",
+      "Access to the world-famous Royal Mummies Hall housing 22 pharaohs and queens",
+      "Expert historical narration by a licensed, university-educated Egyptologist guide",
+      "Private door-to-door round-trip hotel transfers in a modern air-conditioned vehicle"
+    ],
+    "itinerary": [
+      {
+        "title": "Stop 1: Hotel Pickup & Scenic Drive to Tahrir Square",
+        "description": "Meet your private Egyptologist and driver at your Cairo or Giza hotel lobby in a climate-controlled vehicle and head directly to historic Downtown Cairo."
+      },
+      {
+        "title": "Stop 2: The Egyptian Museum in Tahrir Square",
+        "description": "Spend 2.5 hours exploring the legendary pink-hued museum inaugurated in 1902. Admire Old Kingdom masterpieces including King Khufu's ivory statuette, the statue of Khafre with Horus, and the treasures of Yuya and Thuya."
+      },
+      {
+        "title": "Stop 3: National Museum of Egyptian Civilization (NMEC) & Royal Mummies",
+        "description": "Drive south to historic Fustat to enter the National Museum of Egyptian Civilization. Walk through the Main Exhibition Hall showcasing 50,000 years of civilization from pre-dynastic to modern times, then descend into the subterranean Royal Mummies Hall."
+      },
+      {
+        "title": "Stop 4: Return Transfer to Hotel",
+        "description": "Relax in your private vehicle during the return journey to your hotel or Nile cruise in Cairo/Giza."
+      }
+    ],
+    "inclusions": [
+      "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "Entry tickets included: Standard admission tickets to both the Egyptian Museum (Tahrir) and the National Museum of Egyptian Civilization (NMEC) including the Royal Mummies Hall",
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel or private residence in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
+    ],
+    "exclusions": [
+      "Special camera permits inside museum galleries (where applicable by Ministry rules)",
+      "Meals and beverages",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping and souvenirs"
+    ],
+    "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Flexible morning departure arranged upon booking.",
+    "mainImage": "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
+    "images": [
+      "/images/tours/cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo.webp",
+      "/images/tours/saladin-citadel-cairo-cityscape.webp",
+      "/images/gallery/IMG-20261001-WA0011.jpg"
+    ],
+    "relatedSlugs": [
+      "cairo-city-tour-to-egyptian-museum-citadel-and-old-cairo",
+      "giza-pyramids-and-the-sphinx-half-day-tour",
+      "cairo-layover-city-break"
+    ],
+    "optionalExtras": [
+      "Traditional Egyptian lunch at a local restaurant",
+      "Stop at Khan el-Khalili bazaar"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-44",
+    "slug": "cairo-local-life-tour-zamalek-and-cairo-tower",
+    "title": "Cairo Local-Life Tour \u2014 Zamalek and Cairo Tower",
+    "category": "Cairo Tours",
+    "destination": "Cairo",
+    "duration": "Approx. 4 Hours",
+    "price": 50,
+    "priceNote": "Provisional benchmark price per adult. Includes Cairo Tower observation deck admission, walking tour of Zamalek island, and private round-trip transfers.",
+    "featured": false,
+    "shortDescription": "Discover Cairo's cosmopolitan heart with a private walking tour of leafy Zamalek, iconic Cairo Tower observation deck admission, and private hotel transfers.",
+    "overview": "Experience the vibrant urban pulse, artistic charm, and panoramic views of Egypt's capital on the Cairo Local-Life Tour \u2014 Zamalek and Cairo Tower.\n\nZamalek, occupying the northern half of Gezira Island on the River Nile, is celebrated for its tree-lined boulevards, Belle \u00c9poque architecture, boutique cafes, art galleries, and embassies. Accompanied by a knowledgeable private local guide, take a relaxed stroll through residential avenues, observe daily Cairene life away from tourist buses, and pause for fresh mint tea or coffee.\n\nNext, ascend the 187-meter-tall Cairo Tower (Borg El-Q\u0101hira), built in the distinct shape of a lotus flower. From the open-air observation deck, enjoy breathtaking 360-degree vistas stretching across the River Nile, Downtown Cairo, and out to the distant Pyramids of Giza on clear days.",
+    "highlights": [
+      "Private guided walking tour through Cairo's bohemian island district of Zamalek",
+      "General observation deck admission ticket to the 187-meter-tall Cairo Tower included",
+      "Panoramic 360-degree bird's-eye views over the Nile, Cairo skyline, and Pyramids",
+      "Authentic local life encounter: artisan shops, colonial architecture, and garden boulevards",
+      "Private door-to-door round-trip hotel pickup and return in an air-conditioned vehicle"
+    ],
+    "itinerary": [
+      {
+        "title": "Stop 1: Hotel Pickup & Transfer to Gezira Island",
+        "description": "Meet your private guide and driver at your hotel lobby for a comfortable drive to Gezira Island in the center of the Nile."
+      },
+      {
+        "title": "Stop 2: Zamalek Cultural & Architectural Walk",
+        "description": "Stroll along 26th of July Street and leafy residential side streets. Discover quaint bookshops, historic villas, antique stores, and modern art spaces while learning about 20th-century Egyptian culture."
+      },
+      {
+        "title": "Stop 3: Cairo Tower Observation Deck (Borg El-Q\u0101hira)",
+        "description": "Ascend by high-speed elevator to the top observation level of the lotus-shaped Cairo Tower. Take in panoramic views of the Nile bridges, Tahrir Square, the Citadel, and the desert horizon."
+      },
+      {
+        "title": "Stop 4: Relaxed Return Transfer",
+        "description": "Return comfortably to your hotel in your private vehicle."
+      }
+    ],
+    "inclusions": [
+      "Private English-speaking local cultural guide",
+      "Cairo Tower general observation deck admission ticket",
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door hotel pickup and drop-off in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All parking fees, fuel, and road tolls"
+    ],
+    "exclusions": [
+      "Food, drinks, and snacks at Cairo Tower revolving restaurant",
+      "Telescope usage coins on observation deck",
+      "Gratuities for guide and driver (customary in Egypt)",
+      "Personal purchases"
+    ],
+    "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Flexible morning or late afternoon departure arranged upon booking.",
+    "mainImage": "/images/tours/saladin-citadel-cairo-cityscape.webp",
+    "images": [
+      "/images/tours/saladin-citadel-cairo-cityscape.webp",
+      "/images/tours/15974198080cairo.jpg",
+      "/images/tours/15972630031Khan-El-Khalili-Bazaar-Cairo-Egypt-1.jpg"
+    ],
+    "relatedSlugs": [
+      "cairo-layover-city-break",
+      "giza-pyramids-and-the-sphinx-half-day-tour",
+      "half-day-tour-of-garbage-city-and-saint-samaan-cave-church-and-city-of-the-dead"
+    ],
+    "optionalExtras": [
+      "Table reservation at Cairo Tower rotating restaurant",
+      "1-hour private sunset felucca sail on the Nile"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-45",
+    "slug": "giza-pyramids-quad-bike-atv-experience",
+    "title": "Giza Pyramids Quad-Bike / ATV Experience",
+    "category": "Cairo & Giza Tours",
+    "destination": "Cairo & Giza",
+    "duration": "Approx. 2.5\u20133 Hours (1 Hour Riding)",
+    "price": 40,
+    "priceNote": "Provisional starting price per adult. Includes 60-minute desert quad-bike ride with safety gear, desert escort, and private round-trip hotel transfers.",
+    "featured": false,
+    "shortDescription": "Ride a powerful quad bike across the Sahara desert sands with panoramic views of the Giza Pyramids, safety helmet, escort, and private hotel transfers.",
+    "overview": "Inject high-octane adventure into your Egypt trip with the Giza Pyramids Quad-Bike / ATV Experience. Escape the paved tour bus circuits and head out into the rolling Sahara sand dunes directly bordering the Giza Plateau.\n\nFollowing a brief safety orientation and vehicle briefing, mount your automatic all-terrain quad bike. Led by an experienced local desert guide, throttle through the undulating desert tracks, scaling crests that offer breathtaking, unobstructed panoramic views of the Great Pyramids of Khufu, Khafre, and Menkaure rising from the golden desert floor.\n\nThis outdoor excursion operates on open desert tracks outside the archaeological enclosure (no monument tickets required) and includes private climate-controlled hotel pickup and drop-off.",
+    "highlights": [
+      "Exciting 60-minute desert quad-bike / ATV riding session on open Sahara dunes",
+      "Unmatched panoramic photography opportunities of the Giza Pyramids from desert heights",
+      "Automatic, easy-to-operate all-terrain vehicles suitable for beginners and experienced riders",
+      "Comprehensive safety briefing, certified protective helmets, and local desert escort",
+      "Private door-to-door round-trip hotel transfers in an air-conditioned vehicle"
+    ],
+    "itinerary": [
+      {
+        "title": "Step 1: Hotel Pickup & Transfer to Desert Base",
+        "description": "Meet your private driver at your Cairo or Giza hotel and travel by air-conditioned vehicle to the desert staging base on the edge of the Giza Plateau."
+      },
+      {
+        "title": "Step 2: Safety Briefing & Quad Bike Familiarization",
+        "description": "Receive your protective helmet, learn basic ATV controls and throttle handling, and complete a short practice circuit to ensure full comfort."
+      },
+      {
+        "title": "Step 3: 1-Hour Desert Safari & Pyramid Vantage Points",
+        "description": "Ride out into the desert sands for a 60-minute guided adventure. Stop at scenic desert ridge viewpoints for spectacular panoramic photos with all three Pyramids in the background."
+      },
+      {
+        "title": "Step 4: Return Transfer to Hotel",
+        "description": "Cool down at the desert base and enjoy a relaxed private transfer back to your hotel."
+      }
+    ],
+    "inclusions": [
+      "1-hour quad bike / ATV riding session on desert dunes",
+      "Protective safety helmet and desert guide escort",
+      "Private round-trip door-to-door transportation in a modern, air-conditioned vehicle",
+      "Hotel pickup and drop-off from any Cairo or Giza hotel",
+      "Complimentary bottled water during transit and ride",
+      "Fuel, road tolls, and parking charges"
+    ],
+    "exclusions": [
+      "Giza Plateau archaeological monument tickets (riding takes place on open desert terrain outside the gated site boundary)",
+      "Bedouin scarf (keffiyeh) or protective goggles purchase",
+      "Gratuities for safari guide and vehicle driver (customary in Egypt)",
+      "Personal insurance and food/drinks"
+    ],
+    "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Morning, afternoon, or sunset slots available.",
+    "mainImage": "/images/tours/hurghada-desert-safari-quad-sunset.webp",
+    "images": [
+      "/images/tours/hurghada-desert-safari-quad-sunset.webp",
+      "/images/tours/quad-biking-with-camel-ride-and-bedouin-dinner.webp",
+      "/images/tours/giza-pyramids-sphinx-half-day.webp"
+    ],
+    "relatedSlugs": [
+      "giza-pyramids-and-the-sphinx-half-day-tour",
+      "camel-ride-trip-at-the-pyramids",
+      "memphis-saqqara-and-dahshur-private-full-day-tour"
+    ],
+    "optionalExtras": [
+      "Upgrade to double quad bike (for couple sharing)",
+      "Sunset timing upgrade for golden hour pyramid photos"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-46",
+    "slug": "bedouin-dinner-and-sunset-camel-ride",
+    "title": "Bedouin Dinner and Sunset Camel Ride",
+    "category": "Cairo & Giza Tours",
+    "destination": "Cairo & Giza",
+    "duration": "Approx. 4 Hours (Evening)",
+    "price": 55,
+    "priceNote": "Provisional starting price per adult. Includes 60-minute sunset camel trek, freshly grilled Bedouin dinner with tea, and private round-trip hotel transfers.",
+    "featured": false,
+    "shortDescription": "Embark on a sunset camel trek across Giza's desert dunes followed by an authentic Bedouin dinner under the stars with private round-trip hotel transfers.",
+    "overview": "Escape the city lights and experience the timeless hospitality of the Sahara on the Bedouin Dinner and Sunset Camel Ride.\n\nBegin in the late afternoon as the heat of the day fades. Mount your gentle, traditionally saddled camel for a 60-minute desert trek across undulating sand dunes, watching the sun dip behind the ancient horizon in a blaze of amber and gold.\n\nArrive at an atmospheric desert camp nestled in the sands. Relax on comfortable woven carpets and low cushions around a crackling campfire. Savor an authentic Bedouin-style dinner featuring charcoal-grilled chicken and kofta, freshly baked Bedouin flatbread, fragrant rice, fresh salads, and piping hot herbal Bedouin tea brewed over glowing embers under a canopy of desert stars.",
+    "highlights": [
+      "1-hour sunset camel ride across the Sahara dunes with panoramic desert vistas",
+      "Authentic freshly grilled Bedouin dinner prepared on charcoal embers in a desert camp",
+      "Relaxed Bedouin camp hospitality with traditional mint/herbal tea and campfire ambiance",
+      "Spectacular twilight desert atmosphere and stargazing away from city lights",
+      "Private door-to-door round-trip hotel transfers in an air-conditioned vehicle"
+    ],
+    "itinerary": [
+      {
+        "title": "Step 1: Late Afternoon Hotel Pickup",
+        "description": "Meet your private driver at your Cairo or Giza hotel and travel by air-conditioned vehicle to the desert safari staging camp."
+      },
+      {
+        "title": "Step 2: 1-Hour Sunset Camel Trek",
+        "description": "Mount your camel with the assistance of experienced local camel handlers. Ride across scenic desert ridges as the setting sun paints the sky in shades of gold and violet."
+      },
+      {
+        "title": "Step 3: Camp Welcome & Traditional Bedouin Dinner",
+        "description": "Arrive at the Bedouin tent camp. Savor a freshly prepared meal of grilled chicken, kofta, rice, tahini, salad, and warm flatbread, followed by authentic Bedouin tea brewed with desert herbs."
+      },
+      {
+        "title": "Step 4: Evening Return Transfer",
+        "description": "Relax in your private vehicle during the smooth return transfer to your hotel."
+      }
+    ],
+    "inclusions": [
+      "Sunset camel ride across desert sands (approx. 1 hour) with handler escort",
+      "Freshly prepared traditional Bedouin dinner (grilled meats, rice, salads, bread)",
+      "Authentic Bedouin herbal tea and mineral water at camp",
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door hotel pickup and return in Cairo & Giza",
+      "All desert camp entry fees, fuel, tolls, and parking"
+    ],
+    "exclusions": [
+      "Soft drinks or sodas (available for purchase at camp)",
+      "Archaeological monument entrance tickets (camp is situated on open desert territory)",
+      "Gratuities for camel handlers, camp staff, and driver (customary in Egypt)",
+      "Personal expenses"
+    ],
+    "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Scheduled for late afternoon (approx. 3:30\u20134:30 PM depending on season).",
+    "mainImage": "/images/tours/camel-ride-trip-at-the-pyramids.webp",
+    "images": [
+      "/images/tours/camel-ride-trip-at-the-pyramids.webp",
+      "/images/tours/bedouin-safari-and-star-gazing-tour.webp",
+      "/images/tours/15974105260camels-at-the-site-of-pyramids-2445852.jpg"
+    ],
+    "relatedSlugs": [
+      "camel-ride-trip-at-the-pyramids",
+      "giza-pyramids-and-the-sphinx-half-day-tour",
+      "cairo-layover-city-break"
+    ],
+    "optionalExtras": [
+      "Stargazing telescope session upgrade",
+      "Quad bike add-on prior to sunset"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-47",
+    "slug": "sunset-horse-ride-at-the-pyramids",
+    "title": "Sunset Horse Ride at the Pyramids",
+    "category": "Cairo & Giza Tours",
+    "destination": "Cairo & Giza",
+    "duration": "Approx. 2.5 Hours (1\u20131.5 Hours Riding)",
+    "price": 45,
+    "priceNote": "Provisional starting price per adult. Includes 60\u201390 minute sunset horseback ride along desert ridges bordering the Pyramids with escort and private transfers.",
+    "featured": false,
+    "shortDescription": "Ride a graceful Egyptian horse across the desert sands during golden hour with sweeping views of the Giza Pyramids and private hotel transfers.",
+    "overview": "Experience the timeless romance of Egypt from the saddle on the Sunset Horse Ride at the Pyramids. Egypt's equestrian heritage dates back thousands of years, and this excursion pairs you with a spirited yet obedient, well-cared-for horse.\n\nDeparting during late afternoon, ride across the open desert sands on the plateau's southern border. As the sun lowers toward the horizon, casting elongated shadows across the Sahara, enjoy uninterrupted panoramic views of the three monumental Pyramids of Khufu, Khafre, and Menkaure silhouetted against a golden-orange sky.\n\nAccompanied by an experienced local equestrian guide, the ride is tailored to your riding ability\u2014from gentle walking for novices to thrilling trots and canters across open sands for experienced riders.",
+    "highlights": [
+      "60 to 90 minutes of guided horseback riding through desert dunes at golden hour",
+      "Unforgettable sunset views and silhouette photography of the Great Pyramids",
+      "Healthy, well-trained horses matched to rider experience and confidence levels",
+      "Accompanied by an experienced local equestrian escort",
+      "Private door-to-door round-trip hotel transfers in an air-conditioned vehicle"
+    ],
+    "itinerary": [
+      {
+        "title": "Step 1: Hotel Pickup & Transfer to Stables",
+        "description": "Meet your private driver at your Cairo or Giza hotel and travel to the traditional desert stables located near the Giza desert boundary."
+      },
+      {
+        "title": "Step 2: Horse Matching & Pre-Ride Orientation",
+        "description": "Meet your equestrian guide, receive an orientation, and be matched with a horse suited to your experience level."
+      },
+      {
+        "title": "Step 3: Sunset Desert Ride with Pyramid Panoramas",
+        "description": "Ride out onto the open desert dunes for 60 to 90 minutes during the sunset golden hour. Pause at prime elevated ridges for breathtaking photos with the Pyramids in the background."
+      },
+      {
+        "title": "Step 4: Return Transfer to Hotel",
+        "description": "Return to the stables, dismount, and relax in your air-conditioned vehicle for the private transfer back to your accommodation."
+      }
+    ],
+    "inclusions": [
+      "Well-trained horse suited to your riding level",
+      "60\u201390 minutes riding time during late afternoon sunset golden hour",
+      "Experienced local equestrian guide escort",
+      "Private round-trip door-to-door transportation in a modern, air-conditioned vehicle",
+      "Hotel pickup and drop-off in Cairo & Giza",
+      "Complimentary chilled bottled water in the vehicle",
+      "Fuel, road tolls, and parking charges"
+    ],
+    "exclusions": [
+      "Archaeological plateau gated monument entry tickets (ride takes place on the open desert periphery for optimal sunset photography)",
+      "Riding boots / specialized equestrian clothing",
+      "Gratuities for equestrian guide, stable hand, and driver (customary in Egypt)",
+      "Personal insurance and expenses"
+    ],
+    "meetingPoint": "Door-to-door pickup and return included from any hotel or private residence in Cairo & Giza. Scheduled for late afternoon (approx. 3:30\u20134:30 PM depending on season).",
+    "mainImage": "/images/tours/giza-pyramids-plateau-cairo.webp",
+    "images": [
+      "/images/tours/giza-pyramids-plateau-cairo.webp",
+      "/images/tours/giza-pyramids-sphinx-half-day.webp",
+      "/images/gallery/IMG-20261001-WA0013.jpg"
+    ],
+    "relatedSlugs": [
+      "giza-pyramids-and-the-sphinx-half-day-tour",
+      "camel-ride-trip-at-the-pyramids",
+      "cairo-layover-city-break"
+    ],
+    "optionalExtras": [
+      "Private photography package with photo escort",
+      "Extended 2-hour riding session"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-48",
+    "slug": "valley-of-the-queens-nefertari-tomb-tour",
+    "title": "Valley of the Queens / Nefertari\u2019s Tomb",
+    "category": "Luxor & Upper Egypt",
+    "destination": "Luxor",
+    "duration": "Half Day (Approx. 4 Hours)",
+    "price": 120,
+    "priceNote": "Provisional starting price per adult. Includes standard Valley of the Queens site ticket, private Egyptologist, and transfers. Nefertari Tomb (QV66) special permit is a separate supplementary ticket.",
+    "featured": false,
+    "shortDescription": "Explore the Valley of the Queens (Biban el-Harim) with a private Egyptologist, standard site entry included, and optional special Queen Nefertari tomb ticket.",
+    "overview": "Discover the burial place of Egypt's royal women and royal children on the Valley of the Queens / Nefertari\u2019s Tomb tour.\n\nKnown in antiquity as Ta-Set-Neferu ('The Place of Beauty'), the Valley of the Queens is tucked into a secluded desert wadi on Luxor\u2019s West Bank. Accompanied by your licensed university-educated Egyptologist, explore standard rock-cut burial chambers including the beautifully preserved tombs of Prince Amunherkhepshef and Prince Khaemwaset, featuring vivid reliefs depicting the princes being introduced to the underworld deities by their father, Ramesses III.\n\nThe valley is most renowned as the resting place of Queen Nefertari, the beloved royal wife of Ramesses II. Her tomb (QV66), often celebrated as the Sistine Chapel of Ancient Egypt, boasts the most exquisite, luminous polychrome wall paintings surviving from antiquity. Note: Access to Queen Nefertari's tomb requires an exclusive supplementary ticket regulated by the Ministry of Tourism & Antiquities (available on-site or pre-booked as an optional upgrade).",
+    "highlights": [
+      "Private West Bank excursion dedicated to the Valley of the Queens (Biban el-Harim)",
+      "Standard site admission ticket including access to standard open royal tombs",
+      "Expert Egyptologist commentary decoding ancient New Kingdom queenship and funerary art",
+      "Opportunity to visit the celebrated Tomb of Queen Nefertari (QV66, supplementary ticket required)",
+      "Private door-to-door round-trip transfers from your Luxor hotel or Nile cruise ship"
+    ],
+    "itinerary": [
+      {
+        "title": "Stop 1: West Bank Crossing & Arrival at Valley of the Queens",
+        "description": "Meet your private Egyptologist and driver at your Luxor hotel or Nile cruise dock. Travel across the Nile bridge in a modern air-conditioned vehicle directly to the West Bank wadi."
+      },
+      {
+        "title": "Stop 2: Standard Tombs of the Royal Princes & Queens",
+        "description": "Explore the rock-hewn chambers included on the standard site ticket, such as the Tomb of Prince Khaemwaset (QV44) and the Tomb of Prince Amunherkhepshef (QV55), marveling at the vivid blues and golds preserved on the plaster walls."
+      },
+      {
+        "title": "Stop 3: Tomb of Queen Nefertari (QV66 - Optional Upgrade)",
+        "description": "Inspect the exterior and, with the optional supplementary permit ticket, descend into the breathtaking burial chamber of Queen Nefertari, celebrated for its astonishingly vivid depictions of the Queen offering to Osiris and Hathor."
+      },
+      {
+        "title": "Stop 4: Return Transfer across Luxor",
+        "description": "Relax in your private vehicle during the comfortable return transfer to your Luxor accommodation or cruise vessel."
+      }
+    ],
+    "inclusions": [
+      "Licensed university-educated Egyptologist tour guide (English-speaking)",
+      "Entry tickets included: Standard Valley of the Queens archaeological site admission ticket (includes open standard tombs such as QV44 and QV55)",
+      "Private transportation in a modern, air-conditioned vehicle with dedicated driver",
+      "Door-to-door pickup and return from your hotel or Nile cruise ship in Luxor",
+      "Complimentary chilled bottled water in the vehicle during transit",
+      "All road tolls, fuel, parking charges, and driver expenses"
+    ],
+    "exclusions": [
+      "Queen Nefertari's Tomb (QV66) special supplementary entry ticket (regulated by the Ministry of Tourism & Antiquities; available on-site or pre-booked as an optional upgrade)",
+      "Meals and beverages",
+      "Gratuities for your Egyptologist guide and vehicle driver (customary in Egypt)",
+      "Personal shopping, camera permits, and personal extras"
+    ],
+    "meetingPoint": "Door-to-door pickup and return included from any hotel, private residence, or Nile cruise ship in Luxor. Flexible morning departure arranged upon booking.",
+    "mainImage": "/images/tours/abu-simbel-nefertari-hathor-temple.webp",
+    "images": [
+      "/images/tours/abu-simbel-nefertari-hathor-temple.webp",
+      "/images/tours/valley-of-the-kings-thebes-luxor.webp",
+      "/images/tours/15971787680Valley_of_the_Kings_banner.jpg"
+    ],
+    "relatedSlugs": [
+      "egypts-valley-of-the-kings-queens-half-day-private-tour",
+      "luxors-west-east-side-highlights-full-day-tour-in-egypt",
+      "explore-the-legendary-karnak-and-luxor-temple"
+    ],
+    "optionalExtras": [
+      "Special Queen Nefertari (QV66) interior admission permit pre-arrangement",
+      "Traditional Egyptian lunch at a local West Bank restaurant",
+      "Add Medinet Habu or Valley of the Artisans (Deir el-Medina)"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
+  },
+  {
+    "id": "tour-49",
+    "slug": "luxor-east-bank-evening-walking-tour",
+    "title": "Luxor East Bank Evening Walking Tour",
+    "category": "Luxor Tours",
+    "destination": "Luxor",
+    "duration": "Approx. 2.5\u20133 Hours",
+    "price": 40,
+    "priceNote": "Provisional starting price per adult. Private walking tour with local guide along illuminated Luxor Corniche and vibrant bazaar. Subject to final review based on party size.",
+    "featured": false,
+    "shortDescription": "Stroll along the illuminated Nile Corniche, view illuminated Luxor Temple, and explore the vibrant souk with a private local guide and hotel pickup.",
+    "overview": "Experience the enchanting evening ambiance and living heritage of Luxor on the Luxor East Bank Evening Walking Tour.\n\nWhen twilight falls, ancient Thebes transforms as cooling river breezes drift off the Nile and illuminated stone monuments glow against the night sky. Guided by your private local guide, begin with a relaxed walk along the Luxor Corniche promenade, admiring panoramic views of traditional feluccas and the illuminated pylon of Luxor Temple from prime waterside vantage points.\n\nContinue into the bustling alleys of Luxor\u2019s historic souk (market). Wander through vibrant spice stalls scented with saffron and hibiscus, inspect hand-woven alabaster crafts, and observe evening life. Pause at a traditional Egyptian caf\u00e9 for fresh mint tea or karkadeh while your guide shares stories of local culture and traditions.\n\nNote: This is an authentic cultural walking tour; interior temple tickets are excluded but exterior night viewpoints are showcased.",
+    "highlights": [
+      "Private evening walking tour along the illuminated Luxor Nile Corniche",
+      "Exterior nighttime viewpoints of the brilliantly floodlit Luxor Temple facade and avenue of sphinxes",
+      "Guided walk through the vibrant traditional Luxor souk and spice bazaar",
+      "Complimentary traditional mint tea or fresh fruit juice at an authentic local cafe",
+      "Hotel pickup and drop-off coordination within Luxor East Bank"
+    ],
+    "itinerary": [
+      {
+        "title": "Stop 1: Evening Hotel Meetup & Corniche Promenade",
+        "description": "Meet your private local guide at your Luxor East Bank hotel or cruise ship and begin your evening walk along the breezy Nile Corniche."
+      },
+      {
+        "title": "Stop 2: Illuminated Luxor Temple & Sphinx Avenue Viewpoints",
+        "description": "Pause before the illuminated front pylon and colossal seated statues of Ramesses II at Luxor Temple, taking in the dramatic lighting along the Avenue of Sphinxes."
+      },
+      {
+        "title": "Stop 3: Luxor Traditional Bazaar & Souk",
+        "description": "Explore the bustling covered walkways of the local market. Learn about Egyptian spices, essential perfume oils, papyrus, and handmade crafts with zero pressure to buy."
+      },
+      {
+        "title": "Stop 4: Traditional Egyptian Caf\u00e9 & Relaxed Farewell",
+        "description": "Sit down at a classic outdoor caf\u00e9 for hot mint tea or cold hibiscus karkadeh, enjoying lively conversation with your guide before returning to your hotel."
+      }
+    ],
+    "inclusions": [
+      "Licensed local English-speaking guide for 2.5\u20133 hours evening walking tour",
+      "Guided cultural exploration of Luxor Corniche, Luxor Temple exterior, and local bazaar",
+      "Complimentary traditional mint tea or fresh sugarcane/hibiscus drink at local cafe",
+      "Hotel pickup and return coordination within Luxor East Bank",
+      "Bottled mineral water during the walk"
+    ],
+    "exclusions": [
+      "Interior temple entrance tickets (this is an exterior evening walking/cultural tour)",
+      "Personal purchases and shopping at the market",
+      "Gratuities for your local walking guide (customary in Egypt)",
+      "Vehicular transport if staying on the distant West Bank (available as an optional extra)"
+    ],
+    "meetingPoint": "Pickup from any hotel, private residence, or Nile cruise ship in Luxor East Bank. Departs in the evening (approx. 6:30\u20137:00 PM).",
+    "mainImage": "/images/tours/15971782201Luxor-Temple.jpg",
+    "images": [
+      "/images/tours/15971782201Luxor-Temple.jpg",
+      "/images/tours/153191330951396874059karnak-temple-morning.jpg",
+      "/images/tours/Luxor-Private-Tour-4.webp"
+    ],
+    "relatedSlugs": [
+      "explore-the-legendary-karnak-and-luxor-temple",
+      "luxor-city-tour-by-horse-carriage",
+      "felucca-ride-on-the-nile"
+    ],
+    "optionalExtras": [
+      "Add nighttime interior Luxor Temple entrance ticket",
+      "Private horse carriage ride along the Corniche"
+    ],
+    "priceUnit": "/ adult",
+    "pricingBasis": "per-adult",
+    "currency": "USD",
+    "priceStatus": "provisional-benchmark",
+    "priceSourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+    "priceVerifiedAt": "2026-10-14"
   }
 ];
 

@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "manifestVersion": "1.0.0",
-    "generatedAt": "2026-10-14T10:20:00Z",
+    "manifestVersion": "1.1.0",
+    "generatedAt": "2026-10-14T10:45:00Z",
     "organization": "Genuine Egypte",
     "description": "Comprehensive pricing and competitor reference audit manifest for Day Tours and Private Transfers.",
     "criticalPricingRule": "Amounts are competitor-based reference prices from research, not confirmed supplier costs or guaranteed final selling prices. Applied strictly to matching products.",
     "summary": {
-      "totalToursInCatalog": 298,
-      "totalDayToursInspected": 108,
-      "dayToursPriced": 34,
+      "totalToursInCatalog": 309,
+      "totalDayToursInspected": 116,
+      "dayToursPriced": 42,
       "dayToursUnpriced": 74,
-      "totalTransfersInspected": 6,
-      "transfersPriced": 6,
-      "transferVehicleVariantsPriced": 19,
-      "unmatchedBenchmarkDayTours": 8,
-      "unmatchedResortTransferRoutes": 3
+      "totalTransfersInspected": 9,
+      "transfersPriced": 9,
+      "transferVehicleVariantsPriced": 25,
+      "unmatchedBenchmarkDayTours": 0,
+      "unmatchedResortTransferRoutes": 0
     }
   },
   "dayTourPricingEntries": [
@@ -561,6 +561,134 @@
       "verificationStatus": "provisional-benchmark",
       "publicationStatus": "provisional-reference-starting-price",
       "inclusionsSummary": "Private A/C vehicle, Egyptologist guide, entrance tickets as specified in itinerary."
+    },
+    {
+      "tourId": "tour-42",
+      "tourSlug": "grand-egyptian-museum-gem-tour",
+      "productTitle": "Grand Egyptian Museum (GEM) Tour",
+      "matchedBenchmarkName": "Grand Egyptian Museum (GEM) Tour",
+      "benchmarkAmount": 78,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Cairo & Giza",
+      "duration": "Half Day (Approx. 4\u20135 Hours)",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "Standard GEM general admission ticket, private licensed Egyptologist guide, and round-trip climate-controlled hotel transfers."
+    },
+    {
+      "tourId": "tour-43",
+      "tourSlug": "egyptian-museum-and-national-museum-of-egyptian-civilization-tour",
+      "productTitle": "Egyptian Museum + National Museum of Egyptian Civilization (NMEC)",
+      "matchedBenchmarkName": "Egyptian Museum + National Museum of Egyptian Civilization (NMEC)",
+      "benchmarkAmount": 65,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Cairo & Giza",
+      "duration": "Full Day (Approx. 6\u20137 Hours)",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "Standard entry tickets to both Egyptian Museum (Tahrir) and NMEC (Royal Mummies Hall), private Egyptologist guide, and private hotel transfers."
+    },
+    {
+      "tourId": "tour-44",
+      "tourSlug": "cairo-local-life-tour-zamalek-and-cairo-tower",
+      "productTitle": "Cairo Local-Life Tour \u2014 Zamalek and Cairo Tower",
+      "matchedBenchmarkName": "Cairo Local-Life Tour \u2014 Zamalek and Cairo Tower",
+      "benchmarkAmount": 50,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Cairo",
+      "duration": "Approx. 4 Hours",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "Cairo Tower observation deck admission ticket, walking tour of Zamalek island, private cultural guide, and private hotel transfers."
+    },
+    {
+      "tourId": "tour-45",
+      "tourSlug": "giza-pyramids-quad-bike-atv-experience",
+      "productTitle": "Giza Pyramids Quad-Bike / ATV Experience",
+      "matchedBenchmarkName": "Giza Pyramids Quad-Bike / ATV Experience",
+      "benchmarkAmount": 40,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Cairo & Giza",
+      "duration": "Approx. 2.5\u20133 Hours (1 Hour Riding)",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "60-minute desert quad-bike session on Sahara dunes, protective safety helmet, desert guide escort, and private round-trip hotel transfers."
+    },
+    {
+      "tourId": "tour-46",
+      "tourSlug": "bedouin-dinner-and-sunset-camel-ride",
+      "productTitle": "Bedouin Dinner and Sunset Camel Ride",
+      "matchedBenchmarkName": "Bedouin Dinner and Sunset Camel Ride",
+      "benchmarkAmount": 55,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Cairo & Giza",
+      "duration": "Approx. 4 Hours (Evening)",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "60-minute sunset camel trek, freshly grilled traditional Bedouin dinner, authentic herbal tea, and private round-trip hotel transfers."
+    },
+    {
+      "tourId": "tour-47",
+      "tourSlug": "sunset-horse-ride-at-the-pyramids",
+      "productTitle": "Sunset Horse Ride at the Pyramids",
+      "matchedBenchmarkName": "Sunset Horse Ride at the Pyramids",
+      "benchmarkAmount": 45,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Cairo & Giza",
+      "duration": "Approx. 2.5 Hours (1\u20131.5 Hours Riding)",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/cairo-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "60\u201390 minute sunset horseback ride along desert ridges bordering the Pyramids, experienced equestrian escort, and private round-trip hotel transfers."
+    },
+    {
+      "tourId": "tour-48",
+      "tourSlug": "valley-of-the-queens-nefertari-tomb-tour",
+      "productTitle": "Valley of the Queens / Nefertari\u2019s Tomb",
+      "matchedBenchmarkName": "Valley of the Queens / Nefertari\u2019s Tomb",
+      "benchmarkAmount": 120,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Luxor",
+      "duration": "Half Day (Approx. 4 Hours)",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "Standard Valley of the Queens site admission ticket, licensed Egyptologist guide, and private Luxor transfers. (Queen Nefertari QV66 requires special supplementary permit ticket)."
+    },
+    {
+      "tourId": "tour-49",
+      "tourSlug": "luxor-east-bank-evening-walking-tour",
+      "productTitle": "Luxor East Bank Evening Walking Tour",
+      "matchedBenchmarkName": "Luxor East Bank Evening Walking Tour",
+      "benchmarkAmount": 40,
+      "currency": "USD",
+      "unit": "per adult",
+      "pricingBasis": "per-adult",
+      "destination": "Luxor",
+      "duration": "Approx. 2.5\u20133 Hours",
+      "sourceUrl": "https://www.luxorandaswan.com/Egypt/day-tours/luxor-tours",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "inclusionsSummary": "Licensed local English-speaking guide for 2.5\u20133 hours evening walking tour along Luxor Corniche and vibrant bazaar, with complimentary traditional mint tea at local cafe."
     }
   ],
   "privateTransferPricingEntries": [
@@ -804,132 +932,103 @@
         }
       ],
       "notes": "Rates are per vehicle for one-way private transfers. Door-to-door meet and assist."
+    },
+    {
+      "tourId": "tour-39",
+      "tourSlug": "hurghada-airport-to-el-gouna-private-transfer",
+      "productTitle": "Hurghada Airport (HRG) \u2194 El Gouna Private Transfer",
+      "route": "Hurghada Airport (HRG) \u2194 El Gouna",
+      "direction": "both-ways / one-way basis",
+      "startingPrice": 20,
+      "currency": "USD",
+      "unit": "per vehicle",
+      "pricingBasis": "per-vehicle",
+      "sourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "vehicleOptions": [
+        {
+          "vehicleType": "Sedan",
+          "capacity": "Up to 3 passengers",
+          "maxPassengers": 3,
+          "price": 20,
+          "currency": "USD",
+          "isDefault": true
+        },
+        {
+          "vehicleType": "Minivan",
+          "capacity": "Up to 4 passengers",
+          "maxPassengers": 4,
+          "price": 28,
+          "currency": "USD"
+        }
+      ],
+      "notes": "Rates are per vehicle for one-way private transfers between HRG and El Gouna hotels/marina. Door-to-door meet and assist."
+    },
+    {
+      "tourId": "tour-40",
+      "tourSlug": "hurghada-airport-to-makadi-bay-soma-bay-private-transfer",
+      "productTitle": "Hurghada Airport (HRG) \u2194 Makadi Bay / Soma Bay Private Transfer",
+      "route": "Hurghada Airport (HRG) \u2194 Makadi Bay / Soma Bay",
+      "direction": "both-ways / one-way basis",
+      "startingPrice": 22,
+      "currency": "USD",
+      "unit": "per vehicle",
+      "pricingBasis": "per-vehicle",
+      "sourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "vehicleOptions": [
+        {
+          "vehicleType": "Sedan",
+          "capacity": "Up to 3 passengers",
+          "maxPassengers": 3,
+          "price": 22,
+          "currency": "USD",
+          "isDefault": true
+        },
+        {
+          "vehicleType": "Minivan",
+          "capacity": "Up to 4 passengers",
+          "maxPassengers": 4,
+          "price": 30,
+          "currency": "USD"
+        }
+      ],
+      "notes": "Rates are per vehicle for one-way private transfers between HRG and Makadi Bay / Soma Bay resorts. Door-to-door meet and assist."
+    },
+    {
+      "tourId": "tour-41",
+      "tourSlug": "hurghada-airport-to-safaga-private-transfer",
+      "productTitle": "Hurghada Airport (HRG) \u2194 Safaga Port & Hotels Private Transfer",
+      "route": "Hurghada Airport (HRG) \u2194 Safaga Port / Safaga hotels",
+      "direction": "both-ways / one-way basis",
+      "startingPrice": 32,
+      "currency": "USD",
+      "unit": "per vehicle",
+      "pricingBasis": "per-vehicle",
+      "sourceUrl": "https://whitefoxtours.com/private-transfers-fleet-services/",
+      "verificationStatus": "provisional-benchmark",
+      "publicationStatus": "provisional-reference-starting-price",
+      "vehicleOptions": [
+        {
+          "vehicleType": "Sedan",
+          "capacity": "Up to 3 passengers",
+          "maxPassengers": 3,
+          "price": 32,
+          "currency": "USD",
+          "isDefault": true
+        },
+        {
+          "vehicleType": "Minivan",
+          "capacity": "Up to 4 passengers",
+          "maxPassengers": 4,
+          "price": 42,
+          "currency": "USD"
+        }
+      ],
+      "notes": "Rates are per vehicle for one-way private transfers between HRG and Safaga cruise port / hotels. Door-to-door meet and assist."
     }
   ],
-  "unmatchedSpecifications": [
-    {
-      "benchmarkName": "Grand Egyptian Museum (GEM)",
-      "benchmarkAmount": 75,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "No dedicated standalone Grand Egyptian Museum day tour currently in the 298-product catalog. Per rule 5, no duplicate was created."
-    },
-    {
-      "benchmarkName": "Egyptian Museum and National Museum of Egyptian Civilization",
-      "benchmarkAmount": 65,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "No standalone day tour matching the combined Egyptian Museum + NMEC pair exists as a distinct day tour product in the catalog."
-    },
-    {
-      "benchmarkName": "Cairo city tour \u2014 local life, Zamalek and Cairo Tower",
-      "benchmarkAmount": 45,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "No matching walking or local life / Cairo Tower tour in the catalog."
-    },
-    {
-      "benchmarkName": "Giza Pyramids quad-bike / ATV experience",
-      "benchmarkAmount": 30,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "Catalog only has Sharm El Sheikh quad biking. Giza Pyramids ATV tour is not in the catalog; per rule, prices cannot be cross-applied to different locations."
-    },
-    {
-      "benchmarkName": "Bedouin dinner and sunset camel ride (Cairo)",
-      "benchmarkAmount": 55,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "No Cairo-based Bedouin dinner product exists in the catalog."
-    },
-    {
-      "benchmarkName": "Sunset horse ride at the Pyramids",
-      "benchmarkAmount": 45,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "No horse riding tour at Giza Pyramids exists in the catalog."
-    },
-    {
-      "benchmarkName": "Valley of the Queens / Nefertari's Tomb tour",
-      "benchmarkAmount": 85,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "No standalone Valley of the Queens and Nefertari Tomb excursion in catalog (catalog product tour-12 is Valley of the Kings & Hatshepsut)."
-    },
-    {
-      "benchmarkName": "Luxor East Bank evening walk",
-      "benchmarkAmount": 40,
-      "currency": "USD",
-      "unit": "per adult",
-      "status": "unmatched-quote-on-request",
-      "reason": "No evening walking tour product exists in Luxor catalog."
-    },
-    {
-      "benchmarkName": "Hurghada Airport \u2192 El Gouna (Resort Transfer)",
-      "benchmarkAmount": 20,
-      "currency": "USD",
-      "unit": "per vehicle",
-      "vehicleVariants": [
-        {
-          "vehicle": "Sedan",
-          "capacity": "Up to 3",
-          "price": 20
-        },
-        {
-          "vehicle": "Minivan",
-          "capacity": "Up to 4",
-          "price": 28
-        }
-      ],
-      "status": "unmatched-quote-on-request",
-      "reason": "Catalog does not have a standalone Hurghada Airport to El Gouna transfer product. Per rule 4, no new route was invented."
-    },
-    {
-      "benchmarkName": "Hurghada Airport \u2192 Makadi Bay / Soma Bay (Resort Transfer)",
-      "benchmarkAmount": 22,
-      "currency": "USD",
-      "unit": "per vehicle",
-      "vehicleVariants": [
-        {
-          "vehicle": "Sedan",
-          "capacity": "Up to 3",
-          "price": 22
-        },
-        {
-          "vehicle": "Minivan",
-          "capacity": "Up to 4",
-          "price": 30
-        }
-      ],
-      "status": "unmatched-quote-on-request",
-      "reason": "Catalog does not have a standalone Makadi / Soma Bay airport transfer product."
-    },
-    {
-      "benchmarkName": "Hurghada Airport \u2192 Safaga (Resort Transfer)",
-      "benchmarkAmount": 32,
-      "currency": "USD",
-      "unit": "per vehicle",
-      "vehicleVariants": [
-        {
-          "vehicle": "Sedan",
-          "capacity": "Up to 3",
-          "price": 32
-        },
-        {
-          "vehicle": "Minivan",
-          "capacity": "Up to 4",
-          "price": 42
-        }
-      ],
-      "status": "unmatched-quote-on-request",
-      "reason": "Catalog does not have a standalone Hurghada Airport to Safaga hotel transfer product."
-    }
-  ]
+  "unmatchedSpecifications": []
 }
