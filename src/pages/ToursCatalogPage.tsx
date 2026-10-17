@@ -215,8 +215,8 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                   setSearchQuery(e.target.value);
                   setVisibleCount(ITEMS_PER_PAGE);
                 }}
-                placeholder="Search by monument name, cruise ship (e.g. Oberoi, Dahabiya, Farida, Pyramids, Karnak, Abu Simbel, Hurghada)..."
-                className="w-full pl-10 pr-4 py-2.5 text-xs sm:text-sm border border-stone-200 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-stone-50/50 dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500"
+                placeholder="Search by monument name, cruise ship (e.g. Oberoi, Dahabiya, Pyramids, Karnak, Abu Simbel)..."
+                className="w-full pl-10 pr-12 py-2.5 text-base sm:text-sm border border-stone-200 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-stone-50/50 dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 min-h-[44px]"
               />
               {searchQuery && (
                 <button
@@ -224,7 +224,8 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                     setSearchQuery('');
                     setVisibleCount(ITEMS_PER_PAGE);
                   }}
-                  className="absolute right-3 top-1/2 -translate-y-1/2 text-xs text-stone-400 hover:text-stone-700 dark:hover:text-stone-200"
+                  className="absolute right-1.5 top-1/2 -translate-y-1/2 text-xs text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 min-w-[40px] min-h-[40px] flex items-center justify-center cursor-pointer"
+                  aria-label="Clear search"
                 >
                   Clear
                 </button>
@@ -246,7 +247,7 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                         setSelectedCategory(cat.value);
                         setVisibleCount(ITEMS_PER_PAGE);
                       }}
-                      className={`px-3.5 py-2 sm:py-1.5 text-xs font-medium rounded-lg transition-colors whitespace-nowrap min-h-[36px] flex items-center ${
+                      className={`px-3.5 py-2 sm:py-1.5 text-xs font-medium rounded-xl transition-colors whitespace-nowrap min-h-[44px] sm:min-h-[38px] flex items-center cursor-pointer ${
                         isActive
                           ? 'bg-stone-900 dark:bg-amber-600 text-white shadow-xs'
                           : 'bg-stone-100 dark:bg-stone-800 text-stone-700 dark:text-stone-300 hover:bg-stone-200 dark:hover:bg-stone-700'
@@ -261,8 +262,8 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
 
             {/* Secondary Filters Row: Destination & Sort */}
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3.5 pt-3 border-t border-stone-100 dark:border-stone-800">
-              <div className="flex flex-col xs:flex-row xs:items-center gap-3 w-full sm:w-auto">
-                <div className="flex items-center gap-2 w-full xs:w-auto">
+              <div className="flex flex-col sm:flex-row sm:items-center gap-3 w-full sm:w-auto">
+                <div className="flex items-center gap-2 w-full sm:w-auto">
                   <Filter className="w-3.5 h-3.5 text-stone-400 shrink-0" />
                   <label htmlFor="filter-destination" className="text-xs text-stone-600 dark:text-stone-300 font-medium shrink-0">
                     Destination:
@@ -274,7 +275,7 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                       setSelectedDestination(e.target.value);
                       setVisibleCount(ITEMS_PER_PAGE);
                     }}
-                    className="flex-1 xs:flex-initial text-xs px-3 py-2 sm:py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-lg text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500"
+                    className="flex-1 sm:flex-initial text-base sm:text-xs px-3 py-2 sm:py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-xl text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500 min-h-[44px] sm:min-h-[38px]"
                   >
                     {destinations.map((d) => (
                       <option key={d.value} value={d.value}>
@@ -284,7 +285,7 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                   </select>
                 </div>
 
-                <div className="flex items-center gap-2 w-full xs:w-auto">
+                <div className="flex items-center gap-2 w-full sm:w-auto">
                   <label htmlFor="sort-tours" className="text-xs text-stone-600 dark:text-stone-300 font-medium shrink-0">
                     Sort:
                   </label>
@@ -292,7 +293,7 @@ export const ToursCatalogPage: React.FC<ToursCatalogProps> = ({
                     id="sort-tours"
                     value={sortBy}
                     onChange={(e) => setSortBy(e.target.value as any)}
-                    className="flex-1 xs:flex-initial text-xs px-3 py-2 sm:py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-lg text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500"
+                    className="flex-1 sm:flex-initial text-base sm:text-xs px-3 py-2 sm:py-1.5 bg-stone-50 dark:bg-stone-800 border border-stone-200 dark:border-stone-700 rounded-xl text-stone-700 dark:text-stone-200 focus:outline-none focus:ring-1 focus:ring-amber-500 min-h-[44px] sm:min-h-[38px]"
                   >
                     <option value="featured">Featured & Curated</option>
                     <option value="title-asc">Alphabetical (A–Z)</option>

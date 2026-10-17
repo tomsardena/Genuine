@@ -213,37 +213,37 @@ export const GallerySection: React.FC<GallerySectionProps> = ({
           {/* Close button */}
           <button
             onClick={() => setSelectedImageIndex(null)}
-            className="absolute top-5 right-5 z-20 p-2 rounded-full bg-stone-900/80 hover:bg-stone-800 text-stone-300 hover:text-white transition-colors cursor-pointer border border-stone-700"
+            className="absolute top-3 right-3 sm:top-5 sm:right-5 z-20 p-2.5 min-w-[44px] min-h-[44px] flex items-center justify-center rounded-full bg-stone-900/80 hover:bg-stone-800 text-stone-300 hover:text-white transition-colors cursor-pointer border border-stone-700"
             aria-label="Close photo preview"
           >
-            <X className="w-6 h-6" />
+            <X className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
 
           {/* Navigation Prev */}
           <button
             onClick={handlePrev}
-            className="absolute left-4 sm:left-6 z-20 p-3 rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl"
+            className="absolute left-2 sm:left-6 z-20 p-2.5 sm:p-3 min-w-[44px] min-h-[44px] flex items-center justify-center rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl"
             aria-label="Previous photo"
           >
-            <ChevronLeft className="w-6 h-6" />
+            <ChevronLeft className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
 
           {/* Navigation Next */}
           <button
             onClick={handleNext}
-            className="absolute right-4 sm:right-6 z-20 p-3 rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl"
+            className="absolute right-2 sm:right-6 z-20 p-2.5 sm:p-3 min-w-[44px] min-h-[44px] flex items-center justify-center rounded-full bg-stone-900/80 hover:bg-amber-400 hover:text-stone-950 text-white transition-colors cursor-pointer border border-stone-700 shadow-xl"
             aria-label="Next photo"
           >
-            <ChevronRight className="w-6 h-6" />
+            <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
           </button>
 
           {/* Modal Container */}
           <div
-            className="relative max-w-5xl w-full max-h-[90vh] flex flex-col md:flex-row bg-[#1a1816] rounded-2xl overflow-hidden border border-stone-800 shadow-2xl"
+            className="relative max-w-5xl w-full max-h-[92dvh] flex flex-col md:flex-row bg-[#1a1816] rounded-2xl overflow-hidden border border-stone-800 shadow-2xl"
             onClick={(e) => e.stopPropagation()}
           >
             {/* Image Box */}
-            <div className="flex-1 bg-black flex items-center justify-center p-2 min-h-[320px] max-h-[60vh] md:max-h-[85vh]">
+            <div className="flex-1 bg-black flex items-center justify-center p-2 min-h-[220px] sm:min-h-[280px] max-h-[45vh] md:max-h-[85vh]">
               <img
                 src={activeImage.image}
                 alt={activeImage.title}
@@ -252,8 +252,8 @@ export const GallerySection: React.FC<GallerySectionProps> = ({
             </div>
 
             {/* Info Sidebar */}
-            <div className="w-full md:w-80 p-6 md:p-8 flex flex-col justify-between space-y-6 bg-stone-900 border-t md:border-t-0 md:border-l border-stone-800 overflow-y-auto">
-              <div className="space-y-4">
+            <div className="w-full md:w-80 p-4 sm:p-6 md:p-8 flex flex-col justify-between space-y-4 sm:space-y-6 bg-stone-900 border-t md:border-t-0 md:border-l border-stone-800 overflow-y-auto">
+              <div className="space-y-3 sm:space-y-4">
                 <div className="flex items-center justify-between text-xs text-stone-400">
                   <span className="px-2.5 py-0.5 rounded-full bg-amber-950/80 border border-amber-500/40 text-amber-300 font-semibold uppercase tracking-wider text-[10px]">
                     {activeImage.category}
@@ -283,7 +283,7 @@ export const GallerySection: React.FC<GallerySectionProps> = ({
                   href={`https://wa.me/201070335551?text=${encodeURIComponent(`Marhaban Genuine Egypte, I am inquiring about visiting ${activeImage.location} ("${activeImage.title}"). Can you share tour details and availability?`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="w-full py-2.5 px-4 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-md"
+                  className="w-full py-2.5 px-4 min-h-[44px] rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-xs transition-colors flex items-center justify-center gap-2 shadow-md cursor-pointer active:scale-[0.99]"
                 >
                   <MessageCircle className="w-4 h-4 fill-current" />
                   <span>Inquire About This Location</span>
@@ -292,7 +292,7 @@ export const GallerySection: React.FC<GallerySectionProps> = ({
                 <Link
                   to="/tours"
                   onClick={() => setSelectedImageIndex(null)}
-                  className="w-full py-2.5 px-4 rounded-lg bg-stone-800 hover:bg-stone-700 text-stone-200 hover:text-white font-medium text-xs transition-colors flex items-center justify-center gap-1.5 border border-stone-700"
+                  className="w-full py-2.5 px-4 min-h-[44px] rounded-lg bg-stone-800 hover:bg-stone-700 text-stone-200 hover:text-white font-medium text-xs transition-colors flex items-center justify-center gap-1.5 border border-stone-700 cursor-pointer active:scale-[0.99]"
                 >
                   <Compass className="w-3.5 h-3.5 text-amber-400" />
                   <span>Browse Matching Tours</span>

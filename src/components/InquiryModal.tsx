@@ -123,20 +123,20 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
   };
 
   return (
-    <div className="fixed inset-0 z-50 overflow-y-auto bg-stone-900/60 dark:bg-black/80 backdrop-blur-xs flex items-center justify-center p-4">
+    <div className="fixed inset-0 z-50 overflow-y-auto bg-stone-900/60 dark:bg-black/80 backdrop-blur-xs flex items-center justify-center p-2.5 sm:p-4">
       <div 
-        className="bg-white dark:bg-stone-900 text-stone-800 dark:text-stone-100 rounded-xl shadow-2xl max-w-lg w-full overflow-hidden border border-stone-200 dark:border-stone-800 transition-all transform animate-in fade-in zoom-in-95 duration-200"
+        className="bg-white dark:bg-stone-900 text-stone-800 dark:text-stone-100 rounded-2xl shadow-2xl max-w-lg w-full max-h-[92dvh] flex flex-col overflow-hidden border border-stone-200 dark:border-stone-800 transition-all transform animate-in fade-in zoom-in-95 duration-200"
         role="dialog"
         aria-modal="true"
         aria-labelledby="inquiry-modal-title"
       >
         {/* Header */}
-        <div className="bg-[#181512] text-white px-6 py-5 flex items-center justify-between border-b border-amber-900/40">
-          <div>
-            <span className="text-[11px] uppercase tracking-wider text-amber-400 font-medium block">
+        <div className="bg-[#181512] text-white px-4 sm:px-6 py-4 flex items-center justify-between border-b border-amber-900/40 shrink-0">
+          <div className="min-w-0 pr-2">
+            <span className="text-[10px] sm:text-[11px] uppercase tracking-wider text-amber-400 font-medium block">
               Direct Travel Reservation & Inquiry
             </span>
-            <h2 id="inquiry-modal-title" className="text-lg font-serif font-bold text-white tracking-wide truncate max-w-sm">
+            <h2 id="inquiry-modal-title" className="text-base sm:text-lg font-serif font-bold text-white tracking-wide truncate max-w-sm">
               {tour ? tour.title : 'Tailor-Made Tour Inquiry'}
             </h2>
           </div>
@@ -145,7 +145,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
               resetForm();
               onClose();
             }}
-            className="text-stone-400 hover:text-white p-1 rounded-md transition-colors"
+            className="text-stone-400 hover:text-white p-2 min-w-[44px] min-h-[44px] flex items-center justify-center rounded-lg transition-colors cursor-pointer shrink-0"
             aria-label="Close dialog"
           >
             <X className="w-5 h-5" />
@@ -153,7 +153,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
         </div>
 
         {/* Content */}
-        <div className="p-6 space-y-4 max-h-[78vh] overflow-y-auto">
+        <div className="p-4 sm:p-6 space-y-4 overflow-y-auto overscroll-contain flex-1">
           {submittedBookingId ? (
             /* Success State */
             <div className="space-y-5 py-4 text-center">
@@ -256,7 +256,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                   placeholder="e.g. Sarah Jenkins"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
-                  className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500"
+                  className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 min-h-[44px]"
                 />
               </div>
 
@@ -273,7 +273,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                     placeholder="sarah@example.com"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500"
+                    className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 min-h-[44px]"
                   />
                 </div>
                 <div>
@@ -286,7 +286,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                     placeholder="+1 555-0199"
                     value={phone}
                     onChange={(e) => setPhone(e.target.value)}
-                    className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500"
+                    className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 min-h-[44px]"
                   />
                 </div>
               </div>
@@ -302,7 +302,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                     type="date"
                     value={date}
                     onChange={(e) => setDate(e.target.value)}
-                    className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100"
+                    className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 min-h-[44px]"
                   />
                 </div>
                 <div>
@@ -313,7 +313,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                     id="traveler-count"
                     value={travelers}
                     onChange={(e) => setTravelers(e.target.value)}
-                    className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100"
+                    className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 min-h-[44px]"
                   >
                     <option value="1 Traveler (Solo)">1 Traveler (Solo)</option>
                     <option value="2 Travelers (Couple)">2 Travelers (Couple)</option>
@@ -335,7 +335,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                   placeholder="Tell us your accommodation in Luxor/Cairo, flight details, preferred guide language, or dietary requirements..."
                   value={notes}
                   onChange={(e) => setNotes(e.target.value)}
-                  className="w-full px-3 py-2 text-sm border border-stone-300 dark:border-stone-700 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 resize-none"
+                  className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 focus:border-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 resize-none min-h-[80px]"
                 />
               </div>
 
@@ -344,7 +344,7 @@ export const InquiryModal: React.FC<InquiryModalProps> = ({
                 <button
                   type="submit"
                   disabled={isSubmitting}
-                  className="w-full flex items-center justify-center gap-2 bg-amber-700 hover:bg-amber-800 text-white py-3 px-4 rounded-lg font-medium text-sm transition-colors shadow-sm disabled:opacity-70 disabled:cursor-not-allowed"
+                  className="w-full flex items-center justify-center gap-2 bg-amber-700 hover:bg-amber-800 text-white py-3 px-4 rounded-xl font-medium text-sm transition-colors shadow-sm disabled:opacity-70 disabled:cursor-not-allowed min-h-[44px] cursor-pointer active:scale-[0.99]"
                 >
                   {isSubmitting ? (
                     <>

@@ -120,7 +120,7 @@ export const HomePage: React.FC = () => {
       />
 
       {/* Hero Section */}
-      <section className="relative min-h-[580px] lg:min-h-[640px] flex items-center justify-center bg-stone-900 text-white overflow-hidden">
+      <section className="relative min-h-[520px] sm:min-h-[580px] lg:min-h-[640px] flex items-center justify-center bg-stone-900 text-white overflow-hidden">
         {/* Background Image with Measured Contrast Scrim */}
         <div className="absolute inset-0 z-0">
           <OptimizedImage
@@ -133,24 +133,24 @@ export const HomePage: React.FC = () => {
           <div className="absolute inset-0 bg-gradient-to-t from-[#141210] via-stone-950/60 to-black/40" />
         </div>
 
-        <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-8 py-20 text-center space-y-6">
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 bg-amber-950/70 border border-amber-500/40 rounded-full text-amber-300 text-xs sm:text-sm font-semibold tracking-wide backdrop-blur-md shadow-sm">
-            <Sparkles className="w-3.5 h-3.5 text-amber-400" />
+        <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-14 sm:py-20 lg:py-24 text-center space-y-5 sm:space-y-6">
+          <div className="inline-flex items-center gap-2 px-3 py-1 sm:px-3.5 sm:py-1.5 bg-amber-950/70 border border-amber-500/40 rounded-full text-amber-300 text-xs sm:text-sm font-semibold tracking-wide backdrop-blur-md shadow-sm">
+            <Sparkles className="w-3.5 h-3.5 text-amber-400 shrink-0" />
             <span>Explore more, Plan less.</span>
           </div>
 
-          <h1 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight text-balance">
+          <h1 className="font-serif text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-tight text-balance">
             We Know the Difference Between a Tourist & a Traveler
           </h1>
 
-          <p className="max-w-2xl mx-auto text-base sm:text-lg text-stone-200 font-light leading-relaxed">
+          <p className="max-w-2xl mx-auto text-sm sm:text-base lg:text-lg text-stone-200 font-light leading-relaxed">
             Experience the living soul of ancient and modern Egypt. Private temple excursions, 5-star Nile cruises, and seamless overland transfers guided exclusively by certified licensed Egyptologists.
           </p>
 
-          <div className="pt-4 flex flex-wrap items-center justify-center gap-3">
+          <div className="pt-3 sm:pt-4 flex flex-col xs:flex-row items-stretch xs:items-center justify-center gap-2.5 sm:gap-3.5 max-w-md xs:max-w-none mx-auto">
             <Link
               to="/tours"
-              className="px-6 py-3 text-sm font-semibold text-stone-900 bg-amber-400 hover:bg-amber-300 rounded-lg transition-colors shadow-md flex items-center gap-2"
+              className="px-6 py-3 min-h-[44px] text-xs sm:text-sm font-semibold text-stone-900 bg-amber-400 hover:bg-amber-300 rounded-xl transition-colors shadow-md flex items-center justify-center gap-2 active:scale-[0.98]"
             >
               <span>Explore All Tours</span>
               <ArrowRight className="w-4 h-4" />
@@ -160,7 +160,7 @@ export const HomePage: React.FC = () => {
               href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
-              className="px-5 py-3 text-sm font-medium text-white bg-emerald-700/90 hover:bg-emerald-600 rounded-lg transition-colors backdrop-blur-xs flex items-center gap-2 border border-emerald-500/30"
+              className="px-5 py-3 min-h-[44px] text-xs sm:text-sm font-medium text-white bg-emerald-700/90 hover:bg-emerald-600 rounded-xl transition-colors backdrop-blur-xs flex items-center justify-center gap-2 border border-emerald-500/30 active:scale-[0.98]"
             >
               <MessageCircle className="w-4 h-4 fill-current" />
               <span>WhatsApp Concierge</span>
@@ -168,12 +168,12 @@ export const HomePage: React.FC = () => {
           </div>
 
           {/* Dual Verified Review Trust Badges */}
-          <div className="pt-2 flex flex-wrap items-center justify-center gap-2.5 text-xs">
+          <div className="pt-2 flex flex-wrap items-center justify-center gap-2 text-xs">
             <a
               href={REVIEW_STATS.tripAdvisor.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-950/70 border border-emerald-500/40 text-emerald-300 hover:text-white hover:bg-emerald-900/80 transition-all backdrop-blur-md shadow-xs group"
+              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-950/70 border border-emerald-500/40 text-emerald-300 hover:text-white hover:bg-emerald-900/80 transition-all backdrop-blur-md shadow-xs group min-h-[34px]"
             >
               <span className="w-2 h-2 rounded-full bg-[#00AA6C] animate-pulse" />
               <span className="font-semibold">Tripadvisor</span>
@@ -186,7 +186,7 @@ export const HomePage: React.FC = () => {
               href={REVIEW_STATS.google.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-950/70 border border-blue-500/40 text-blue-300 hover:text-white hover:bg-blue-900/80 transition-all backdrop-blur-md shadow-xs group"
+              className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-blue-950/70 border border-blue-500/40 text-blue-300 hover:text-white hover:bg-blue-900/80 transition-all backdrop-blur-md shadow-xs group min-h-[34px]"
             >
               <span className="w-2 h-2 rounded-full bg-blue-500" />
               <span className="font-semibold">Google Reviews</span>
@@ -197,29 +197,29 @@ export const HomePage: React.FC = () => {
 
             <a
               href="#reviews"
-              className="inline-flex items-center gap-1 px-3 py-1.5 rounded-full bg-stone-900/60 border border-stone-700/60 text-stone-300 hover:text-amber-400 hover:border-amber-500/50 transition-all backdrop-blur-md text-[11px]"
+              className="inline-flex items-center gap-1 px-3 py-1.5 rounded-full bg-stone-900/60 border border-stone-700/60 text-stone-300 hover:text-amber-400 hover:border-amber-500/50 transition-all backdrop-blur-md text-[11px] min-h-[34px]"
             >
               <span>Read Guest Stories ↓</span>
             </a>
           </div>
 
           {/* Key Trust Signals Bar */}
-          <div className="pt-8 grid grid-cols-2 md:grid-cols-4 gap-4 text-xs text-stone-300 border-t border-stone-700/50 max-w-3xl mx-auto">
-            <div className="flex items-center justify-center gap-2">
+          <div className="pt-6 sm:pt-8 grid grid-cols-2 md:grid-cols-4 gap-2.5 sm:gap-4 text-xs text-stone-300 border-t border-stone-700/50 max-w-3xl mx-auto">
+            <div className="flex items-center justify-center gap-2 p-1.5 bg-stone-900/30 sm:bg-transparent rounded-lg">
               <Award className="w-4 h-4 text-amber-400 shrink-0" />
-              <span>100% Egyptologist Guides</span>
+              <span className="text-[11px] sm:text-xs">100% Egyptologist Guides</span>
             </div>
-            <div className="flex items-center justify-center gap-2">
+            <div className="flex items-center justify-center gap-2 p-1.5 bg-stone-900/30 sm:bg-transparent rounded-lg">
               <Ship className="w-4 h-4 text-amber-400 shrink-0" />
-              <span>5-Star Nile Fleet</span>
+              <span className="text-[11px] sm:text-xs">5-Star Nile Fleet</span>
             </div>
-            <div className="flex items-center justify-center gap-2">
+            <div className="flex items-center justify-center gap-2 p-1.5 bg-stone-900/30 sm:bg-transparent rounded-lg">
               <Car className="w-4 h-4 text-amber-400 shrink-0" />
-              <span>Private A/C Transport</span>
+              <span className="text-[11px] sm:text-xs">Private A/C Transport</span>
             </div>
-            <div className="flex items-center justify-center gap-2">
+            <div className="flex items-center justify-center gap-2 p-1.5 bg-stone-900/30 sm:bg-transparent rounded-lg">
               <ShieldCheck className="w-4 h-4 text-amber-400 shrink-0" />
-              <span>No Rush Guarantee</span>
+              <span className="text-[11px] sm:text-xs">No Rush Guarantee</span>
             </div>
           </div>
         </div>
@@ -229,7 +229,7 @@ export const HomePage: React.FC = () => {
       <CategoriesQuickAccess onOpenCustomInquiry={() => setInquiryModalOpen(true)} />
 
       {/* Featured Nile Cruises Section */}
-      <section className="py-16 sm:py-20 bg-stone-50 dark:bg-[#121110] border-b border-stone-200 dark:border-stone-800 transition-colors">
+      <section className="py-12 sm:py-16 lg:py-20 bg-stone-50 dark:bg-[#121110] border-b border-stone-200 dark:border-stone-800 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-10">
           <div className="flex flex-col md:flex-row md:items-end justify-between gap-4">
             <div className="space-y-2">

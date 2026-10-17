@@ -6,20 +6,20 @@ import { MapPin, Phone, Mail, MessageCircle, ShieldCheck, ExternalLink } from 'l
 
 export const Footer: React.FC = () => {
   return (
-    <footer className="bg-[#141210] text-stone-300 border-t border-stone-800 pt-16 pb-12">
-      <div className="max-w-7xl mx-auto px-4 sm:px-8">
+    <footer className="bg-[#141210] text-stone-300 border-t border-stone-800 pt-12 sm:pt-16 pb-[calc(6rem+env(safe-area-inset-bottom,0px))] sm:pb-12">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Brand & Mission Row */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-10 pb-12 border-b border-stone-800">
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 pb-10 sm:pb-12 border-b border-stone-800">
           <div className="lg:col-span-4 space-y-4">
             <Link to="/" className="inline-block group" aria-label="Genuine Egypte Home">
               <img
                 src="/assets/logo-final.svg"
                 alt="Genuine Egypte Emblem"
-                className="h-16 sm:h-20 w-auto object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
+                className="h-14 sm:h-18 lg:h-20 w-auto object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
               />
             </Link>
 
-            <p className="text-xs text-stone-400 leading-relaxed">
+            <p className="text-xs text-stone-400 leading-relaxed max-w-md">
               &ldquo;We know the difference between a tourist and a traveler.&rdquo; Established in Luxor by licensed Egyptologists and quality managers to offer unhurried, authentic cultural journeys across the Nile Valley, Cairo, and beyond.
             </p>
 
@@ -40,7 +40,7 @@ export const Footer: React.FC = () => {
                     <li key={lIdx}>
                       <Link
                         to={link.href}
-                        className="hover:text-amber-400 transition-colors line-clamp-1"
+                        className="hover:text-amber-400 transition-colors line-clamp-1 py-0.5 block"
                       >
                         {link.label}
                       </Link>
@@ -53,7 +53,7 @@ export const Footer: React.FC = () => {
         </div>
 
         {/* Contact Strip */}
-        <div className="py-8 grid grid-cols-1 md:grid-cols-3 gap-6 border-b border-stone-800/80 text-xs">
+        <div className="py-6 sm:py-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 border-b border-stone-800/80 text-xs">
           <div className="flex items-start gap-3">
             <MapPin className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
             <div>
@@ -66,34 +66,34 @@ export const Footer: React.FC = () => {
             <Phone className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
             <div>
               <strong className="block text-white font-medium">Direct Telephone & WhatsApp</strong>
-              <a href="tel:+201070335551" className="text-stone-400 hover:text-white block">+20 1070335551</a>
-              <a href="tel:+201022721263" className="text-stone-400 hover:text-white block">+20 1022721263</a>
+              <a href="tel:+201070335551" className="text-stone-400 hover:text-white block py-0.5">+20 1070335551</a>
+              <a href="tel:+201022721263" className="text-stone-400 hover:text-white block py-0.5">+20 1022721263</a>
             </div>
           </div>
 
-          <div className="flex items-start gap-3">
+          <div className="flex items-start gap-3 sm:col-span-2 md:col-span-1">
             <Mail className="w-4 h-4 text-amber-500 shrink-0 mt-0.5" />
             <div>
               <strong className="block text-white font-medium">Inquiry Desk</strong>
-              <a href="mailto:info@genuineegypte.com" className="text-stone-400 hover:text-white block">info@genuineegypte.com</a>
-              <a href="mailto:sales@genuineegypte.com" className="text-stone-400 hover:text-white block">sales@genuineegypte.com</a>
+              <a href="mailto:info@genuineegypte.com" className="text-stone-400 hover:text-white block py-0.5">info@genuineegypte.com</a>
+              <a href="mailto:sales@genuineegypte.com" className="text-stone-400 hover:text-white block py-0.5">sales@genuineegypte.com</a>
             </div>
           </div>
         </div>
 
         {/* Verified Review Authority Badges */}
-        <div className="py-6 flex flex-col sm:flex-row items-center justify-between gap-4 border-b border-stone-800/80 text-xs">
-          <div className="flex items-center gap-2 text-stone-400">
+        <div className="py-5 sm:py-6 flex flex-col sm:flex-row items-center justify-between gap-4 border-b border-stone-800/80 text-xs">
+          <div className="flex items-center gap-2 text-stone-400 text-center sm:text-left">
             <ShieldCheck className="w-4 h-4 text-amber-400 shrink-0" />
             <span>Independent traveler verification on global review platforms:</span>
           </div>
 
-          <div className="flex flex-wrap items-center gap-4">
+          <div className="flex flex-wrap items-center justify-center gap-3 sm:gap-4">
             <a
               href={SITE_SETTINGS.tripAdvisorUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 text-[#00AA6C] hover:text-emerald-300 transition-colors font-medium group"
+              className="inline-flex items-center gap-1.5 text-[#00AA6C] hover:text-emerald-300 transition-colors font-medium group py-1"
             >
               <span>Tripadvisor (5.0 ★)</span>
               <ExternalLink className="w-3.5 h-3.5 opacity-70 group-hover:translate-x-0.5 transition-transform" />
@@ -103,7 +103,7 @@ export const Footer: React.FC = () => {
               href={SITE_SETTINGS.googleReviewsUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-1.5 text-blue-400 hover:text-blue-300 transition-colors font-medium group"
+              className="inline-flex items-center gap-1.5 text-blue-400 hover:text-blue-300 transition-colors font-medium group py-1"
             >
               <span>Google Reviews (5.0 ★)</span>
               <ExternalLink className="w-3.5 h-3.5 opacity-70 group-hover:translate-x-0.5 transition-transform" />
@@ -112,26 +112,26 @@ export const Footer: React.FC = () => {
         </div>
 
         {/* Bottom Legal & Static Assurance */}
-        <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-500">
+        <div className="pt-6 sm:pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-500 text-center sm:text-left">
           <p>
             &copy; {new Date().getFullYear()} Genuine Egypte. All rights reserved.
           </p>
 
-          <div className="flex items-center gap-6">
-            <Link to="/terms-conditions" className="hover:text-stone-300 transition-colors">
+          <div className="flex flex-wrap items-center justify-center sm:justify-start gap-x-5 gap-y-2">
+            <Link to="/terms-conditions" className="hover:text-stone-300 transition-colors py-1">
               Terms & Conditions
             </Link>
-            <Link to="/privacy-policy" className="hover:text-stone-300 transition-colors">
+            <Link to="/privacy-policy" className="hover:text-stone-300 transition-colors py-1">
               Privacy Policy
             </Link>
-            <Link to="/faqs" className="hover:text-stone-300 transition-colors">
+            <Link to="/faqs" className="hover:text-stone-300 transition-colors py-1">
               Travel FAQs
             </Link>
             <a
               href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-emerald-400 hover:text-emerald-300 flex items-center gap-1 transition-colors"
+              className="text-emerald-400 hover:text-emerald-300 flex items-center gap-1 transition-colors py-1 font-semibold"
             >
               <MessageCircle className="w-3.5 h-3.5 fill-current" />
               <span>WhatsApp Us</span>

@@ -25,40 +25,41 @@ export const Navbar: React.FC = () => {
   return (
     <>
       {/* Top Utility Bar with Real Verified Contact Info */}
-      <div className="bg-[#141210] text-stone-300 text-xs border-b border-stone-800/80 py-1.5 px-4 sm:px-8">
-        <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <div className="flex items-center gap-4 text-[11px] text-stone-400">
+      <div className="bg-[#141210] text-stone-300 text-xs border-b border-stone-800/80 py-1.5 px-3 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto flex flex-wrap sm:flex-nowrap items-center justify-between gap-y-1 gap-x-3 text-[11px]">
+          <div className="flex items-center gap-3 text-stone-400">
             <span className="hidden md:flex items-center gap-1.5">
               <MapPin className="w-3 h-3 text-amber-500/80" />
               <span>44 Khaled Ibn Al Waleed St, Luxor</span>
             </span>
-            <span className="hidden sm:inline-block text-stone-700">·</span>
+            <span className="hidden md:inline-block text-stone-700">·</span>
             <a
               href="mailto:info@genuineegypte.com"
               className="flex items-center gap-1.5 hover:text-white transition-colors"
             >
               <Mail className="w-3 h-3 text-amber-500/80" />
-              <span>info@genuineegypte.com</span>
+              <span className="truncate max-w-[170px] sm:max-w-none">info@genuineegypte.com</span>
             </a>
           </div>
 
-          <div className="flex items-center gap-3 text-[11px]">
+          <div className="flex items-center gap-2.5 sm:gap-3 ml-auto sm:ml-0">
             <a
               href="tel:+201070335551"
-              className="flex items-center gap-1 text-stone-300 hover:text-amber-400 font-medium transition-colors"
+              className="flex items-center gap-1 text-stone-300 hover:text-amber-400 font-medium transition-colors py-0.5"
             >
-              <Phone className="w-3 h-3 text-amber-500" />
-              <span>+20 1070335551</span>
+              <Phone className="w-3 h-3 text-amber-500 shrink-0" />
+              <span className="whitespace-nowrap">+20 1070335551</span>
             </a>
             <span className="text-stone-700">|</span>
             <a
               href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-emerald-400 hover:text-emerald-300 font-medium flex items-center gap-1 transition-colors"
+              className="text-emerald-400 hover:text-emerald-300 font-medium flex items-center gap-1 transition-colors py-0.5"
             >
-              <MessageCircle className="w-3 h-3 fill-current" />
-              <span>WhatsApp Concierge</span>
+              <MessageCircle className="w-3 h-3 fill-current shrink-0" />
+              <span className="hidden xs:inline">WhatsApp</span>
+              <span className="hidden sm:inline">Concierge</span>
             </a>
           </div>
         </div>
@@ -66,19 +67,19 @@ export const Navbar: React.FC = () => {
 
       {/* Main Navigation Bar */}
       <header className="sticky top-0 z-40 bg-white/95 dark:bg-[#161412]/95 backdrop-blur-md border-b border-stone-200/80 dark:border-stone-800 transition-colors">
-        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-18 sm:h-20 flex items-center justify-between gap-2 sm:gap-4">
+        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 h-16 sm:h-20 flex items-center justify-between gap-2 sm:gap-4">
           {/* Zone 1: Single element wordmark & logo */}
           <Link to="/" className="flex items-center shrink-0 group py-1" aria-label="Genuine Egypte Home">
             <img
               src="/assets/logo-final.svg"
               alt="Genuine Egypte – Authentic Tours"
-              className="h-12 sm:h-14 md:h-16 w-auto max-h-[64px] object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
+              className="h-10 sm:h-12 md:h-14 w-auto max-h-[56px] object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
             />
             <span className="sr-only">Genuine Egypte</span>
           </Link>
 
           {/* Zone 2: Navigation Links */}
-          <nav className="hidden lg:flex items-center gap-5 text-[13px] font-medium text-stone-600 dark:text-stone-300">
+          <nav className="hidden lg:flex items-center gap-4 xl:gap-5 text-[13px] font-medium text-stone-600 dark:text-stone-300">
             {navLinks.map((link) => {
               const isActive = currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href));
               return (
@@ -98,7 +99,7 @@ export const Navbar: React.FC = () => {
           </nav>
 
           {/* Zone 3: Primary Actions & Theme Toggle */}
-          <div className="flex items-center gap-1.5 sm:gap-2.5">
+          <div className="flex items-center gap-1 sm:gap-2">
             {/* Theme Toggle Button */}
             <ThemeToggle />
 
@@ -109,7 +110,7 @@ export const Navbar: React.FC = () => {
               href="https://wa.me/201070335551"
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden sm:inline-flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-emerald-800 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/60 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 rounded-lg transition-colors border border-emerald-200/60 dark:border-emerald-800/60 whitespace-nowrap"
+              className="hidden sm:inline-flex items-center gap-1.5 px-3 py-2 text-xs font-semibold text-emerald-800 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/60 hover:bg-emerald-100 dark:hover:bg-emerald-900/60 rounded-lg transition-colors border border-emerald-200/60 dark:border-emerald-800/60 whitespace-nowrap min-h-[38px]"
             >
               <MessageCircle className="w-3.5 h-3.5 fill-current text-emerald-600 dark:text-emerald-400" />
               <span>WhatsApp</span>
@@ -117,15 +118,15 @@ export const Navbar: React.FC = () => {
 
             <button
               onClick={() => setInquiryModalOpen(true)}
-              className="px-3 sm:px-4 py-2 text-xs font-semibold text-white bg-stone-900 dark:bg-amber-600 hover:bg-amber-900 dark:hover:bg-amber-500 rounded-lg transition-colors whitespace-nowrap shadow-xs active:scale-[0.98]"
+              className="px-2.5 sm:px-4 py-2 text-[11px] sm:text-xs font-semibold text-white bg-stone-900 dark:bg-amber-600 hover:bg-amber-900 dark:hover:bg-amber-500 rounded-lg transition-colors whitespace-nowrap shadow-xs active:scale-[0.98] min-h-[38px] flex items-center"
             >
               Inquire Now
             </button>
 
-            {/* Mobile Hamburger Button */}
+            {/* Mobile Hamburger Button (44px touch target) */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="lg:hidden p-2 text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white rounded-lg focus:outline-none min-w-[40px] min-h-[40px] flex items-center justify-center hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors"
+              className="lg:hidden p-2 text-stone-600 dark:text-stone-300 hover:text-stone-900 dark:hover:text-white rounded-lg focus:outline-none min-w-[44px] min-h-[44px] flex items-center justify-center hover:bg-stone-100 dark:hover:bg-stone-800 transition-colors"
               aria-label="Toggle navigation menu"
               aria-expanded={mobileMenuOpen}
             >
@@ -136,7 +137,7 @@ export const Navbar: React.FC = () => {
 
         {/* Mobile Dropdown Menu */}
         {mobileMenuOpen && (
-          <div className="lg:hidden bg-white dark:bg-[#161412] border-b border-stone-200 dark:border-stone-800 px-4 sm:px-6 py-4 shadow-xl animate-in slide-in-from-top-2 duration-150 max-h-[calc(100vh-4.5rem)] overflow-y-auto">
+          <div className="lg:hidden bg-white dark:bg-[#161412] border-b border-stone-200 dark:border-stone-800 px-4 sm:px-6 py-4 shadow-xl animate-in slide-in-from-top-2 duration-150 max-h-[calc(100dvh-4rem)] overflow-y-auto overscroll-contain">
             <nav className="flex flex-col divide-y divide-stone-100 dark:divide-stone-800/80">
               {navLinks.map((link) => {
                 const isActive = currentPath === link.href || (link.href !== '/' && currentPath.startsWith(link.href));

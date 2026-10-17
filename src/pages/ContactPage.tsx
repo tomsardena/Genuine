@@ -201,11 +201,11 @@ export const ContactPage: React.FC = () => {
                         placeholder="e.g. John Miller"
                         value={name}
                         onChange={(e) => setName(e.target.value)}
-                        className="w-full px-3 py-2 text-xs sm:text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500"
+                        className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 min-h-[44px]"
                       />
                     </div>
                     <div>
-                      <label htmlFor="contact-email" className="block text-xs font-semibold text-stone-700 mb-1">
+                      <label htmlFor="contact-email" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
                         Email Address *
                       </label>
                       <input
@@ -215,14 +215,14 @@ export const ContactPage: React.FC = () => {
                         placeholder="e.g. john@example.com"
                         value={email}
                         onChange={(e) => setEmail(e.target.value)}
-                        className="w-full px-3 py-2 text-xs sm:text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500"
+                        className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 min-h-[44px]"
                       />
                     </div>
                   </div>
 
                   <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                     <div>
-                      <label htmlFor="contact-phone" className="block text-xs font-semibold text-stone-700 mb-1">
+                      <label htmlFor="contact-phone" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
                         Phone / WhatsApp Number
                       </label>
                       <input
@@ -231,18 +231,18 @@ export const ContactPage: React.FC = () => {
                         placeholder="e.g. +1 555 123 4567"
                         value={phone}
                         onChange={(e) => setPhone(e.target.value)}
-                        className="w-full px-3 py-2 text-xs sm:text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500"
+                        className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 min-h-[44px]"
                       />
                     </div>
                     <div>
-                      <label htmlFor="contact-travelers" className="block text-xs font-semibold text-stone-700 mb-1">
+                      <label htmlFor="contact-travelers" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
                         Number of Travelers
                       </label>
                       <select
                         id="contact-travelers"
                         value={travelers}
                         onChange={(e) => setTravelers(e.target.value)}
-                        className="w-full px-3 py-2 text-xs sm:text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 bg-white"
+                        className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 min-h-[44px]"
                       >
                         <option value="1 Solo Traveler">1 Solo Traveler</option>
                         <option value="2 Travelers (Couple)">2 Travelers (Couple)</option>
@@ -254,7 +254,7 @@ export const ContactPage: React.FC = () => {
                   </div>
 
                   <div>
-                    <label htmlFor="contact-date" className="block text-xs font-semibold text-stone-700 mb-1">
+                    <label htmlFor="contact-date" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
                       Estimated Travel Date / Arrival in Egypt
                     </label>
                     <input
@@ -262,12 +262,12 @@ export const ContactPage: React.FC = () => {
                       type="date"
                       value={travelDate}
                       onChange={(e) => setTravelDate(e.target.value)}
-                      className="w-full px-3 py-2 text-xs sm:text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500"
+                      className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 min-h-[44px]"
                     />
                   </div>
 
                   <div>
-                    <label htmlFor="contact-message" className="block text-xs font-semibold text-stone-700 mb-1">
+                    <label htmlFor="contact-message" className="block text-xs font-semibold text-stone-700 dark:text-stone-300 mb-1">
                       Your Travel Plans, Destinations or Questions *
                     </label>
                     <textarea
@@ -277,25 +277,25 @@ export const ContactPage: React.FC = () => {
                       placeholder="Please let us know which tours, Nile cruises, or transfers you would like to arrange, your hotel in Luxor or Cairo, or any custom wishes..."
                       value={message}
                       onChange={(e) => setMessage(e.target.value)}
-                      className="w-full px-3 py-2 text-xs sm:text-sm border border-stone-300 rounded-md focus:outline-none focus:ring-1 focus:ring-amber-500 resize-none"
+                      className="w-full px-3.5 py-2.5 text-base sm:text-sm border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 bg-white dark:bg-stone-800 text-stone-900 dark:text-stone-100 resize-none min-h-[100px]"
                     />
                   </div>
 
                   <div className="pt-2 flex flex-col sm:flex-row gap-3">
                     <button
                       type="submit"
-                      className="flex-1 py-3 px-5 bg-stone-900 hover:bg-stone-800 text-white font-medium text-xs rounded-lg transition-colors flex items-center justify-center gap-2 shadow-xs"
+                      className="flex-1 py-3 px-5 min-h-[44px] bg-stone-900 hover:bg-stone-800 dark:bg-amber-600 dark:hover:bg-amber-500 text-white font-medium text-xs sm:text-sm rounded-xl transition-colors flex items-center justify-center gap-2 shadow-xs cursor-pointer active:scale-[0.98]"
                     >
-                      <Send className="w-3.5 h-3.5" />
+                      <Send className="w-4 h-4" />
                       <span>Send via Email Application</span>
                     </button>
 
                     <button
                       type="button"
                       onClick={handleWhatsAppDirect}
-                      className="py-3 px-5 bg-[#25D366] hover:bg-[#20bd5a] text-white font-medium text-xs rounded-lg transition-colors flex items-center justify-center gap-2"
+                      className="py-3 px-5 min-h-[44px] bg-[#25D366] hover:bg-[#20bd5a] text-white font-medium text-xs sm:text-sm rounded-xl transition-colors flex items-center justify-center gap-2 cursor-pointer active:scale-[0.98]"
                     >
-                      <MessageCircle className="w-3.5 h-3.5 fill-current" />
+                      <MessageCircle className="w-4 h-4 fill-current" />
                       <span>Send via WhatsApp</span>
                     </button>
                   </div>

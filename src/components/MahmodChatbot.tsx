@@ -353,9 +353,9 @@ export const MahmodChatbot: React.FC = () => {
         <button
           onClick={() => setIsOpen(true)}
           aria-label="Open chat with Mahmod, Egyptian Tour Advisor"
-          className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 z-40 flex items-center gap-2.5 sm:gap-3 p-2.5 sm:px-4 sm:py-3 bg-stone-900 dark:bg-amber-600 text-white rounded-full shadow-2xl hover:bg-stone-800 dark:hover:bg-amber-500 transition-all transform hover:scale-105 group border border-amber-400/40"
+          className="fixed bottom-[calc(5.2rem+env(safe-area-inset-bottom,0px))] sm:bottom-6 right-3 sm:right-6 z-40 flex items-center gap-2 sm:gap-3 p-2 sm:px-4 sm:py-3 bg-stone-900 dark:bg-amber-600 text-white rounded-full shadow-2xl hover:bg-stone-800 dark:hover:bg-amber-500 transition-all transform hover:scale-105 group border border-amber-400/40 min-h-[44px] cursor-pointer"
         >
-          <div className="relative">
+          <div className="relative shrink-0">
             <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-full bg-gradient-to-tr from-amber-500 to-amber-300 flex items-center justify-center text-stone-950 font-bold font-serif text-sm sm:text-base shadow-sm">
               M
             </div>
@@ -378,7 +378,7 @@ export const MahmodChatbot: React.FC = () => {
             <span className="block text-[11px] text-amber-300 font-medium">Licensed Egyptologist</span>
           </div>
 
-          <Sparkles className="w-4 h-4 text-amber-400 group-hover:rotate-12 transition-transform" />
+          <Sparkles className="w-4 h-4 text-amber-400 group-hover:rotate-12 transition-transform shrink-0" />
         </button>
       )}
 
@@ -387,10 +387,10 @@ export const MahmodChatbot: React.FC = () => {
         <div
           role="dialog"
           aria-label="Mahmod - Egyptian Tour Advisor Concierge"
-          className={`fixed z-50 bg-white dark:bg-stone-900 border border-stone-300 dark:border-stone-800 shadow-2xl flex flex-col overflow-hidden transition-all duration-300 bottom-2 left-2 right-2 sm:left-auto sm:right-6 sm:bottom-6 w-auto ${
+          className={`fixed z-50 bg-white dark:bg-stone-900 border border-stone-300 dark:border-stone-800 shadow-2xl flex flex-col overflow-hidden transition-all duration-300 bottom-[max(0.5rem,env(safe-area-inset-bottom,0px))] sm:bottom-6 left-2 right-2 sm:left-auto sm:right-6 w-auto ${
             isExpanded
-              ? 'sm:w-[680px] max-h-[94vh] h-[92vh] rounded-2xl'
-              : 'sm:w-[440px] max-h-[640px] h-[84vh] rounded-2xl'
+              ? 'sm:w-[680px] max-h-[96dvh] h-[92dvh] rounded-2xl'
+              : 'sm:w-[440px] max-h-[88dvh] sm:max-h-[640px] h-[84dvh] sm:h-[600px] rounded-2xl'
           }`}
         >
           {/* Header */}
@@ -706,13 +706,13 @@ export const MahmodChatbot: React.FC = () => {
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 disabled={loading}
-                className="flex-1 px-4 py-2.5 text-xs sm:text-sm bg-stone-50 dark:bg-stone-800 border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 transition-colors"
+                className="flex-1 px-4 py-2.5 text-base sm:text-sm bg-stone-50 dark:bg-stone-800 border border-stone-300 dark:border-stone-700 rounded-xl focus:outline-none focus:ring-1 focus:ring-amber-500 text-stone-900 dark:text-stone-100 placeholder:text-stone-400 dark:placeholder:text-stone-500 transition-colors min-h-[44px]"
               />
               <button
                 type="submit"
                 disabled={!input.trim() || loading}
                 aria-label="Send message to Mahmod"
-                className="p-2.5 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 disabled:opacity-40 text-white rounded-xl transition-all shadow-xs shrink-0"
+                className="p-2.5 min-w-[44px] min-h-[44px] flex items-center justify-center bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 disabled:opacity-40 text-white rounded-xl transition-all shadow-xs shrink-0 cursor-pointer active:scale-95"
               >
                 <Send className="w-4 h-4" />
               </button>

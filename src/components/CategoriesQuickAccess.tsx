@@ -403,10 +403,22 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
         </div>
 
         {/* High-Impact 5-Card Main Grid with Active Highlight & Smooth Interactive Motion */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-5">
-          {CATEGORIES_DATA.map((cat) => {
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-6 lg:grid-cols-5 gap-4 sm:gap-5">
+          {CATEGORIES_DATA.map((cat, idx) => {
             const Icon = cat.icon;
             const isActive = activeCategoryId === cat.id;
+
+            // Responsive span calculation:
+            // Mobile (<640px): 1 col (100%)
+            // Small tablet (640-768px): 2 cols -> card 5 spans 2 cols
+            // Medium tablet (768-1024px): 6 cols -> first 3 cards span 2 (1/3), last 2 cards span 3 (1/2)
+            // Desktop (1024px+): 5 cols -> all span 1 (1/5)
+            const responsiveSpan = 
+              idx === 4 
+                ? 'sm:col-span-2 md:col-span-3 lg:col-span-1' 
+                : idx === 3 
+                ? 'sm:col-span-1 md:col-span-3 lg:col-span-1'
+                : 'sm:col-span-1 md:col-span-2 lg:col-span-1';
 
             return (
               <div
@@ -422,10 +434,10 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
                     handleCategoryClick(cat.id);
                   }
                 }}
-                className={`group relative rounded-2xl overflow-hidden bg-stone-900 border transition-all duration-300 shadow-sm flex flex-col justify-between min-h-[380px] h-full cursor-pointer focus:outline-none focus:ring-2 focus:ring-amber-500 text-left select-none ${
+                className={`group relative rounded-2xl overflow-hidden bg-stone-900 border transition-all duration-300 shadow-sm flex flex-col justify-between min-h-[300px] sm:min-h-[340px] lg:min-h-[370px] h-full cursor-pointer focus:outline-none focus:ring-2 focus:ring-amber-500 text-left select-none ${responsiveSpan} ${
                   isActive
-                    ? 'border-amber-500 ring-4 ring-amber-500/40 shadow-2xl -translate-y-2'
-                    : 'border-stone-200 dark:border-stone-800 hover:border-amber-500/80 dark:hover:border-amber-400/80 hover:shadow-xl hover:-translate-y-1.5'
+                    ? 'border-amber-500 ring-4 ring-amber-500/40 shadow-2xl -translate-y-1.5'
+                    : 'border-stone-200 dark:border-stone-800 hover:border-amber-500/80 dark:hover:border-amber-400/80 hover:shadow-xl hover:-translate-y-1'
                 }`}
               >
                 {/* Background Photography with Zoom Effect */}
@@ -504,7 +516,7 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
                     </span>
 
                     <span
-                      className={`px-3 py-1.5 rounded-lg font-bold text-xs inline-flex items-center gap-1.5 transition-all shadow-xs ${
+                      className={`px-3 py-1.5 rounded-lg font-bold text-xs inline-flex items-center gap-1.5 transition-all shadow-xs min-h-[36px] ${
                         isActive
                           ? 'bg-amber-400 text-stone-950 ring-2 ring-amber-300'
                           : 'bg-amber-500 text-stone-950 group-hover:bg-amber-400'
@@ -536,28 +548,28 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
             id={`subcategories-panel-${activeCategory.id}`}
             className="scroll-mt-20 pt-2"
           >
-            <div className="relative rounded-2xl bg-amber-950/10 dark:bg-stone-900/95 border-2 border-amber-500/70 p-5 sm:p-7 space-y-6 shadow-2xl animate-subcategory-slide-down">
+            <div className="relative rounded-2xl bg-amber-950/10 dark:bg-stone-900/95 border-2 border-amber-500/70 p-4 sm:p-7 space-y-5 sm:space-y-6 shadow-2xl animate-subcategory-slide-down">
               {/* Drawer Header with Title, Actions & Close Button */}
-              <div className="flex items-start justify-between gap-4 pb-4 border-b border-stone-200/80 dark:border-stone-800">
+              <div className="flex flex-col sm:flex-row sm:items-start justify-between gap-3 sm:gap-4 pb-4 border-b border-stone-200/80 dark:border-stone-800">
                 <div className="space-y-1.5">
                   <div className="inline-flex items-center gap-2 px-2.5 py-0.5 rounded-md bg-amber-500 text-stone-950 text-xs font-bold tracking-wide uppercase">
                     <activeCategory.icon className="w-3.5 h-3.5" />
                     <span>{activeCategory.subcategoriesTitle}</span>
                   </div>
 
-                  <h3 className="font-serif text-xl sm:text-2xl font-bold text-stone-900 dark:text-stone-100 flex items-center gap-2">
+                  <h3 className="font-serif text-lg sm:text-2xl font-bold text-stone-900 dark:text-stone-100 flex items-center gap-2">
                     <span>{activeCategory.title} Sub-Services & Destinations</span>
                   </h3>
 
-                  <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 max-w-3xl">
+                  <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 max-w-3xl leading-relaxed">
                     {activeCategory.subcategoriesSubtitle}
                   </p>
                 </div>
 
-                <div className="flex items-center gap-2 shrink-0">
+                <div className="flex items-center gap-2 self-end sm:self-auto shrink-0">
                   <Link
                     to={activeCategory.href}
-                    className="hidden sm:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-800 dark:text-stone-200 hover:bg-stone-200 dark:hover:bg-stone-700 text-xs font-semibold transition-colors border border-stone-300/60 dark:border-stone-700"
+                    className="inline-flex items-center gap-1.5 px-3 py-2 rounded-lg bg-stone-100 dark:bg-stone-800 text-stone-800 dark:text-stone-200 hover:bg-stone-200 dark:hover:bg-stone-700 text-xs font-semibold transition-colors border border-stone-300/60 dark:border-stone-700 min-h-[44px] sm:min-h-[38px]"
                   >
                     <span>Browse All</span>
                     <ExternalLink className="w-3.5 h-3.5" />
@@ -565,7 +577,7 @@ export const CategoriesQuickAccess: React.FC<CategoriesQuickAccessProps> = ({
 
                   <button
                     onClick={handleCloseSubcategories}
-                    className="p-2 rounded-lg bg-stone-200 dark:bg-stone-800 text-stone-700 dark:text-stone-300 hover:bg-stone-300 dark:hover:bg-stone-700 transition-colors"
+                    className="p-2.5 rounded-lg bg-stone-200 dark:bg-stone-800 text-stone-700 dark:text-stone-300 hover:bg-stone-300 dark:hover:bg-stone-700 transition-colors min-w-[44px] min-h-[44px] flex items-center justify-center cursor-pointer"
                     title="Close subcategories"
                     aria-label="Close subcategories view"
                   >

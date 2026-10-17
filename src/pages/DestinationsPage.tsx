@@ -49,11 +49,11 @@ export const DestinationsPage: React.FC = () => {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 sm:gap-6 lg:gap-8">
             {DESTINATIONS_DATA.map((dest) => (
               <div
                 key={dest.id}
-                className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-lg overflow-hidden flex flex-col justify-between group hover:shadow-md transition-shadow"
+                className="bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl overflow-hidden flex flex-col justify-between group hover:shadow-md transition-shadow"
               >
                 <div>
                   <div className="relative aspect-[16/10] overflow-hidden bg-stone-100 dark:bg-stone-800">
@@ -68,8 +68,8 @@ export const DestinationsPage: React.FC = () => {
                     </div>
                   </div>
 
-                  <div className="p-6 space-y-3">
-                    <h2 className="font-serif text-xl font-bold text-stone-900 dark:text-stone-100 group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
+                  <div className="p-4 sm:p-6 space-y-3">
+                    <h2 className="font-serif text-lg sm:text-xl font-bold text-stone-900 dark:text-stone-100 group-hover:text-amber-800 dark:group-hover:text-amber-400 transition-colors">
                       <Link to={`/destinations/${dest.slug}`}>{dest.name}</Link>
                     </h2>
                     <p className="text-xs text-stone-600 dark:text-stone-300 leading-relaxed line-clamp-3">

@@ -237,7 +237,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
         jsonLd={tourJsonLd}
       />
 
-      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-6 sm:py-10 pb-24 lg:pb-10 text-stone-800 dark:text-stone-100 transition-colors">
+      <div className="bg-[#FAF8F5] dark:bg-[#121110] min-h-screen py-6 sm:py-10 pb-[calc(6.5rem+env(safe-area-inset-bottom,0px))] lg:pb-12 text-stone-800 dark:text-stone-100 transition-colors">
         <div className="max-w-7xl mx-auto px-4 sm:px-8 space-y-8">
           {/* Breadcrumbs */}
           <Breadcrumbs showBackButton={true} />
@@ -398,8 +398,65 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                     </span>
                   </div>
 
-                  <div className="overflow-hidden rounded-xl border border-stone-200 dark:border-stone-800 bg-white dark:bg-stone-900 shadow-xs">
-                    <table className="w-full text-left text-xs sm:text-sm">
+                  {/* Mobile Vehicle Cards (< sm) */}
+                  <div className="block sm:hidden space-y-2.5">
+                    {tour.vehicleOptions.map((v, idx) => {
+                      const isSelected = selectedVehicle.includes(v.vehicleType);
+                      return (
+                        <div
+                          key={idx}
+                          className={`p-3.5 rounded-xl border transition-all ${
+                            isSelected
+                              ? 'bg-amber-50/90 dark:bg-amber-950/40 border-amber-500 ring-2 ring-amber-500/30'
+                              : 'bg-white dark:bg-stone-900 border-stone-200 dark:border-stone-800'
+                          }`}
+                        >
+                          <div className="flex items-start justify-between gap-2">
+                            <div className="space-y-1">
+                              <div className="flex items-center gap-2">
+                                <Car className="w-4 h-4 text-amber-700 dark:text-amber-500 shrink-0" />
+                                <span className="font-semibold text-sm text-stone-900 dark:text-stone-100">{v.vehicleType}</span>
+                                {v.isDefault && (
+                                  <span className="text-[10px] px-2 py-0.5 rounded-xs bg-emerald-100 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 font-bold uppercase tracking-wider">
+                                    Standard
+                                  </span>
+                                )}
+                              </div>
+                              <span className="inline-flex items-center gap-1.5 text-xs text-stone-500 dark:text-stone-400">
+                                <Users className="w-3.5 h-3.5 text-stone-400" />
+                                <span>{v.capacity} max</span>
+                              </span>
+                            </div>
+
+                            <div className="text-right">
+                              <span className="font-serif font-bold text-amber-900 dark:text-amber-400 text-lg block leading-none">
+                                ${v.price} <span className="text-[11px] font-sans text-stone-500 dark:text-stone-400 font-normal">USD</span>
+                              </span>
+                              <span className="text-[10px] text-stone-400 block mt-0.5">one-way</span>
+                            </div>
+                          </div>
+
+                          <div className="pt-3 mt-3 border-t border-stone-100 dark:border-stone-800/80 flex items-center justify-between gap-2">
+                            <span className="text-[11px] text-stone-500 dark:text-stone-400">Private vehicle fare</span>
+                            <button
+                              type="button"
+                              onClick={() => {
+                                setSelectedVehicle(`${v.vehicleType} (${v.capacity}) - $${v.price} USD`);
+                                setInquiryModalOpen(true);
+                              }}
+                              className="px-4 py-2 min-h-[44px] rounded-lg text-xs font-semibold bg-stone-900 text-white dark:bg-amber-600 dark:hover:bg-amber-500 hover:bg-stone-800 transition-colors shadow-2xs flex items-center justify-center cursor-pointer"
+                            >
+                              Inquire Vehicle
+                            </button>
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+
+                  {/* Tablet & Desktop Vehicle Table (>= sm) */}
+                  <div className="hidden sm:block overflow-x-auto rounded-xl border border-stone-200 dark:border-stone-800 bg-white dark:bg-stone-900 shadow-xs">
+                    <table className="w-full text-left text-xs sm:text-sm min-w-[500px]">
                       <thead className="bg-stone-100/80 dark:bg-stone-800/80 text-[11px] font-semibold text-stone-600 dark:text-stone-300 uppercase tracking-wider border-b border-stone-200 dark:border-stone-700">
                         <tr>
                           <th scope="col" className="px-4 py-3 sm:px-6">Vehicle Class</th>
@@ -443,7 +500,7 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                                     setSelectedVehicle(`${v.vehicleType} (${v.capacity}) - $${v.price} USD`);
                                     setInquiryModalOpen(true);
                                   }}
-                                  className="px-3 py-1.5 rounded-lg text-xs font-semibold bg-stone-900 text-white dark:bg-amber-600 dark:hover:bg-amber-500 hover:bg-stone-800 transition-colors shadow-2xs"
+                                  className="px-3.5 py-1.5 min-h-[38px] rounded-lg text-xs font-semibold bg-stone-900 text-white dark:bg-amber-600 dark:hover:bg-amber-500 hover:bg-stone-800 transition-colors shadow-2xs"
                                 >
                                   Inquire Vehicle
                                 </button>
@@ -904,14 +961,14 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
       {(() => {
         const pricing = getTourPriceDisplay(tour);
         return (
-          <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 dark:bg-stone-900/95 backdrop-blur-md border-t border-stone-200 dark:border-stone-800 px-4 py-3 flex items-center justify-between gap-3 shadow-2xl">
-            <div className="min-w-0">
+          <div className="lg:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 dark:bg-stone-900/95 backdrop-blur-md border-t border-stone-200 dark:border-stone-800 px-3.5 sm:px-5 pt-2.5 pb-[max(0.75rem,env(safe-area-inset-bottom,0px))] flex items-center justify-between gap-3 shadow-2xl">
+            <div className="min-w-0 flex-1">
               <span className="block text-[10px] text-stone-400 dark:text-stone-500 uppercase tracking-wider">Pricing</span>
               {pricing.hasPrice ? (
                 <div className="flex items-baseline gap-1 truncate">
                   <span className="text-[11px] text-stone-500 dark:text-stone-400">From</span>
                   <span className="text-sm font-bold text-amber-900 dark:text-amber-400 font-serif">{pricing.formattedAmount}</span>
-                  <span className="text-[10px] text-stone-500 dark:text-stone-400">{pricing.unit}</span>
+                  <span className="text-[10px] text-stone-500 dark:text-stone-400 truncate">{pricing.unit}</span>
                 </div>
               ) : (
                 <span className="text-xs sm:text-sm font-serif font-bold text-stone-900 dark:text-stone-100 truncate block">
@@ -929,16 +986,16 @@ export const TourDetailPage: React.FC<TourDetailPageProps> = ({ slug }) => {
                 )}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="p-2.5 sm:px-3 bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-semibold flex items-center gap-1.5 shadow-xs"
+                className="px-3 py-2 min-h-[44px] min-w-[44px] bg-emerald-600 hover:bg-emerald-700 text-white rounded-xl text-xs font-semibold flex items-center justify-center gap-1.5 shadow-xs cursor-pointer active:scale-[0.98]"
                 aria-label="Inquire on WhatsApp"
               >
-                <MessageCircle className="w-4 h-4 fill-current" />
-                <span className="hidden sm:inline">WhatsApp</span>
+                <MessageCircle className="w-4 h-4 fill-current shrink-0" />
+                <span className="hidden xs:inline sm:inline">WhatsApp</span>
               </a>
 
               <button
                 onClick={() => setInquiryModalOpen(true)}
-                className="px-4 py-2.5 bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white rounded-xl text-xs font-semibold shadow-xs"
+                className="px-4 py-2 min-h-[44px] bg-stone-900 dark:bg-amber-600 hover:bg-stone-800 dark:hover:bg-amber-500 text-white rounded-xl text-xs font-semibold shadow-xs flex items-center justify-center cursor-pointer active:scale-[0.98]"
               >
                 Inquire Now
               </button>
