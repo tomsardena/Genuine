@@ -11,11 +11,11 @@ export const Footer: React.FC = () => {
         {/* Brand & Mission Row */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 pb-10 sm:pb-12 border-b border-stone-800">
           <div className="lg:col-span-4 space-y-4">
-            <Link to="/" className="inline-block group" aria-label="Genuine Egypte Home">
+            <Link to="/" className="block w-full text-center group" aria-label="Genuine Egypte Home">
               <img
                 src="/assets/logo-final.svg"
                 alt="Genuine Egypte Emblem"
-                className="h-14 sm:h-18 lg:h-20 w-auto object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
+                className="mx-auto block h-24 sm:h-28 lg:h-32 w-auto object-contain bg-transparent transition-transform duration-300 group-hover:scale-105"
               />
             </Link>
 
